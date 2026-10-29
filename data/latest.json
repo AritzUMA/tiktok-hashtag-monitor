@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T02:23:38+01:00",
+  "updated_at": "2026-10-29T02:24:13+01:00",
   "window": {
     "hours": 24,
-    "start": "2026-10-28T02:23:38+01:00",
-    "end": "2026-10-29T02:23:38+01:00"
+    "start": "2026-10-28T02:24:13+01:00",
+    "end": "2026-10-29T02:24:13+01:00"
   },
   "baseline": true,
   "hashtag_baseline": true,
@@ -12,10 +12,10 @@
     "completed_at": "2026-10-29T01:08:40.556960+00:00",
     "source": "export_round_dir",
     "sentinel_hashtag": "blocusitalia",
-    "hashtags_distinct": 1076,
-    "videos_window": 680,
+    "hashtags_distinct": 1082,
+    "videos_window": 684,
     "new_videos": 0,
-    "total_videos_db": 4942
+    "total_videos_db": 4949
   },
   "hashtags": [
     {
@@ -23,14 +23,14 @@
       "publications": 115,
       "delta": 0,
       "users": 84,
-      "plays": 765141
+      "plays": 791139
     },
     {
       "hashtag": "fyp",
       "publications": 88,
       "delta": 0,
       "users": 85,
-      "plays": 1091757
+      "plays": 1091777
     },
     {
       "hashtag": "genz",
@@ -48,17 +48,17 @@
     },
     {
       "hashtag": "pourtoi",
-      "publications": 60,
+      "publications": 61,
       "delta": 0,
-      "users": 37,
-      "plays": 1211460
+      "users": 38,
+      "plays": 1232165
     },
     {
       "hashtag": "manifestation",
       "publications": 53,
       "delta": 0,
       "users": 43,
-      "plays": 919709
+      "plays": 952022
     },
     {
       "hashtag": "protest",
@@ -72,35 +72,35 @@
       "publications": 46,
       "delta": 0,
       "users": 42,
-      "plays": 954249
+      "plays": 955698
     },
     {
       "hashtag": "viral",
       "publications": 35,
       "delta": 0,
       "users": 30,
-      "plays": 1677486
+      "plays": 1683988
     },
     {
       "hashtag": "france",
-      "publications": 34,
+      "publications": 35,
       "delta": 0,
-      "users": 33,
-      "plays": 482171
+      "users": 34,
+      "plays": 498671
     },
     {
       "hashtag": "31octobre",
       "publications": 34,
       "delta": 0,
       "users": 23,
-      "plays": 414720
+      "plays": 418920
     },
     {
       "hashtag": "lycee",
       "publications": 29,
       "delta": 0,
       "users": 26,
-      "plays": 163489
+      "plays": 163502
     },
     {
       "hashtag": "17octobre",
@@ -132,17 +132,17 @@
     },
     {
       "hashtag": "politique",
-      "publications": 17,
+      "publications": 18,
       "delta": 0,
-      "users": 14,
-      "plays": 657817
+      "users": 15,
+      "plays": 674317
     },
     {
       "hashtag": "onbloquelextremedroite",
       "publications": 17,
       "delta": 0,
       "users": 17,
-      "plays": 173797
+      "plays": 175097
     },
     {
       "hashtag": "deutschland",
@@ -198,7 +198,7 @@
       "publications": 11,
       "delta": 0,
       "users": 11,
-      "plays": 341085
+      "plays": 353785
     },
     {
       "hashtag": "mrpattlo",
@@ -212,7 +212,7 @@
       "publications": 10,
       "delta": 0,
       "users": 10,
-      "plays": 173508
+      "plays": 175808
     },
     {
       "hashtag": "genzprotest",
@@ -1367,14 +1367,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:31:13+01:00",
         "last_published_at": "2026-10-28T20:31:13+01:00",
-        "primary_hashtag": "pourtoi",
+        "primary_hashtag": "workvlogs",
         "hashtag_source": "description",
         "hashtags": [
-          "pourtoi",
-          "france",
+          "workvlogs",
           "politique",
           "blocus",
-          "workvlogs"
+          "france",
+          "pourtoi"
         ],
         "seed_hashtags": [
           "blocuslycée"
@@ -1413,9 +1413,9 @@
         "hashtag_source": "description",
         "hashtags": [
           "genzregeltdas",
-          "ffm",
-          "internationalejugend",
           "jugend",
+          "internationalejugend",
+          "ffm",
           "frankfurt"
         ],
         "seed_hashtags": [
@@ -1455,8 +1455,8 @@
         "hashtag_source": "description",
         "hashtags": [
           "fyp",
-          "zimtiktok",
-          "zimuk"
+          "zimuk",
+          "zimtiktok"
         ],
         "seed_hashtags": [
           "31october"
@@ -1549,13 +1549,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T17:53:29+01:00",
         "last_published_at": "2026-10-28T17:53:29+01:00",
-        "primary_hashtag": "miseaupoing",
+        "primary_hashtag": "racism",
         "hashtag_source": "description",
         "hashtags": [
-          "miseaupoing",
           "racism",
           "onbloquelextremedroite",
-          "antifascisme"
+          "antifascisme",
+          "miseaupoing"
         ],
         "seed_hashtags": [
           "blocus"
@@ -1619,17 +1619,17 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T12:46:54+01:00",
         "last_published_at": "2026-10-28T12:46:54+01:00",
-        "primary_hashtag": "hamburg",
+        "primary_hashtag": "protest",
         "hashtag_source": "description",
         "hashtags": [
-          "hamburg",
           "protest",
+          "genzregelt",
           "frankreich",
-          "genzregelt"
+          "hamburg"
         ],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -1661,13 +1661,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T11:44:51+01:00",
         "last_published_at": "2026-10-28T11:44:51+01:00",
-        "primary_hashtag": "demonstrasi",
+        "primary_hashtag": "koranjakarta",
         "hashtag_source": "description",
         "hashtags": [
-          "demonstrasi",
           "koranjakarta",
-          "bundaranhi",
-          "genz"
+          "genz",
+          "demonstrasi",
+          "bundaranhi"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -1727,6 +1727,48 @@
         ]
       },
       {
+        "url": "https://foutouart.fr",
+        "videos": 1,
+        "sources": [
+          "ocr"
+        ],
+        "is_new": false,
+        "is_recent": true,
+        "first_seen": "2026-10-29T01:09:42+01:00",
+        "first_published_at": "2026-10-28T10:07:53+01:00",
+        "last_published_at": "2026-10-28T10:07:53+01:00",
+        "primary_hashtag": "actualité",
+        "hashtag_source": "description",
+        "hashtags": [
+          "actualité",
+          "lyon",
+          "manif",
+          "macron",
+          "24octobre"
+        ],
+        "seed_hashtags": [
+          "mobilisationlyceenne"
+        ],
+        "source_videos": [
+          {
+            "video_id": "7701642871702703393",
+            "username": "foutouarteditions",
+            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
+            "published_at": "2026-10-28T10:07:53+01:00",
+            "hashtags": [
+              "24octobre",
+              "actualité",
+              "lyon",
+              "macron",
+              "manif"
+            ],
+            "seed_hashtags": [
+              "mobilisationlyceenne"
+            ]
+          }
+        ]
+      },
+      {
         "url": "https://foutouart.frfoutou'art tvabonnez-vousà notre chaîne youtube24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.COuTOU=",
         "videos": 1,
         "sources": [
@@ -1737,14 +1779,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1779,56 +1821,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
-        ],
-        "seed_hashtags": [
-          "mobilisationlyceenne"
-        ],
-        "source_videos": [
-          {
-            "video_id": "7701642871702703393",
-            "username": "foutouarteditions",
-            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
-            "published_at": "2026-10-28T10:07:53+01:00",
-            "hashtags": [
-              "24octobre",
-              "actualité",
-              "lyon",
-              "macron",
-              "manif"
-            ],
-            "seed_hashtags": [
-              "mobilisationlyceenne"
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://foutouart.fr",
-        "videos": 1,
-        "sources": [
-          "ocr"
-        ],
-        "is_new": false,
-        "is_recent": true,
-        "first_seen": "2026-10-29T01:09:42+01:00",
-        "first_published_at": "2026-10-28T10:07:53+01:00",
-        "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
-        "hashtag_source": "description",
-        "hashtags": [
-          "24octobre",
-          "actualité",
           "manif",
-          "lyon",
-          "macron"
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1863,14 +1863,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1907,14 +1907,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:31:13+01:00",
         "last_published_at": "2026-10-28T20:31:13+01:00",
-        "primary_hashtag": "pourtoi",
+        "primary_hashtag": "workvlogs",
         "hashtag_source": "description",
         "hashtags": [
-          "pourtoi",
-          "france",
+          "workvlogs",
           "politique",
           "blocus",
-          "workvlogs"
+          "france",
+          "pourtoi"
         ],
         "seed_hashtags": [
           "blocuslycée"
@@ -1953,9 +1953,9 @@
         "hashtag_source": "description",
         "hashtags": [
           "genzregeltdas",
-          "ffm",
-          "internationalejugend",
           "jugend",
+          "internationalejugend",
+          "ffm",
           "frankfurt"
         ],
         "seed_hashtags": [
@@ -1995,8 +1995,8 @@
         "hashtag_source": "description",
         "hashtags": [
           "fyp",
-          "zimtiktok",
-          "zimuk"
+          "zimuk",
+          "zimtiktok"
         ],
         "seed_hashtags": [
           "31october"
@@ -2089,13 +2089,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T17:53:29+01:00",
         "last_published_at": "2026-10-28T17:53:29+01:00",
-        "primary_hashtag": "miseaupoing",
+        "primary_hashtag": "racism",
         "hashtag_source": "description",
         "hashtags": [
-          "miseaupoing",
           "racism",
           "onbloquelextremedroite",
-          "antifascisme"
+          "antifascisme",
+          "miseaupoing"
         ],
         "seed_hashtags": [
           "blocus"
@@ -2159,17 +2159,17 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T12:46:54+01:00",
         "last_published_at": "2026-10-28T12:46:54+01:00",
-        "primary_hashtag": "hamburg",
+        "primary_hashtag": "protest",
         "hashtag_source": "description",
         "hashtags": [
-          "hamburg",
           "protest",
+          "genzregelt",
           "frankreich",
-          "genzregelt"
+          "hamburg"
         ],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -2201,13 +2201,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T11:44:51+01:00",
         "last_published_at": "2026-10-28T11:44:51+01:00",
-        "primary_hashtag": "demonstrasi",
+        "primary_hashtag": "koranjakarta",
         "hashtag_source": "description",
         "hashtags": [
-          "demonstrasi",
           "koranjakarta",
-          "bundaranhi",
-          "genz"
+          "genz",
+          "demonstrasi",
+          "bundaranhi"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -2277,14 +2277,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -2319,14 +2319,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -2361,14 +2361,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -2403,14 +2403,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T10:07:53+01:00",
         "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "24octobre",
+        "primary_hashtag": "actualité",
         "hashtag_source": "description",
         "hashtags": [
-          "24octobre",
           "actualité",
-          "manif",
           "lyon",
-          "macron"
+          "manif",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -2445,14 +2445,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T02:08:34+01:00",
         "last_published_at": "2026-10-28T02:08:34+01:00",
-        "primary_hashtag": "halloweenmünchen",
+        "primary_hashtag": "munich",
         "hashtag_source": "description",
         "hashtags": [
-          "halloweenmünchen",
-          "halloween2026",
-          "filmcasinomünchen",
           "munich",
-          "halloween"
+          "halloweenmünchen",
+          "filmcasinomünchen",
+          "halloween",
+          "halloween2026"
         ],
         "seed_hashtags": [
           "31october"
@@ -2487,13 +2487,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T01:09:26+01:00",
         "last_published_at": "2026-10-28T01:09:26+01:00",
-        "primary_hashtag": "onbloquelextremedroite",
+        "primary_hashtag": "onbloquetout",
         "hashtag_source": "description",
         "hashtags": [
-          "onbloquelextremedroite",
-          "jesuisfou",
           "onbloquetout",
-          "belgium"
+          "onbloquelextremedroite",
+          "belgium",
+          "jesuisfou"
         ],
         "seed_hashtags": [
           "bloquonstout"
@@ -2527,17 +2527,17 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T21:26:37+01:00",
         "last_published_at": "2026-10-27T21:26:37+01:00",
-        "primary_hashtag": "protest",
+        "primary_hashtag": "karlsruhe",
         "hashtag_source": "description",
         "hashtags": [
-          "protest",
-          "genz",
           "karlsruhe",
-          "genzregelt"
+          "genz",
+          "genzregelt",
+          "protest"
         ],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -2569,17 +2569,17 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T21:26:37+01:00",
         "last_published_at": "2026-10-27T21:26:37+01:00",
-        "primary_hashtag": "protest",
+        "primary_hashtag": "karlsruhe",
         "hashtag_source": "description",
         "hashtags": [
-          "protest",
-          "genz",
           "karlsruhe",
-          "genzregelt"
+          "genz",
+          "genzregelt",
+          "protest"
         ],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -2611,17 +2611,17 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T21:26:37+01:00",
         "last_published_at": "2026-10-27T21:26:37+01:00",
-        "primary_hashtag": "protest",
+        "primary_hashtag": "karlsruhe",
         "hashtag_source": "description",
         "hashtags": [
-          "protest",
-          "genz",
           "karlsruhe",
-          "genzregelt"
+          "genz",
+          "genzregelt",
+          "protest"
         ],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -2683,12 +2683,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T17:06:13+01:00",
         "last_published_at": "2026-10-27T17:06:13+01:00",
-        "primary_hashtag": "manifestation",
+        "primary_hashtag": "sinformersurtiktok",
         "hashtag_source": "description",
         "hashtags": [
-          "manifestation",
           "sinformersurtiktok",
           "31octobre",
+          "manifestation",
           "frenchnightmare",
           "halloween"
         ],
@@ -2725,11 +2725,11 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T16:47:56+01:00",
         "last_published_at": "2026-10-27T16:47:56+01:00",
-        "primary_hashtag": "manifestation",
+        "primary_hashtag": "haloween",
         "hashtag_source": "description",
         "hashtags": [
-          "manifestation",
           "haloween",
+          "manifestation",
           "31octobre"
         ],
         "seed_hashtags": [
@@ -2765,12 +2765,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T16:35:16+01:00",
         "last_published_at": "2026-10-27T16:35:16+01:00",
-        "primary_hashtag": "france",
+        "primary_hashtag": "monde",
         "hashtag_source": "description",
         "hashtags": [
-          "france",
           "monde",
-          "pourtoii"
+          "pourtoii",
+          "france"
         ],
         "seed_hashtags": [
           "31octobre"
@@ -2803,12 +2803,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T16:17:41+01:00",
         "last_published_at": "2026-10-27T16:17:41+01:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "blocus",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "blocus"
+          "blocus",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -2839,10 +2839,10 @@
         "hashtag_source": "description",
         "hashtags": [
           "tv",
-          "carovita",
           "calabresi",
-          "proteste",
-          "governo"
+          "governo",
+          "carovita",
+          "proteste"
         ],
         "seed_hashtags": [
           "blocusitalia"
@@ -2877,13 +2877,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T10:22:07+01:00",
         "last_published_at": "2026-10-27T10:22:07+01:00",
-        "primary_hashtag": "fyp",
+        "primary_hashtag": "fyf",
         "hashtag_source": "description",
         "hashtags": [
+          "fyf",
           "fyp",
           "pourtoi",
-          "viral",
-          "fyf"
+          "viral"
         ],
         "seed_hashtags": [
           "bloquonstout"
@@ -2917,13 +2917,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-27T10:22:07+01:00",
         "last_published_at": "2026-10-27T10:22:07+01:00",
-        "primary_hashtag": "fyp",
+        "primary_hashtag": "fyf",
         "hashtag_source": "description",
         "hashtags": [
+          "fyf",
           "fyp",
           "pourtoi",
-          "viral",
-          "fyf"
+          "viral"
         ],
         "seed_hashtags": [
           "bloquonstout"
@@ -3031,14 +3031,14 @@
         "hashtag_source": "description",
         "hashtags": [
           "genzregelt",
-          "genzstehtauf",
           "genzregeltfrankfurt",
-          "genzdemo",
           "woregeltgenz",
-          "website",
+          "genzstehtauf",
+          "genzdemo",
+          "aktuellenachrichten",
           "frankreich",
-          "proteste",
-          "aktuellenachrichten"
+          "website",
+          "proteste"
         ],
         "seed_hashtags": [
           "genzregelt",
@@ -3091,18 +3091,18 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-25T19:52:37+01:00",
         "last_published_at": "2026-10-25T19:52:37+01:00",
-        "primary_hashtag": "genzregeltfrankfurt",
+        "primary_hashtag": "sendungmitdermaus",
         "hashtag_source": "description",
         "hashtags": [
+          "sendungmitdermaus",
           "genzregeltfrankfurt",
           "fy",
-          "sendungmitdermaus",
           "genzregelt",
           "homepagegenz"
         ],
         "seed_hashtags": [
-          "genzstehtauf",
-          "genzregelt"
+          "genzregelt",
+          "genzstehtauf"
         ],
         "source_videos": [
           {
@@ -3135,18 +3135,18 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-25T19:52:37+01:00",
         "last_published_at": "2026-10-25T19:52:37+01:00",
-        "primary_hashtag": "genzregeltfrankfurt",
+        "primary_hashtag": "sendungmitdermaus",
         "hashtag_source": "description",
         "hashtags": [
+          "sendungmitdermaus",
           "genzregeltfrankfurt",
           "fy",
-          "sendungmitdermaus",
           "genzregelt",
           "homepagegenz"
         ],
         "seed_hashtags": [
-          "genzstehtauf",
-          "genzregelt"
+          "genzregelt",
+          "genzstehtauf"
         ],
         "source_videos": [
           {
@@ -3179,14 +3179,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-25T17:18:53+01:00",
         "last_published_at": "2026-10-25T17:18:53+01:00",
-        "primary_hashtag": "fashion",
+        "primary_hashtag": "meme",
         "hashtag_source": "description",
         "hashtags": [
-          "fashion",
-          "demo",
-          "paris",
           "meme",
-          "balenciaga"
+          "fashion",
+          "balenciaga",
+          "demo",
+          "paris"
         ],
         "seed_hashtags": [
           "31october",
@@ -3223,13 +3223,13 @@
         "first_seen": "2026-10-29T01:59:45+01:00",
         "first_published_at": "2026-10-24T23:27:28+02:00",
         "last_published_at": "2026-10-24T23:27:28+02:00",
-        "primary_hashtag": "prüfungsvorbereitung",
+        "primary_hashtag": "deutschalsfremdsprache",
         "hashtag_source": "description",
         "hashtags": [
-          "prüfungsvorbereitung",
-          "learngerman",
           "deutschalsfremdsprache",
-          "germanlanguage"
+          "germanlanguage",
+          "prüfungsvorbereitung",
+          "learngerman"
         ],
         "seed_hashtags": [
           "genzstehtauf"
@@ -3299,14 +3299,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-22T16:58:53+02:00",
         "last_published_at": "2026-10-22T16:58:53+02:00",
-        "primary_hashtag": "fyp",
+        "primary_hashtag": "fy",
         "hashtag_source": "description",
         "hashtags": [
-          "fyp",
-          "voorjou",
           "fy",
+          "voorjou",
           "31oktober",
-          "foryoupage"
+          "foryoupage",
+          "fyp"
         ],
         "seed_hashtags": [
           "31october",
@@ -3345,12 +3345,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-21T02:40:04+02:00",
         "last_published_at": "2026-10-21T02:40:04+02:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -3377,12 +3377,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-21T02:40:04+02:00",
         "last_published_at": "2026-10-21T02:40:04+02:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -3409,12 +3409,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-21T02:40:04+02:00",
         "last_published_at": "2026-10-21T02:40:04+02:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -3441,12 +3441,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-21T02:40:04+02:00",
         "last_published_at": "2026-10-21T02:40:04+02:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -3473,12 +3473,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-21T02:40:04+02:00",
         "last_published_at": "2026-10-21T02:40:04+02:00",
-        "primary_hashtag": "genzprotest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "seed",
         "hashtags": [],
         "seed_hashtags": [
-          "genzprotest",
-          "genzregelt"
+          "genzregelt",
+          "genzprotest"
         ],
         "source_videos": [
           {
@@ -3505,14 +3505,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-19T02:14:23+02:00",
         "last_published_at": "2026-10-19T02:14:23+02:00",
-        "primary_hashtag": "fyp",
+        "primary_hashtag": "fürdich",
         "hashtag_source": "description",
         "hashtags": [
-          "fyp",
-          "viral",
           "fürdich",
-          "demonstration",
-          "deutschland"
+          "viral",
+          "fyp",
+          "deutschland",
+          "demonstration"
         ],
         "seed_hashtags": [
           "31oktober"
@@ -3547,14 +3547,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-09T10:34:34+02:00",
         "last_published_at": "2026-10-09T10:34:34+02:00",
-        "primary_hashtag": "blocusbx",
+        "primary_hashtag": "bruxelles",
         "hashtag_source": "description",
         "hashtags": [
-          "blocusbx",
           "bruxelles",
+          "blocusbx",
           "greve",
-          "blocusliege",
-          "blocus"
+          "blocus",
+          "blocusliege"
         ],
         "seed_hashtags": [
           "blocusbelgique"
@@ -3589,14 +3589,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-09T10:34:34+02:00",
         "last_published_at": "2026-10-09T10:34:34+02:00",
-        "primary_hashtag": "blocusbx",
+        "primary_hashtag": "bruxelles",
         "hashtag_source": "description",
         "hashtags": [
-          "blocusbx",
           "bruxelles",
+          "blocusbx",
           "greve",
-          "blocusliege",
-          "blocus"
+          "blocus",
+          "blocusliege"
         ],
         "seed_hashtags": [
           "blocusbelgique"
@@ -3669,14 +3669,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-09-27T20:00:47+02:00",
         "last_published_at": "2026-09-27T20:00:47+02:00",
-        "primary_hashtag": "event",
+        "primary_hashtag": "birmingham",
         "hashtag_source": "description",
         "hashtags": [
+          "birmingham",
+          "desi",
           "event",
           "harveynichols",
-          "mailbox",
-          "desi",
-          "birmingham"
+          "mailbox"
         ],
         "seed_hashtags": [
           "31october"
@@ -3711,14 +3711,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-09-25T22:41:39+02:00",
         "last_published_at": "2026-09-25T22:41:39+02:00",
-        "primary_hashtag": "fyp",
+        "primary_hashtag": "genz",
         "hashtag_source": "description",
         "hashtags": [
-          "fyp",
+          "genz",
           "memes",
           "legalteam",
           "ajhlawfirm",
-          "genz"
+          "fyp"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -3753,12 +3753,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-07-22T16:41:19+02:00",
         "last_published_at": "2026-07-22T16:41:19+02:00",
-        "primary_hashtag": "dettefrancaise",
+        "primary_hashtag": "politique",
         "hashtag_source": "description",
         "hashtags": [
-          "dettefrancaise",
-          "pourtoi",
           "politique",
+          "pourtoi",
+          "dettefrancaise",
           "dette"
         ],
         "seed_hashtags": [
@@ -3829,19 +3829,19 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2023-10-22T03:23:44+02:00",
         "last_published_at": "2023-10-22T03:23:44+02:00",
-        "primary_hashtag": "frasescommusica",
+        "primary_hashtag": "gangnamstyle",
         "hashtag_source": "description",
         "hashtags": [
-          "frasescommusica",
-          "trickortreats",
-          "halloween2023",
-          "lightdesign",
-          "halloweennotiktok",
-          "halloween",
-          "musica",
           "gangnamstyle",
+          "lightshow",
+          "musica",
+          "halloween2023",
+          "halloweenlightshow",
+          "31october",
+          "halloweennotiktok",
+          "diadasbruxas",
           "october",
-          "music"
+          "halloween"
         ],
         "seed_hashtags": [
           "31october"
@@ -3886,11 +3886,11 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2023-09-19T07:05:23+02:00",
         "last_published_at": "2023-09-19T07:05:23+02:00",
-        "primary_hashtag": "purge",
+        "primary_hashtag": "halloween",
         "hashtag_source": "description",
         "hashtags": [
-          "purge",
           "halloween",
+          "purge",
           "31octobre"
         ],
         "seed_hashtags": [

@@ -344,6 +344,539 @@ canvas {
 
 </style>
 
+
+<!-- ======================================================
+     COUNTRY DASHBOARD BOOTSTRAP
+     ====================================================== -->
+
+<style>
+
+.country-tabs {
+    margin: 7px 10px 8px 10px;
+    padding: 0;
+    border-bottom: 1px solid #777777;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.country-tabs a {
+    display: inline-block;
+    padding: 4px 9px 3px 9px;
+    margin: 0 2px -1px 0;
+    border: 1px solid #999999;
+    background: #e5e5e5;
+    color: #000066;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.country-tabs a:hover {
+    background: #f5f5f5;
+    color: #cc0000;
+}
+
+.country-tabs a.active {
+    background: #253858;
+    color: #ffffff;
+    border-color: #253858;
+}
+
+.country-tabs .country-count {
+    font-weight: normal;
+    font-size: 10px;
+    margin-left: 3px;
+}
+
+.country-view-note {
+    margin: 0 10px 7px 10px;
+    font-size: 10px;
+    color: #555555;
+}
+
+</style>
+
+
+<script>
+
+(() => {
+
+    const COUNTRY_VIEWS = [
+        ["ALL",   "GENERAL"],
+        ["FR",    "FRANCIA"],
+        ["DE",    "ALEMANIA"],
+        ["ES",    "ESPAÑA"],
+        ["IT",    "ITALIA"],
+        ["BE",    "BÉLGICA"],
+        ["OTHER", "OTROS"]
+    ];
+
+
+    const params =
+        new URLSearchParams(
+            window.location.search
+        );
+
+
+    let ACTIVE_COUNTRY =
+        (
+            params.get(
+                "country"
+            )
+            || "ALL"
+        ).toUpperCase();
+
+
+    if (
+        !COUNTRY_VIEWS.some(
+            x => x[0]
+                === ACTIVE_COUNTRY
+        )
+    ) {
+
+        ACTIVE_COUNTRY =
+            "ALL";
+
+    }
+
+
+    const originalFetch =
+        window.fetch.bind(
+            window
+        );
+
+
+    /*
+     * Interceptamos únicamente los JSON del dashboard.
+     *
+     * Todo el renderer actual sigue funcionando:
+     * simplemente recibe la vista del país seleccionado.
+     */
+
+    window.fetch =
+        async function(
+            input,
+            init
+        ) {
+
+            const url =
+                typeof input === "string"
+                ? input
+                : (
+                    input?.url
+                    || ""
+                );
+
+
+            const response =
+                await originalFetch(
+                    input,
+                    init
+                );
+
+
+            if (
+                ACTIVE_COUNTRY === "ALL"
+            ) {
+
+                return response;
+
+            }
+
+
+            // --------------------------------------------
+            // latest.json
+            // --------------------------------------------
+
+            if (
+                url.includes(
+                    "data/latest.json"
+                )
+            ) {
+
+                try {
+
+                    const globalData =
+                        await response
+                            .clone()
+                            .json();
+
+
+                    const countryData =
+                        globalData
+                            .countries
+                            ?.[
+                                ACTIVE_COUNTRY
+                            ];
+
+
+                    if (countryData) {
+
+                        const headers =
+                            new Headers(
+                                response.headers
+                            );
+
+                        headers.set(
+                            "Content-Type",
+                            "application/json"
+                        );
+
+
+                        return new Response(
+                            JSON.stringify(
+                                countryData
+                            ),
+                            {
+                                status:
+                                    response.status,
+
+                                statusText:
+                                    response
+                                    .statusText,
+
+                                headers:
+                                    headers
+                            }
+                        );
+
+                    }
+
+                }
+
+                catch (error) {
+
+                    console.error(
+                        "Error cargando vista país:",
+                        error
+                    );
+
+                }
+
+            }
+
+
+            // --------------------------------------------
+            // history.json
+            // --------------------------------------------
+
+            if (
+                url.includes(
+                    "data/history.json"
+                )
+            ) {
+
+                try {
+
+                    const countryHistoryResponse =
+                        await originalFetch(
+                            "data/country_history.json?_="
+                            + Date.now(),
+                            {
+                                cache:
+                                    "no-store"
+                            }
+                        );
+
+
+                    const allHistory =
+                        await countryHistoryResponse
+                            .json();
+
+
+                    const selectedHistory =
+                        allHistory[
+                            ACTIVE_COUNTRY
+                        ]
+                        || [];
+
+
+                    return new Response(
+                        JSON.stringify(
+                            selectedHistory
+                        ),
+                        {
+                            status:
+                                200,
+
+                            headers: {
+                                "Content-Type":
+                                    "application/json"
+                            }
+                        }
+                    );
+
+                }
+
+                catch (error) {
+
+                    console.error(
+                        "Error cargando histórico país:",
+                        error
+                    );
+
+
+                    return new Response(
+                        "[]",
+                        {
+                            status:
+                                200,
+
+                            headers: {
+                                "Content-Type":
+                                    "application/json"
+                            }
+                        }
+                    );
+
+                }
+
+            }
+
+
+            return response;
+
+        };
+
+
+    /*
+     * Navegación visual.
+     */
+
+    document.addEventListener(
+        "DOMContentLoaded",
+        async () => {
+
+            const firstSection =
+                document.querySelector(
+                    ".section"
+                );
+
+
+            if (!firstSection) {
+                return;
+            }
+
+
+            let globalData = null;
+
+
+            try {
+
+                const response =
+                    await originalFetch(
+                        "data/latest.json?_="
+                        + Date.now(),
+                        {
+                            cache:
+                                "no-store"
+                        }
+                    );
+
+
+                globalData =
+                    await response.json();
+
+            }
+
+            catch (error) {
+
+                console.error(
+                    "No se pudieron cargar "
+                    + "los contadores territoriales",
+                    error
+                );
+
+            }
+
+
+            const nav =
+                document.createElement(
+                    "div"
+                );
+
+            nav.className =
+                "country-tabs";
+
+
+            for (
+                const [
+                    code,
+                    label
+                ]
+                of COUNTRY_VIEWS
+            ) {
+
+                const link =
+                    document.createElement(
+                        "a"
+                    );
+
+
+                if (
+                    code === "ALL"
+                ) {
+
+                    link.href =
+                        window.location.pathname;
+
+                }
+
+                else {
+
+                    link.href =
+                        window.location.pathname
+                        + "?country="
+                        + encodeURIComponent(
+                            code
+                        );
+
+                }
+
+
+                if (
+                    code
+                    === ACTIVE_COUNTRY
+                ) {
+
+                    link.className =
+                        "active";
+
+                }
+
+
+                let count = null;
+
+
+                if (globalData) {
+
+                    if (
+                        code === "ALL"
+                    ) {
+
+                        count =
+                            globalData
+                            ?.round
+                            ?.videos_window;
+
+                    }
+
+                    else {
+
+                        count =
+                            globalData
+                            ?.countries
+                            ?.[code]
+                            ?.round
+                            ?.videos_window;
+
+                    }
+
+                }
+
+
+                link.append(
+                    document.createTextNode(
+                        label
+                    )
+                );
+
+
+                if (
+                    Number.isFinite(
+                        Number(
+                            count
+                        )
+                    )
+                ) {
+
+                    const span =
+                        document.createElement(
+                            "span"
+                        );
+
+                    span.className =
+                        "country-count";
+
+                    span.textContent =
+                        "("
+                        + Number(
+                            count
+                        ).toLocaleString(
+                            "es-ES"
+                        )
+                        + ")";
+
+                    link.appendChild(
+                        span
+                    );
+
+                }
+
+
+                nav.appendChild(
+                    link
+                );
+
+            }
+
+
+            firstSection
+                .parentNode
+                .insertBefore(
+                    nav,
+                    firstSection
+                );
+
+
+            if (
+                ACTIVE_COUNTRY !== "ALL"
+            ) {
+
+                const selected =
+                    COUNTRY_VIEWS.find(
+                        x =>
+                            x[0]
+                            === ACTIVE_COUNTRY
+                    );
+
+
+                const note =
+                    document.createElement(
+                        "div"
+                    );
+
+                note.className =
+                    "country-view-note";
+
+                note.textContent =
+                    "Vista territorial: "
+                    + selected[1]
+                    + ". Los totales, hashtags, fechas, "
+                    + "viralidad y enlaces están filtrados "
+                    + "para esta vista.";
+
+
+                nav.insertAdjacentElement(
+                    "afterend",
+                    note
+                );
+
+
+                document.title =
+                    "TikTok Hashtag Monitor - "
+                    + selected[1];
+
+            }
+
+        }
+    );
+
+})();
+
+</script>
+
+
 </head>
 
 

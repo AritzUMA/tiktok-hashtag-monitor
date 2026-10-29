@@ -872,8 +872,10 @@ function renderSummary(
         )
         .textContent =
             fmt.format(
-                data.hashtags
-                    .length
+                (
+                    data.round.hashtags_distinct
+                    ?? data.hashtags.length
+                )
             );
 
 

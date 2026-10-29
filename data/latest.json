@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-29T01:39:35+01:00",
+  "updated_at": "2026-10-29T01:41:43+01:00",
   "window": {
     "hours": 24,
-    "start": "2026-10-28T01:39:35+01:00",
-    "end": "2026-10-29T01:39:35+01:00"
+    "start": "2026-10-28T01:41:43+01:00",
+    "end": "2026-10-29T01:41:43+01:00"
   },
   "baseline": false,
   "hashtag_baseline": false,
   "round": {
     "videos_window": 683,
-    "new_videos": 3,
+    "new_videos": 0,
     "total_videos_db": 4942
   },
   "hashtags": [
@@ -51,14 +51,14 @@
     {
       "hashtag": "manifestation",
       "publications": 53,
-      "delta": 1,
+      "delta": 0,
       "users": 43,
       "plays": 919709
     },
     {
       "hashtag": "protest",
       "publications": 48,
-      "delta": 1,
+      "delta": 0,
       "users": 44,
       "plays": 157882
     },
@@ -112,14 +112,14 @@
       "plays": 160534
     },
     {
-      "hashtag": "rkclip",
+      "hashtag": "rk",
       "publications": 20,
       "delta": 0,
       "users": 1,
       "plays": 4876
     },
     {
-      "hashtag": "rk",
+      "hashtag": "rkclip",
       "publications": 20,
       "delta": 0,
       "users": 1,
@@ -224,297 +224,7 @@
       "plays": 16491
     }
   ],
-  "viral_videos": [
-    {
-      "video_id": "7701472862619585825",
-      "username": "vfor.verity",
-      "url": "https://www.tiktok.com/@vfor.verity/video/7701472862619585825",
-      "published_at": "2026-10-27T23:08:10+01:00",
-      "hashtags": [
-        "italy",
-        "manifestazione",
-        "protest",
-        "roma",
-        "sud"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 279300,
-      "plays_delta": 235200,
-      "likes": 43700,
-      "comments": 162,
-      "shares": 1148
-    },
-    {
-      "video_id": "7692102734803193120",
-      "username": "zakiiin0",
-      "url": "https://www.tiktok.com/@zakiiin0/video/7692102734803193120",
-      "published_at": "2026-10-02T18:07:15+02:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "blocusitalia",
-        "blocuslycee",
-        "blocuslycée"
-      ],
-      "plays": 271000,
-      "plays_delta": 1600,
-      "likes": 35700,
-      "comments": 360,
-      "shares": 1907
-    },
-    {
-      "video_id": "7700919794698161441",
-      "username": "superdanivlc",
-      "url": "https://www.tiktok.com/@superdanivlc/video/7700919794698161441",
-      "published_at": "2026-10-26T11:21:57+01:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "31octobre",
-        "blocusitalia"
-      ],
-      "plays": 7107,
-      "plays_delta": 836,
-      "likes": 82,
-      "comments": 4,
-      "shares": 40
-    },
-    {
-      "video_id": "7699487864198892832",
-      "username": "ingridlauriola",
-      "url": "https://www.tiktok.com/@ingridlauriola/video/7699487864198892832",
-      "published_at": "2026-10-22T15:45:20+02:00",
-      "hashtags": [
-        "carocarburanti",
-        "carovita",
-        "governoitaliano",
-        "proteste"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 155200,
-      "plays_delta": 200,
-      "likes": 21700,
-      "comments": 137,
-      "shares": 1261
-    },
-    {
-      "video_id": "7696295395353300256",
-      "username": "capercera",
-      "url": "https://www.tiktok.com/@capercera/video/7696295395353300256",
-      "published_at": "2026-10-14T01:17:00+02:00",
-      "hashtags": [
-        "blocus",
-        "cyberblocus",
-        "espagne",
-        "espagnol",
-        "sagradafamilia"
-      ],
-      "seed_hashtags": [
-        "blocus",
-        "blocusitalia"
-      ],
-      "plays": 53800,
-      "plays_delta": 200,
-      "likes": 1506,
-      "comments": 13,
-      "shares": 1241
-    },
-    {
-      "video_id": "7700241828603268384",
-      "username": "yousra_maunier",
-      "url": "https://www.tiktok.com/@yousra_maunier/video/7700241828603268384",
-      "published_at": "2026-10-24T16:31:05+02:00",
-      "hashtags": [
-        "blocus",
-        "foryoupage",
-        "fyp",
-        "manifestation",
-        "marseille"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 40600,
-      "plays_delta": 200,
-      "likes": 650,
-      "comments": 16,
-      "shares": 390
-    },
-    {
-      "video_id": "7690881127069781281",
-      "username": "fabio.accardo1",
-      "url": "https://www.tiktok.com/@fabio.accardo1/video/7690881127069781281",
-      "published_at": "2026-09-29T11:06:51+02:00",
-      "hashtags": [
-        "agricoltoriitaliani",
-        "blocco",
-        "carocarburante",
-        "protestaagricoltori",
-        "unitisivince"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 783300,
-      "plays_delta": 100,
-      "likes": 39800,
-      "comments": 2896,
-      "shares": 5658
-    },
-    {
-      "video_id": "7693656800230378784",
-      "username": "lenkaaa12_",
-      "url": "https://www.tiktok.com/@lenkaaa12_/video/7693656800230378784",
-      "published_at": "2026-10-06T22:37:49+02:00",
-      "hashtags": [
-        "belgique",
-        "blocus",
-        "liege",
-        "placesaintlambert"
-      ],
-      "seed_hashtags": [
-        "blocusbelgique"
-      ],
-      "plays": 245000,
-      "plays_delta": 100,
-      "likes": 5584,
-      "comments": 174,
-      "shares": 1634
-    },
-    {
-      "video_id": "7699547102845619478",
-      "username": "informativost5",
-      "url": "https://www.tiktok.com/@informativost5/video/7699547102845619478",
-      "published_at": "2026-10-22T19:35:12+02:00",
-      "hashtags": [
-        "news",
-        "noticias",
-        "noticiastiktok"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 203900,
-      "plays_delta": 100,
-      "likes": 8118,
-      "comments": 547,
-      "shares": 1651
-    },
-    {
-      "video_id": "7693653772123311393",
-      "username": "lenkaaa12_",
-      "url": "https://www.tiktok.com/@lenkaaa12_/video/7693653772123311393",
-      "published_at": "2026-10-06T22:26:06+02:00",
-      "hashtags": [
-        "belgique",
-        "blocus",
-        "manifestation",
-        "placesaintlambert",
-        "republiquefrancaise"
-      ],
-      "seed_hashtags": [
-        "blocusbelgique"
-      ],
-      "plays": 87100,
-      "plays_delta": 100,
-      "likes": 1234,
-      "comments": 61,
-      "shares": 188
-    },
-    {
-      "video_id": "7694758507572120864",
-      "username": "romeo_winterfel",
-      "url": "https://www.tiktok.com/@romeo_winterfel/video/7694758507572120864",
-      "published_at": "2026-10-09T21:52:59+02:00",
-      "hashtags": [
-        "blocus",
-        "bruxelles",
-        "genz",
-        "grèvegenerale",
-        "manifestation"
-      ],
-      "seed_hashtags": [
-        "blocusbelgique"
-      ],
-      "plays": 79500,
-      "plays_delta": 100,
-      "likes": 1788,
-      "comments": 102,
-      "shares": 1192
-    },
-    {
-      "video_id": "7693865712145698070",
-      "username": "mouradjappellesflic",
-      "url": "https://www.tiktok.com/@mouradjappellesflic/video/7693865712145698070",
-      "published_at": "2026-10-07T12:08:37+02:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "blocusbelgique"
-      ],
-      "plays": 35000,
-      "plays_delta": 100,
-      "likes": 792,
-      "comments": 15,
-      "shares": 279
-    },
-    {
-      "video_id": "7695540020383419681",
-      "username": "jemy.jls",
-      "url": "https://www.tiktok.com/@jemy.jls/video/7695540020383419681",
-      "published_at": "2026-10-12T00:25:45+02:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "blocusbelgique"
-      ],
-      "plays": 31900,
-      "plays_delta": 100,
-      "likes": 1065,
-      "comments": 205,
-      "shares": 81
-    },
-    {
-      "video_id": "7696782711561800993",
-      "username": "elles_diary09",
-      "url": "https://www.tiktok.com/@elles_diary09/video/7696782711561800993",
-      "published_at": "2026-10-15T08:48:02+02:00",
-      "hashtags": [
-        "blocus",
-        "italia",
-        "perte"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 31700,
-      "plays_delta": 100,
-      "likes": 462,
-      "comments": 13,
-      "shares": 346
-    },
-    {
-      "video_id": "7697230407187598624",
-      "username": "gleeenyss",
-      "url": "https://www.tiktok.com/@gleeenyss/video/7697230407187598624",
-      "published_at": "2026-10-16T13:45:15+02:00",
-      "hashtags": [
-        "antifa",
-        "blocus",
-        "milano",
-        "perte",
-        "proteste"
-      ],
-      "seed_hashtags": [
-        "blocusitalia"
-      ],
-      "plays": 29500,
-      "plays_delta": 100,
-      "likes": 3300,
-      "comments": 27,
-      "shares": 152
-    }
-  ],
+  "viral_videos": [],
   "links": {
     "total_unique": 50,
     "window_unique": 15,
@@ -531,14 +241,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:31:13+01:00",
         "last_published_at": "2026-10-28T20:31:13+01:00",
-        "primary_hashtag": "pourtoi",
+        "primary_hashtag": "politique",
         "hashtag_source": "description",
         "hashtags": [
+          "politique",
           "pourtoi",
-          "blocus",
           "france",
-          "workvlogs",
-          "politique"
+          "blocus",
+          "workvlogs"
         ],
         "seed_hashtags": [
           "blocuslycée"
@@ -573,14 +283,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:23:12+01:00",
         "last_published_at": "2026-10-28T20:23:12+01:00",
-        "primary_hashtag": "genzregeltdas",
+        "primary_hashtag": "jugend",
         "hashtag_source": "description",
         "hashtags": [
+          "jugend",
           "genzregeltdas",
           "ffm",
           "frankfurt",
-          "internationalejugend",
-          "jugend"
+          "internationalejugend"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -619,8 +329,8 @@
         "hashtag_source": "description",
         "hashtags": [
           "fyp",
-          "zimtiktok",
-          "zimuk"
+          "zimuk",
+          "zimtiktok"
         ],
         "seed_hashtags": [
           "31october"
@@ -717,9 +427,9 @@
         "hashtag_source": "description",
         "hashtags": [
           "antifascisme",
-          "racism",
           "onbloquelextremedroite",
-          "miseaupoing"
+          "miseaupoing",
+          "racism"
         ],
         "seed_hashtags": [
           "blocus"
@@ -783,13 +493,13 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T12:46:54+01:00",
         "last_published_at": "2026-10-28T12:46:54+01:00",
-        "primary_hashtag": "protest",
+        "primary_hashtag": "genzregelt",
         "hashtag_source": "description",
         "hashtags": [
-          "protest",
           "genzregelt",
-          "hamburg",
-          "frankreich"
+          "protest",
+          "frankreich",
+          "hamburg"
         ],
         "seed_hashtags": [
           "genzprotest",
@@ -829,8 +539,8 @@
         "hashtag_source": "description",
         "hashtags": [
           "bundaranhi",
-          "genz",
           "demonstrasi",
+          "genz",
           "koranjakarta"
         ],
         "seed_hashtags": [
@@ -865,11 +575,11 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T11:41:06+01:00",
         "last_published_at": "2026-10-28T11:41:06+01:00",
-        "primary_hashtag": "lfi",
+        "primary_hashtag": "mouvement",
         "hashtag_source": "description",
         "hashtags": [
-          "lfi",
-          "mouvement"
+          "mouvement",
+          "lfi"
         ],
         "seed_hashtags": [
           "blocus"
@@ -891,7 +601,7 @@
         ]
       },
       {
-        "url": "https://foutouart.fr",
+        "url": "https://foutouart.frfoutou'art tvles écoles dartsoutiennentleslycée-nes!no facho24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.couTou=",
         "videos": 1,
         "sources": [
           "ocr"
@@ -906,51 +616,9 @@
         "hashtags": [
           "macron",
           "actualité",
-          "24octobre",
           "manif",
-          "lyon"
-        ],
-        "seed_hashtags": [
-          "mobilisationlyceenne"
-        ],
-        "source_videos": [
-          {
-            "video_id": "7701642871702703393",
-            "username": "foutouarteditions",
-            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
-            "published_at": "2026-10-28T10:07:53+01:00",
-            "hashtags": [
-              "24octobre",
-              "actualité",
-              "lyon",
-              "macron",
-              "manif"
-            ],
-            "seed_hashtags": [
-              "mobilisationlyceenne"
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://foutouart.frfoutou'art tvabonnez-vousà notre chaîne youtube24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.COuTOU=",
-        "videos": 1,
-        "sources": [
-          "ocr"
-        ],
-        "is_new": false,
-        "is_recent": true,
-        "first_seen": "2026-10-29T01:09:42+01:00",
-        "first_published_at": "2026-10-28T10:07:53+01:00",
-        "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "macron",
-        "hashtag_source": "description",
-        "hashtags": [
-          "macron",
-          "actualité",
-          "24octobre",
-          "manif",
-          "lyon"
+          "lyon",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -990,9 +658,9 @@
         "hashtags": [
           "macron",
           "actualité",
-          "24octobre",
           "manif",
-          "lyon"
+          "lyon",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1017,7 +685,7 @@
         ]
       },
       {
-        "url": "https://foutouart.frfoutou'art tvles écoles dartsoutiennentleslycée-nes!no facho24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.couTou=",
+        "url": "https://foutouart.fr",
         "videos": 1,
         "sources": [
           "ocr"
@@ -1032,9 +700,51 @@
         "hashtags": [
           "macron",
           "actualité",
-          "24octobre",
           "manif",
-          "lyon"
+          "lyon",
+          "24octobre"
+        ],
+        "seed_hashtags": [
+          "mobilisationlyceenne"
+        ],
+        "source_videos": [
+          {
+            "video_id": "7701642871702703393",
+            "username": "foutouarteditions",
+            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
+            "published_at": "2026-10-28T10:07:53+01:00",
+            "hashtags": [
+              "24octobre",
+              "actualité",
+              "lyon",
+              "macron",
+              "manif"
+            ],
+            "seed_hashtags": [
+              "mobilisationlyceenne"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://foutouart.frfoutou'art tvabonnez-vousà notre chaîne youtube24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.COuTOU=",
+        "videos": 1,
+        "sources": [
+          "ocr"
+        ],
+        "is_new": false,
+        "is_recent": true,
+        "first_seen": "2026-10-29T01:09:42+01:00",
+        "first_published_at": "2026-10-28T10:07:53+01:00",
+        "last_published_at": "2026-10-28T10:07:53+01:00",
+        "primary_hashtag": "macron",
+        "hashtag_source": "description",
+        "hashtags": [
+          "macron",
+          "actualité",
+          "manif",
+          "lyon",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1069,14 +779,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T02:08:34+01:00",
         "last_published_at": "2026-10-28T02:08:34+01:00",
-        "primary_hashtag": "halloween",
+        "primary_hashtag": "munich",
         "hashtag_source": "description",
         "hashtags": [
-          "halloween",
-          "halloweenmünchen",
           "munich",
-          "filmcasinomünchen",
-          "halloween2026"
+          "halloween",
+          "halloween2026",
+          "halloweenmünchen",
+          "filmcasinomünchen"
         ],
         "seed_hashtags": [
           "31october"

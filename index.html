@@ -346,12 +346,13 @@ canvas {
 
 
 <!-- ======================================================
-     COUNTRY DASHBOARD BOOTSTRAP
+     FILTERED DASHBOARD BOOTSTRAP
      ====================================================== -->
 
 <style>
 
-.country-tabs {
+.country-tabs,
+.view-tabs {
     margin: 7px 10px 8px 10px;
     padding: 0;
     border-bottom: 1px solid #777777;
@@ -359,7 +360,8 @@ canvas {
     overflow-x: auto;
 }
 
-.country-tabs a {
+.country-tabs a,
+.view-tabs a {
     display: inline-block;
     padding: 4px 9px 3px 9px;
     margin: 0 2px -1px 0;
@@ -371,27 +373,36 @@ canvas {
     font-size: 11px;
 }
 
-.country-tabs a:hover {
+.country-tabs a:hover,
+.view-tabs a:hover {
     background: #f5f5f5;
     color: #cc0000;
 }
 
-.country-tabs a.active {
+.country-tabs a.active,
+.view-tabs a.active {
     background: #253858;
     color: #ffffff;
     border-color: #253858;
 }
 
-.country-tabs .country-count {
+.country-count {
     font-weight: normal;
     font-size: 10px;
     margin-left: 3px;
 }
 
-.country-view-note {
-    margin: 0 10px 7px 10px;
+.view-tabs {
+    margin-top: 3px;
+}
+
+.dashboard-view-note {
+    margin: 0 10px 8px 10px;
+    padding: 4px 6px;
+    border: 1px solid #cccccc;
+    background: #f5f5f5;
     font-size: 10px;
-    color: #555555;
+    color: #444444;
 }
 
 </style>
@@ -429,7 +440,8 @@ canvas {
 
     if (
         !COUNTRY_VIEWS.some(
-            x => x[0]
+            item =>
+                item[0]
                 === ACTIVE_COUNTRY
         )
     ) {
@@ -440,17 +452,81 @@ canvas {
     }
 
 
+    /*
+     * Por defecto:
+     *
+     *   MOVILIZACIONES
+     *
+     * Para ver los datos originales completos:
+     *
+     *   ?view=all
+     */
+
+    const ACTIVE_VIEW =
+        (
+            params.get(
+                "view"
+            )
+            || "mobilization"
+        ).toLowerCase()
+        === "all"
+        ? "all"
+        : "mobilization";
+
+
     const originalFetch =
         window.fetch.bind(
             window
         );
 
 
+    function jsonResponse(
+        object,
+        sourceResponse
+    ) {
+
+        const headers =
+            new Headers(
+                sourceResponse
+                    ? sourceResponse.headers
+                    : undefined
+            );
+
+
+        headers.set(
+            "Content-Type",
+            "application/json"
+        );
+
+
+        return new Response(
+            JSON.stringify(
+                object
+            ),
+            {
+                status:
+                    sourceResponse
+                    ? sourceResponse.status
+                    : 200,
+
+                statusText:
+                    sourceResponse
+                    ? sourceResponse.statusText
+                    : "OK",
+
+                headers:
+                    headers
+            }
+        );
+
+    }
+
+
     /*
-     * Interceptamos únicamente los JSON del dashboard.
+     * Interceptor del JSON:
      *
-     * Todo el renderer actual sigue funcionando:
-     * simplemente recibe la vista del país seleccionado.
+     * - país
+     * - movilizaciones/todo
      */
 
     window.fetch =
@@ -475,18 +551,9 @@ canvas {
                 );
 
 
-            if (
-                ACTIVE_COUNTRY === "ALL"
-            ) {
-
-                return response;
-
-            }
-
-
-            // --------------------------------------------
+            // ------------------------------------------------
             // latest.json
-            // --------------------------------------------
+            // ------------------------------------------------
 
             if (
                 url.includes(
@@ -502,52 +569,63 @@ canvas {
                             .json();
 
 
-                    const countryData =
-                        globalData
-                            .countries
-                            ?.[
-                                ACTIVE_COUNTRY
-                            ];
+                    let selected =
+                        globalData;
 
 
-                    if (countryData) {
+                    if (
+                        ACTIVE_COUNTRY
+                        !== "ALL"
+                    ) {
 
-                        const headers =
-                            new Headers(
-                                response.headers
-                            );
-
-                        headers.set(
-                            "Content-Type",
-                            "application/json"
-                        );
-
-
-                        return new Response(
-                            JSON.stringify(
-                                countryData
-                            ),
-                            {
-                                status:
-                                    response.status,
-
-                                statusText:
-                                    response
-                                    .statusText,
-
-                                headers:
-                                    headers
-                            }
-                        );
+                        selected =
+                            globalData
+                                ?.countries
+                                ?.[
+                                    ACTIVE_COUNTRY
+                                ]
+                            || globalData;
 
                     }
+
+
+                    if (
+                        ACTIVE_VIEW
+                        === "mobilization"
+                    ) {
+
+                        const filtered =
+                            (
+                                ACTIVE_COUNTRY
+                                === "ALL"
+                            )
+                            ? globalData
+                                ?.mobilization
+                            : selected
+                                ?.mobilization;
+
+
+                        if (filtered) {
+
+                            selected =
+                                filtered;
+
+                        }
+
+                    }
+
+
+                    return jsonResponse(
+                        selected,
+                        response
+                    );
 
                 }
 
                 catch (error) {
 
                     console.error(
-                        "Error cargando vista país:",
+                        "Error seleccionando vista:",
                         error
                     );
 
@@ -556,9 +634,9 @@ canvas {
             }
 
 
-            // --------------------------------------------
+            // ------------------------------------------------
             // history.json
-            // --------------------------------------------
+            // ------------------------------------------------
 
             if (
                 url.includes(
@@ -568,65 +646,85 @@ canvas {
 
                 try {
 
-                    const countryHistoryResponse =
-                        await originalFetch(
-                            "data/country_history.json?_="
-                            + Date.now(),
-                            {
-                                cache:
-                                    "no-store"
-                            }
+                    if (
+                        ACTIVE_VIEW
+                        === "mobilization"
+                    ) {
+
+                        const r =
+                            await originalFetch(
+                                "data/mobilization_history.json?_="
+                                + Date.now(),
+                                {
+                                    cache:
+                                        "no-store"
+                                }
+                            );
+
+
+                        const history =
+                            await r.json();
+
+
+                        const key =
+                            ACTIVE_COUNTRY
+                            === "ALL"
+                            ? "ALL"
+                            : ACTIVE_COUNTRY;
+
+
+                        return jsonResponse(
+                            history[key]
+                            || [],
+                            response
                         );
 
-
-                    const allHistory =
-                        await countryHistoryResponse
-                            .json();
+                    }
 
 
-                    const selectedHistory =
-                        allHistory[
-                            ACTIVE_COUNTRY
-                        ]
-                        || [];
+                    if (
+                        ACTIVE_COUNTRY
+                        !== "ALL"
+                    ) {
+
+                        const r =
+                            await originalFetch(
+                                "data/country_history.json?_="
+                                + Date.now(),
+                                {
+                                    cache:
+                                        "no-store"
+                                }
+                            );
 
 
-                    return new Response(
-                        JSON.stringify(
-                            selectedHistory
-                        ),
-                        {
-                            status:
-                                200,
+                        const history =
+                            await r.json();
 
-                            headers: {
-                                "Content-Type":
-                                    "application/json"
-                            }
-                        }
-                    );
+
+                        return jsonResponse(
+                            history[
+                                ACTIVE_COUNTRY
+                            ]
+                            || [],
+                            response
+                        );
+
+                    }
 
                 }
 
                 catch (error) {
 
                     console.error(
-                        "Error cargando histórico país:",
+                        "Error cargando histórico:",
                         error
                     );
 
 
-                    return new Response(
-                        "[]",
-                        {
-                            status:
-                                200,
-
-                            headers: {
-                                "Content-Type":
-                                    "application/json"
-                            }
-                        }
+                    return jsonResponse(
+                        [],
+                        response
                     );
 
                 }
@@ -639,9 +737,60 @@ canvas {
         };
 
 
-    /*
-     * Navegación visual.
-     */
+    function buildHref(
+        country,
+        view
+    ) {
+
+        const query =
+            new URLSearchParams();
+
+
+        if (
+            country
+            && country !== "ALL"
+        ) {
+
+            query.set(
+                "country",
+                country
+            );
+
+        }
+
+
+        /*
+         * mobilization es el default.
+         * Solo escribimos view=all.
+         */
+
+        if (
+            view === "all"
+        ) {
+
+            query.set(
+                "view",
+                "all"
+            );
+
+        }
+
+
+        const q =
+            query.toString();
+
+
+        return (
+            window.location.pathname
+            + (
+                q
+                ? "?" + q
+                : ""
+            )
+        );
+
+    }
+
 
     document.addEventListener(
         "DOMContentLoaded",
@@ -682,20 +831,24 @@ canvas {
             catch (error) {
 
                 console.error(
-                    "No se pudieron cargar "
-                    + "los contadores territoriales",
+                    "No se pudieron cargar contadores.",
                     error
                 );
 
             }
 
 
-            const nav =
+            // =================================================
+            // PESTAÑAS PAÍS
+            // =================================================
+
+            const countryNav =
                 document.createElement(
                     "div"
                 );
 
-            nav.className =
+
+            countryNav.className =
                 "country-tabs";
 
 
@@ -713,25 +866,11 @@ canvas {
                     );
 
 
-                if (
-                    code === "ALL"
-                ) {
-
-                    link.href =
-                        window.location.pathname;
-
-                }
-
-                else {
-
-                    link.href =
-                        window.location.pathname
-                        + "?country="
-                        + encodeURIComponent(
-                            code
-                        );
-
-                }
+                link.href =
+                    buildHref(
+                        code,
+                        ACTIVE_VIEW
+                    );
 
 
                 if (
@@ -745,6 +884,13 @@ canvas {
                 }
 
 
+                link.append(
+                    document.createTextNode(
+                        label
+                    )
+                );
+
+
                 let count = null;
 
 
@@ -755,31 +901,46 @@ canvas {
                     ) {
 
                         count =
-                            globalData
-                            ?.round
-                            ?.videos_window;
+                            (
+                                ACTIVE_VIEW
+                                === "mobilization"
+                            )
+                            ? globalData
+                                ?.mobilization
+                                ?.round
+                                ?.videos_window
+
+                            : globalData
+                                ?.round
+                                ?.videos_window;
 
                     }
 
                     else {
 
-                        count =
+                        const countryData =
                             globalData
-                            ?.countries
-                            ?.[code]
-                            ?.round
-                            ?.videos_window;
+                                ?.countries
+                                ?.[code];
+
+
+                        count =
+                            (
+                                ACTIVE_VIEW
+                                === "mobilization"
+                            )
+                            ? countryData
+                                ?.mobilization
+                                ?.round
+                                ?.videos_window
+
+                            : countryData
+                                ?.round
+                                ?.videos_window;
 
                     }
 
                 }
-
-
-                link.append(
-                    document.createTextNode(
-                        label
-                    )
-                );
 
 
                 if (
@@ -795,17 +956,20 @@ canvas {
                             "span"
                         );
 
+
                     span.className =
                         "country-count";
 
+
                     span.textContent =
-                        "("
+                        " ("
                         + Number(
                             count
                         ).toLocaleString(
                             "es-ES"
                         )
                         + ")";
+
 
                     link.appendChild(
                         span
@@ -814,7 +978,7 @@ canvas {
                 }
 
 
-                nav.appendChild(
+                countryNav.appendChild(
                     link
                 );
 
@@ -824,50 +988,162 @@ canvas {
             firstSection
                 .parentNode
                 .insertBefore(
-                    nav,
+                    countryNav,
                     firstSection
                 );
 
 
-            if (
-                ACTIVE_COUNTRY !== "ALL"
-            ) {
+            // =================================================
+            // PESTAÑAS MOVILIZACIONES / TODO
+            // =================================================
 
-                const selected =
-                    COUNTRY_VIEWS.find(
-                        x =>
-                            x[0]
-                            === ACTIVE_COUNTRY
-                    );
-
-
-                const note =
-                    document.createElement(
-                        "div"
-                    );
-
-                note.className =
-                    "country-view-note";
-
-                note.textContent =
-                    "Vista territorial: "
-                    + selected[1]
-                    + ". Los totales, hashtags, fechas, "
-                    + "viralidad y enlaces están filtrados "
-                    + "para esta vista.";
-
-
-                nav.insertAdjacentElement(
-                    "afterend",
-                    note
+            const viewNav =
+                document.createElement(
+                    "div"
                 );
 
 
-                document.title =
-                    "TikTok Hashtag Monitor - "
-                    + selected[1];
+            viewNav.className =
+                "view-tabs";
+
+
+            const mobilizationLink =
+                document.createElement(
+                    "a"
+                );
+
+
+            mobilizationLink.href =
+                buildHref(
+                    ACTIVE_COUNTRY,
+                    "mobilization"
+                );
+
+
+            mobilizationLink.textContent =
+                "MOVILIZACIONES";
+
+
+            if (
+                ACTIVE_VIEW
+                === "mobilization"
+            ) {
+
+                mobilizationLink.className =
+                    "active";
 
             }
+
+
+            const allLink =
+                document.createElement(
+                    "a"
+                );
+
+
+            allLink.href =
+                buildHref(
+                    ACTIVE_COUNTRY,
+                    "all"
+                );
+
+
+            allLink.textContent =
+                "TODO";
+
+
+            if (
+                ACTIVE_VIEW
+                === "all"
+            ) {
+
+                allLink.className =
+                    "active";
+
+            }
+
+
+            viewNav.appendChild(
+                mobilizationLink
+            );
+
+
+            viewNav.appendChild(
+                allLink
+            );
+
+
+            countryNav.insertAdjacentElement(
+                "afterend",
+                viewNav
+            );
+
+
+            // =================================================
+            // NOTA
+            // =================================================
+
+            const note =
+                document.createElement(
+                    "div"
+                );
+
+
+            note.className =
+                "dashboard-view-note";
+
+
+            if (
+                ACTIVE_VIEW
+                === "mobilization"
+            ) {
+
+                note.textContent =
+                    "Vista filtrada de movilizaciones probables. "
+                    + "Se excluye ruido periodístico y de engagement "
+                    + "del ranking de hashtags. Los datos originales "
+                    + "permanecen disponibles en TODO.";
+
+            }
+
+            else {
+
+                note.textContent =
+                    "Vista completa sin filtro de relevancia. "
+                    + "Incluye todas las publicaciones y hashtags "
+                    + "recogidos por el monitor.";
+
+            }
+
+
+            viewNav.insertAdjacentElement(
+                "afterend",
+                note
+            );
+
+
+            // =================================================
+            // TITLE
+            // =================================================
+
+            const countryLabel =
+                COUNTRY_VIEWS.find(
+                    item =>
+                        item[0]
+                        === ACTIVE_COUNTRY
+                )?.[1]
+                || "GENERAL";
+
+
+            document.title =
+                "TikTok Hashtag Monitor - "
+                + countryLabel
+                + (
+                    ACTIVE_VIEW
+                    === "mobilization"
+                    ? " - Movilizaciones"
+                    : " - Todo"
+                );
 
         }
     );

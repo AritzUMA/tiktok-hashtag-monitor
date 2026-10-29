@@ -1,0 +1,1888 @@
+<!doctype html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta
+    name="viewport"
+    content="width=device-width,initial-scale=1"
+>
+
+<title>TikTok Hashtag Monitor</title>
+
+
+<style>
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+
+    background: #eeeeee;
+    color: #111111;
+
+    font-family:
+        Verdana,
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 11px;
+}
+
+
+a {
+    color: #0000cc;
+    text-decoration: underline;
+}
+
+
+a:visited {
+    color: #551a8b;
+}
+
+
+a:hover {
+    color: #cc0000;
+}
+
+
+#page {
+    width: 960px;
+    max-width: calc(100% - 20px);
+
+    margin: 14px auto 40px auto;
+
+    background: #ffffff;
+
+    border:
+        1px solid
+        #777777;
+}
+
+
+#header {
+    background: #253858;
+    color: #ffffff;
+
+    padding: 8px 10px;
+
+    border-bottom:
+        1px solid
+        #000000;
+}
+
+
+#title {
+    margin: 0;
+
+    font-family:
+        Verdana,
+        Tahoma,
+        Arial,
+        sans-serif;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    letter-spacing: 0;
+}
+
+
+#subtitle {
+    margin-top: 4px;
+
+    color: #eeeeee;
+
+    font-size: 10px;
+}
+
+
+#statusbar {
+    padding: 5px 10px;
+
+    background: #dddddd;
+
+    border-bottom:
+        1px solid
+        #999999;
+
+    color: #333333;
+}
+
+
+#content {
+    padding: 10px;
+}
+
+
+.section {
+    margin-bottom: 12px;
+
+    border:
+        1px solid
+        #999999;
+}
+
+
+.section-title {
+    padding: 4px 6px;
+
+    background: #d9d9d9;
+
+    border-bottom:
+        1px solid
+        #999999;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+
+    font-size: 10px;
+}
+
+
+.section-body {
+    padding: 7px;
+}
+
+
+table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    font-size: 11px;
+}
+
+
+th {
+    padding: 4px 5px;
+
+    text-align: left;
+
+    background: #efefef;
+
+    border:
+        1px solid
+        #bcbcbc;
+
+    font-weight: bold;
+
+    white-space: nowrap;
+}
+
+
+td {
+    padding: 4px 5px;
+
+    border:
+        1px solid
+        #d2d2d2;
+
+    vertical-align: top;
+}
+
+
+tbody tr:nth-child(even) {
+    background: #fafafa;
+}
+
+
+.num {
+    text-align: right;
+
+    font-family:
+        "Courier New",
+        monospace;
+
+    white-space: nowrap;
+}
+
+
+.delta {
+    color: #990000;
+
+    font-weight: bold;
+}
+
+
+.muted {
+    color: #666666;
+}
+
+
+.small {
+    font-size: 9px;
+
+    color: #666666;
+}
+
+
+.mono {
+    font-family:
+        "Courier New",
+        monospace;
+}
+
+
+.new {
+    background: #fff7c8;
+}
+
+
+.new-label {
+    color: #990000;
+
+    font-weight: bold;
+
+    font-size: 9px;
+}
+
+
+.summary {
+    width: 100%;
+}
+
+
+.summary td:first-child {
+    width: 260px;
+
+    font-weight: bold;
+
+    background: #f4f4f4;
+}
+
+
+.summary td:last-child {
+    font-family:
+        "Courier New",
+        monospace;
+}
+
+
+.url-cell {
+    max-width: 330px;
+
+    overflow-wrap: anywhere;
+
+    word-break: break-word;
+}
+
+
+.hashtags {
+    line-height: 1.5;
+}
+
+
+.seed {
+    color: #666666;
+
+    font-size: 9px;
+}
+
+
+canvas {
+    display: block;
+
+    width: 100%;
+    height: 240px;
+
+    border:
+        1px solid
+        #bcbcbc;
+
+    background: #ffffff;
+}
+
+
+#footer {
+    padding: 6px 10px;
+
+    border-top:
+        1px solid
+        #999999;
+
+    background: #eeeeee;
+
+    color: #666666;
+
+    font-size: 9px;
+}
+
+
+@media (
+    max-width: 700px
+) {
+
+    #page {
+        max-width: 100%;
+        width: auto;
+
+        margin: 0;
+
+        border-left: 0;
+        border-right: 0;
+    }
+
+    #content {
+        padding: 5px;
+    }
+
+    .hide-mobile {
+        display: none;
+    }
+
+    table {
+        font-size: 10px;
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div id="page">
+
+
+<div id="header">
+
+    <div id="title">
+        TikTok Hashtag Monitor
+    </div>
+
+    <div id="subtitle">
+        Seguimiento automatizado de publicaciones,
+        hashtags y enlaces detectados
+    </div>
+
+</div>
+
+
+<div id="statusbar">
+
+    Última actualización:
+    <span id="updated">cargando...</span>
+
+    &nbsp; | &nbsp;
+
+    Ventana:
+    <strong>últimas 24 horas</strong>
+
+    &nbsp; | &nbsp;
+
+    actualización automática cada 60 s
+
+</div>
+
+
+<div id="content">
+
+
+<!-- ====================================================== -->
+<!-- RESUMEN -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Resumen
+    </div>
+
+    <div class="section-body">
+
+        <table class="summary">
+
+            <tbody>
+
+                <tr>
+                    <td>
+                        Publicaciones últimas 24 h
+                    </td>
+
+                    <td id="videosWindow">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Nuevas desde última ronda
+                    </td>
+
+                    <td id="newVideos">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Hashtags distintos
+                    </td>
+
+                    <td id="hashtagCount">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Vídeos creciendo ahora
+                    </td>
+
+                    <td id="viralCount">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Links únicos últimas 24 h
+                    </td>
+
+                    <td id="linksWindow">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Links únicos históricos
+                    </td>
+
+                    <td id="linksTotal">
+                        -
+                    </td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!-- HASHTAGS -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Hashtags más utilizados — últimas 24 horas
+    </div>
+
+    <div class="section-body">
+
+        <div style="overflow-x:auto">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>
+                            #
+                        </th>
+
+                        <th>
+                            Hashtag
+                        </th>
+
+                        <th class="num">
+                            Publicaciones
+                        </th>
+
+                        <th class="num">
+                            Δ ronda
+                        </th>
+
+                        <th class="num">
+                            Usuarios
+                        </th>
+
+                        <th class="num">
+                            Reproducciones
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody id="hashtags">
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!-- EVOLUCIÓN -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Evolución de los cinco hashtags principales
+    </div>
+
+    <div class="section-body">
+
+        <canvas id="chart">
+        </canvas>
+
+    </div>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!-- VIRALIDAD -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Publicaciones con mayor incremento de reproducciones
+    </div>
+
+    <div class="section-body">
+
+        <div style="overflow-x:auto">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>
+                            Publicado
+                        </th>
+
+                        <th>
+                            Usuario
+                        </th>
+
+                        <th>
+                            Hashtag
+                        </th>
+
+                        <th class="num">
+                            Δ reproducciones
+                        </th>
+
+                        <th class="num">
+                            Total
+                        </th>
+
+                        <th>
+                            Publicación
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody id="viral">
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <div
+            id="viralEmpty"
+            class="muted"
+            style="display:none;padding:8px 2px"
+        >
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!-- LINKS -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Links detectados mediante OCR / QR
+    </div>
+
+    <div class="section-body">
+
+        <div
+            id="linksInfo"
+            class="small"
+            style="margin-bottom:7px"
+        >
+        </div>
+
+        <div style="overflow-x:auto">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>
+                            Enlace
+                        </th>
+
+                        <th>
+                            Hashtag / origen
+                        </th>
+
+                        <th>
+                            Publicado
+                        </th>
+
+                        <th class="num">
+                            Vídeos
+                        </th>
+
+                        <th>
+                            Detectado
+                        </th>
+
+                        <th>
+                            TikTok origen
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody id="links">
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+</div>
+
+
+<div id="footer">
+
+    Datos agregados automáticamente.
+    La fecha de un enlace corresponde a la publicación
+    TikTok en la que fue detectado.
+
+</div>
+
+
+</div>
+
+
+<script>
+
+const fmt =
+    new Intl.NumberFormat(
+        "es-ES"
+    );
+
+
+function esc(value) {
+
+    return String(
+        value ?? ""
+    )
+    .replaceAll(
+        "&",
+        "&amp;"
+    )
+    .replaceAll(
+        "<",
+        "&lt;"
+    )
+    .replaceAll(
+        ">",
+        "&gt;"
+    )
+    .replaceAll(
+        '"',
+        "&quot;"
+    );
+
+}
+
+
+function formatDate(value) {
+
+    if (!value) {
+        return "-";
+    }
+
+    const d =
+        new Date(value);
+
+    return d.toLocaleString(
+        "es-ES",
+        {
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit"
+        }
+    );
+
+}
+
+
+function tagsHtml(
+    hashtags,
+    seeds
+) {
+
+    hashtags =
+        hashtags || [];
+
+    seeds =
+        seeds || [];
+
+    if (
+        hashtags.length
+    ) {
+
+        return hashtags
+            .slice(0, 4)
+            .map(
+                x =>
+                    `<a href="#" onclick="return false;">#${esc(x)}</a>`
+            )
+            .join(
+                ", "
+            );
+    }
+
+    if (
+        seeds.length
+    ) {
+
+        return (
+            seeds
+            .slice(0, 4)
+            .map(
+                x =>
+                    `<span class="seed">#${esc(x)} [seed]</span>`
+            )
+            .join(
+                ", "
+            )
+        );
+    }
+
+    return (
+        '<span class="muted">-</span>'
+    );
+
+}
+
+
+async function getJSON(
+    path
+) {
+
+    const response =
+        await fetch(
+            path
+            + "?_="
+            + Date.now(),
+            {
+                cache:
+                    "no-store"
+            }
+        );
+
+    if (
+        !response.ok
+    ) {
+
+        throw new Error(
+            "HTTP "
+            + response.status
+        );
+    }
+
+    return response.json();
+
+}
+
+
+function renderSummary(
+    data
+) {
+
+    document
+        .getElementById(
+            "videosWindow"
+        )
+        .textContent =
+            fmt.format(
+                data.round
+                    .videos_window
+            );
+
+
+    document
+        .getElementById(
+            "newVideos"
+        )
+        .textContent =
+            data.baseline
+            ? "-"
+            : "+"
+              + fmt.format(
+                    data.round
+                        .new_videos
+                );
+
+
+    document
+        .getElementById(
+            "hashtagCount"
+        )
+        .textContent =
+            fmt.format(
+                data.hashtags
+                    .length
+            );
+
+
+    document
+        .getElementById(
+            "viralCount"
+        )
+        .textContent =
+            fmt.format(
+                data.viral_videos
+                    .length
+            );
+
+
+    document
+        .getElementById(
+            "linksWindow"
+        )
+        .textContent =
+            fmt.format(
+                data.links
+                    .window_unique
+            );
+
+
+    document
+        .getElementById(
+            "linksTotal"
+        )
+        .textContent =
+            fmt.format(
+                data.links
+                    .total_unique
+            );
+
+}
+
+
+function renderHashtags(
+    data
+) {
+
+    const tbody =
+        document.getElementById(
+            "hashtags"
+        );
+
+    tbody.innerHTML = "";
+
+
+    data.hashtags
+        .slice(
+            0,
+            30
+        )
+        .forEach(
+            (
+                row,
+                index
+            ) => {
+
+                const tr =
+                    document
+                    .createElement(
+                        "tr"
+                    );
+
+                const delta =
+                    Number(
+                        row.delta
+                        || 0
+                    );
+
+
+                tr.innerHTML = `
+
+                    <td class="num">
+                        ${index + 1}
+                    </td>
+
+                    <td>
+                        <strong>
+                            #${esc(row.hashtag)}
+                        </strong>
+                    </td>
+
+                    <td class="num">
+                        ${fmt.format(row.publications)}
+                    </td>
+
+                    <td class="num ${delta > 0 ? "delta" : ""}">
+                        ${
+                            delta > 0
+                            ? "+"
+                            : ""
+                        }${fmt.format(delta)}
+                    </td>
+
+                    <td class="num">
+                        ${fmt.format(row.users)}
+                    </td>
+
+                    <td class="num">
+                        ${fmt.format(row.plays)}
+                    </td>
+
+                `;
+
+                tbody.appendChild(
+                    tr
+                );
+
+            }
+        );
+
+}
+
+
+function renderViral(
+    data
+) {
+
+    const tbody =
+        document.getElementById(
+            "viral"
+        );
+
+    const empty =
+        document.getElementById(
+            "viralEmpty"
+        );
+
+    tbody.innerHTML = "";
+
+    empty.style.display =
+        "none";
+
+
+    if (
+        !data.viral_videos
+        .length
+    ) {
+
+        empty.style.display =
+            "block";
+
+        empty.textContent =
+            data.baseline
+            ? "Se necesita una segunda ronda para calcular el incremento."
+            : "No se han registrado incrementos de reproducciones entre las dos últimas rondas.";
+
+        return;
+    }
+
+
+    for (
+        const row
+        of data.viral_videos
+    ) {
+
+        const tr =
+            document
+            .createElement(
+                "tr"
+            );
+
+
+        tr.innerHTML = `
+
+            <td class="mono">
+                ${esc(formatDate(row.published_at))}
+            </td>
+
+            <td>
+                @${esc(row.username || "-")}
+            </td>
+
+            <td class="hashtags">
+                ${
+                    tagsHtml(
+                        row.hashtags,
+                        row.seed_hashtags
+                    )
+                }
+            </td>
+
+            <td class="num delta">
+                +${fmt.format(row.plays_delta)}
+            </td>
+
+            <td class="num">
+                ${fmt.format(row.plays)}
+            </td>
+
+            <td>
+                ${
+                    row.url
+                    ?
+                    `<a
+                        href="${esc(row.url)}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >abrir</a>`
+                    :
+                    "-"
+                }
+            </td>
+
+        `;
+
+
+        tbody.appendChild(
+            tr
+        );
+
+    }
+
+}
+
+
+function renderLinks(
+    data
+) {
+
+    const tbody =
+        document.getElementById(
+            "links"
+        );
+
+    const info =
+        document.getElementById(
+            "linksInfo"
+        );
+
+    tbody.innerHTML = "";
+
+
+    info.textContent =
+        `${fmt.format(data.links.window_unique)} enlaces únicos en publicaciones de las últimas 24 h; `
+        + `${fmt.format(data.links.total_unique)} históricos; `
+        + `${fmt.format(data.links.new_this_round)} nuevos desde la ronda anterior.`;
+
+
+    for (
+        const row
+        of data.links.items
+    ) {
+
+        const tr =
+            document
+            .createElement(
+                "tr"
+            );
+
+        if (
+            row.is_new
+        ) {
+
+            tr.className =
+                "new";
+        }
+
+
+        let tagText = "-";
+
+
+        if (
+            row.primary_hashtag
+        ) {
+
+            tagText =
+                "#"
+                + esc(
+                    row.primary_hashtag
+                );
+
+            if (
+                row.hashtag_source
+                === "seed"
+            ) {
+
+                tagText +=
+                    ' <span class="seed">[seed]</span>';
+            }
+
+
+            const extra =
+                (
+                    row.hashtags
+                    || []
+                )
+                .filter(
+                    x =>
+                        x
+                        !== row.primary_hashtag
+                )
+                .slice(
+                    0,
+                    2
+                );
+
+
+            if (
+                extra.length
+            ) {
+
+                tagText +=
+                    '<div class="small">'
+                    + extra
+                        .map(
+                            x =>
+                                "#"
+                                + esc(x)
+                        )
+                        .join(
+                            ", "
+                        )
+                    + "</div>";
+
+            }
+
+        }
+
+
+        let origin =
+            "-";
+
+
+        if (
+            row.source_videos
+            && row.source_videos.length
+        ) {
+
+            const source =
+                row.source_videos[0];
+
+
+            origin = `
+
+                <a
+                    href="${esc(source.url)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    ${
+                        source.username
+                        ? "@"
+                          + esc(source.username)
+                        : "abrir vídeo"
+                    }
+                </a>
+
+            `;
+
+        }
+
+
+        const sourceText =
+            (
+                row.sources
+                || []
+            )
+            .map(
+                x =>
+                    esc(
+                        x.toUpperCase()
+                    )
+            )
+            .join(
+                " + "
+            );
+
+
+        tr.innerHTML = `
+
+            <td class="url-cell">
+
+                ${
+                    row.is_new
+                    ?
+                    '<span class="new-label">NUEVO</span> '
+                    :
+                    ''
+                }
+
+                <a
+                    href="${esc(row.url)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    ${esc(row.url)}
+                </a>
+
+            </td>
+
+
+            <td class="hashtags">
+                ${tagText}
+            </td>
+
+
+            <td class="mono">
+                ${esc(formatDate(row.first_published_at))}
+
+                ${
+                    (
+                        row.videos > 1
+                        &&
+                        row.last_published_at
+                        &&
+                        row.last_published_at
+                        !== row.first_published_at
+                    )
+                    ?
+                    `<div class="small">
+                        última:
+                        ${esc(formatDate(row.last_published_at))}
+                    </div>`
+                    :
+                    ""
+                }
+
+            </td>
+
+
+            <td class="num">
+                ${fmt.format(row.videos)}
+            </td>
+
+
+            <td class="mono">
+                ${sourceText || "-"}
+            </td>
+
+
+            <td>
+                ${origin}
+            </td>
+
+        `;
+
+
+        tbody.appendChild(
+            tr
+        );
+
+    }
+
+
+    if (
+        !data.links.items.length
+    ) {
+
+        const tr =
+            document
+            .createElement(
+                "tr"
+            );
+
+        tr.innerHTML = `
+
+            <td
+                colspan="6"
+                class="muted"
+            >
+                No se han detectado enlaces
+                en esta ventana.
+            </td>
+
+        `;
+
+        tbody.appendChild(
+            tr
+        );
+
+    }
+
+}
+
+
+function drawChart(
+    history,
+    latest
+) {
+
+    const canvas =
+        document.getElementById(
+            "chart"
+        );
+
+    const rect =
+        canvas.getBoundingClientRect();
+
+    const dpr =
+        window.devicePixelRatio
+        || 1;
+
+    const width =
+        Math.max(
+            600,
+            Math.floor(
+                rect.width
+            )
+        );
+
+    const height =
+        240;
+
+
+    canvas.width =
+        width * dpr;
+
+    canvas.height =
+        height * dpr;
+
+
+    const ctx =
+        canvas.getContext(
+            "2d"
+        );
+
+    ctx.scale(
+        dpr,
+        dpr
+    );
+
+
+    ctx.clearRect(
+        0,
+        0,
+        width,
+        height
+    );
+
+
+    if (
+        !history
+        ||
+        history.length < 2
+    ) {
+
+        ctx.fillStyle =
+            "#555555";
+
+        ctx.font =
+            "11px Verdana";
+
+        ctx.fillText(
+            "La serie temporal aparecerá después de la segunda ronda.",
+            12,
+            24
+        );
+
+        return;
+
+    }
+
+
+    const tags =
+        latest.hashtags
+        .slice(
+            0,
+            5
+        )
+        .map(
+            x => x.hashtag
+        );
+
+
+    if (
+        !tags.length
+    ) {
+        return;
+    }
+
+
+    const colors = [
+        "#0000cc",
+        "#cc0000",
+        "#008000",
+        "#800080",
+        "#cc6600"
+    ];
+
+
+    let maxValue = 1;
+
+
+    for (
+        const snap
+        of history
+    ) {
+
+        for (
+            const tag
+            of tags
+        ) {
+
+            maxValue =
+                Math.max(
+                    maxValue,
+                    Number(
+                        snap.hashtags?.[tag]
+                        || 0
+                    )
+                );
+
+        }
+
+    }
+
+
+    const left = 42;
+    const right = 12;
+    const top = 31;
+    const bottom = 32;
+
+    const plotW =
+        width
+        - left
+        - right;
+
+    const plotH =
+        height
+        - top
+        - bottom;
+
+
+    ctx.strokeStyle =
+        "#dddddd";
+
+    ctx.lineWidth =
+        1;
+
+
+    for (
+        let i = 0;
+        i <= 4;
+        i++
+    ) {
+
+        const y =
+            top
+            + plotH
+            - (
+                plotH
+                * i
+                / 4
+            );
+
+
+        ctx.beginPath();
+
+        ctx.moveTo(
+            left,
+            y
+        );
+
+        ctx.lineTo(
+            left + plotW,
+            y
+        );
+
+        ctx.stroke();
+
+
+        ctx.fillStyle =
+            "#666666";
+
+        ctx.font =
+            "9px Verdana";
+
+        ctx.textAlign =
+            "right";
+
+
+        ctx.fillText(
+            Math.round(
+                maxValue
+                * i
+                / 4
+            ),
+            left - 5,
+            y + 3
+        );
+
+    }
+
+
+    tags.forEach(
+        (
+            tag,
+            tagIndex
+        ) => {
+
+            ctx.strokeStyle =
+                colors[
+                    tagIndex
+                    % colors.length
+                ];
+
+            ctx.lineWidth =
+                1.5;
+
+            ctx.beginPath();
+
+
+            history.forEach(
+                (
+                    snap,
+                    index
+                ) => {
+
+                    const value =
+                        Number(
+                            snap
+                            .hashtags?.[tag]
+                            || 0
+                        );
+
+
+                    const x =
+                        left
+                        + (
+                            plotW
+                            * index
+                            / (
+                                history.length
+                                - 1
+                            )
+                        );
+
+
+                    const y =
+                        top
+                        + plotH
+                        - (
+                            plotH
+                            * value
+                            / maxValue
+                        );
+
+
+                    if (
+                        index === 0
+                    ) {
+
+                        ctx.moveTo(
+                            x,
+                            y
+                        );
+
+                    } else {
+
+                        ctx.lineTo(
+                            x,
+                            y
+                        );
+
+                    }
+
+                }
+            );
+
+
+            ctx.stroke();
+
+        }
+    );
+
+
+    const first =
+        history[0];
+
+    const middle =
+        history[
+            Math.floor(
+                history.length
+                / 2
+            )
+        ];
+
+    const last =
+        history[
+            history.length
+            - 1
+        ];
+
+
+    function timeLabel(
+        value
+    ) {
+
+        return new Date(
+            value
+        )
+        .toLocaleTimeString(
+            "es-ES",
+            {
+                hour:
+                    "2-digit",
+
+                minute:
+                    "2-digit"
+            }
+        );
+
+    }
+
+
+    ctx.fillStyle =
+        "#555555";
+
+    ctx.font =
+        "9px Verdana";
+
+
+    ctx.textAlign =
+        "left";
+
+    ctx.fillText(
+        timeLabel(
+            first.timestamp
+        ),
+        left,
+        height - 9
+    );
+
+
+    ctx.textAlign =
+        "center";
+
+    ctx.fillText(
+        timeLabel(
+            middle.timestamp
+        ),
+        left
+        + plotW / 2,
+        height - 9
+    );
+
+
+    ctx.textAlign =
+        "right";
+
+    ctx.fillText(
+        timeLabel(
+            last.timestamp
+        ),
+        left + plotW,
+        height - 9
+    );
+
+
+    let legendX =
+        left;
+
+
+    tags.forEach(
+        (
+            tag,
+            index
+        ) => {
+
+            ctx.strokeStyle =
+                colors[
+                    index
+                    % colors.length
+                ];
+
+            ctx.lineWidth =
+                2;
+
+            ctx.beginPath();
+
+            ctx.moveTo(
+                legendX,
+                12
+            );
+
+            ctx.lineTo(
+                legendX + 12,
+                12
+            );
+
+            ctx.stroke();
+
+
+            ctx.fillStyle =
+                "#222222";
+
+            ctx.font =
+                "9px Verdana";
+
+            ctx.textAlign =
+                "left";
+
+
+            const label =
+                "#"
+                + tag;
+
+
+            ctx.fillText(
+                label,
+                legendX + 16,
+                15
+            );
+
+
+            legendX +=
+                ctx.measureText(
+                    label
+                ).width
+                + 35;
+
+        }
+    );
+
+}
+
+
+async function load() {
+
+    try {
+
+        const [
+            latest,
+            history
+        ] =
+            await Promise.all(
+                [
+                    getJSON(
+                        "data/latest.json"
+                    ),
+
+                    getJSON(
+                        "data/history.json"
+                    )
+                ]
+            );
+
+
+        document
+            .getElementById(
+                "updated"
+            )
+            .textContent =
+                formatDate(
+                    latest.updated_at
+                );
+
+
+        renderSummary(
+            latest
+        );
+
+        renderHashtags(
+            latest
+        );
+
+        renderViral(
+            latest
+        );
+
+        renderLinks(
+            latest
+        );
+
+        drawChart(
+            history,
+            latest
+        );
+
+
+    } catch (
+        error
+    ) {
+
+        document
+            .getElementById(
+                "updated"
+            )
+            .textContent =
+                "ERROR: "
+                + error.message;
+
+    }
+
+}
+
+
+load();
+
+
+setInterval(
+    load,
+    60_000
+);
+
+
+window.addEventListener(
+    "resize",
+    () => load()
+);
+
+</script>
+
+
+</body>
+
+</html>

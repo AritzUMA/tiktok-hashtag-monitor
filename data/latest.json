@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T01:59:45+01:00",
+  "updated_at": "2026-10-29T02:01:55+01:00",
   "window": {
     "hours": 24,
-    "start": "2026-10-28T01:59:45+01:00",
-    "end": "2026-10-29T01:59:45+01:00"
+    "start": "2026-10-28T02:01:55+01:00",
+    "end": "2026-10-29T02:01:55+01:00"
   },
   "baseline": true,
   "hashtag_baseline": true,
@@ -229,7 +229,7 @@
   ],
   "dates": {
     "distinct": 18,
-    "publication_date_relations": 220,
+    "publication_date_relations": 225,
     "items": [
       {
         "date": "2026-10-26",
@@ -607,9 +607,9 @@
       },
       {
         "date": "2026-10-30",
-        "publications": 9,
-        "users": 9,
-        "frames": 18,
+        "publications": 10,
+        "users": 10,
+        "frames": 22,
         "expressions": [
           {
             "text": "friday",
@@ -621,6 +621,10 @@
           },
           {
             "text": "venerdi",
+            "publications": 3
+          },
+          {
+            "text": "30 ottobre",
             "publications": 2
           },
           {
@@ -636,15 +640,27 @@
             "publications": 1
           },
           {
-            "text": "30 ottobre",
-            "publications": 1
-          },
-          {
             "text": "october\n30th",
             "publications": 1
           }
         ],
         "source_videos": [
+          {
+            "video_id": "7701800714393193760",
+            "username": "mikelifelive",
+            "url": "https://www.tiktok.com/@mikelifelive/video/7701800714393193760",
+            "published_at": "2026-10-28T20:20:21+01:00",
+            "hashtags": [
+              "francia",
+              "lavoro",
+              "manifestation",
+              "milano",
+              "protest"
+            ],
+            "seed_hashtags": [
+              "blocusitalia"
+            ]
+          },
           {
             "video_id": "7701785928867515680",
             "username": "conci.cm8",
@@ -693,34 +709,18 @@
             "seed_hashtags": [
               "mobilisationlyceenne"
             ]
-          },
-          {
-            "video_id": "7701725704689323296",
-            "username": "generazionescomoda",
-            "url": "https://www.tiktok.com/@generazionescomoda/video/7701725704689323296",
-            "published_at": "2026-10-28T15:29:15+01:00",
-            "hashtags": [
-              "30ottobre",
-              "carovita",
-              "genz",
-              "manifestazione",
-              "sciopero"
-            ],
-            "seed_hashtags": [
-              "genzprotest"
-            ]
           }
         ]
       },
       {
         "date": "2026-10-31",
-        "publications": 151,
-        "users": 144,
-        "frames": 425,
+        "publications": 155,
+        "users": 148,
+        "frames": 439,
         "expressions": [
           {
             "text": "31 octobre",
-            "publications": 43
+            "publications": 45
           },
           {
             "text": "31.10",
@@ -728,7 +728,7 @@
           },
           {
             "text": "samedi",
-            "publications": 26
+            "publications": 27
           },
           {
             "text": "samstag",
@@ -1350,14 +1350,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:31:13+01:00",
         "last_published_at": "2026-10-28T20:31:13+01:00",
-        "primary_hashtag": "workvlogs",
+        "primary_hashtag": "pourtoi",
         "hashtag_source": "description",
         "hashtags": [
-          "workvlogs",
-          "france",
+          "pourtoi",
           "blocus",
+          "workvlogs",
           "politique",
-          "pourtoi"
+          "france"
         ],
         "seed_hashtags": [
           "blocuslycée"
@@ -1392,14 +1392,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T20:23:12+01:00",
         "last_published_at": "2026-10-28T20:23:12+01:00",
-        "primary_hashtag": "genzregeltdas",
+        "primary_hashtag": "jugend",
         "hashtag_source": "description",
         "hashtags": [
-          "genzregeltdas",
-          "frankfurt",
           "jugend",
           "internationalejugend",
-          "ffm"
+          "frankfurt",
+          "ffm",
+          "genzregeltdas"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -1434,12 +1434,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T18:50:06+01:00",
         "last_published_at": "2026-10-28T18:50:06+01:00",
-        "primary_hashtag": "zimtiktok",
+        "primary_hashtag": "fyp",
         "hashtag_source": "description",
         "hashtags": [
+          "fyp",
           "zimtiktok",
-          "zimuk",
-          "fyp"
+          "zimuk"
         ],
         "seed_hashtags": [
           "31october"
@@ -1532,12 +1532,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T17:53:29+01:00",
         "last_published_at": "2026-10-28T17:53:29+01:00",
-        "primary_hashtag": "onbloquelextremedroite",
+        "primary_hashtag": "racism",
         "hashtag_source": "description",
         "hashtags": [
-          "onbloquelextremedroite",
           "racism",
           "miseaupoing",
+          "onbloquelextremedroite",
           "antifascisme"
         ],
         "seed_hashtags": [
@@ -1602,12 +1602,12 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T12:46:54+01:00",
         "last_published_at": "2026-10-28T12:46:54+01:00",
-        "primary_hashtag": "genzregelt",
+        "primary_hashtag": "frankreich",
         "hashtag_source": "description",
         "hashtags": [
-          "genzregelt",
           "frankreich",
           "hamburg",
+          "genzregelt",
           "protest"
         ],
         "seed_hashtags": [
@@ -1648,9 +1648,9 @@
         "hashtag_source": "description",
         "hashtags": [
           "bundaranhi",
-          "genz",
+          "koranjakarta",
           "demonstrasi",
-          "koranjakarta"
+          "genz"
         ],
         "seed_hashtags": [
           "genzregelt"
@@ -1684,11 +1684,11 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T11:41:06+01:00",
         "last_published_at": "2026-10-28T11:41:06+01:00",
-        "primary_hashtag": "lfi",
+        "primary_hashtag": "mouvement",
         "hashtag_source": "description",
         "hashtags": [
-          "lfi",
-          "mouvement"
+          "mouvement",
+          "lfi"
         ],
         "seed_hashtags": [
           "blocus"
@@ -1710,7 +1710,7 @@
         ]
       },
       {
-        "url": "https://foutouart.frfoutou'art tvabonnez-vousà notre chaîne youtube24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.COuTOU=",
+        "url": "https://foutouart.frfoutou'art tv24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.couTou=",
         "videos": 1,
         "sources": [
           "ocr"
@@ -1726,8 +1726,8 @@
           "manif",
           "lyon",
           "actualité",
-          "24octobre",
-          "macron"
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1768,8 +1768,50 @@
           "manif",
           "lyon",
           "actualité",
-          "24octobre",
-          "macron"
+          "macron",
+          "24octobre"
+        ],
+        "seed_hashtags": [
+          "mobilisationlyceenne"
+        ],
+        "source_videos": [
+          {
+            "video_id": "7701642871702703393",
+            "username": "foutouarteditions",
+            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
+            "published_at": "2026-10-28T10:07:53+01:00",
+            "hashtags": [
+              "24octobre",
+              "actualité",
+              "lyon",
+              "macron",
+              "manif"
+            ],
+            "seed_hashtags": [
+              "mobilisationlyceenne"
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://foutouart.frfoutou'art tvabonnez-vousà notre chaîne youtube24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.COuTOU=",
+        "videos": 1,
+        "sources": [
+          "ocr"
+        ],
+        "is_new": false,
+        "is_recent": true,
+        "first_seen": "2026-10-29T01:09:42+01:00",
+        "first_published_at": "2026-10-28T10:07:53+01:00",
+        "last_published_at": "2026-10-28T10:07:53+01:00",
+        "primary_hashtag": "manif",
+        "hashtag_source": "description",
+        "hashtags": [
+          "manif",
+          "lyon",
+          "actualité",
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1810,50 +1852,8 @@
           "manif",
           "lyon",
           "actualité",
-          "24octobre",
-          "macron"
-        ],
-        "seed_hashtags": [
-          "mobilisationlyceenne"
-        ],
-        "source_videos": [
-          {
-            "video_id": "7701642871702703393",
-            "username": "foutouarteditions",
-            "url": "https://www.tiktok.com/@foutouarteditions/video/7701642871702703393",
-            "published_at": "2026-10-28T10:07:53+01:00",
-            "hashtags": [
-              "24octobre",
-              "actualité",
-              "lyon",
-              "macron",
-              "manif"
-            ],
-            "seed_hashtags": [
-              "mobilisationlyceenne"
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://foutouart.frfoutou'art tv24 octobre : malgré l'interdictionde manifester, lyon résiste!retourenimagessurlamanifestation lycéenne et contrela vie chère à lyon, interdite(légalement ?%29+par+la+pr%C3%A9fecture.couTou=",
-        "videos": 1,
-        "sources": [
-          "ocr"
-        ],
-        "is_new": false,
-        "is_recent": true,
-        "first_seen": "2026-10-29T01:09:42+01:00",
-        "first_published_at": "2026-10-28T10:07:53+01:00",
-        "last_published_at": "2026-10-28T10:07:53+01:00",
-        "primary_hashtag": "manif",
-        "hashtag_source": "description",
-        "hashtags": [
-          "manif",
-          "lyon",
-          "actualité",
-          "24octobre",
-          "macron"
+          "macron",
+          "24octobre"
         ],
         "seed_hashtags": [
           "mobilisationlyceenne"
@@ -1888,14 +1888,14 @@
         "first_seen": "2026-10-29T01:09:42+01:00",
         "first_published_at": "2026-10-28T02:08:34+01:00",
         "last_published_at": "2026-10-28T02:08:34+01:00",
-        "primary_hashtag": "halloween2026",
+        "primary_hashtag": "filmcasinomünchen",
         "hashtag_source": "description",
         "hashtags": [
-          "halloween2026",
           "filmcasinomünchen",
           "halloween",
           "halloweenmünchen",
-          "munich"
+          "munich",
+          "halloween2026"
         ],
         "seed_hashtags": [
           "31october"

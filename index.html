@@ -435,6 +435,16 @@ canvas {
 
                 <tr>
                     <td>
+                        Fechas relevantes detectadas en OCR
+                    </td>
+
+                    <td id="datesCount">
+                        -
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
                         Vídeos creciendo ahora
                     </td>
 
@@ -546,6 +556,72 @@ canvas {
 
         <canvas id="chart">
         </canvas>
+
+    </div>
+
+</div>
+
+
+<!-- ====================================================== -->
+<!-- FECHAS -->
+<!-- ====================================================== -->
+
+<div class="section">
+
+    <div class="section-title">
+        Fechas detectadas en OCR
+    </div>
+
+    <div class="section-body">
+
+        <div
+            class="small"
+            style="margin-bottom:7px"
+        >
+            Fechas relevantes extraídas del texto visible
+            en publicaciones de las últimas 24 horas.
+            Cada fecha cuenta una sola vez por publicación,
+            aunque aparezca en varios frames.
+        </div>
+
+        <div style="overflow-x:auto">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>
+                            Fecha
+                        </th>
+
+                        <th class="num">
+                            Publicaciones
+                        </th>
+
+                        <th class="num">
+                            Usuarios
+                        </th>
+
+                        <th>
+                            Expresiones OCR
+                        </th>
+
+                        <th>
+                            TikTok origen
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody id="dates">
+                </tbody>
+
+            </table>
+
+        </div>
 
     </div>
 
@@ -881,6 +957,17 @@ function renderSummary(
 
     document
         .getElementById(
+            "datesCount"
+        )
+        .textContent =
+            fmt.format(
+                data.dates?.distinct
+                ?? 0
+            );
+
+
+    document
+        .getElementById(
             "viralCount"
         )
         .textContent =
@@ -990,6 +1077,220 @@ function renderHashtags(
 
             }
         );
+
+}
+
+
+function formatDay(
+    value
+) {
+
+    if (!value) {
+        return "-";
+    }
+
+    const parts =
+        String(value)
+        .split("-");
+
+    if (
+        parts.length === 3
+    ) {
+
+        return (
+            parts[2]
+            + "/"
+            + parts[1]
+            + "/"
+            + parts[0]
+        );
+    }
+
+    return value;
+
+}
+
+
+function renderDates(
+    data
+) {
+
+    const tbody =
+        document.getElementById(
+            "dates"
+        );
+
+    tbody.innerHTML = "";
+
+
+    const items =
+        data.dates?.items
+        || [];
+
+
+    if (
+        !items.length
+    ) {
+
+        const tr =
+            document.createElement(
+                "tr"
+            );
+
+        tr.innerHTML = `
+
+            <td
+                colspan="5"
+                class="muted"
+            >
+                No hay fechas relevantes detectadas
+                en esta ventana.
+            </td>
+
+        `;
+
+        tbody.appendChild(
+            tr
+        );
+
+        return;
+    }
+
+
+    for (
+        const row
+        of items
+    ) {
+
+        const tr =
+            document.createElement(
+                "tr"
+            );
+
+
+        const expressions =
+            (
+                row.expressions
+                || []
+            )
+            .slice(
+                0,
+                5
+            )
+            .map(
+                x => {
+
+                    const count =
+                        Number(
+                            x.publications
+                            || 0
+                        );
+
+                    if (
+                        count > 1
+                    ) {
+
+                        return (
+                            esc(x.text)
+                            + " ("
+                            + fmt.format(count)
+                            + ")"
+                        );
+
+                    }
+
+                    return esc(
+                        x.text
+                    );
+
+                }
+            )
+            .join(
+                "; "
+            )
+            || "-";
+
+
+        let origin =
+            "-";
+
+
+        if (
+            row.source_videos
+            &&
+            row.source_videos.length
+        ) {
+
+            const source =
+                row.source_videos[0];
+
+
+            origin = `
+
+                <a
+                    href="${esc(source.url)}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    ${
+                        source.username
+                        ? "@"
+                          + esc(
+                                source.username
+                            )
+                        : "abrir vídeo"
+                    }
+                </a>
+
+            `;
+
+
+            if (
+                row.source_videos.length > 1
+            ) {
+
+                origin +=
+                    ` <span class="small">
+                        (+${row.source_videos.length - 1})
+                    </span>`;
+
+            }
+
+        }
+
+
+        tr.innerHTML = `
+
+            <td class="mono">
+                <strong>
+                    ${esc(formatDay(row.date))}
+                </strong>
+            </td>
+
+            <td class="num">
+                ${fmt.format(row.publications)}
+            </td>
+
+            <td class="num">
+                ${fmt.format(row.users)}
+            </td>
+
+            <td>
+                ${expressions}
+            </td>
+
+            <td>
+                ${origin}
+            </td>
+
+        `;
+
+
+        tbody.appendChild(
+            tr
+        );
+
+    }
 
 }
 
@@ -1834,6 +2135,10 @@ async function load() {
         );
 
         renderHashtags(
+            latest
+        );
+
+        renderDates(
             latest
         );
 

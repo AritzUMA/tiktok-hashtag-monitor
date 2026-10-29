@@ -755,6 +755,52 @@ canvas {
 
             </table>
 
+        <div
+            id="linksPagination"
+            style="
+                margin-top:8px;
+                padding-top:6px;
+                border-top:1px solid #cccccc;
+                text-align:center;
+            "
+        >
+
+            <button
+                id="linksPrev"
+                type="button"
+                onclick="changeLinksPage(-1)"
+            >
+                &laquo; Anterior
+            </button>
+
+            <span
+                id="linksPageInfo"
+                style="
+                    margin-left:10px;
+                    margin-right:10px;
+                "
+            >
+                Página 1 de 1
+            </span>
+
+            <button
+                id="linksNext"
+                type="button"
+                onclick="changeLinksPage(1)"
+            >
+                Siguiente &raquo;
+            </button>
+
+            <span
+                id="linksTotalInfo"
+                class="small"
+                style="margin-left:12px"
+            >
+            </span>
+
+        </div>
+
+
         </div>
 
     </div>
@@ -1466,6 +1512,236 @@ function renderViral(
 
         tbody.appendChild(
             tr
+        );
+
+    }
+
+}
+
+
+
+const LINKS_PER_PAGE =
+    15;
+
+let linksCurrentPage =
+    1;
+
+let linksDashboardData =
+    null;
+
+
+function renderLinksPaged(
+    data,
+    requestedPage = null
+) {
+
+    linksDashboardData =
+        data;
+
+
+    const allItems =
+        (
+            data.links
+            &&
+            Array.isArray(
+                data.links.all_items
+            )
+        )
+        ? data.links.all_items
+        : (
+            data.links?.items
+            || []
+        );
+
+
+    const totalItems =
+        allItems.length;
+
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                totalItems
+                /
+                LINKS_PER_PAGE
+            )
+        );
+
+
+    if (
+        requestedPage !== null
+    ) {
+
+        linksCurrentPage =
+            requestedPage;
+
+    }
+
+
+    linksCurrentPage =
+        Math.max(
+            1,
+            Math.min(
+                linksCurrentPage,
+                totalPages
+            )
+        );
+
+
+    const start =
+        (
+            linksCurrentPage
+            - 1
+        )
+        *
+        LINKS_PER_PAGE;
+
+
+    const pageItems =
+        allItems.slice(
+            start,
+            start
+            + LINKS_PER_PAGE
+        );
+
+
+    /*
+     * Creamos una copia del objeto.
+     * renderLinks() sigue siendo exactamente
+     * el mismo renderer que teníamos.
+     */
+
+    const pageData = {
+        ...data,
+
+        links: {
+            ...(
+                data.links
+                || {}
+            ),
+
+            items:
+                pageItems
+        }
+    };
+
+
+    renderLinks(
+        pageData
+    );
+
+
+    const pageInfo =
+        document.getElementById(
+            "linksPageInfo"
+        );
+
+
+    if (pageInfo) {
+
+        pageInfo.textContent =
+            "Página "
+            + linksCurrentPage
+            + " de "
+            + totalPages;
+
+    }
+
+
+    const totalInfo =
+        document.getElementById(
+            "linksTotalInfo"
+        );
+
+
+    if (totalInfo) {
+
+        if (totalItems === 1) {
+
+            totalInfo.textContent =
+                "1 enlace histórico";
+
+        } else {
+
+            totalInfo.textContent =
+                totalItems.toLocaleString(
+                    "es-ES"
+                )
+                + " enlaces históricos";
+
+        }
+
+    }
+
+
+    const prev =
+        document.getElementById(
+            "linksPrev"
+        );
+
+
+    if (prev) {
+
+        prev.disabled =
+            linksCurrentPage <= 1;
+
+    }
+
+
+    const next =
+        document.getElementById(
+            "linksNext"
+        );
+
+
+    if (next) {
+
+        next.disabled =
+            linksCurrentPage
+            >= totalPages;
+
+    }
+
+}
+
+
+function changeLinksPage(
+    delta
+) {
+
+    if (!linksDashboardData) {
+        return;
+    }
+
+
+    renderLinksPaged(
+        linksDashboardData,
+        linksCurrentPage
+        + delta
+    );
+
+
+    /*
+     * Volvemos a colocar la tabla de links
+     * en pantalla al cambiar de página.
+     */
+
+    const table =
+        document.getElementById(
+            "links"
+        );
+
+
+    if (table) {
+
+        table.closest(
+            ".section"
+        )?.scrollIntoView(
+            {
+                block:
+                    "start"
+            }
         );
 
     }
@@ -2220,7 +2496,7 @@ async function load() {
             latest
         );
 
-        renderLinks(
+        renderLinksPaged(
             latest
         );
 

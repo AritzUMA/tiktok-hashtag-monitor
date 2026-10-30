@@ -1605,52 +1605,63 @@ canvas {
 </div>
 
 
-<div id="footer">
-
-    Datos agregados automáticamente.
-    La fecha de un enlace corresponde a la publicación
-    TikTok en la que fue detectado.
-
-</div>
-
-
-</div>
-
-
 
 <!-- BLOCUS_VISUAL_RANKING_START -->
+<div class="section" id="blocus-ranking">
 
+    <div class="section-title">
+        #blocus — Ranking de similitud visual
+    </div>
 
-<div id="blocus-ranking" class="section">
-    <div class="section-title">#blocus — Ranking de similitud visual</div>
-<div class="section-body">
-    <p class="small">
-        Publicaciones ordenadas según su mayor similitud con
-        las 12 imágenes de referencia del llamamiento #blocus.
-        El resultado es una similitud visual, no una clasificación definitiva.
-    </p>
-    <div  id="blocus-stats"></div>
-    <p  id="blocus-updated">Cargando ranking...</p>
-    <div style="overflow-x:auto">
-        <table>
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Publicación TikTok</th>
-                    <th class="num">Similitud</th>
-                    <th>Cartel coincidente</th>
-                    <th>Fotograma</th>
-                </tr>
-            </thead>
-            <tbody id="blocus-rows"></tbody>
-        </table>
+    <div class="section-body">
+
+        <div class="small" style="margin-bottom:7px">
+            Publicaciones ordenadas por su similitud visual
+            con los 12 carteles de referencia del llamamiento #blocus.
+            Ranking provisional.
+        </div>
+
+        <div id="blocus-stats"
+             class="small"
+             style="margin-bottom:7px">
+            Cargando resultados...
+        </div>
+
+        <div id="blocus-updated"
+             class="small"
+             style="margin-bottom:7px"></div>
+
+        <div style="overflow-x:auto">
+
+            <table>
+                <thead>
+                    <tr>
+                        <th class="num">#</th>
+                        <th>Publicación TikTok</th>
+                        <th class="num">Similitud</th>
+                        <th>Cartel coincidente</th>
+                        <th class="num">Fotograma</th>
+                    </tr>
+                </thead>
+
+                <tbody id="blocus-rows"></tbody>
+            </table>
+
+        </div>
+
+        <div style="margin-top:12px">
+            <button id="blocus-prev" type="button">
+                ← Anterior
+            </button>
+
+            <span id="blocus-page" class="small"></span>
+
+            <button id="blocus-next" type="button">
+                Siguiente →
+            </button>
+        </div>
+
     </div>
-    <div >
-        <button type="button" id="blocus-prev">Anterior</button>
-        <span id="blocus-page"></span>
-        <button type="button" id="blocus-next">Siguiente</button>
-    </div>
-</div>
 </div>
 
 <script>
@@ -1791,6 +1802,21 @@ canvas {
 })();
 </script>
 <!-- BLOCUS_VISUAL_RANKING_END -->
+
+<div id="footer">
+
+    Datos agregados automáticamente.
+    La fecha de un enlace corresponde a la publicación
+    TikTok en la que fue detectado.
+
+</div>
+
+
+</div>
+
+
+
+
 
 <script>
 

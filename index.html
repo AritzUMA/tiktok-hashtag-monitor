@@ -1621,22 +1621,23 @@ canvas {
 <!-- BLOCUS_VISUAL_RANKING_START -->
 
 
-<div id="blocus-ranking">
-    <h2>#blocus — Ranking de similitud visual</h2>
-    <p >
+<div id="blocus-ranking" class="section">
+    <div class="section-title">#blocus — Ranking de similitud visual</div>
+<div class="section-body">
+    <p class="small">
         Publicaciones ordenadas según su mayor similitud con
         las 12 imágenes de referencia del llamamiento #blocus.
         El resultado es una similitud visual, no una clasificación definitiva.
     </p>
     <div  id="blocus-stats"></div>
     <p  id="blocus-updated">Cargando ranking...</p>
-    <div >
+    <div style="overflow-x:auto">
         <table>
             <thead>
                 <tr>
                     <th>#</th>
                     <th>Publicación TikTok</th>
-                    <th>Similitud</th>
+                    <th class="num">Similitud</th>
                     <th>Cartel coincidente</th>
                     <th>Fotograma</th>
                 </tr>
@@ -1649,6 +1650,7 @@ canvas {
         <span id="blocus-page"></span>
         <button type="button" id="blocus-next">Siguiente</button>
     </div>
+</div>
 </div>
 
 <script>
@@ -1693,7 +1695,11 @@ canvas {
             linkCell.appendChild(link);
 
             const score = Number(item.similarity);
-            createCell(tr, Number.isFinite(score) ? score.toFixed(4) : "—");
+            const scoreCell = createCell(
+                tr,
+                Number.isFinite(score) ? score.toFixed(4) : "—"
+            );
+            scoreCell.className = "num";
             createCell(
                 tr,
                 item.reference_label || item.reference || "—"

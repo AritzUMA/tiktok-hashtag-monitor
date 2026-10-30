@@ -1264,7 +1264,7 @@ canvas {
 
                 <tr>
                     <td>
-                        Links únicos últimas 24 h
+                        Telegram / WhatsApp últimas 24 h
                     </td>
 
                     <td id="linksWindow">
@@ -1274,7 +1274,7 @@ canvas {
 
                 <tr>
                     <td>
-                        Links únicos históricos
+                        Telegram / WhatsApp históricos
                     </td>
 
                     <td id="linksTotal">
@@ -1511,7 +1511,7 @@ canvas {
 <div class="section">
 
     <div class="section-title">
-        Links detectados mediante OCR / QR
+        Canales de Telegram / WhatsApp validados
     </div>
 
     <div class="section-body">
@@ -1527,37 +1527,19 @@ canvas {
 
             <table>
 
-                <thead>
-
-                    <tr>
-
-                        <th>
-                            Enlace
-                        </th>
-
-                        <th>
-                            Hashtag / origen
-                        </th>
-
-                        <th>
-                            Publicado
-                        </th>
-
-                        <th class="num">
-                            Vídeos
-                        </th>
-
-                        <th>
-                            Detectado
-                        </th>
-
-                        <th>
-                            TikTok origen
-                        </th>
-
-                    </tr>
-
-                </thead>
+                
+            <thead>
+                <tr>
+                    <th>Plataforma</th>
+                    <th>Enlace</th>
+                    <th>Vídeos</th>
+                    <th>Usuarios</th>
+                    <th>Compartido por</th>
+                    <th>Fuentes</th>
+                    <th>Primera vez</th>
+                    <th>Última vez</th>
+                </tr>
+            </thead>
 
                 <tbody id="links">
                 </tbody>
@@ -2558,263 +2540,291 @@ function changeLinksPage(
 }
 
 
-function renderLinks(
-    data
-) {
+function renderLinks(data) {
 
     const tbody =
-        document.getElementById(
-            "links"
-        );
+        document.getElementById("links");
 
     const info =
-        document.getElementById(
-            "linksInfo"
-        );
+        document.getElementById("linksInfo");
 
-    tbody.innerHTML = "";
+    if (!tbody) {
+        return;
+    }
+
+    tbody.textContent = "";
+
+    const linkData =
+        data?.links || {};
+
+    const items =
+        Array.isArray(linkData.items)
+            ? linkData.items
+            : [];
 
 
-    info.textContent =
-        `${fmt.format(data.links.window_unique)} enlaces únicos en publicaciones de las últimas 24 h; `
-        + `${fmt.format(data.links.total_unique)} históricos; `
-        + `${fmt.format(data.links.new_this_round)} nuevos desde la ronda anterior.`;
+    if (info) {
+
+        info.textContent =
+            `${fmt.format(linkData.window_unique || 0)} ` +
+            `Telegram/WhatsApp válidos en las últimas 24 h; ` +
+            `${fmt.format(linkData.total_unique || 0)} históricos; ` +
+            `${fmt.format(linkData.new_this_round || 0)} nuevos.`;
+    }
 
 
-    for (
-        const row
-        of data.links.items
-    ) {
+    const showDate = (value) => {
 
-        const tr =
-            document
-            .createElement(
-                "tr"
-            );
-
-        if (
-            row.is_new
-        ) {
-
-            tr.className =
-                "new";
+        if (!value) {
+            return "—";
         }
 
-
-        let tagText = "-";
-
+        const d = new Date(value);
 
         if (
-            row.primary_hashtag
+            Number.isNaN(
+                d.getTime()
+            )
         ) {
+            return value;
+        }
 
-            tagText =
-                "#"
-                + esc(
-                    row.primary_hashtag
-                );
-
-            if (
-                row.hashtag_source
-                === "seed"
-            ) {
-
-                tagText +=
-                    ' <span class="seed">[seed]</span>';
+        return d.toLocaleString(
+            "es-ES",
+            {
+                dateStyle: "short",
+                timeStyle: "short"
             }
+        );
+    };
 
 
-            const extra =
+    const addTextCell = (
+        row,
+        value
+    ) => {
+
+        const td =
+            document.createElement("td");
+
+        td.textContent =
+            value ?? "—";
+
+        row.appendChild(td);
+
+        return td;
+    };
+
+
+    if (!items.length) {
+
+        const tr =
+            document.createElement("tr");
+
+        const td =
+            document.createElement("td");
+
+        td.colSpan = 8;
+
+        td.textContent =
+            "No hay enlaces de Telegram o WhatsApp validados.";
+
+        tr.appendChild(td);
+        tbody.appendChild(tr);
+
+        return;
+    }
+
+
+    for (const item of items) {
+
+        const tr =
+            document.createElement("tr");
+
+
+        // ==============================================
+        // PLATAFORMA
+        // ==============================================
+
+        addTextCell(
+            tr,
+            item.platform === "telegram"
+                ? "Telegram"
+                : "WhatsApp"
+        );
+
+
+        // ==============================================
+        // ENLACE
+        // ==============================================
+
+        const linkTd =
+            document.createElement("td");
+
+        const a =
+            document.createElement("a");
+
+        a.href =
+            item.url;
+
+        a.target =
+            "_blank";
+
+        a.rel =
+            "noopener noreferrer";
+
+        a.textContent =
+            item.url;
+
+        linkTd.appendChild(a);
+
+        tr.appendChild(
+            linkTd
+        );
+
+
+        // ==============================================
+        // VÍDEOS / USUARIOS
+        // ==============================================
+
+        addTextCell(
+            tr,
+            fmt.format(
+                item.videos || 0
+            )
+        );
+
+        addTextCell(
+            tr,
+            fmt.format(
+                item.users || 0
+            )
+        );
+
+
+        // ==============================================
+        // USUARIOS QUE LO COMPARTEN
+        // ==============================================
+
+        const usersTd =
+            document.createElement("td");
+
+        usersTd.style.minWidth =
+            "240px";
+
+        usersTd.style.whiteSpace =
+            "normal";
+
+
+        const users =
+            Array.isArray(
+                item.sharing_users
+            )
+                ? item.sharing_users
+                : [];
+
+
+        if (!users.length) {
+
+            usersTd.textContent =
+                "—";
+
+        } else {
+
+            users.forEach(
                 (
-                    row.hashtags
-                    || []
-                )
-                .filter(
-                    x =>
-                        x
-                        !== row.primary_hashtag
-                )
-                .slice(
-                    0,
-                    2
-                );
+                    user,
+                    index
+                ) => {
 
+                    if (index > 0) {
 
-            if (
-                extra.length
-            ) {
-
-                tagText +=
-                    '<div class="small">'
-                    + extra
-                        .map(
-                            x =>
-                                "#"
-                                + esc(x)
-                        )
-                        .join(
-                            ", "
-                        )
-                    + "</div>";
-
-            }
-
-        }
-
-
-        let origin =
-            "-";
-
-
-        if (
-            row.source_videos
-            && row.source_videos.length
-        ) {
-
-            const source =
-                row.source_videos[0];
-
-
-            origin = `
-
-                <a
-                    href="${esc(source.url)}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    ${
-                        source.username
-                        ? "@"
-                          + esc(source.username)
-                        : "abrir vídeo"
+                        usersTd.appendChild(
+                            document.createTextNode(
+                                ", "
+                            )
+                        );
                     }
-                </a>
 
-            `;
 
+                    const userLink =
+                        document.createElement(
+                            "a"
+                        );
+
+                    userLink.href =
+                        "https://www.tiktok.com/@" +
+                        encodeURIComponent(
+                            user.username
+                        );
+
+                    userLink.target =
+                        "_blank";
+
+                    userLink.rel =
+                        "noopener noreferrer";
+
+                    userLink.textContent =
+                        "@" + user.username;
+
+
+                    usersTd.appendChild(
+                        userLink
+                    );
+
+
+                    usersTd.appendChild(
+                        document.createTextNode(
+                            ` (${user.videos})`
+                        )
+                    );
+                }
+            );
         }
 
 
-        const sourceText =
+        tr.appendChild(
+            usersTd
+        );
+
+
+        // ==============================================
+        // FUENTES
+        // ==============================================
+
+        addTextCell(
+            tr,
             (
-                row.sources
+                item.sources
                 || []
+            ).join(", ")
+            || "—"
+        );
+
+
+        // ==============================================
+        // FECHAS
+        // ==============================================
+
+        addTextCell(
+            tr,
+            showDate(
+                item.first_published_at
             )
-            .map(
-                x =>
-                    esc(
-                        x.toUpperCase()
-                    )
+        );
+
+        addTextCell(
+            tr,
+            showDate(
+                item.last_published_at
             )
-            .join(
-                " + "
-            );
-
-
-        tr.innerHTML = `
-
-            <td class="url-cell">
-
-                ${
-                    row.is_new
-                    ?
-                    '<span class="new-label">NUEVO</span> '
-                    :
-                    ''
-                }
-
-                <a
-                    href="${esc(row.url)}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    ${esc(row.url)}
-                </a>
-
-            </td>
-
-
-            <td class="hashtags">
-                ${tagText}
-            </td>
-
-
-            <td class="mono">
-                ${esc(formatMadridDateTime(row.first_published_at))}
-
-                ${
-                    (
-                        row.videos > 1
-                        &&
-                        row.last_published_at
-                        &&
-                        row.last_published_at
-                        !== row.first_published_at
-                    )
-                    ?
-                    `<div class="small">
-                        última:
-                        ${esc(formatMadridDateTime(row.last_published_at))}
-                    </div>`
-                    :
-                    ""
-                }
-
-            </td>
-
-
-            <td class="num">
-                ${fmt.format(row.videos)}
-            </td>
-
-
-            <td class="mono">
-                ${sourceText || "-"}
-            </td>
-
-
-            <td>
-                ${origin}
-            </td>
-
-        `;
+        );
 
 
         tbody.appendChild(
             tr
         );
-
     }
-
-
-    if (
-        !data.links.items.length
-    ) {
-
-        const tr =
-            document
-            .createElement(
-                "tr"
-            );
-
-        tr.innerHTML = `
-
-            <td
-                colspan="6"
-                class="muted"
-            >
-                No se han detectado enlaces
-                en esta ventana.
-            </td>
-
-        `;
-
-        tbody.appendChild(
-            tr
-        );
-
-    }
-
 }
 
 

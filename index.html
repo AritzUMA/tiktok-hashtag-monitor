@@ -3810,25 +3810,76 @@ function drawChart(
         ];
 
 
-    function timeLabel(
-        value
-    ) {
 
-        return new Date(
-            value
-        )
-        .toLocaleTimeString(
-            "es-ES",
-            {
-                hour:
-                    "2-digit",
+    function timeLabel(snap) {
 
-                minute:
-                    "2-digit"
+        const keys = [
+            "timestamp",
+            "collected_at",
+            "observed_at",
+            "captured_at",
+            "recorded_at",
+            "generated_at",
+            "created_at",
+            "updated_at",
+            "datetime",
+            "date",
+            "time",
+            "ts"
+        ];
+
+        const candidates = keys.map(key => snap?.[key]);
+
+        // Admitir otros campos temporales del histórico.
+        for (const [key, value] of Object.entries(snap || {})) {
+            if (/time|date|_at$|^ts$/i.test(key)) {
+                candidates.push(value);
             }
-        );
+        }
 
+        for (const raw of candidates) {
+            if (raw === null || raw === undefined || raw === "") {
+                continue;
+            }
+
+            let d;
+
+            if (typeof raw === "number") {
+                d = new Date(
+                    raw < 100000000000 ? raw * 1000 : raw
+                );
+            } else {
+                const value = String(raw).trim();
+
+                if (/^\d{10,13}$/.test(value)) {
+                    const n = Number(value);
+                    d = new Date(
+                        value.length === 10 ? n * 1000 : n
+                    );
+                } else {
+                    d = new Date(value);
+                }
+            }
+
+            if (
+                !Number.isNaN(d.getTime()) &&
+                d.getUTCFullYear() >= 2020 &&
+                d.getUTCFullYear() <= 2100
+            ) {
+                return d.toLocaleString("es-ES", {
+                    timeZone: "Europe/Madrid",
+                    day: "2-digit",
+                    month: "2-digit",
+                    hour: "2-digit",
+                    minute: "2-digit"
+                });
+            }
+        }
+
+        return "—";
     }
+
+
 
 
     ctx.fillStyle =
@@ -3842,9 +3893,7 @@ function drawChart(
         "left";
 
     ctx.fillText(
-        timeLabel(
-            first.timestamp
-        ),
+        timeLabel(first),
         left,
         height - 9
     );
@@ -3854,9 +3903,7 @@ function drawChart(
         "center";
 
     ctx.fillText(
-        timeLabel(
-            middle.timestamp
-        ),
+        timeLabel(middle),
         left
         + plotW / 2,
         height - 9
@@ -3867,9 +3914,7 @@ function drawChart(
         "right";
 
     ctx.fillText(
-        timeLabel(
-            last.timestamp
-        ),
+        timeLabel(last),
         left + plotW,
         height - 9
     );

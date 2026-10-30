@@ -2636,9 +2636,7 @@ function renderLinks(data) {
 
         addText(
             tr,
-            item.platform === "telegram"
-                ? "Telegram"
-                : "WhatsApp"
+            item.platform === "telegram" ? "Telegram" : item.platform === "whatsapp" ? "WhatsApp" : "—"
         );
 
 

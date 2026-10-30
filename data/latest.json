@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-10-30T19:27:18+01:00",
+  "updated_at": "2026-10-30T19:29:17+01:00",
   "window": {
     "hours": 24,
-    "start": "2026-10-29T19:27:18+01:00",
-    "end": "2026-10-30T19:27:18+01:00"
+    "start": "2026-10-29T19:29:17+01:00",
+    "end": "2026-10-30T19:29:17+01:00"
   },
   "baseline": false,
   "hashtag_baseline": false,
   "round": {
-    "id": "20261030_192551",
-    "completed_at": "2026-10-30T18:26:01.633467+00:00",
+    "id": "20261030_192740",
+    "completed_at": "2026-10-30T18:27:47.339368+00:00",
     "source": "export_round_dir",
     "sentinel_hashtag": "blocusitalia",
     "hashtags_distinct": 1608,
-    "videos_window": 1269,
-    "new_videos": 6,
-    "total_videos_db": 11346
+    "videos_window": 1270,
+    "new_videos": 1,
+    "total_videos_db": 11347
   },
   "hashtags": [
     {
       "hashtag": "genz",
       "publications": 172,
-      "delta": 2,
+      "delta": 0,
       "users": 162,
       "plays": 4098792
     },
     {
       "hashtag": "blocus",
       "publications": 138,
-      "delta": 1,
+      "delta": 0,
       "users": 122,
       "plays": 3450130
     },
     {
       "hashtag": "fyp",
       "publications": 129,
-      "delta": 1,
+      "delta": 0,
       "users": 118,
       "plays": 4101645
     },
     {
       "hashtag": "halloween",
       "publications": 121,
-      "delta": 1,
+      "delta": 0,
       "users": 115,
       "plays": 9346821
     },
@@ -63,14 +63,14 @@
     {
       "hashtag": "genzregelt",
       "publications": 104,
-      "delta": 1,
+      "delta": 0,
       "users": 93,
       "plays": 1776524
     },
     {
       "hashtag": "demo",
       "publications": 92,
-      "delta": 3,
+      "delta": 0,
       "users": 86,
       "plays": 2840190
     },
@@ -103,18 +103,18 @@
       "plays": 593083
     },
     {
-      "hashtag": "deutschland",
-      "publications": 54,
-      "delta": 1,
-      "users": 49,
-      "plays": 1468123
-    },
-    {
       "hashtag": "halloween2026",
       "publications": 54,
       "delta": 0,
       "users": 53,
       "plays": 3626515
+    },
+    {
+      "hashtag": "deutschland",
+      "publications": 54,
+      "delta": 0,
+      "users": 49,
+      "plays": 1468123
     },
     {
       "hashtag": "pourtoi",
@@ -168,7 +168,7 @@
     {
       "hashtag": "frankfurt",
       "publications": 27,
-      "delta": 1,
+      "delta": 0,
       "users": 25,
       "plays": 1327852
     },
@@ -231,7 +231,7 @@
   ],
   "dates": {
     "distinct": 10,
-    "publication_date_relations": 184,
+    "publication_date_relations": 186,
     "items": [
       {
         "date": "2026-10-28",
@@ -361,13 +361,13 @@
       },
       {
         "date": "2026-10-30",
-        "publications": 34,
-        "users": 34,
-        "frames": 103,
+        "publications": 36,
+        "users": 36,
+        "frames": 107,
         "expressions": [
           {
             "text": "30.10.2026",
-            "publications": 9
+            "publications": 10
           },
           {
             "text": "30/10",
@@ -891,262 +891,274 @@
   },
   "viral_videos": [
     {
-      "video_id": "7702467837826190614",
-      "username": "laveudelfoc",
-      "url": "https://www.tiktok.com/@laveudelfoc/video/7702467837826190614",
-      "published_at": "2026-10-30T15:29:13+01:00",
+      "video_id": "7702447447162834198",
+      "username": "tf1info",
+      "url": "https://www.tiktok.com/@tf1info/video/7702447447162834198",
+      "published_at": "2026-10-30T14:10:06+01:00",
       "hashtags": [],
-      "seed_hashtags": [
-        "31octobre"
-      ],
-      "plays": 505000,
-      "plays_delta": 26300,
-      "likes": 39900,
-      "comments": 592,
-      "shares": 18800
-    },
-    {
-      "video_id": "7701770547209833760",
-      "username": "sat1regional",
-      "url": "https://www.tiktok.com/@sat1regional/video/7701770547209833760",
-      "published_at": "2026-10-28T18:23:17+01:00",
-      "hashtags": [
-        "demonstration",
-        "genz",
-        "hannover",
-        "klimaschutz",
-        "proteste"
-      ],
-      "seed_hashtags": [
-        "genzprotest"
-      ],
-      "plays": 27800,
-      "plays_delta": 16600,
-      "likes": 989,
-      "comments": 25,
-      "shares": 232
-    },
-    {
-      "video_id": "7702416423708101921",
-      "username": "nataliepeters25",
-      "url": "https://www.tiktok.com/@nataliepeters25/video/7702416423708101921",
-      "published_at": "2026-10-30T12:09:40+01:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "genzregelt"
-      ],
-      "plays": 50500,
-      "plays_delta": 11000,
-      "likes": 460,
-      "comments": 32,
-      "shares": 551
-    },
-    {
-      "video_id": "7702503250343316769",
-      "username": "snowdropp",
-      "url": "https://www.tiktok.com/@snowdropp/video/7702503250343316769",
-      "published_at": "2026-10-30T17:46:34+01:00",
-      "hashtags": [
-        "31oktober",
-        "3proteste",
-        "bildung",
-        "deutschland",
-        "medien"
-      ],
-      "seed_hashtags": [
-        "31oktober"
-      ],
-      "plays": 8159,
-      "plays_delta": 7439,
-      "likes": 689,
-      "comments": 33,
-      "shares": 45
-    },
-    {
-      "video_id": "7701644908599217440",
-      "username": "notlikeusonly1",
-      "url": "https://www.tiktok.com/@notlikeusonly1/video/7701644908599217440",
-      "published_at": "2026-10-28T10:15:47+01:00",
-      "hashtags": [
-        "deutschland",
-        "düsseldorf",
-        "germany",
-        "nrw",
-        "viral"
-      ],
-      "seed_hashtags": [],
-      "plays": 1000000,
-      "plays_delta": 7000,
-      "likes": 80700,
-      "comments": 552,
-      "shares": 18400
-    },
-    {
-      "video_id": "7702491174136827139",
-      "username": "bild",
-      "url": "https://www.tiktok.com/@bild/video/7702491174136827139",
-      "published_at": "2026-10-30T16:59:46+01:00",
-      "hashtags": [
-        "3108",
-        "demo",
-        "genzregelt",
-        "halloween"
-      ],
-      "seed_hashtags": [
-        "genzregelt"
-      ],
-      "plays": 11500,
-      "plays_delta": 5883,
-      "likes": 175,
-      "comments": 16,
-      "shares": 9
-    },
-    {
-      "video_id": "7702471570761043233",
-      "username": "merleklss",
-      "url": "https://www.tiktok.com/@merleklss/video/7702471570761043233",
-      "published_at": "2026-10-30T15:43:37+01:00",
-      "hashtags": [
-        "genz",
-        "leipzig",
-        "protest"
-      ],
-      "seed_hashtags": [
-        "genzprotest"
-      ],
-      "plays": 193600,
-      "plays_delta": 5700,
-      "likes": 7556,
-      "comments": 417,
-      "shares": 3161
-    },
-    {
-      "video_id": "7702427966948543776",
-      "username": "rtlaktuell",
-      "url": "https://www.tiktok.com/@rtlaktuell/video/7702427966948543776",
-      "published_at": "2026-10-30T12:53:58+01:00",
-      "hashtags": [],
-      "seed_hashtags": [],
-      "plays": 358400,
-      "plays_delta": 5600,
-      "likes": 19600,
-      "comments": 468,
-      "shares": 3380
-    },
-    {
-      "video_id": "7702462083887254787",
-      "username": "lasprovincias.lp",
-      "url": "https://www.tiktok.com/@lasprovincias.lp/video/7702462083887254787",
-      "published_at": "2026-10-30T15:06:52+01:00",
-      "hashtags": [
-        "lasprovincias",
-        "noticias",
-        "valencia"
-      ],
-      "seed_hashtags": [
-        "blocus"
-      ],
-      "plays": 142600,
-      "plays_delta": 5300,
-      "likes": 4527,
-      "comments": 346,
-      "shares": 3526
-    },
-    {
-      "video_id": "7702446783300930838",
-      "username": "elespanolcom",
-      "url": "https://www.tiktok.com/@elespanolcom/video/7702446783300930838",
-      "published_at": "2026-10-30T14:07:31+01:00",
-      "hashtags": [],
-      "seed_hashtags": [
-        "blocus"
-      ],
-      "plays": 228300,
-      "plays_delta": 4000,
-      "likes": 8083,
-      "comments": 89,
-      "shares": 1656
-    },
-    {
-      "video_id": "7702478481409477910",
-      "username": "arayafrasquet",
-      "url": "https://www.tiktok.com/@arayafrasquet/video/7702478481409477910",
-      "published_at": "2026-10-30T16:10:29+01:00",
-      "hashtags": [],
-      "seed_hashtags": [],
-      "plays": 91500,
-      "plays_delta": 3900,
-      "likes": 2950,
-      "comments": 8,
-      "shares": 848
-    },
-    {
-      "video_id": "7702433383292423456",
-      "username": "virmagon",
-      "url": "https://www.tiktok.com/@virmagon/video/7702433383292423456",
-      "published_at": "2026-10-30T13:15:28+01:00",
-      "hashtags": [
-        "ataqueencapuchados",
-        "parati",
-        "sabado",
-        "valencia"
-      ],
-      "seed_hashtags": [],
-      "plays": 641300,
-      "plays_delta": 3700,
-      "likes": 28100,
-      "comments": 964,
-      "shares": 20700
-    },
-    {
-      "video_id": "7702451609795693846",
-      "username": "xica_californiana",
-      "url": "https://www.tiktok.com/@xica_californiana/video/7702451609795693846",
-      "published_at": "2026-10-30T14:26:14+01:00",
-      "hashtags": [
-        "civildisobedience",
-        "halloweennight",
-        "stayalert",
-        "valencia",
-        "valenciaespaña"
-      ],
       "seed_hashtags": [
         "31october",
+        "31octobre"
+      ],
+      "plays": 985800,
+      "plays_delta": 22000,
+      "likes": 68300,
+      "comments": 366,
+      "shares": 20400
+    },
+    {
+      "video_id": "7701809615293451553",
+      "username": "ehvasytoi",
+      "url": "https://www.tiktok.com/@ehvasytoi/video/7701809615293451553",
+      "published_at": "2026-10-28T20:54:54+01:00",
+      "hashtags": [
+        "fyp",
+        "prt",
+        "rn",
+        "song",
+        "trend"
+      ],
+      "seed_hashtags": [],
+      "plays": 80500,
+      "plays_delta": 1200,
+      "likes": 6873,
+      "comments": 290,
+      "shares": 631
+    },
+    {
+      "video_id": "7700872428007722272",
+      "username": "blacklovelinganga",
+      "url": "https://www.tiktok.com/@blacklovelinganga/video/7700872428007722272",
+      "published_at": "2026-10-26T08:18:09+01:00",
+      "hashtags": [
+        "congolaise",
+        "france",
+        "mobilisation",
+        "pourtous",
+        "viralvideos"
+      ],
+      "seed_hashtags": [],
+      "plays": 179700,
+      "plays_delta": 1000,
+      "likes": 11400,
+      "comments": 519,
+      "shares": 4827
+    },
+    {
+      "video_id": "7701686475636673824",
+      "username": "anortherslay",
+      "url": "https://www.tiktok.com/@anortherslay/video/7701686475636673824",
+      "published_at": "2026-10-28T12:57:05+01:00",
+      "hashtags": [
+        "fyp",
+        "meme",
+        "onbloquelextremedroite",
+        "politique"
+      ],
+      "seed_hashtags": [],
+      "plays": 276200,
+      "plays_delta": 400,
+      "likes": 79700,
+      "comments": 200,
+      "shares": 3006
+    },
+    {
+      "video_id": "7701380085168852257",
+      "username": "user18754682319175",
+      "url": "https://www.tiktok.com/@user18754682319175/video/7701380085168852257",
+      "published_at": "2026-10-27T17:08:06+01:00",
+      "hashtags": [
+        "barrage",
+        "lfi",
+        "onbloquelextrêmedroite",
+        "rn"
+      ],
+      "seed_hashtags": [],
+      "plays": 121500,
+      "plays_delta": 400,
+      "likes": 13200,
+      "comments": 167,
+      "shares": 424
+    },
+    {
+      "video_id": "7700683037184412961",
+      "username": "lejournaldefrance",
+      "url": "https://www.tiktok.com/@lejournaldefrance/video/7700683037184412961",
+      "published_at": "2026-10-25T20:03:12+01:00",
+      "hashtags": [],
+      "seed_hashtags": [
+        "31october",
+        "31octobre",
         "31oktober"
       ],
-      "plays": 64600,
-      "plays_delta": 3700,
-      "likes": 2674,
-      "comments": 57,
-      "shares": 2094
+      "plays": 597300,
+      "plays_delta": 300,
+      "likes": 24600,
+      "comments": 2532,
+      "shares": 19600
     },
     {
-      "video_id": "7702458033531571478",
-      "username": "apuntmedia",
-      "url": "https://www.tiktok.com/@apuntmedia/video/7702458033531571478",
-      "published_at": "2026-10-30T14:50:48+01:00",
+      "video_id": "7693563633996991767",
+      "username": "f3cvdl",
+      "url": "https://www.tiktok.com/@f3cvdl/video/7693563633996991767",
+      "published_at": "2026-10-06T16:36:19+02:00",
       "hashtags": [
-        "opmàpunt"
+        "blocus",
+        "lycéens",
+        "manifestation",
+        "mobilisation",
+        "éducation"
+      ],
+      "seed_hashtags": [
+        "blocus",
+        "blocus92",
+        "blocus94",
+        "blocusbelgique",
+        "blocuslycee",
+        "blocuslycée",
+        "bloquonstout",
+        "mobilisationlyceenne"
+      ],
+      "plays": 556800,
+      "plays_delta": 300,
+      "likes": 10800,
+      "comments": 225,
+      "shares": 2960
+    },
+    {
+      "video_id": "7701471107819375905",
+      "username": "bodyresetfr1",
+      "url": "https://www.tiktok.com/@bodyresetfr1/video/7701471107819375905",
+      "published_at": "2026-10-27T23:01:20+01:00",
+      "hashtags": [
+        "mobilisations",
+        "mouvement",
+        "nuque",
+        "seancecomplete",
+        "tractioncervicale"
       ],
       "seed_hashtags": [],
-      "plays": 96000,
-      "plays_delta": 3300,
-      "likes": 3386,
-      "comments": 95,
-      "shares": 1399
+      "plays": 174700,
+      "plays_delta": 200,
+      "likes": 1708,
+      "comments": 18,
+      "shares": 149
     },
     {
-      "video_id": "7702491064925523233",
-      "username": "at88419",
-      "url": "https://www.tiktok.com/@at88419/video/7702491064925523233",
-      "published_at": "2026-10-30T16:59:17+01:00",
+      "video_id": "7700972650931260694",
+      "username": "lamontagne_fr",
+      "url": "https://www.tiktok.com/@lamontagne_fr/video/7700972650931260694",
+      "published_at": "2026-10-26T14:46:41+01:00",
       "hashtags": [],
       "seed_hashtags": [],
-      "plays": 55700,
-      "plays_delta": 3200,
-      "likes": 751,
-      "comments": 26,
-      "shares": 640
+      "plays": 116700,
+      "plays_delta": 200,
+      "likes": 3034,
+      "comments": 276,
+      "shares": 399
+    },
+    {
+      "video_id": "7700287233273629985",
+      "username": "alternatiba",
+      "url": "https://www.tiktok.com/@alternatiba/video/7700287233273629985",
+      "published_at": "2026-10-24T19:27:17+02:00",
+      "hashtags": [
+        "24octobre",
+        "blocus",
+        "giletsjaune",
+        "manif",
+        "manifestation"
+      ],
+      "seed_hashtags": [
+        "mobilisationlyceenne"
+      ],
+      "plays": 17500,
+      "plays_delta": 200,
+      "likes": 1524,
+      "comments": 68,
+      "shares": 101
+    },
+    {
+      "video_id": "7697912162253131041",
+      "username": "voyage_de_la_vie2",
+      "url": "https://www.tiktok.com/@voyage_de_la_vie2/video/7697912162253131041",
+      "published_at": "2026-10-18T09:50:53+02:00",
+      "hashtags": [
+        "france",
+        "memory",
+        "octobre",
+        "paris",
+        "rassemblemen"
+      ],
+      "seed_hashtags": [],
+      "plays": 550600,
+      "plays_delta": 100,
+      "likes": 7430,
+      "comments": 497,
+      "shares": 6470
+    },
+    {
+      "video_id": "7700200017696443670",
+      "username": "acturennes",
+      "url": "https://www.tiktok.com/@acturennes/video/7700200017696443670",
+      "published_at": "2026-10-24T13:48:52+02:00",
+      "hashtags": [],
+      "seed_hashtags": [],
+      "plays": 343200,
+      "plays_delta": 100,
+      "likes": 5136,
+      "comments": 101,
+      "shares": 257
+    },
+    {
+      "video_id": "7701613006320454944",
+      "username": "coppelia.moreau",
+      "url": "https://www.tiktok.com/@coppelia.moreau/video/7701613006320454944",
+      "published_at": "2026-10-28T08:12:00+01:00",
+      "hashtags": [],
+      "seed_hashtags": [
+        "mobilisationlyceenne"
+      ],
+      "plays": 249200,
+      "plays_delta": 100,
+      "likes": 29200,
+      "comments": 1474,
+      "shares": 1837
+    },
+    {
+      "video_id": "7700932831819812099",
+      "username": "brutofficiel",
+      "url": "https://www.tiktok.com/@brutofficiel/video/7700932831819812099",
+      "published_at": "2026-10-26T12:12:02+01:00",
+      "hashtags": [],
+      "seed_hashtags": [
+        "mobilisationlyceenne"
+      ],
+      "plays": 171100,
+      "plays_delta": 100,
+      "likes": 18900,
+      "comments": 155,
+      "shares": 620
+    },
+    {
+      "video_id": "7700999088497495318",
+      "username": "parismatch",
+      "url": "https://www.tiktok.com/@parismatch/video/7700999088497495318",
+      "published_at": "2026-10-26T16:29:39+01:00",
+      "hashtags": [
+        "24octobre",
+        "emmanuelmacron",
+        "france",
+        "macron",
+        "manifestations",
+        "sinformersurtiktok"
+      ],
+      "seed_hashtags": [],
+      "plays": 72600,
+      "plays_delta": 100,
+      "likes": 1860,
+      "comments": 884,
+      "shares": 357
     }
   ],
   "links": {
@@ -1891,23 +1903,23 @@
         "code": "FR",
         "name": "Francia"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "FR",
         "country_name": "Francia",
-        "videos_window": 430,
-        "new_videos": 0,
-        "total_videos_db": 5297,
+        "videos_window": 431,
+        "new_videos": 1,
+        "total_videos_db": 5298,
         "hashtags_distinct": 553
       },
       "hashtags": [
@@ -2031,6 +2043,13 @@
           "plays": 80904
         },
         {
+          "hashtag": "giletsjaune",
+          "publications": 12,
+          "delta": 0,
+          "users": 10,
+          "plays": 22012
+        },
+        {
           "hashtag": "police",
           "publications": 12,
           "delta": 0,
@@ -2038,11 +2057,11 @@
           "plays": 115681
         },
         {
-          "hashtag": "giletsjaune",
-          "publications": 12,
+          "hashtag": "politique",
+          "publications": 11,
           "delta": 0,
-          "users": 10,
-          "plays": 22012
+          "users": 11,
+          "plays": 107132
         },
         {
           "hashtag": "viral",
@@ -2059,13 +2078,6 @@
           "plays": 141894
         },
         {
-          "hashtag": "politique",
-          "publications": 11,
-          "delta": 0,
-          "users": 11,
-          "plays": 107132
-        },
-        {
           "hashtag": "mobilisation",
           "publications": 10,
           "delta": 0,
@@ -2080,25 +2092,18 @@
           "plays": 217967
         },
         {
-          "hashtag": "giletsjaunes",
-          "publications": 9,
-          "delta": 0,
-          "users": 9,
-          "plays": 28586
-        },
-        {
-          "hashtag": "halloween2026",
-          "publications": 9,
-          "delta": 0,
-          "users": 9,
-          "plays": 640244
-        },
-        {
           "hashtag": "proteste",
           "publications": 9,
           "delta": 0,
           "users": 9,
           "plays": 345961
+        },
+        {
+          "hashtag": "giletsjaunes",
+          "publications": 9,
+          "delta": 0,
+          "users": 9,
+          "plays": 28586
         },
         {
           "hashtag": "deutschland",
@@ -2108,11 +2113,11 @@
           "plays": 17500
         },
         {
-          "hashtag": "cgt",
-          "publications": 8,
+          "hashtag": "halloween2026",
+          "publications": 9,
           "delta": 0,
-          "users": 7,
-          "plays": 95805
+          "users": 9,
+          "plays": 640244
         },
         {
           "hashtag": "info",
@@ -2120,11 +2125,18 @@
           "delta": 0,
           "users": 8,
           "plays": 50235
+        },
+        {
+          "hashtag": "actualité",
+          "publications": 8,
+          "delta": 0,
+          "users": 7,
+          "plays": 13282
         }
       ],
       "dates": {
         "distinct": 7,
-        "publication_date_relations": 62,
+        "publication_date_relations": 63,
         "items": [
           {
             "date": "2026-10-29",
@@ -2169,9 +2181,9 @@
           },
           {
             "date": "2026-10-30",
-            "publications": 7,
-            "users": 7,
-            "frames": 19,
+            "publications": 8,
+            "users": 8,
+            "frames": 23,
             "expressions": [
               {
                 "text": "30/10",
@@ -2195,6 +2207,10 @@
               },
               {
                 "text": "vendredi",
+                "publications": 1
+              },
+              {
+                "text": "30.10.2026",
                 "publications": 1
               }
             ],
@@ -2542,45 +2558,185 @@
       },
       "viral_videos": [
         {
-          "video_id": "7701770547209833760",
-          "username": "sat1regional",
-          "url": "https://www.tiktok.com/@sat1regional/video/7701770547209833760",
-          "published_at": "2026-10-28T18:23:17+01:00",
-          "hashtags": [
-            "demonstration",
-            "genz",
-            "hannover",
-            "klimaschutz",
-            "proteste"
-          ],
+          "video_id": "7702447447162834198",
+          "username": "tf1info",
+          "url": "https://www.tiktok.com/@tf1info/video/7702447447162834198",
+          "published_at": "2026-10-30T14:10:06+01:00",
+          "hashtags": [],
           "seed_hashtags": [
-            "genzprotest"
+            "31october",
+            "31octobre"
           ],
-          "plays": 27800,
-          "plays_delta": 16600,
-          "likes": 989,
-          "comments": 25,
-          "shares": 232
+          "plays": 985800,
+          "plays_delta": 22000,
+          "likes": 68300,
+          "comments": 366,
+          "shares": 20400
         },
         {
-          "video_id": "7702491174136827139",
-          "username": "bild",
-          "url": "https://www.tiktok.com/@bild/video/7702491174136827139",
-          "published_at": "2026-10-30T16:59:46+01:00",
+          "video_id": "7700872428007722272",
+          "username": "blacklovelinganga",
+          "url": "https://www.tiktok.com/@blacklovelinganga/video/7700872428007722272",
+          "published_at": "2026-10-26T08:18:09+01:00",
           "hashtags": [
-            "3108",
-            "demo",
-            "genzregelt",
-            "halloween"
+            "congolaise",
+            "france",
+            "mobilisation",
+            "pourtous",
+            "viralvideos"
+          ],
+          "seed_hashtags": [],
+          "plays": 179700,
+          "plays_delta": 1000,
+          "likes": 11400,
+          "comments": 519,
+          "shares": 4827
+        },
+        {
+          "video_id": "7700683037184412961",
+          "username": "lejournaldefrance",
+          "url": "https://www.tiktok.com/@lejournaldefrance/video/7700683037184412961",
+          "published_at": "2026-10-25T20:03:12+01:00",
+          "hashtags": [],
+          "seed_hashtags": [
+            "31october",
+            "31octobre",
+            "31oktober"
+          ],
+          "plays": 597300,
+          "plays_delta": 300,
+          "likes": 24600,
+          "comments": 2532,
+          "shares": 19600
+        },
+        {
+          "video_id": "7693563633996991767",
+          "username": "f3cvdl",
+          "url": "https://www.tiktok.com/@f3cvdl/video/7693563633996991767",
+          "published_at": "2026-10-06T16:36:19+02:00",
+          "hashtags": [
+            "blocus",
+            "lycéens",
+            "manifestation",
+            "mobilisation",
+            "éducation"
           ],
           "seed_hashtags": [
-            "genzregelt"
+            "blocus",
+            "blocus92",
+            "blocus94",
+            "blocusbelgique",
+            "blocuslycee",
+            "blocuslycée",
+            "bloquonstout",
+            "mobilisationlyceenne"
           ],
-          "plays": 11500,
-          "plays_delta": 5883,
-          "likes": 175,
-          "comments": 16,
-          "shares": 9
+          "plays": 556800,
+          "plays_delta": 300,
+          "likes": 10800,
+          "comments": 225,
+          "shares": 2960
+        },
+        {
+          "video_id": "7700972650931260694",
+          "username": "lamontagne_fr",
+          "url": "https://www.tiktok.com/@lamontagne_fr/video/7700972650931260694",
+          "published_at": "2026-10-26T14:46:41+01:00",
+          "hashtags": [],
+          "seed_hashtags": [],
+          "plays": 116700,
+          "plays_delta": 200,
+          "likes": 3034,
+          "comments": 276,
+          "shares": 399
+        },
+        {
+          "video_id": "7700287233273629985",
+          "username": "alternatiba",
+          "url": "https://www.tiktok.com/@alternatiba/video/7700287233273629985",
+          "published_at": "2026-10-24T19:27:17+02:00",
+          "hashtags": [
+            "24octobre",
+            "blocus",
+            "giletsjaune",
+            "manif",
+            "manifestation"
+          ],
+          "seed_hashtags": [
+            "mobilisationlyceenne"
+          ],
+          "plays": 17500,
+          "plays_delta": 200,
+          "likes": 1524,
+          "comments": 68,
+          "shares": 101
+        },
+        {
+          "video_id": "7697912162253131041",
+          "username": "voyage_de_la_vie2",
+          "url": "https://www.tiktok.com/@voyage_de_la_vie2/video/7697912162253131041",
+          "published_at": "2026-10-18T09:50:53+02:00",
+          "hashtags": [
+            "france",
+            "memory",
+            "octobre",
+            "paris",
+            "rassemblemen"
+          ],
+          "seed_hashtags": [],
+          "plays": 550600,
+          "plays_delta": 100,
+          "likes": 7430,
+          "comments": 497,
+          "shares": 6470
+        },
+        {
+          "video_id": "7700200017696443670",
+          "username": "acturennes",
+          "url": "https://www.tiktok.com/@acturennes/video/7700200017696443670",
+          "published_at": "2026-10-24T13:48:52+02:00",
+          "hashtags": [],
+          "seed_hashtags": [],
+          "plays": 343200,
+          "plays_delta": 100,
+          "likes": 5136,
+          "comments": 101,
+          "shares": 257
+        },
+        {
+          "video_id": "7701613006320454944",
+          "username": "coppelia.moreau",
+          "url": "https://www.tiktok.com/@coppelia.moreau/video/7701613006320454944",
+          "published_at": "2026-10-28T08:12:00+01:00",
+          "hashtags": [],
+          "seed_hashtags": [
+            "mobilisationlyceenne"
+          ],
+          "plays": 249200,
+          "plays_delta": 100,
+          "likes": 29200,
+          "comments": 1474,
+          "shares": 1837
+        },
+        {
+          "video_id": "7700999088497495318",
+          "username": "parismatch",
+          "url": "https://www.tiktok.com/@parismatch/video/7700999088497495318",
+          "published_at": "2026-10-26T16:29:39+01:00",
+          "hashtags": [
+            "24octobre",
+            "emmanuelmacron",
+            "france",
+            "macron",
+            "manifestations",
+            "sinformersurtiktok"
+          ],
+          "seed_hashtags": [],
+          "plays": 72600,
+          "plays_delta": 100,
+          "likes": 1860,
+          "comments": 884,
+          "shares": 357
         }
       ],
       "links": {
@@ -3140,18 +3296,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 45,
@@ -3185,13 +3341,6 @@
             "plays": 58201
           },
           {
-            "hashtag": "genz",
-            "publications": 4,
-            "delta": 0,
-            "users": 4,
-            "plays": 31184
-          },
-          {
             "hashtag": "31octobre",
             "publications": 4,
             "delta": 0,
@@ -3199,11 +3348,46 @@
             "plays": 126579
           },
           {
+            "hashtag": "genz",
+            "publications": 4,
+            "delta": 0,
+            "users": 4,
+            "plays": 31184
+          },
+          {
             "hashtag": "protest",
             "publications": 3,
             "delta": 0,
             "users": 3,
             "plays": 83396
+          },
+          {
+            "hashtag": "marseille",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 3916
+          },
+          {
+            "hashtag": "lycee",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 3602
+          },
+          {
+            "hashtag": "politique",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 3446
+          },
+          {
+            "hashtag": "blocus",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 336
           },
           {
             "hashtag": "mobilisation",
@@ -3220,105 +3404,7 @@
             "plays": 26766
           },
           {
-            "hashtag": "lycee",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 3602
-          },
-          {
-            "hashtag": "blocus",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 336
-          },
-          {
-            "hashtag": "politique",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 3446
-          },
-          {
-            "hashtag": "marseille",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 3916
-          },
-          {
-            "hashtag": "germany",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 52900
-          },
-          {
-            "hashtag": "comeback",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 52900
-          },
-          {
-            "hashtag": "demo",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 280
-          },
-          {
-            "hashtag": "politik",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 280
-          },
-          {
-            "hashtag": "31oktober",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 280
-          },
-          {
-            "hashtag": "bruxelles",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 5540
-          },
-          {
-            "hashtag": "belgique",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 5540
-          },
-          {
-            "hashtag": "liege",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 5540
-          },
-          {
-            "hashtag": "parcours",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 8788
-          },
-          {
-            "hashtag": "cgt",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 556
-          },
-          {
-            "hashtag": "manifestation31octobre",
+            "hashtag": "lfi",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -3332,18 +3418,81 @@
             "plays": 932
           },
           {
-            "hashtag": "lfi",
+            "hashtag": "halloween2026",
             "publications": 1,
             "delta": 0,
             "users": 1,
             "plays": 932
           },
           {
-            "hashtag": "halloween2026",
+            "hashtag": "manifestation31octobre",
             "publications": 1,
             "delta": 0,
             "users": 1,
             "plays": 932
+          },
+          {
+            "hashtag": "cgt",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 556
+          },
+          {
+            "hashtag": "travel",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 2463
+          },
+          {
+            "hashtag": "5novembre",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 977
+          },
+          {
+            "hashtag": "syndicats",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 977
+          },
+          {
+            "hashtag": "grève",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 977
+          },
+          {
+            "hashtag": "etudiants",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 3356
+          },
+          {
+            "hashtag": "giletsjaunes",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 3356
+          },
+          {
+            "hashtag": "onregardequoi",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 125000
+          },
+          {
+            "hashtag": "31daysofhalloween",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 564
           },
           {
             "hashtag": "saverne",
@@ -3360,14 +3509,21 @@
             "plays": 564
           },
           {
-            "hashtag": "31daysofhalloween",
+            "hashtag": "lyon",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 564
+            "plays": 1453
           },
           {
             "hashtag": "rentree",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 246
+          },
+          {
+            "hashtag": "convergence",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -3988,22 +4144,22 @@
         "code": "DE",
         "name": "Alemania"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "DE",
         "country_name": "Alemania",
         "videos_window": 398,
-        "new_videos": 5,
+        "new_videos": 0,
         "total_videos_db": 2405,
         "hashtags_distinct": 462
       },
@@ -4149,18 +4305,18 @@
           "plays": 792940
         },
         {
-          "hashtag": "kudamm",
-          "publications": 12,
-          "delta": 0,
-          "users": 10,
-          "plays": 1880750
-        },
-        {
           "hashtag": "leipzig",
           "publications": 12,
           "delta": 0,
           "users": 10,
           "plays": 1312245
+        },
+        {
+          "hashtag": "kudamm",
+          "publications": 12,
+          "delta": 0,
+          "users": 10,
+          "plays": 1880750
         },
         {
           "hashtag": "politik",
@@ -4184,6 +4340,13 @@
           "plays": 1459514
         },
         {
+          "hashtag": "fürdich",
+          "publications": 8,
+          "delta": 0,
+          "users": 8,
+          "plays": 78934
+        },
+        {
           "hashtag": "frankreich",
           "publications": 8,
           "delta": 0,
@@ -4196,13 +4359,6 @@
           "delta": 0,
           "users": 8,
           "plays": 81105
-        },
-        {
-          "hashtag": "fürdich",
-          "publications": 8,
-          "delta": 0,
-          "users": 8,
-          "plays": 78934
         },
         {
           "hashtag": "köln",
@@ -4504,112 +4660,21 @@
       },
       "viral_videos": [
         {
-          "video_id": "7701770547209833760",
-          "username": "sat1regional",
-          "url": "https://www.tiktok.com/@sat1regional/video/7701770547209833760",
-          "published_at": "2026-10-28T18:23:17+01:00",
-          "hashtags": [
-            "demonstration",
-            "genz",
-            "hannover",
-            "klimaschutz",
-            "proteste"
-          ],
-          "seed_hashtags": [
-            "genzprotest"
-          ],
-          "plays": 27800,
-          "plays_delta": 16600,
-          "likes": 989,
-          "comments": 25,
-          "shares": 232
-        },
-        {
-          "video_id": "7702416423708101921",
-          "username": "nataliepeters25",
-          "url": "https://www.tiktok.com/@nataliepeters25/video/7702416423708101921",
-          "published_at": "2026-10-30T12:09:40+01:00",
+          "video_id": "7700683037184412961",
+          "username": "lejournaldefrance",
+          "url": "https://www.tiktok.com/@lejournaldefrance/video/7700683037184412961",
+          "published_at": "2026-10-25T20:03:12+01:00",
           "hashtags": [],
           "seed_hashtags": [
-            "genzregelt"
-          ],
-          "plays": 50500,
-          "plays_delta": 11000,
-          "likes": 460,
-          "comments": 32,
-          "shares": 551
-        },
-        {
-          "video_id": "7702503250343316769",
-          "username": "snowdropp",
-          "url": "https://www.tiktok.com/@snowdropp/video/7702503250343316769",
-          "published_at": "2026-10-30T17:46:34+01:00",
-          "hashtags": [
-            "31oktober",
-            "3proteste",
-            "bildung",
-            "deutschland",
-            "medien"
-          ],
-          "seed_hashtags": [
+            "31october",
+            "31octobre",
             "31oktober"
           ],
-          "plays": 8159,
-          "plays_delta": 7439,
-          "likes": 689,
-          "comments": 33,
-          "shares": 45
-        },
-        {
-          "video_id": "7701644908599217440",
-          "username": "notlikeusonly1",
-          "url": "https://www.tiktok.com/@notlikeusonly1/video/7701644908599217440",
-          "published_at": "2026-10-28T10:15:47+01:00",
-          "hashtags": [
-            "deutschland",
-            "düsseldorf",
-            "germany",
-            "nrw",
-            "viral"
-          ],
-          "seed_hashtags": [],
-          "plays": 1000000,
-          "plays_delta": 7000,
-          "likes": 80700,
-          "comments": 552,
-          "shares": 18400
-        },
-        {
-          "video_id": "7702471570761043233",
-          "username": "merleklss",
-          "url": "https://www.tiktok.com/@merleklss/video/7702471570761043233",
-          "published_at": "2026-10-30T15:43:37+01:00",
-          "hashtags": [
-            "genz",
-            "leipzig",
-            "protest"
-          ],
-          "seed_hashtags": [
-            "genzprotest"
-          ],
-          "plays": 193600,
-          "plays_delta": 5700,
-          "likes": 7556,
-          "comments": 417,
-          "shares": 3161
-        },
-        {
-          "video_id": "7702427966948543776",
-          "username": "rtlaktuell",
-          "url": "https://www.tiktok.com/@rtlaktuell/video/7702427966948543776",
-          "published_at": "2026-10-30T12:53:58+01:00",
-          "hashtags": [],
-          "seed_hashtags": [],
-          "plays": 358400,
-          "plays_delta": 5600,
-          "likes": 19600,
-          "comments": 468,
-          "shares": 3380
+          "plays": 597300,
+          "plays_delta": 300,
+          "likes": 24600,
+          "comments": 2532,
+          "shares": 19600
         }
       ],
       "links": {
@@ -4957,18 +5022,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 45,
@@ -4995,13 +5060,6 @@
             "plays": 336490
           },
           {
-            "hashtag": "demo",
-            "publications": 5,
-            "delta": 0,
-            "users": 5,
-            "plays": 33926
-          },
-          {
             "hashtag": "berlin",
             "publications": 5,
             "delta": 0,
@@ -5023,11 +5081,11 @@
             "plays": 322979
           },
           {
-            "hashtag": "deutschland",
-            "publications": 4,
+            "hashtag": "demo",
+            "publications": 5,
             "delta": 0,
-            "users": 4,
-            "plays": 281818
+            "users": 5,
+            "plays": 33926
           },
           {
             "hashtag": "genzregelt",
@@ -5037,25 +5095,11 @@
             "plays": 30040
           },
           {
-            "hashtag": "germany",
-            "publications": 2,
+            "hashtag": "deutschland",
+            "publications": 4,
             "delta": 0,
-            "users": 2,
-            "plays": 53055
-          },
-          {
-            "hashtag": "fy",
-            "publications": 2,
-            "delta": 0,
-            "users": 1,
-            "plays": 565
-          },
-          {
-            "hashtag": "fypp",
-            "publications": 2,
-            "delta": 0,
-            "users": 1,
-            "plays": 565
+            "users": 4,
+            "plays": 281818
           },
           {
             "hashtag": "31october",
@@ -5065,6 +5109,20 @@
             "plays": 28216
           },
           {
+            "hashtag": "fypp",
+            "publications": 2,
+            "delta": 0,
+            "users": 1,
+            "plays": 565
+          },
+          {
+            "hashtag": "fy",
+            "publications": 2,
+            "delta": 0,
+            "users": 1,
+            "plays": 565
+          },
+          {
             "hashtag": "oktober",
             "publications": 2,
             "delta": 0,
@@ -5072,74 +5130,60 @@
             "plays": 1158
           },
           {
-            "hashtag": "comeback",
-            "publications": 1,
+            "hashtag": "germany",
+            "publications": 2,
             "delta": 0,
-            "users": 1,
-            "plays": 52900
+            "users": 2,
+            "plays": 53055
           },
           {
-            "hashtag": "france",
+            "hashtag": "stirigermania",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 52900
+            "plays": 151
           },
           {
-            "hashtag": "politik",
+            "hashtag": "romaniingermania",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 280
+            "plays": 151
           },
           {
-            "hashtag": "31oktober",
+            "hashtag": "germanyprotest",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 280
+            "plays": 25900
           },
           {
-            "hashtag": "protesti",
+            "hashtag": "deutschlandprotest",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 23900
+            "plays": 25900
           },
           {
-            "hashtag": "francuska",
+            "hashtag": "system",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 23900
+            "plays": 2316
           },
           {
-            "hashtag": "balkanacunemačkoj",
+            "hashtag": "berlinupdate",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 23900
+            "plays": 2779
           },
           {
-            "hashtag": "nemačka",
+            "hashtag": "demoberlin",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 23900
-          },
-          {
-            "hashtag": "frankfurtammain",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 269100
-          },
-          {
-            "hashtag": "3110",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 744
+            "plays": 2779
           },
           {
             "hashtag": "köln",
@@ -5156,6 +5200,13 @@
             "plays": 744
           },
           {
+            "hashtag": "3110",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 744
+          },
+          {
             "hashtag": "realität",
             "publications": 1,
             "delta": 0,
@@ -5163,11 +5214,25 @@
             "plays": 744
           },
           {
-            "hashtag": "system",
+            "hashtag": "bafög",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 2316
+            "plays": 1038
+          },
+          {
+            "hashtag": "streiken",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 1038
+          },
+          {
+            "hashtag": "studentproblems",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 1038
           },
           {
             "hashtag": "demonstration",
@@ -5177,14 +5242,14 @@
             "plays": 262
           },
           {
-            "hashtag": "2026",
+            "hashtag": "berlinevents",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 155
+            "plays": 1863
           },
           {
-            "hashtag": "berlinevents",
+            "hashtag": "berlinprotest",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -5548,22 +5613,22 @@
         "code": "ES",
         "name": "España"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "ES",
         "country_name": "España",
         "videos_window": 126,
-        "new_videos": 3,
+        "new_videos": 0,
         "total_videos_db": 444,
         "hashtags_distinct": 184
       },
@@ -5571,7 +5636,7 @@
         {
           "hashtag": "blocus",
           "publications": 61,
-          "delta": 1,
+          "delta": 0,
           "users": 53,
           "plays": 2498403
         },
@@ -5606,7 +5671,7 @@
         {
           "hashtag": "madrid",
           "publications": 13,
-          "delta": 1,
+          "delta": 0,
           "users": 13,
           "plays": 659102
         },
@@ -5639,18 +5704,18 @@
           "plays": 438031
         },
         {
-          "hashtag": "guardiacivil",
-          "publications": 7,
-          "delta": 0,
-          "users": 7,
-          "plays": 108288
-        },
-        {
           "hashtag": "blocusvlc",
           "publications": 7,
           "delta": 0,
           "users": 6,
           "plays": 6816
+        },
+        {
+          "hashtag": "guardiacivil",
+          "publications": 7,
+          "delta": 0,
+          "users": 7,
+          "plays": 108288
         },
         {
           "hashtag": "policianacional",
@@ -5688,18 +5753,18 @@
           "plays": 125847
         },
         {
-          "hashtag": "noticia",
-          "publications": 5,
-          "delta": 0,
-          "users": 1,
-          "plays": 346423
-        },
-        {
           "hashtag": "halloween2026",
           "publications": 5,
           "delta": 0,
           "users": 5,
           "plays": 13912
+        },
+        {
+          "hashtag": "noticia",
+          "publications": 5,
+          "delta": 0,
+          "users": 1,
+          "plays": 346423
         },
         {
           "hashtag": "policíanacional",
@@ -5723,6 +5788,27 @@
           "plays": 30235
         },
         {
+          "hashtag": "renfe",
+          "publications": 3,
+          "delta": 0,
+          "users": 3,
+          "plays": 13118
+        },
+        {
+          "hashtag": "huelga",
+          "publications": 3,
+          "delta": 0,
+          "users": 3,
+          "plays": 13277
+        },
+        {
+          "hashtag": "comercios",
+          "publications": 3,
+          "delta": 0,
+          "users": 3,
+          "plays": 266657
+        },
+        {
           "hashtag": "alfafar",
           "publications": 3,
           "delta": 0,
@@ -5737,32 +5823,11 @@
           "plays": 10352
         },
         {
-          "hashtag": "comercios",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 266657
-        },
-        {
-          "hashtag": "huelga",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 13277
-        },
-        {
           "hashtag": "protestas",
           "publications": 3,
           "delta": 0,
           "users": 3,
           "plays": 746425
-        },
-        {
-          "hashtag": "spain",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 5526
         },
         {
           "hashtag": "difundir",
@@ -5772,11 +5837,11 @@
           "plays": 66400
         },
         {
-          "hashtag": "renfe",
+          "hashtag": "spain",
           "publications": 3,
           "delta": 0,
           "users": 3,
-          "plays": 13118
+          "plays": 5526
         }
       ],
       "dates": {
@@ -6141,112 +6206,7 @@
           }
         ]
       },
-      "viral_videos": [
-        {
-          "video_id": "7702467837826190614",
-          "username": "laveudelfoc",
-          "url": "https://www.tiktok.com/@laveudelfoc/video/7702467837826190614",
-          "published_at": "2026-10-30T15:29:13+01:00",
-          "hashtags": [],
-          "seed_hashtags": [
-            "31octobre"
-          ],
-          "plays": 505000,
-          "plays_delta": 26300,
-          "likes": 39900,
-          "comments": 592,
-          "shares": 18800
-        },
-        {
-          "video_id": "7702462083887254787",
-          "username": "lasprovincias.lp",
-          "url": "https://www.tiktok.com/@lasprovincias.lp/video/7702462083887254787",
-          "published_at": "2026-10-30T15:06:52+01:00",
-          "hashtags": [
-            "lasprovincias",
-            "noticias",
-            "valencia"
-          ],
-          "seed_hashtags": [
-            "blocus"
-          ],
-          "plays": 142600,
-          "plays_delta": 5300,
-          "likes": 4527,
-          "comments": 346,
-          "shares": 3526
-        },
-        {
-          "video_id": "7702446783300930838",
-          "username": "elespanolcom",
-          "url": "https://www.tiktok.com/@elespanolcom/video/7702446783300930838",
-          "published_at": "2026-10-30T14:07:31+01:00",
-          "hashtags": [],
-          "seed_hashtags": [
-            "blocus"
-          ],
-          "plays": 228300,
-          "plays_delta": 4000,
-          "likes": 8083,
-          "comments": 89,
-          "shares": 1656
-        },
-        {
-          "video_id": "7702433383292423456",
-          "username": "virmagon",
-          "url": "https://www.tiktok.com/@virmagon/video/7702433383292423456",
-          "published_at": "2026-10-30T13:15:28+01:00",
-          "hashtags": [
-            "ataqueencapuchados",
-            "parati",
-            "sabado",
-            "valencia"
-          ],
-          "seed_hashtags": [],
-          "plays": 641300,
-          "plays_delta": 3700,
-          "likes": 28100,
-          "comments": 964,
-          "shares": 20700
-        },
-        {
-          "video_id": "7702451609795693846",
-          "username": "xica_californiana",
-          "url": "https://www.tiktok.com/@xica_californiana/video/7702451609795693846",
-          "published_at": "2026-10-30T14:26:14+01:00",
-          "hashtags": [
-            "civildisobedience",
-            "halloweennight",
-            "stayalert",
-            "valencia",
-            "valenciaespaña"
-          ],
-          "seed_hashtags": [
-            "31october",
-            "31oktober"
-          ],
-          "plays": 64600,
-          "plays_delta": 3700,
-          "likes": 2674,
-          "comments": 57,
-          "shares": 2094
-        },
-        {
-          "video_id": "7702458033531571478",
-          "username": "apuntmedia",
-          "url": "https://www.tiktok.com/@apuntmedia/video/7702458033531571478",
-          "published_at": "2026-10-30T14:50:48+01:00",
-          "hashtags": [
-            "opmàpunt"
-          ],
-          "seed_hashtags": [],
-          "plays": 96000,
-          "plays_delta": 3300,
-          "likes": 3386,
-          "comments": 95,
-          "shares": 1399
-        }
-      ],
+      "viral_videos": [],
       "links": {
         "total_unique": 2,
         "active_unique": 0,
@@ -6462,18 +6422,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 37,
@@ -6514,39 +6474,11 @@
             "plays": 162591
           },
           {
-            "hashtag": "halloween2026",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 4086
-          },
-          {
-            "hashtag": "guardiacivil",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 4448
-          },
-          {
-            "hashtag": "blocusvlc",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 3082
-          },
-          {
             "hashtag": "sucesos",
             "publications": 2,
             "delta": 0,
             "users": 2,
             "plays": 5156
-          },
-          {
-            "hashtag": "alfafar",
-            "publications": 2,
-            "delta": 0,
-            "users": 2,
-            "plays": 3082
           },
           {
             "hashtag": "saqueos",
@@ -6563,14 +6495,105 @@
             "plays": 1417
           },
           {
-            "hashtag": "actualidadvalenciana",
+            "hashtag": "guardiacivil",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 4448
+          },
+          {
+            "hashtag": "halloween2026",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 4086
+          },
+          {
+            "hashtag": "blocusvlc",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 3082
+          },
+          {
+            "hashtag": "alfafar",
+            "publications": 2,
+            "delta": 0,
+            "users": 2,
+            "plays": 3082
+          },
+          {
+            "hashtag": "negocio",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 2531
+            "plays": 21600
           },
           {
-            "hashtag": "noticiasvalencia",
+            "hashtag": "españa",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 160500
+          },
+          {
+            "hashtag": "fuckaeaet",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 160500
+          },
+          {
+            "hashtag": "policía",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 2625
+          },
+          {
+            "hashtag": "detenidos",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 1917
+          },
+          {
+            "hashtag": "trenes",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 881
+          },
+          {
+            "hashtag": "madridinformacion",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 881
+          },
+          {
+            "hashtag": "huelga",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 881
+          },
+          {
+            "hashtag": "renfe",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 881
+          },
+          {
+            "hashtag": "gofri",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 551
+          },
+          {
+            "hashtag": "noticiasespaña",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -6584,20 +6607,6 @@
             "plays": 2531
           },
           {
-            "hashtag": "seguridadciudadana",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "elperiodic",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
             "hashtag": "comerciolocal",
             "publications": 1,
             "delta": 0,
@@ -6605,42 +6614,7 @@
             "plays": 2531
           },
           {
-            "hashtag": "comunitatvalenciana",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "valència",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "noticiastiktok",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "halloweenvalencia",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "hortasud",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2531
-          },
-          {
-            "hashtag": "policianacional",
+            "hashtag": "noticiasvalencia",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -6654,46 +6628,32 @@
             "plays": 2531
           },
           {
-            "hashtag": "tiktoknoticias",
+            "hashtag": "actualidadvalenciana",
             "publications": 1,
             "delta": 0,
             "users": 1,
             "plays": 2531
           },
           {
-            "hashtag": "comunidadvalenciana",
+            "hashtag": "valència",
             "publications": 1,
             "delta": 0,
             "users": 1,
             "plays": 2531
           },
           {
-            "hashtag": "noticiasespaña",
+            "hashtag": "hortasud",
             "publications": 1,
             "delta": 0,
             "users": 1,
             "plays": 2531
           },
           {
-            "hashtag": "detenidos",
+            "hashtag": "comunitatvalenciana",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 1917
-          },
-          {
-            "hashtag": "policía",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 2625
-          },
-          {
-            "hashtag": "negocio",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 21600
+            "plays": 2531
           }
         ],
         "dates": {
@@ -7114,17 +7074,17 @@
         "code": "IT",
         "name": "Italia"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "IT",
         "country_name": "Italia",
@@ -7134,13 +7094,6 @@
         "hashtags_distinct": 110
       },
       "hashtags": [
-        {
-          "hashtag": "sciopero",
-          "publications": 7,
-          "delta": 0,
-          "users": 7,
-          "plays": 641672
-        },
         {
           "hashtag": "italia",
           "publications": 7,
@@ -7154,6 +7107,13 @@
           "delta": 0,
           "users": 6,
           "plays": 76810
+        },
+        {
+          "hashtag": "sciopero",
+          "publications": 7,
+          "delta": 0,
+          "users": 7,
+          "plays": 641672
         },
         {
           "hashtag": "protest",
@@ -7170,6 +7130,13 @@
           "plays": 11734
         },
         {
+          "hashtag": "italy",
+          "publications": 5,
+          "delta": 0,
+          "users": 5,
+          "plays": 21369
+        },
+        {
           "hashtag": "roma",
           "publications": 5,
           "delta": 0,
@@ -7184,11 +7151,11 @@
           "plays": 128174
         },
         {
-          "hashtag": "italy",
-          "publications": 5,
+          "hashtag": "proteste",
+          "publications": 4,
           "delta": 0,
-          "users": 5,
-          "plays": 21369
+          "users": 3,
+          "plays": 1023397
         },
         {
           "hashtag": "news",
@@ -7198,39 +7165,11 @@
           "plays": 315297
         },
         {
-          "hashtag": "proteste",
-          "publications": 4,
-          "delta": 0,
-          "users": 3,
-          "plays": 1023397
-        },
-        {
-          "hashtag": "carovita",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 29958
-        },
-        {
-          "hashtag": "fyp",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 4745
-        },
-        {
           "hashtag": "blocus",
           "publications": 3,
           "delta": 0,
           "users": 3,
           "plays": 39782
-        },
-        {
-          "hashtag": "studenti",
-          "publications": 3,
-          "delta": 0,
-          "users": 3,
-          "plays": 178000
         },
         {
           "hashtag": "scioperogenerale",
@@ -7240,6 +7179,13 @@
           "plays": 271400
         },
         {
+          "hashtag": "genzregelt",
+          "publications": 3,
+          "delta": 0,
+          "users": 3,
+          "plays": 72406
+        },
+        {
           "hashtag": "venezia",
           "publications": 3,
           "delta": 0,
@@ -7247,11 +7193,18 @@
           "plays": 208029
         },
         {
-          "hashtag": "genzregelt",
+          "hashtag": "fyp",
           "publications": 3,
           "delta": 0,
           "users": 3,
-          "plays": 72406
+          "plays": 4745
+        },
+        {
+          "hashtag": "carovita",
+          "publications": 3,
+          "delta": 0,
+          "users": 3,
+          "plays": 29958
         },
         {
           "hashtag": "napoli",
@@ -7261,25 +7214,11 @@
           "plays": 374979
         },
         {
-          "hashtag": "tangenziale",
-          "publications": 2,
+          "hashtag": "studenti",
+          "publications": 3,
           "delta": 0,
-          "users": 2,
-          "plays": 306400
-        },
-        {
-          "hashtag": "cronaca",
-          "publications": 2,
-          "delta": 0,
-          "users": 2,
-          "plays": 177697
-        },
-        {
-          "hashtag": "milano",
-          "publications": 2,
-          "delta": 0,
-          "users": 2,
-          "plays": 171544
+          "users": 3,
+          "plays": 178000
         },
         {
           "hashtag": "manifestations",
@@ -7289,11 +7228,25 @@
           "plays": 1256
         },
         {
-          "hashtag": "diritti",
+          "hashtag": "deutschland",
           "publications": 2,
           "delta": 0,
           "users": 2,
-          "plays": 136570
+          "plays": 486
+        },
+        {
+          "hashtag": "milano",
+          "publications": 2,
+          "delta": 0,
+          "users": 2,
+          "plays": 171544
+        },
+        {
+          "hashtag": "cronaca",
+          "publications": 2,
+          "delta": 0,
+          "users": 2,
+          "plays": 177697
         },
         {
           "hashtag": "manifestazioni",
@@ -7310,39 +7263,46 @@
           "plays": 162900
         },
         {
-          "hashtag": "deutschland",
+          "hashtag": "tangenziale",
           "publications": 2,
           "delta": 0,
           "users": 2,
-          "plays": 486
+          "plays": 306400
         },
         {
-          "hashtag": "ilgiornaledellamattina",
+          "hashtag": "diritti",
+          "publications": 2,
+          "delta": 0,
+          "users": 2,
+          "plays": 136570
+        },
+        {
+          "hashtag": "scuolasuperiore",
           "publications": 1,
           "delta": 0,
           "users": 1,
-          "plays": 18500
+          "plays": 1392
         },
         {
-          "hashtag": "torino",
+          "hashtag": "heroes",
           "publications": 1,
           "delta": 0,
           "users": 1,
-          "plays": 6697
+          "plays": 1392
         },
         {
-          "hashtag": "piazzacastello",
+          "hashtag": "perte",
           "publications": 1,
           "delta": 0,
           "users": 1,
-          "plays": 6697
+          "plays": 1392
         },
         {
-          "hashtag": "piranjat",
+          "hashtag": "meloni",
           "publications": 1,
           "delta": 0,
           "users": 1,
-          "plays": 11300
+          "plays": 811000
         }
       ],
       "dates": {
@@ -7405,7 +7365,23 @@
           }
         ]
       },
-      "viral_videos": [],
+      "viral_videos": [
+        {
+          "video_id": "7700932831819812099",
+          "username": "brutofficiel",
+          "url": "https://www.tiktok.com/@brutofficiel/video/7700932831819812099",
+          "published_at": "2026-10-26T12:12:02+01:00",
+          "hashtags": [],
+          "seed_hashtags": [
+            "mobilisationlyceenne"
+          ],
+          "plays": 171100,
+          "plays_delta": 100,
+          "likes": 18900,
+          "comments": 155,
+          "shares": 620
+        }
+      ],
       "links": {
         "total_unique": 0,
         "active_unique": 0,
@@ -7427,18 +7403,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 0,
@@ -7483,17 +7459,17 @@
         "code": "BE",
         "name": "Bélgica"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "BE",
         "country_name": "Bélgica",
@@ -7509,6 +7485,69 @@
           "delta": 0,
           "users": 2,
           "plays": 10143
+        },
+        {
+          "hashtag": "liege",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 5540
+        },
+        {
+          "hashtag": "bruxelles",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 5540
+        },
+        {
+          "hashtag": "manifestation",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 5540
+        },
+        {
+          "hashtag": "belgique",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 5540
+        },
+        {
+          "hashtag": "köln",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 72500
+        },
+        {
+          "hashtag": "polizei",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 72500
+        },
+        {
+          "hashtag": "aktuell",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 72500
+        },
+        {
+          "hashtag": "nrw",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 72500
+        },
+        {
+          "hashtag": "nachrichten",
+          "publications": 1,
+          "delta": 0,
+          "users": 1,
+          "plays": 72500
         },
         {
           "hashtag": "happyluxurywheels",
@@ -7530,69 +7569,6 @@
           "delta": 0,
           "users": 1,
           "plays": 21800
-        },
-        {
-          "hashtag": "liege",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 5540
-        },
-        {
-          "hashtag": "belgique",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 5540
-        },
-        {
-          "hashtag": "bruxelles",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 5540
-        },
-        {
-          "hashtag": "manifestation",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 5540
-        },
-        {
-          "hashtag": "nachrichten",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 72500
-        },
-        {
-          "hashtag": "aktuell",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 72500
-        },
-        {
-          "hashtag": "polizei",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 72500
-        },
-        {
-          "hashtag": "nrw",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 72500
-        },
-        {
-          "hashtag": "köln",
-          "publications": 1,
-          "delta": 0,
-          "users": 1,
-          "plays": 72500
         }
       ],
       "dates": {
@@ -7635,7 +7611,36 @@
           }
         ]
       },
-      "viral_videos": [],
+      "viral_videos": [
+        {
+          "video_id": "7693563633996991767",
+          "username": "f3cvdl",
+          "url": "https://www.tiktok.com/@f3cvdl/video/7693563633996991767",
+          "published_at": "2026-10-06T16:36:19+02:00",
+          "hashtags": [
+            "blocus",
+            "lycéens",
+            "manifestation",
+            "mobilisation",
+            "éducation"
+          ],
+          "seed_hashtags": [
+            "blocus",
+            "blocus92",
+            "blocus94",
+            "blocusbelgique",
+            "blocuslycee",
+            "blocuslycée",
+            "bloquonstout",
+            "mobilisationlyceenne"
+          ],
+          "plays": 556800,
+          "plays_delta": 300,
+          "likes": 10800,
+          "comments": 225,
+          "shares": 2960
+        }
+      ],
       "links": {
         "total_unique": 1,
         "active_unique": 0,
@@ -7769,18 +7774,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 4,
@@ -7792,13 +7797,6 @@
           "country_name": "Bélgica"
         },
         "hashtags": [
-          {
-            "hashtag": "manifestation",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 5540
-          },
           {
             "hashtag": "bruxelles",
             "publications": 1,
@@ -7815,6 +7813,13 @@
           },
           {
             "hashtag": "liege",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 5540
+          },
+          {
+            "hashtag": "manifestation",
             "publications": 1,
             "delta": 0,
             "users": 1,
@@ -7997,22 +8002,22 @@
         "code": "OTHER",
         "name": "Otros"
       },
-      "updated_at": "2026-10-30T19:27:18+01:00",
+      "updated_at": "2026-10-30T19:29:17+01:00",
       "window": {
         "hours": 24,
-        "start": "2026-10-29T19:27:18+01:00",
-        "end": "2026-10-30T19:27:18+01:00"
+        "start": "2026-10-29T19:29:17+01:00",
+        "end": "2026-10-30T19:29:17+01:00"
       },
       "baseline": false,
       "hashtag_baseline": false,
       "round": {
-        "id": "20261030_192551",
-        "completed_at": "2026-10-30T18:26:01.633467+00:00",
+        "id": "20261030_192740",
+        "completed_at": "2026-10-30T18:27:47.339368+00:00",
         "source": "export_round_dir",
         "country": "OTHER",
         "country_name": "Otros",
         "videos_window": 327,
-        "new_videos": 1,
+        "new_videos": 0,
         "total_videos_db": 3006,
         "hashtags_distinct": 626
       },
@@ -8025,18 +8030,18 @@
           "plays": 1910461
         },
         {
-          "hashtag": "halloween",
-          "publications": 35,
-          "delta": 0,
-          "users": 34,
-          "plays": 5732031
-        },
-        {
           "hashtag": "halloween2026",
           "publications": 35,
           "delta": 0,
           "users": 34,
           "plays": 2565772
+        },
+        {
+          "hashtag": "halloween",
+          "publications": 35,
+          "delta": 0,
+          "users": 34,
+          "plays": 5732031
         },
         {
           "hashtag": "genz",
@@ -8123,20 +8128,6 @@
           "plays": 5601
         },
         {
-          "hashtag": "parati",
-          "publications": 5,
-          "delta": 0,
-          "users": 5,
-          "plays": 930305
-        },
-        {
-          "hashtag": "halloweenlook",
-          "publications": 5,
-          "delta": 0,
-          "users": 5,
-          "plays": 43239
-        },
-        {
           "hashtag": "genzregelt",
           "publications": 5,
           "delta": 0,
@@ -8151,67 +8142,25 @@
           "plays": 15509
         },
         {
+          "hashtag": "parati",
+          "publications": 5,
+          "delta": 0,
+          "users": 5,
+          "plays": 930305
+        },
+        {
+          "hashtag": "halloweenlook",
+          "publications": 5,
+          "delta": 0,
+          "users": 5,
+          "plays": 43239
+        },
+        {
           "hashtag": "protesta",
           "publications": 5,
           "delta": 0,
           "users": 5,
           "plays": 108161
-        },
-        {
-          "hashtag": "mobilisation",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 9205
-        },
-        {
-          "hashtag": "cgt",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 1531
-        },
-        {
-          "hashtag": "manifestazione",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 81100
-        },
-        {
-          "hashtag": "capcut",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 52074
-        },
-        {
-          "hashtag": "foryou",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 60718
-        },
-        {
-          "hashtag": "fypシ",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 10673
-        },
-        {
-          "hashtag": "perte",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 25211
-        },
-        {
-          "hashtag": "hallowen",
-          "publications": 4,
-          "delta": 0,
-          "users": 4,
-          "plays": 1832
         },
         {
           "hashtag": "demonstration",
@@ -8226,11 +8175,67 @@
           "delta": 0,
           "users": 4,
           "plays": 5533
+        },
+        {
+          "hashtag": "capcut",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 52074
+        },
+        {
+          "hashtag": "cgt",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 1531
+        },
+        {
+          "hashtag": "fypシ",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 10673
+        },
+        {
+          "hashtag": "foryou",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 60718
+        },
+        {
+          "hashtag": "mobilisation",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 9205
+        },
+        {
+          "hashtag": "manifestazione",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 81100
+        },
+        {
+          "hashtag": "hallowen",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 1832
+        },
+        {
+          "hashtag": "perte",
+          "publications": 4,
+          "delta": 0,
+          "users": 4,
+          "plays": 25211
         }
       ],
       "dates": {
         "distinct": 6,
-        "publication_date_relations": 36,
+        "publication_date_relations": 37,
         "items": [
           {
             "date": "2026-10-28",
@@ -8289,9 +8294,9 @@
           },
           {
             "date": "2026-10-30",
-            "publications": 9,
-            "users": 9,
-            "frames": 26,
+            "publications": 10,
+            "users": 10,
+            "frames": 27,
             "expressions": [
               {
                 "text": "hoy",
@@ -8554,30 +8559,78 @@
       },
       "viral_videos": [
         {
-          "video_id": "7702478481409477910",
-          "username": "arayafrasquet",
-          "url": "https://www.tiktok.com/@arayafrasquet/video/7702478481409477910",
-          "published_at": "2026-10-30T16:10:29+01:00",
-          "hashtags": [],
+          "video_id": "7701809615293451553",
+          "username": "ehvasytoi",
+          "url": "https://www.tiktok.com/@ehvasytoi/video/7701809615293451553",
+          "published_at": "2026-10-28T20:54:54+01:00",
+          "hashtags": [
+            "fyp",
+            "prt",
+            "rn",
+            "song",
+            "trend"
+          ],
           "seed_hashtags": [],
-          "plays": 91500,
-          "plays_delta": 3900,
-          "likes": 2950,
-          "comments": 8,
-          "shares": 848
+          "plays": 80500,
+          "plays_delta": 1200,
+          "likes": 6873,
+          "comments": 290,
+          "shares": 631
         },
         {
-          "video_id": "7702491064925523233",
-          "username": "at88419",
-          "url": "https://www.tiktok.com/@at88419/video/7702491064925523233",
-          "published_at": "2026-10-30T16:59:17+01:00",
-          "hashtags": [],
+          "video_id": "7701686475636673824",
+          "username": "anortherslay",
+          "url": "https://www.tiktok.com/@anortherslay/video/7701686475636673824",
+          "published_at": "2026-10-28T12:57:05+01:00",
+          "hashtags": [
+            "fyp",
+            "meme",
+            "onbloquelextremedroite",
+            "politique"
+          ],
           "seed_hashtags": [],
-          "plays": 55700,
-          "plays_delta": 3200,
-          "likes": 751,
-          "comments": 26,
-          "shares": 640
+          "plays": 276200,
+          "plays_delta": 400,
+          "likes": 79700,
+          "comments": 200,
+          "shares": 3006
+        },
+        {
+          "video_id": "7701380085168852257",
+          "username": "user18754682319175",
+          "url": "https://www.tiktok.com/@user18754682319175/video/7701380085168852257",
+          "published_at": "2026-10-27T17:08:06+01:00",
+          "hashtags": [
+            "barrage",
+            "lfi",
+            "onbloquelextrêmedroite",
+            "rn"
+          ],
+          "seed_hashtags": [],
+          "plays": 121500,
+          "plays_delta": 400,
+          "likes": 13200,
+          "comments": 167,
+          "shares": 424
+        },
+        {
+          "video_id": "7701471107819375905",
+          "username": "bodyresetfr1",
+          "url": "https://www.tiktok.com/@bodyresetfr1/video/7701471107819375905",
+          "published_at": "2026-10-27T23:01:20+01:00",
+          "hashtags": [
+            "mobilisations",
+            "mouvement",
+            "nuque",
+            "seancecomplete",
+            "tractioncervicale"
+          ],
+          "seed_hashtags": [],
+          "plays": 174700,
+          "plays_delta": 200,
+          "likes": 1708,
+          "comments": 18,
+          "shares": 149
         }
       ],
       "links": {
@@ -8601,18 +8654,18 @@
         }
       },
       "mobilization": {
-        "updated_at": "2026-10-30T19:27:18+01:00",
+        "updated_at": "2026-10-30T19:29:17+01:00",
         "window": {
           "hours": 24,
-          "start": "2026-10-29T19:27:18+01:00",
-          "end": "2026-10-30T19:27:18+01:00"
+          "start": "2026-10-29T19:29:17+01:00",
+          "end": "2026-10-30T19:29:17+01:00"
         },
         "baseline": false,
         "hashtag_baseline": false,
         "view": "mobilization",
         "round": {
-          "id": "20261030_192551",
-          "completed_at": "2026-10-30T18:26:01.633467+00:00",
+          "id": "20261030_192740",
+          "completed_at": "2026-10-30T18:27:47.339368+00:00",
           "source": "export_round_dir",
           "sentinel_hashtag": "blocusitalia",
           "hashtags_distinct": 19,
@@ -8639,14 +8692,14 @@
             "plays": 1200
           },
           {
-            "hashtag": "demo",
+            "hashtag": "genzregelt",
             "publications": 2,
             "delta": 0,
             "users": 2,
             "plays": 8202
           },
           {
-            "hashtag": "genzregelt",
+            "hashtag": "demo",
             "publications": 2,
             "delta": 0,
             "users": 2,
@@ -8658,6 +8711,27 @@
             "delta": 0,
             "users": 2,
             "plays": 8202
+          },
+          {
+            "hashtag": "5novembre",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 457
+          },
+          {
+            "hashtag": "greve",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 457
+          },
+          {
+            "hashtag": "blocus",
+            "publications": 1,
+            "delta": 0,
+            "users": 1,
+            "plays": 457
           },
           {
             "hashtag": "cgt",
@@ -8672,27 +8746,6 @@
             "delta": 0,
             "users": 1,
             "plays": 349
-          },
-          {
-            "hashtag": "lernenmittiktok",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 1137
-          },
-          {
-            "hashtag": "nachrichten",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 1137
-          },
-          {
-            "hashtag": "gutzuwissen",
-            "publications": 1,
-            "delta": 0,
-            "users": 1,
-            "plays": 1137
           },
           {
             "hashtag": "protesta",
@@ -8716,25 +8769,25 @@
             "plays": 4319
           },
           {
-            "hashtag": "greve",
+            "hashtag": "gutzuwissen",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 457
+            "plays": 1137
           },
           {
-            "hashtag": "blocus",
+            "hashtag": "nachrichten",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 457
+            "plays": 1137
           },
           {
-            "hashtag": "5novembre",
+            "hashtag": "lernenmittiktok",
             "publications": 1,
             "delta": 0,
             "users": 1,
-            "plays": 457
+            "plays": 1137
           },
           {
             "hashtag": "demonstration",
@@ -8956,18 +9009,18 @@
     "language_used_as_country": false
   },
   "mobilization": {
-    "updated_at": "2026-10-30T19:27:18+01:00",
+    "updated_at": "2026-10-30T19:29:17+01:00",
     "window": {
       "hours": 24,
-      "start": "2026-10-29T19:27:18+01:00",
-      "end": "2026-10-30T19:27:18+01:00"
+      "start": "2026-10-29T19:29:17+01:00",
+      "end": "2026-10-30T19:29:17+01:00"
     },
     "baseline": false,
     "hashtag_baseline": false,
     "view": "mobilization",
     "round": {
-      "id": "20261030_192551",
-      "completed_at": "2026-10-30T18:26:01.633467+00:00",
+      "id": "20261030_192740",
+      "completed_at": "2026-10-30T18:27:47.339368+00:00",
       "source": "export_round_dir",
       "sentinel_hashtag": "blocusitalia",
       "hashtags_distinct": 122,
@@ -8978,18 +9031,18 @@
     },
     "hashtags": [
       {
-        "hashtag": "genz",
-        "publications": 15,
-        "delta": 0,
-        "users": 14,
-        "plays": 82216
-      },
-      {
         "hashtag": "manifestation",
         "publications": 15,
         "delta": 0,
         "users": 14,
         "plays": 177876
+      },
+      {
+        "hashtag": "genz",
+        "publications": 15,
+        "delta": 0,
+        "users": 14,
+        "plays": 82216
       },
       {
         "hashtag": "blocus",
@@ -9006,18 +9059,18 @@
         "plays": 366090
       },
       {
-        "hashtag": "demo",
-        "publications": 7,
-        "delta": 0,
-        "users": 7,
-        "plays": 42128
-      },
-      {
         "hashtag": "paris",
         "publications": 7,
         "delta": 0,
         "users": 6,
         "plays": 39074
+      },
+      {
+        "hashtag": "demo",
+        "publications": 7,
+        "delta": 0,
+        "users": 7,
+        "plays": 42128
       },
       {
         "hashtag": "31octobre",
@@ -9032,13 +9085,6 @@
         "delta": 0,
         "users": 6,
         "plays": 38242
-      },
-      {
-        "hashtag": "france",
-        "publications": 5,
-        "delta": 0,
-        "users": 5,
-        "plays": 58201
       },
       {
         "hashtag": "berlin",
@@ -9062,6 +9108,13 @@
         "plays": 322979
       },
       {
+        "hashtag": "france",
+        "publications": 5,
+        "delta": 0,
+        "users": 5,
+        "plays": 58201
+      },
+      {
         "hashtag": "deutschland",
         "publications": 4,
         "delta": 0,
@@ -9076,11 +9129,11 @@
         "plays": 165122
       },
       {
-        "hashtag": "forcedelordre",
+        "hashtag": "halloween2026",
         "publications": 3,
         "delta": 0,
-        "users": 2,
-        "plays": 27617
+        "users": 3,
+        "plays": 5018
       },
       {
         "hashtag": "31october",
@@ -9090,13 +9143,6 @@
         "plays": 28780
       },
       {
-        "hashtag": "valencia",
-        "publications": 3,
-        "delta": 0,
-        "users": 3,
-        "plays": 24682
-      },
-      {
         "hashtag": "disturbios",
         "publications": 3,
         "delta": 0,
@@ -9104,18 +9150,74 @@
         "plays": 162591
       },
       {
-        "hashtag": "halloween2026",
+        "hashtag": "forcedelordre",
+        "publications": 3,
+        "delta": 0,
+        "users": 2,
+        "plays": 27617
+      },
+      {
+        "hashtag": "valencia",
         "publications": 3,
         "delta": 0,
         "users": 3,
-        "plays": 5018
+        "plays": 24682
       },
       {
-        "hashtag": "germany",
+        "hashtag": "cgt",
         "publications": 2,
         "delta": 0,
         "users": 2,
-        "plays": 53055
+        "plays": 905
+      },
+      {
+        "hashtag": "fypp",
+        "publications": 2,
+        "delta": 0,
+        "users": 1,
+        "plays": 565
+      },
+      {
+        "hashtag": "fy",
+        "publications": 2,
+        "delta": 0,
+        "users": 1,
+        "plays": 565
+      },
+      {
+        "hashtag": "madrid",
+        "publications": 2,
+        "delta": 0,
+        "users": 2,
+        "plays": 1417
+      },
+      {
+        "hashtag": "marseille",
+        "publications": 2,
+        "delta": 0,
+        "users": 2,
+        "plays": 3916
+      },
+      {
+        "hashtag": "5novembre",
+        "publications": 2,
+        "delta": 0,
+        "users": 2,
+        "plays": 1434
+      },
+      {
+        "hashtag": "lycee",
+        "publications": 2,
+        "delta": 0,
+        "users": 2,
+        "plays": 3602
+      },
+      {
+        "hashtag": "politique",
+        "publications": 2,
+        "delta": 0,
+        "users": 2,
+        "plays": 3446
       },
       {
         "hashtag": "sucesos",
@@ -9130,55 +9232,6 @@
         "delta": 0,
         "users": 2,
         "plays": 4542
-      },
-      {
-        "hashtag": "5novembre",
-        "publications": 2,
-        "delta": 0,
-        "users": 2,
-        "plays": 1434
-      },
-      {
-        "hashtag": "fy",
-        "publications": 2,
-        "delta": 0,
-        "users": 1,
-        "plays": 565
-      },
-      {
-        "hashtag": "fypp",
-        "publications": 2,
-        "delta": 0,
-        "users": 1,
-        "plays": 565
-      },
-      {
-        "hashtag": "guardiacivil",
-        "publications": 2,
-        "delta": 0,
-        "users": 2,
-        "plays": 4448
-      },
-      {
-        "hashtag": "marseille",
-        "publications": 2,
-        "delta": 0,
-        "users": 2,
-        "plays": 3916
-      },
-      {
-        "hashtag": "mobilisation",
-        "publications": 2,
-        "delta": 0,
-        "users": 1,
-        "plays": 26766
-      },
-      {
-        "hashtag": "cgt",
-        "publications": 2,
-        "delta": 0,
-        "users": 2,
-        "plays": 905
       },
       {
         "hashtag": "demonstration",

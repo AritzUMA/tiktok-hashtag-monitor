@@ -1617,6 +1617,211 @@ canvas {
 </div>
 
 
+
+<!-- BLOCUS_VISUAL_RANKING_START -->
+<style>
+#blocus-ranking {
+    max-width: 1200px;
+    margin: 28px auto;
+    padding: 24px;
+    border: 1px solid #d1d5db;
+    border-radius: 14px;
+    background: #fff;
+}
+#blocus-ranking h2 { margin: 0 0 10px; }
+#blocus-ranking .blocus-note { font-size: 13px; opacity: .8; }
+#blocus-ranking .blocus-table-wrap { overflow-x: auto; }
+#blocus-ranking table { width: 100%; border-collapse: collapse; }
+#blocus-ranking th, #blocus-ranking td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+#blocus-ranking th { font-weight: 600; }
+#blocus-ranking .blocus-stats {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin: 15px 0;
+}
+#blocus-ranking .blocus-stat {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+}
+#blocus-ranking .blocus-stat strong {
+    display: block;
+    font-size: 20px;
+}
+#blocus-ranking .blocus-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+</style>
+
+<div id="blocus-ranking">
+    <h2>#blocus — Ranking de similitud visual</h2>
+    <p class="blocus-note">
+        Publicaciones ordenadas según su mayor similitud con
+        las 12 imágenes de referencia del llamamiento #blocus.
+        El resultado es una similitud visual, no una clasificación definitiva.
+    </p>
+    <div class="blocus-stats" id="blocus-stats"></div>
+    <p class="blocus-note" id="blocus-updated">Cargando ranking...</p>
+    <div class="blocus-table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Publicación TikTok</th>
+                    <th>Similitud</th>
+                    <th>Referencia</th>
+                    <th>Fotograma</th>
+                </tr>
+            </thead>
+            <tbody id="blocus-rows"></tbody>
+        </table>
+    </div>
+    <div class="blocus-controls">
+        <button type="button" id="blocus-prev">Anterior</button>
+        <span id="blocus-page"></span>
+        <button type="button" id="blocus-next">Siguiente</button>
+    </div>
+</div>
+
+<script>
+(() => {
+    "use strict";
+
+    const PAGE_SIZE = 25;
+    let entries = [];
+    let currentPage = 0;
+
+    function elem(id) {
+        return document.getElementById(id);
+    }
+
+    function createCell(tr, value) {
+        const td = document.createElement("td");
+        td.textContent = String(value ?? "");
+        tr.appendChild(td);
+        return td;
+    }
+
+    function render() {
+        const tbody = elem("blocus-rows");
+        tbody.replaceChildren();
+
+        const start = currentPage * PAGE_SIZE;
+
+        for (const item of entries.slice(start, start + PAGE_SIZE)) {
+            const tr = document.createElement("tr");
+
+            createCell(tr, item.rank);
+
+            const linkCell = createCell(tr, "");
+            const link = document.createElement("a");
+
+            link.href = "https://www.tiktok.com/@_/video/" +
+                        encodeURIComponent(String(item.video_id));
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+            link.textContent = String(item.video_id);
+
+            linkCell.appendChild(link);
+
+            const score = Number(item.similarity);
+            createCell(tr, Number.isFinite(score) ? score.toFixed(4) : "—");
+            createCell(tr, item.reference || "—");
+            createCell(tr, item.frame_id ?? "—");
+
+            tbody.appendChild(tr);
+        }
+
+        const totalPages = Math.max(1, Math.ceil(entries.length / PAGE_SIZE));
+
+        elem("blocus-page").textContent =
+            `Página ${currentPage + 1} / ${totalPages}`;
+
+        elem("blocus-prev").disabled = currentPage === 0;
+        elem("blocus-next").disabled = currentPage >= totalPages - 1;
+    }
+
+    async function update() {
+        try {
+            const response = await fetch(
+                "data/blocus_similarity.json?_=" + Date.now(),
+                { cache: "no-store" }
+            );
+
+            if (!response.ok) throw new Error("HTTP " + response.status);
+
+            const data = await response.json();
+            if (!Array.isArray(data.ranking)) {
+                throw new Error("Formato de ranking inválido");
+            }
+
+            entries = data.ranking;
+            currentPage = Math.min(
+                currentPage,
+                Math.max(0, Math.ceil(entries.length / PAGE_SIZE) - 1)
+            );
+
+            const stats = elem("blocus-stats");
+            stats.replaceChildren();
+
+            for (const [label, value] of [
+                ["Referencias", data.reference_images],
+                ["Fotogramas", data.frames_compared],
+                ["Vídeos", data.videos_compared],
+                ["Resultados", entries.length]
+            ]) {
+                const box = document.createElement("div");
+                box.className = "blocus-stat";
+
+                const strong = document.createElement("strong");
+                strong.textContent = Number(value || 0).toLocaleString("es-ES");
+
+                const caption = document.createElement("span");
+                caption.textContent = label;
+
+                box.append(strong, caption);
+                stats.appendChild(box);
+            }
+
+            elem("blocus-updated").textContent =
+                "Actualizado: " + new Date(data.generated_at)
+                    .toLocaleString("es-ES", {timeZone: "Europe/Madrid"});
+
+            render();
+
+        } catch (error) {
+            elem("blocus-updated").textContent =
+                "Error al cargar el ranking: " + error.message;
+        }
+    }
+
+    elem("blocus-prev").addEventListener("click", () => {
+        if (currentPage > 0) {
+            currentPage--;
+            render();
+        }
+    });
+
+    elem("blocus-next").addEventListener("click", () => {
+        if ((currentPage + 1) * PAGE_SIZE < entries.length) {
+            currentPage++;
+            render();
+        }
+    });
+
+    update();
+    setInterval(update, 60000);
+})();
+</script>
+<!-- BLOCUS_VISUAL_RANKING_END -->
+
 <script>
 
 const fmt =

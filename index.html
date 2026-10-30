@@ -1602,10 +1602,6 @@ canvas {
 </div>
 
 
-</div>
-
-
-
 <!-- BLOCUS_VISUAL_RANKING_START -->
 <div class="section" id="blocus-ranking">
 
@@ -1621,15 +1617,11 @@ canvas {
             Ranking provisional.
         </div>
 
-        <div id="blocus-stats"
-             class="small"
-             style="margin-bottom:7px">
+        <div id="blocus-stats" class="small" style="margin-bottom:7px">
             Cargando resultados...
         </div>
 
-        <div id="blocus-updated"
-             class="small"
-             style="margin-bottom:7px"></div>
+        <div id="blocus-updated" class="small" style="margin-bottom:7px"></div>
 
         <div style="overflow-x:auto">
 
@@ -1749,27 +1741,15 @@ canvas {
                 Math.max(0, Math.ceil(entries.length / PAGE_SIZE) - 1)
             );
 
-            const stats = elem("blocus-stats");
-            stats.replaceChildren();
+            
+            const fmtBlocus = value =>
+                Number(value || 0).toLocaleString("es-ES");
 
-            for (const [label, value] of [
-                ["Referencias", data.reference_images],
-                ["Fotogramas", data.frames_compared],
-                ["Vídeos", data.videos_compared],
-                ["Resultados", entries.length]
-            ]) {
-                const box = document.createElement("div");
-                box.className = "blocus-stat";
-
-                const strong = document.createElement("strong");
-                strong.textContent = Number(value || 0).toLocaleString("es-ES");
-
-                const caption = document.createElement("span");
-                caption.textContent = label;
-
-                box.append(strong, caption);
-                stats.appendChild(box);
-            }
+            elem("blocus-stats").textContent =
+                fmtBlocus(data.reference_images) + " carteles · " +
+                fmtBlocus(data.frames_compared) + " fotogramas comparados · " +
+                fmtBlocus(data.videos_compared) + " vídeos comparados · " +
+                fmtBlocus(entries.length) + " resultados";
 
             elem("blocus-updated").textContent =
                 "Actualizado: " + new Date(data.generated_at)
@@ -1802,6 +1782,12 @@ canvas {
 })();
 </script>
 <!-- BLOCUS_VISUAL_RANKING_END -->
+
+</div>
+
+
+
+
 
 <div id="footer">
 

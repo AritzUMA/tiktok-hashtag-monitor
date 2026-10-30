@@ -1264,7 +1264,7 @@ canvas {
 
                 <tr>
                     <td>
-                        Telegram / WhatsApp últimas 24 h
+                        Telegram / WhatsApp activos
                     </td>
 
                     <td id="linksWindow">
@@ -2314,8 +2314,7 @@ function renderViral(
 
 
 
-const LINKS_PER_PAGE =
-    15;
+const LINKS_PER_PAGE = 10;
 
 let linksCurrentPage =
     1;
@@ -2556,57 +2555,29 @@ function renderLinks(data) {
     }
 
 
-    const currentLinks =
+    const pageLinks =
         data?.links || {};
 
-    /*
-     * renderLinksPaged() pasa una página
-     * de activos a renderLinks().
-     *
-     * Para caídos/pendientes necesitamos
-     * el dataset completo original.
-     */
-    const completeLinks =
+    const fullLinks =
         linksDashboardData?.links
-        || currentLinks;
+        || pageLinks;
 
 
-    const activeItems =
-        Array.isArray(
-            currentLinks.items
-        )
-            ? currentLinks.items
-            : [];
-
-
-    const deadItems =
-        Array.isArray(
-            completeLinks.dead_items
-        )
-            ? completeLinks.dead_items
-            : [];
-
-
-    const pendingItems =
-        Array.isArray(
-            completeLinks.pending_items
-        )
-            ? completeLinks.pending_items
-            : [];
-
+    // ========================================================
+    // RESUMEN HISTÓRICO
+    // ========================================================
 
     if (info) {
 
         info.textContent =
-            `${fmt.format(completeLinks.total_unique || 0)} históricos · ` +
-            `${fmt.format(completeLinks.active_unique || 0)} activos · ` +
-            `${fmt.format(completeLinks.dead_unique || 0)} caídos · ` +
-            `${fmt.format(completeLinks.pending_unique || 0)} pendientes · ` +
-            `${fmt.format(completeLinks.window_unique || 0)} vistos en las últimas 24 h`;
+            `${fmt.format(fullLinks.total_unique || 0)} enlaces históricos · ` +
+            `${fmt.format(fullLinks.active_unique || 0)} activos · ` +
+            `${fmt.format(fullLinks.dead_unique || 0)} caídos · ` +
+            `${fmt.format(fullLinks.pending_unique || 0)} pendientes`;
     }
 
 
-    const fmtDate = (value) => {
+    const formatDate = value => {
 
         if (!value) {
             return "—";
@@ -2633,13 +2604,15 @@ function renderLinks(data) {
     };
 
 
-    const tdText = (
+    const addText = (
         tr,
         value
     ) => {
 
         const td =
-            document.createElement("td");
+            document.createElement(
+                "td"
+            );
 
         td.textContent =
             value ?? "—";
@@ -2650,18 +2623,72 @@ function renderLinks(data) {
     };
 
 
-    const renderUserList = (
-        tr,
-        item
+    const createRow = (
+        item,
+        showState = false
     ) => {
 
-        const td =
-            document.createElement("td");
+        const tr =
+            document.createElement(
+                "tr"
+            );
 
-        td.style.minWidth =
+
+        addText(
+            tr,
+            item.platform === "telegram"
+                ? "Telegram"
+                : "WhatsApp"
+        );
+
+
+        const urlTd =
+            document.createElement(
+                "td"
+            );
+
+        const a =
+            document.createElement(
+                "a"
+            );
+
+        a.href = item.url;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        a.textContent = item.url;
+
+        urlTd.appendChild(a);
+        tr.appendChild(urlTd);
+
+
+        addText(
+            tr,
+            fmt.format(
+                item.videos || 0
+            )
+        );
+
+        addText(
+            tr,
+            fmt.format(
+                item.users || 0
+            )
+        );
+
+
+        // ====================================================
+        // USUARIOS QUE LO COMPARTEN
+        // ====================================================
+
+        const usersTd =
+            document.createElement(
+                "td"
+            );
+
+        usersTd.style.minWidth =
             "250px";
 
-        td.style.whiteSpace =
+        usersTd.style.whiteSpace =
             "normal";
 
 
@@ -2675,7 +2702,8 @@ function renderLinks(data) {
 
         if (!users.length) {
 
-            td.textContent = "—";
+            usersTd.textContent =
+                "—";
 
         } else {
 
@@ -2687,7 +2715,7 @@ function renderLinks(data) {
 
                     if (index) {
 
-                        td.appendChild(
+                        usersTd.appendChild(
                             document.createTextNode(
                                 ", "
                             )
@@ -2695,96 +2723,55 @@ function renderLinks(data) {
                     }
 
 
-                    const a =
-                        document.createElement("a");
+                    const userLink =
+                        document.createElement(
+                            "a"
+                        );
 
-                    a.href =
+                    userLink.href =
                         "https://www.tiktok.com/@" +
                         encodeURIComponent(
                             user.username
                         );
 
-                    a.target =
+                    userLink.target =
                         "_blank";
 
-                    a.rel =
+                    userLink.rel =
                         "noopener noreferrer";
 
-                    a.textContent =
+                    userLink.textContent =
                         "@" + user.username;
 
 
-                    td.appendChild(a);
-
-                    td.appendChild(
-                        document.createTextNode(
-                            ` (${user.videos})`
-                        )
+                    usersTd.appendChild(
+                        userLink
                     );
+
+
+                    if (
+                        Number(
+                            user.videos
+                        ) > 0
+                    ) {
+
+                        usersTd.appendChild(
+                            document.createTextNode(
+                                ` (${user.videos})`
+                            )
+                        );
+                    }
                 }
             );
         }
 
 
-        tr.appendChild(td);
-    };
-
-
-    const makeRow = (
-        item,
-        showState = false
-    ) => {
-
-        const tr =
-            document.createElement("tr");
-
-
-        tdText(
-            tr,
-            item.platform === "telegram"
-                ? "Telegram"
-                : "WhatsApp"
+        tr.appendChild(
+            usersTd
         );
 
 
-        const urlTd =
-            document.createElement("td");
-
-        const link =
-            document.createElement("a");
-
-        link.href = item.url;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.textContent = item.url;
-
-        urlTd.appendChild(link);
-
-        tr.appendChild(urlTd);
-
-
-        tdText(
-            tr,
-            fmt.format(
-                item.videos || 0
-            )
-        );
-
-        tdText(
-            tr,
-            fmt.format(
-                item.users || 0
-            )
-        );
-
-
-        renderUserList(
-            tr,
-            item
-        );
-
-
-        tdText(
+        addText(
             tr,
             (
                 item.sources
@@ -2794,48 +2781,47 @@ function renderLinks(data) {
         );
 
 
-        tdText(
+        addText(
             tr,
-            fmtDate(
+            formatDate(
                 item.first_published_at
+                || item.first_detected_at
             )
         );
 
-        tdText(
+
+        addText(
             tr,
-            fmtDate(
+            formatDate(
                 item.last_published_at
+                || item.last_detected_at
             )
         );
 
 
-        const httpText =
+        const http =
             item.http_status
                 ? String(
                     item.http_status
                 )
-                : (
-                    item.state === "pending"
-                        ? "?"
-                        : "—"
-                );
+                : "?";
 
 
-        tdText(
+        addText(
             tr,
             showState
                 ? (
                     item.state === "dead"
-                        ? `CAÍDO · ${httpText}`
-                        : `PENDIENTE · ${httpText}`
+                        ? `CAÍDO · ${http}`
+                        : `PENDIENTE · ${http}`
                 )
-                : httpText
+                : http
         );
 
 
-        tdText(
+        addText(
             tr,
-            fmtDate(
+            formatDate(
                 item.validated_at
             )
         );
@@ -2847,23 +2833,38 @@ function renderLinks(data) {
 
     // ========================================================
     // ACTIVOS
+    //
+    // renderLinksPaged() ya nos entrega máximo 10.
+    // all_items contiene TODO el histórico activo.
     // ========================================================
 
     tbody.textContent = "";
 
 
+    const activeItems =
+        Array.isArray(
+            pageLinks.items
+        )
+            ? pageLinks.items
+            : [];
+
+
     if (!activeItems.length) {
 
         const tr =
-            document.createElement("tr");
+            document.createElement(
+                "tr"
+            );
 
         const td =
-            document.createElement("td");
+            document.createElement(
+                "td"
+            );
 
         td.colSpan = 10;
 
         td.textContent =
-            "No hay Telegram/WhatsApp activos en esta página.";
+            "No hay enlaces activos en esta página.";
 
         tr.appendChild(td);
         tbody.appendChild(tr);
@@ -2876,16 +2877,85 @@ function renderLinks(data) {
         ) {
 
             tbody.appendChild(
-                makeRow(item)
+                createRow(
+                    item,
+                    false
+                )
             );
         }
     }
 
 
     // ========================================================
-    // SEGUNDA TABLA:
-    // CAÍDOS + PENDIENTES
+    // CAÍDOS / PENDIENTES
+    // HISTÓRICO COMPLETO + PAGINACIÓN 10
     // ========================================================
+
+    const inactiveItems = [
+        ...(
+            Array.isArray(
+                fullLinks.dead_items
+            )
+                ? fullLinks.dead_items
+                : []
+        ),
+
+        ...(
+            Array.isArray(
+                fullLinks.pending_items
+            )
+                ? fullLinks.pending_items
+                : []
+        )
+    ];
+
+
+    const PER_PAGE = 10;
+
+    const pages =
+        Math.max(
+            1,
+            Math.ceil(
+                inactiveItems.length
+                / PER_PAGE
+            )
+        );
+
+
+    let current =
+        Number(
+            window.socialInactivePage
+            || 1
+        );
+
+
+    current =
+        Math.max(
+            1,
+            Math.min(
+                current,
+                pages
+            )
+        );
+
+
+    window.socialInactivePage =
+        current;
+
+
+    const start =
+        (
+            current - 1
+        )
+        * PER_PAGE;
+
+
+    const visibleInactive =
+        inactiveItems.slice(
+            start,
+            start + PER_PAGE
+        );
+
 
     let section =
         document.getElementById(
@@ -2896,45 +2966,59 @@ function renderLinks(data) {
     if (!section) {
 
         section =
-            document.createElement("div");
+            document.createElement(
+                "div"
+            );
 
         section.id =
             "socialLinksInactiveSection";
 
         section.style.marginTop =
-            "32px";
+            "36px";
 
 
         const title =
-            document.createElement("h3");
+            document.createElement(
+                "h3"
+            );
 
         title.textContent =
             "Histórico: enlaces caídos / pendientes";
 
 
-        const description =
-            document.createElement("p");
+        const summary =
+            document.createElement(
+                "p"
+            );
 
-        description.id =
-            "socialLinksInactiveInfo";
+        summary.id =
+            "socialInactiveSummary";
 
 
-        const tableWrap =
-            document.createElement("div");
+        const wrap =
+            document.createElement(
+                "div"
+            );
 
-        tableWrap.style.overflowX =
+        wrap.style.overflowX =
             "auto";
 
 
         const table =
-            document.createElement("table");
+            document.createElement(
+                "table"
+            );
 
 
         const thead =
-            document.createElement("thead");
+            document.createElement(
+                "thead"
+            );
 
-        const headerRow =
-            document.createElement("tr");
+        const header =
+            document.createElement(
+                "tr"
+            );
 
 
         [
@@ -2959,7 +3043,7 @@ function renderLinks(data) {
                 th.textContent =
                     label;
 
-                headerRow.appendChild(
+                header.appendChild(
                     th
                 );
             }
@@ -2967,15 +3051,17 @@ function renderLinks(data) {
 
 
         thead.appendChild(
-            headerRow
+            header
         );
 
 
-        const body =
-            document.createElement("tbody");
+        const inactiveBody =
+            document.createElement(
+                "tbody"
+            );
 
-        body.id =
-            "socialLinksInactive";
+        inactiveBody.id =
+            "socialInactiveBody";
 
 
         table.appendChild(
@@ -2983,11 +3069,79 @@ function renderLinks(data) {
         );
 
         table.appendChild(
-            body
+            inactiveBody
         );
 
-        tableWrap.appendChild(
+
+        wrap.appendChild(
             table
+        );
+
+
+        const pager =
+            document.createElement(
+                "div"
+            );
+
+        pager.id =
+            "socialInactivePager";
+
+        pager.style.display =
+            "flex";
+
+        pager.style.gap =
+            "12px";
+
+        pager.style.alignItems =
+            "center";
+
+        pager.style.marginTop =
+            "12px";
+
+
+        const previous =
+            document.createElement(
+                "button"
+            );
+
+        previous.id =
+            "socialInactivePrev";
+
+        previous.textContent =
+            "← Anterior";
+
+
+        const pageInfo =
+            document.createElement(
+                "span"
+            );
+
+        pageInfo.id =
+            "socialInactivePageInfo";
+
+
+        const next =
+            document.createElement(
+                "button"
+            );
+
+        next.id =
+            "socialInactiveNext";
+
+        next.textContent =
+            "Siguiente →";
+
+
+        pager.appendChild(
+            previous
+        );
+
+        pager.appendChild(
+            pageInfo
+        );
+
+        pager.appendChild(
+            next
         );
 
 
@@ -2996,35 +3150,36 @@ function renderLinks(data) {
         );
 
         section.appendChild(
-            description
+            summary
         );
 
         section.appendChild(
-            tableWrap
+            wrap
+        );
+
+        section.appendChild(
+            pager
         );
 
 
-        const pagination =
+        const activePager =
             document.getElementById(
                 "linksPagination"
             );
 
 
-        if (pagination) {
+        if (activePager) {
 
-            pagination.insertAdjacentElement(
+            activePager.insertAdjacentElement(
                 "afterend",
                 section
             );
 
         } else {
 
-            const mainTable =
-                tbody.closest(
-                    "table"
-                );
-
-            mainTable?.insertAdjacentElement(
+            tbody.closest(
+                "table"
+            )?.insertAdjacentElement(
                 "afterend",
                 section
             );
@@ -3032,70 +3187,131 @@ function renderLinks(data) {
     }
 
 
-    const inactiveBody =
+    const body =
         document.getElementById(
-            "socialLinksInactive"
+            "socialInactiveBody"
         );
 
-    const inactiveInfo =
-        document.getElementById(
-            "socialLinksInactiveInfo"
-        );
+    body.textContent = "";
 
 
-    if (inactiveInfo) {
+    if (!visibleInactive.length) {
 
-        inactiveInfo.textContent =
-            `${fmt.format(deadItems.length)} caídos · ` +
-            `${fmt.format(pendingItems.length)} pendientes de verificación. ` +
-            `No se elimina ningún enlace del histórico.`;
+        const tr =
+            document.createElement(
+                "tr"
+            );
+
+        const td =
+            document.createElement(
+                "td"
+            );
+
+        td.colSpan = 10;
+
+        td.textContent =
+            "No hay enlaces caídos ni pendientes.";
+
+        tr.appendChild(td);
+        body.appendChild(tr);
+
+    } else {
+
+        for (
+            const item
+            of visibleInactive
+        ) {
+
+            body.appendChild(
+                createRow(
+                    item,
+                    true
+                )
+            );
+        }
     }
 
 
-    if (inactiveBody) {
-
-        inactiveBody.textContent = "";
-
-        const inactive = [
-            ...deadItems,
-            ...pendingItems
-        ];
+    const summary =
+        document.getElementById(
+            "socialInactiveSummary"
+        );
 
 
-        if (!inactive.length) {
+    if (summary) {
 
-            const tr =
-                document.createElement("tr");
+        summary.textContent =
+            `${fmt.format(fullLinks.dead_unique || 0)} caídos · ` +
+            `${fmt.format(fullLinks.pending_unique || 0)} pendientes · ` +
+            `${fmt.format(inactiveItems.length)} históricos no activos`;
+    }
 
-            const td =
-                document.createElement("td");
 
-            td.colSpan = 10;
+    const pageInfo =
+        document.getElementById(
+            "socialInactivePageInfo"
+        );
 
-            td.textContent =
-                "No hay enlaces caídos ni pendientes.";
+    if (pageInfo) {
 
-            tr.appendChild(td);
+        pageInfo.textContent =
+            `Página ${current} de ${pages} · ` +
+            `${inactiveItems.length} enlaces`;
+    }
 
-            inactiveBody.appendChild(
-                tr
-            );
 
-        } else {
+    const prev =
+        document.getElementById(
+            "socialInactivePrev"
+        );
 
-            for (
-                const item
-                of inactive
-            ) {
+    const next =
+        document.getElementById(
+            "socialInactiveNext"
+        );
 
-                inactiveBody.appendChild(
-                    makeRow(
-                        item,
-                        true
-                    )
+
+    if (prev) {
+
+        prev.disabled =
+            current <= 1;
+
+        prev.onclick =
+            () => {
+
+                window.socialInactivePage =
+                    Math.max(
+                        1,
+                        current - 1
+                    );
+
+                renderLinksPaged(
+                    linksDashboardData,
+                    linksCurrentPage
                 );
-            }
-        }
+            };
+    }
+
+
+    if (next) {
+
+        next.disabled =
+            current >= pages;
+
+        next.onclick =
+            () => {
+
+                window.socialInactivePage =
+                    Math.min(
+                        pages,
+                        current + 1
+                    );
+
+                renderLinksPaged(
+                    linksDashboardData,
+                    linksCurrentPage
+                );
+            };
     }
 }
 

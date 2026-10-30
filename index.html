@@ -1619,71 +1619,32 @@ canvas {
 
 
 <!-- BLOCUS_VISUAL_RANKING_START -->
-<style>
-#blocus-ranking {
-    max-width: 1200px;
-    margin: 28px auto;
-    padding: 24px;
-    border: 1px solid #d1d5db;
-    border-radius: 14px;
-    background: #fff;
-}
-#blocus-ranking h2 { margin: 0 0 10px; }
-#blocus-ranking .blocus-note { font-size: 13px; opacity: .8; }
-#blocus-ranking .blocus-table-wrap { overflow-x: auto; }
-#blocus-ranking table { width: 100%; border-collapse: collapse; }
-#blocus-ranking th, #blocus-ranking td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-#blocus-ranking th { font-weight: 600; }
-#blocus-ranking .blocus-stats {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-    margin: 15px 0;
-}
-#blocus-ranking .blocus-stat {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 12px;
-}
-#blocus-ranking .blocus-stat strong {
-    display: block;
-    font-size: 20px;
-}
-#blocus-ranking .blocus-controls {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 12px;
-}
-</style>
+
 
 <div id="blocus-ranking">
     <h2>#blocus — Ranking de similitud visual</h2>
-    <p class="blocus-note">
+    <p >
         Publicaciones ordenadas según su mayor similitud con
         las 12 imágenes de referencia del llamamiento #blocus.
         El resultado es una similitud visual, no una clasificación definitiva.
     </p>
-    <div class="blocus-stats" id="blocus-stats"></div>
-    <p class="blocus-note" id="blocus-updated">Cargando ranking...</p>
-    <div class="blocus-table-wrap">
+    <div  id="blocus-stats"></div>
+    <p  id="blocus-updated">Cargando ranking...</p>
+    <div >
         <table>
             <thead>
                 <tr>
                     <th>#</th>
                     <th>Publicación TikTok</th>
                     <th>Similitud</th>
-                    <th>Referencia</th>
+                    <th>Cartel coincidente</th>
                     <th>Fotograma</th>
                 </tr>
             </thead>
             <tbody id="blocus-rows"></tbody>
         </table>
     </div>
-    <div class="blocus-controls">
+    <div >
         <button type="button" id="blocus-prev">Anterior</button>
         <span id="blocus-page"></span>
         <button type="button" id="blocus-next">Siguiente</button>
@@ -1733,7 +1694,10 @@ canvas {
 
             const score = Number(item.similarity);
             createCell(tr, Number.isFinite(score) ? score.toFixed(4) : "—");
-            createCell(tr, item.reference || "—");
+            createCell(
+                tr,
+                item.reference_label || item.reference || "—"
+            );
             createCell(tr, item.frame_id ?? "—");
 
             tbody.appendChild(tr);

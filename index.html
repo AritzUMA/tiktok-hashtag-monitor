@@ -2453,7 +2453,7 @@ function renderLinksPaged(
         if (totalItems === 1) {
 
             totalInfo.textContent =
-                "1 enlace histórico";
+                "1 enlace activo";
 
         } else {
 
@@ -2461,7 +2461,7 @@ function renderLinksPaged(
                 totalItems.toLocaleString(
                     "es-ES"
                 )
-                + " enlaces históricos";
+                + " enlaces activos";
 
         }
 
@@ -3783,6 +3783,47 @@ async function load() {
             )
             .textContent =
                 formatMadridDateTime(latest.updated_at);
+
+
+        /*
+         * SOCIAL LINKS GLOBAL ROOT BEGIN
+         *
+         * Telegram / WhatsApp es una sección global.
+         * Las vistas de país/movilización no almacenan copias.
+         * Se recupera root.links directamente del JSON canónico.
+         */
+        const socialResponse =
+            await fetch(
+                "data/latest.json?_="
+                + Date.now(),
+                {
+                    cache:
+                        "no-store"
+                }
+            );
+
+        if (!socialResponse.ok) {
+
+            throw new Error(
+                "No se pudo cargar la sección social global"
+            );
+
+        }
+
+        const socialRoot =
+            await socialResponse.json();
+
+        if (
+            socialRoot
+            &&
+            socialRoot.links
+        ) {
+
+            latest.links =
+                socialRoot.links;
+
+        }
+        /* SOCIAL LINKS GLOBAL ROOT END */
 
 
         renderSummary(

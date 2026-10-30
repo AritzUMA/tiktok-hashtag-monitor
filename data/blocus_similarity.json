@@ -1,10 +1,10 @@
 {
   "title": "#blocus — Similitud visual",
-  "generated_at": "2026-10-30T22:56:04.519088+00:00",
+  "generated_at": "2026-10-30T22:58:09.929990+00:00",
   "model": "embeddinggemma-2:740m",
   "reference_images": 12,
-  "frames_compared": 726,
-  "videos_compared": 184,
+  "frames_compared": 774,
+  "videos_compared": 196,
   "invalid_embeddings": 0,
   "ranking": [
     {
@@ -413,13 +413,22 @@
       "rank": 45
     },
     {
+      "video_id": "7691327398154865953",
+      "similarity": 0.701672,
+      "frame_id": 3029,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691327398154865953/frame_02_3933ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
+      "reference_label": "Cartel 3",
+      "rank": 46
+    },
+    {
       "video_id": "7691678292025363744",
       "similarity": 0.701384,
       "frame_id": 2999,
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691678292025363744/frame_04_8000ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 46
+      "rank": 47
     },
     {
       "video_id": "7697685693446769953",
@@ -428,7 +437,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7697685693446769953/frame_03_11223ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (1).jpeg",
       "reference_label": "Cartel 9",
-      "rank": 47
+      "rank": 48
     },
     {
       "video_id": "7693153965462146337",
@@ -437,7 +446,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693153965462146337/frame_04_10233ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 48
+      "rank": 49
     },
     {
       "video_id": "7701088342959508758",
@@ -446,7 +455,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701088342959508758/frame_03_39241ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 49
+      "rank": 50
     },
     {
       "video_id": "7694330492430142752",
@@ -455,7 +464,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694330492430142752/frame_03_58637ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 50
+      "rank": 51
     },
     {
       "video_id": "7692367692505959688",
@@ -464,7 +473,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692367692505959688/frame_02_8769ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 51
+      "rank": 52
     },
     {
       "video_id": "7694396743798050080",
@@ -473,7 +482,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694396743798050080/frame_03_41311ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 52
+      "rank": 53
     },
     {
       "video_id": "7701022952103365920",
@@ -482,7 +491,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701022952103365920/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 53
+      "rank": 54
     },
     {
       "video_id": "7691955423804427552",
@@ -491,7 +500,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691955423804427552/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 54
+      "rank": 55
     },
     {
       "video_id": "7696574890496822561",
@@ -500,7 +509,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7696574890496822561/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 55
+      "rank": 56
     },
     {
       "video_id": "7691767690427452704",
@@ -509,7 +518,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691767690427452704/frame_02_15433ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 56
+      "rank": 57
     },
     {
       "video_id": "7693470013805661472",
@@ -518,7 +527,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693470013805661472/frame_04_5567ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 57
+      "rank": 58
     },
     {
       "video_id": "7700229070679788833",
@@ -527,7 +536,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700229070679788833/frame_02_2646ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 58
+      "rank": 59
     },
     {
       "video_id": "7691619721258568967",
@@ -536,7 +545,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691619721258568967/frame_02_2144ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 59
+      "rank": 60
     },
     {
       "video_id": "7692203269841603873",
@@ -545,7 +554,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692203269841603873/frame_04_8973ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 60
+      "rank": 61
     },
     {
       "video_id": "7700272458300984608",
@@ -554,7 +563,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700272458300984608/frame_02_3467ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 61
+      "rank": 62
     },
     {
       "video_id": "7700608061127413025",
@@ -563,7 +572,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700608061127413025/frame_04_53217ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 62
+      "rank": 63
     },
     {
       "video_id": "7694623155377229088",
@@ -572,7 +581,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694623155377229088/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 63
+      "rank": 64
     },
     {
       "video_id": "7692498151739051297",
@@ -581,7 +590,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692498151739051297/frame_02_21055ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 64
+      "rank": 65
     },
     {
       "video_id": "7694631791566523670",
@@ -590,7 +599,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694631791566523670/frame_03_41309ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 65
+      "rank": 66
     },
     {
       "video_id": "7695820464941272353",
@@ -599,7 +608,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7695820464941272353/frame_02_10144ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.32 (1).jpeg",
       "reference_label": "Cartel 7",
-      "rank": 66
+      "rank": 67
     },
     {
       "video_id": "7694384746821946656",
@@ -608,7 +617,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694384746821946656/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 67
+      "rank": 68
     },
     {
       "video_id": "7700153975244344608",
@@ -617,7 +626,25 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700153975244344608/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 68
+      "rank": 69
+    },
+    {
+      "video_id": "7691305244650655008",
+      "similarity": 0.688005,
+      "frame_id": 3033,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691305244650655008/frame_02_6100ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
+      "reference_label": "Cartel 3",
+      "rank": 70
+    },
+    {
+      "video_id": "7690956111217708321",
+      "similarity": 0.687454,
+      "frame_id": 3059,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7690956111217708321/frame_04_53800ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
+      "reference_label": "Cartel 10",
+      "rank": 71
     },
     {
       "video_id": "7701022670502038816",
@@ -626,7 +653,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701022670502038816/frame_04_46080ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 69
+      "rank": 72
     },
     {
       "video_id": "7693088714322431265",
@@ -635,7 +662,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693088714322431265/frame_04_12833ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 70
+      "rank": 73
     },
     {
       "video_id": "7700284281553259809",
@@ -644,7 +671,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700284281553259809/frame_04_30900ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 71
+      "rank": 74
     },
     {
       "video_id": "7700544487000509729",
@@ -653,7 +680,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700544487000509729/frame_02_13212ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 72
+      "rank": 75
     },
     {
       "video_id": "7701268431911374113",
@@ -662,7 +689,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701268431911374113/frame_02_7833ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 73
+      "rank": 76
     },
     {
       "video_id": "7693116212330515744",
@@ -671,7 +698,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693116212330515744/frame_02_3838ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 74
+      "rank": 77
     },
     {
       "video_id": "7696433362902273313",
@@ -680,7 +707,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7696433362902273313/frame_04_61500ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 75
+      "rank": 78
     },
     {
       "video_id": "7692187558805064993",
@@ -689,7 +716,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692187558805064993/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 76
+      "rank": 79
     },
     {
       "video_id": "7696877932685315360",
@@ -698,7 +725,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7696877932685315360/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 77
+      "rank": 80
     },
     {
       "video_id": "7700939697136143649",
@@ -707,7 +734,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700939697136143649/frame_03_7275ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 78
+      "rank": 81
     },
     {
       "video_id": "7692532597699792161",
@@ -716,7 +743,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692532597699792161/frame_02_4040ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 79
+      "rank": 82
     },
     {
       "video_id": "7694611015178226977",
@@ -725,7 +752,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694611015178226977/frame_03_45974ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 80
+      "rank": 83
     },
     {
       "video_id": "7700175644918910241",
@@ -734,7 +761,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700175644918910241/frame_02_4987ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 81
+      "rank": 84
     },
     {
       "video_id": "7699575957644004641",
@@ -743,7 +770,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7699575957644004641/frame_04_11851ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 82
+      "rank": 85
     },
     {
       "video_id": "7692551756173151510",
@@ -752,7 +779,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692551756173151510/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 83
+      "rank": 86
     },
     {
       "video_id": "7691394372004367649",
@@ -761,7 +788,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691394372004367649/frame_04_12267ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 84
+      "rank": 87
     },
     {
       "video_id": "7700156650648243488",
@@ -770,7 +797,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700156650648243488/frame_03_26966ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 85
+      "rank": 88
     },
     {
       "video_id": "7691602103223061792",
@@ -779,7 +806,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691602103223061792/frame_04_10367ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (1).jpeg",
       "reference_label": "Cartel 9",
-      "rank": 86
+      "rank": 89
     },
     {
       "video_id": "7693861991659687201",
@@ -788,7 +815,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693861991659687201/frame_04_50905ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (1).jpeg",
       "reference_label": "Cartel 9",
-      "rank": 87
+      "rank": 90
     },
     {
       "video_id": "7700596327469550849",
@@ -797,7 +824,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700596327469550849/frame_03_7000ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 88
+      "rank": 91
     },
     {
       "video_id": "7694326195374116128",
@@ -806,7 +833,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694326195374116128/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 89
+      "rank": 92
     },
     {
       "video_id": "7691681058374421792",
@@ -815,7 +842,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691681058374421792/frame_04_10900ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 90
+      "rank": 93
     },
     {
       "video_id": "7691633351484083488",
@@ -824,7 +851,16 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691633351484083488/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 91
+      "rank": 94
+    },
+    {
+      "video_id": "7690900465306881312",
+      "similarity": 0.676816,
+      "frame_id": 3064,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7690900465306881312/frame_01_0ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
+      "reference_label": "Cartel 5",
+      "rank": 95
     },
     {
       "video_id": "7701101290046197014",
@@ -833,7 +869,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701101290046197014/frame_03_23761ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 92
+      "rank": 96
     },
     {
       "video_id": "7692000258838039840",
@@ -842,7 +878,16 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692000258838039840/frame_02_9898ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 93
+      "rank": 97
+    },
+    {
+      "video_id": "7691038157516721441",
+      "similarity": 0.675898,
+      "frame_id": 3042,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691038157516721441/frame_03_6701ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.28.32 (1).jpeg",
+      "reference_label": "Cartel 7",
+      "rank": 98
     },
     {
       "video_id": "7701004028645215520",
@@ -851,7 +896,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701004028645215520/frame_02_48823ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 94
+      "rank": 99
     },
     {
       "video_id": "7692351372225776928",
@@ -860,51 +905,6 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7692351372225776928/frame_02_2922ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
       "reference_label": "Cartel 12",
-      "rank": 95
-    },
-    {
-      "video_id": "7700552440688545057",
-      "similarity": 0.67458,
-      "frame_id": 2458,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700552440688545057/frame_01_0ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
-      "reference_label": "Cartel 5",
-      "rank": 96
-    },
-    {
-      "video_id": "7694981706843000097",
-      "similarity": 0.674462,
-      "frame_id": 2698,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694981706843000097/frame_01_0ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.30.26.jpeg",
-      "reference_label": "Cartel 12",
-      "rank": 97
-    },
-    {
-      "video_id": "7693588023463677216",
-      "similarity": 0.673891,
-      "frame_id": 2792,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7693588023463677216/frame_02_5518ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
-      "reference_label": "Cartel 5",
-      "rank": 98
-    },
-    {
-      "video_id": "7698258487456959777",
-      "similarity": 0.673658,
-      "frame_id": 2589,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7698258487456959777/frame_04_70540ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.28.32 (1).jpeg",
-      "reference_label": "Cartel 7",
-      "rank": 99
-    },
-    {
-      "video_id": "7695816849895804193",
-      "similarity": 0.673578,
-      "frame_id": 2662,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7695816849895804193/frame_01_0ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
-      "reference_label": "Cartel 5",
       "rank": 100
     }
   ]

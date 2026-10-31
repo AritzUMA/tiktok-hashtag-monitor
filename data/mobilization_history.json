@@ -1,22 +1,6 @@
 {
   "ALL": [
     {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {
-        "manifestation": 8,
-        "paris": 5,
-        "genz": 5,
-        "blocus": 4,
-        "31octobre": 3,
-        "barcelona": 2,
-        "disturbios": 2,
-        "protest": 2,
-        "forcedelordre": 2,
-        "mobilisation": 2
-      }
-    },
-    {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
       "hashtags": {
@@ -3199,25 +3183,25 @@
         "31octobre": 5,
         "berlin": 5
       }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "manifestation": 16,
+        "genz": 15,
+        "blocus": 10,
+        "protest": 10,
+        "paris": 7,
+        "demo": 7,
+        "genzregelt": 6,
+        "france": 6,
+        "31octobre": 5,
+        "frankfurt": 5
+      }
     }
   ],
   "FR": [
-    {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {
-        "manifestation": 8,
-        "paris": 5,
-        "31octobre": 3,
-        "genz": 3,
-        "forcedelordre": 2,
-        "mobilisation": 2,
-        "cgt": 1,
-        "pau": 1,
-        "64": 1,
-        "oktober": 1
-      }
-    },
     {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
@@ -6401,25 +6385,25 @@
         "lycee": 2,
         "politique": 2
       }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "manifestation": 14,
+        "paris": 7,
+        "france": 6,
+        "31octobre": 4,
+        "genz": 4,
+        "protest": 3,
+        "politique": 2,
+        "lycee": 2,
+        "forcedelordre": 2,
+        "mobilisation": 2
+      }
     }
   ],
   "DE": [
-    {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {
-        "genz": 4,
-        "protest": 2,
-        "proteste": 2,
-        "paris": 1,
-        "oktober": 1,
-        "deutschland": 1,
-        "politik": 1,
-        "demo": 1,
-        "31oktober": 1,
-        "3110": 1
-      }
-    },
     {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
@@ -9603,25 +9587,25 @@
         "fy": 2,
         "fypp": 2
       }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "genz": 11,
+        "protest": 8,
+        "frankfurt": 5,
+        "proteste": 5,
+        "berlin": 5,
+        "demo": 5,
+        "deutschland": 4,
+        "genzregelt": 4,
+        "fy": 2,
+        "fypp": 2
+      }
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {
-        "blocus": 3,
-        "barcelona": 2,
-        "disturbios": 2,
-        "renfe": 1,
-        "madrid": 1,
-        "huelga": 1,
-        "trenes": 1,
-        "madridinformacion": 1,
-        "halloween2026": 1,
-        "fuckaeaet": 1
-      }
-    },
     {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
@@ -12805,14 +12789,25 @@
         "alfafar": 2,
         "blocusvlc": 2
       }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "blocus": 7,
+        "barcelona": 4,
+        "madrid": 3,
+        "valencia": 3,
+        "disturbios": 3,
+        "huelga": 2,
+        "trenes": 2,
+        "blocusvlc": 2,
+        "guardiacivil": 2,
+        "sucesos": 2
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {}
-    },
     {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
@@ -13806,16 +13801,16 @@
     {
       "updated_at": "2026-10-31T03:42:56+01:00",
       "round_id": "20261031_034148",
+      "hashtags": {}
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
       "hashtags": {}
     }
   ],
   "BE": [
     {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {}
-    },
-    {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
       "hashtags": {}
@@ -15774,14 +15769,19 @@
         "bruxelles": 1,
         "belgique": 1
       }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "bruxelles": 1,
+        "belgique": 1,
+        "liege": 1,
+        "manifestation": 1
+      }
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-10-30T17:54:14+01:00",
-      "round_id": "20261030_162905",
-      "hashtags": {}
-    },
     {
       "updated_at": "2026-10-30T17:58:23+01:00",
       "round_id": "20261030_175808",
@@ -18964,6 +18964,22 @@
         "debat": 1,
         "police": 1,
         "demonstration": 1
+      }
+    },
+    {
+      "updated_at": "2026-10-31T03:44:58+01:00",
+      "round_id": "20261031_034447",
+      "hashtags": {
+        "genzregelt": 2,
+        "genz": 2,
+        "demo": 2,
+        "manifestation": 2,
+        "nachrichten": 1,
+        "lernenmittiktok": 1,
+        "gutzuwissen": 1,
+        "blocus": 1,
+        "greve": 1,
+        "5novembre": 1
       }
     }
   ]

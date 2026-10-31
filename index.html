@@ -1602,6 +1602,42 @@ canvas {
 </div>
 
 
+
+<!-- BLOCUS_PROFILE_RANKING_START -->
+<section id="blocus-profile-ranking" class="section">
+    <div class="section-title">
+        Cuentas de TikTok · Similitud visual con #blocus
+    </div>
+    <div class="section-body">
+        <p>
+            Cuentas ordenadas por la similitud de su fotografía de perfil
+            con los 12 carteles de referencia de #blocus.
+        </p>
+        <div id="blocus-profile-summary">Cargando perfiles...</div>
+        <div style="overflow-x:auto">
+            <table id="blocus-profile-table" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Usuario</th>
+                        <th>Seguidores</th>
+                        <th>Creación inferida (UTC)</th>
+                        <th>Vídeos</th>
+                        <th>Similitud</th>
+                    </tr>
+                </thead>
+                <tbody id="blocus-profile-rows"></tbody>
+            </table>
+        </div>
+        <p style="font-size:12px;opacity:.75">
+            La creación de la cuenta se infiere del identificador de TikTok,
+            no constituye una fecha certificada. La similitud visual no
+            demuestra afiliación ni coordinación entre cuentas.
+        </p>
+    </div>
+</section>
+<!-- BLOCUS_PROFILE_RANKING_END -->
+
 <!-- BLOCUS_VISUAL_RANKING_START -->
 <div class="section" id="blocus-ranking">
 
@@ -4264,6 +4300,153 @@ window.addEventListener(
 
 </script>
 
+
+
+<!-- BLOCUS_PROFILE_RANKING_JS_START -->
+<script>
+(function () {
+  "use strict";
+
+  const tbody = document.getElementById("blocus-profile-rows");
+  const summary = document.getElementById("blocus-profile-summary");
+  if (!tbody || !summary) return;
+
+  function num(v) {
+    return v === null || v === undefined
+      ? "—"
+      : Number(v).toLocaleString("es-ES");
+  }
+
+  function date(v) {
+    if (!v) return "No disponible";
+    const d = new Date(v);
+    if (Number.isNaN(d.getTime())) return "No disponible";
+    return new Intl.DateTimeFormat("es-ES", {
+      timeZone: "UTC",
+      day: "2-digit", month: "2-digit", year: "numeric",
+      hour: "2-digit", minute: "2-digit", second: "2-digit",
+      hour12: false
+    }).format(d) + " UTC";
+  }
+
+  function cell(tr, value) {
+    const td = document.createElement("td");
+    td.textContent = value == null ? "—" : String(value);
+    tr.appendChild(td);
+    return td;
+  }
+
+  function validProfileUrl(url) {
+    try {
+      const u = new URL(url);
+      return u.protocol === "https:"
+        && u.hostname === "www.tiktok.com"
+        && u.pathname.startsWith("/@");
+    } catch (_) {
+      return false;
+    }
+  }
+
+  function description(p) {
+    const div = document.createElement("div");
+    div.style.padding = "12px";
+    div.style.fontSize = "13px";
+
+    const fields = [
+      ["Nombre visible", p.nickname],
+      ["Biografía", p.biography],
+      ["Seguidos", num(p.following)],
+      ["Me gusta del perfil", num(p.profile_likes)],
+      ["Vídeos totales del perfil", num(p.profile_videos)],
+      ["Vídeos recopilados por el monitor", num(p.collected_videos)],
+      ["Cuenta verificada", p.verified ? "Sí" : "No"],
+      ["Cuenta privada", p.private == null ? "—" : p.private ? "Sí" : "No"],
+      ["Primera observación en el monitor", p.first_seen || "—"],
+      ["Última observación en el monitor", p.last_seen || "—"],
+      ["Referencia visual más similar", p.reference || "—"],
+      ["Prioridad textual", p.priority == null ? "—" : p.priority],
+      ["Método de fecha", "Inferencia del ID de usuario"]
+    ];
+
+    for (const [label, value] of fields) {
+      const line = document.createElement("p");
+      line.style.margin = "5px 0";
+      const strong = document.createElement("strong");
+      strong.textContent = label + ": ";
+      line.appendChild(strong);
+      line.appendChild(document.createTextNode(
+        String(value == null || value === "" ? "—" : value)
+      ));
+      div.appendChild(line);
+    }
+    return div;
+  }
+
+  fetch("./data/blocus_profiles.json", {cache: "no-store"})
+    .then(r => {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(data => {
+      const profiles = data.profiles || [];
+
+      summary.textContent =
+        num(profiles.length) + " cuentas analizadas y ordenadas "
+        + "por similitud máxima con 12 carteles.";
+
+      tbody.replaceChildren();
+
+      profiles.forEach((p, i) => {
+        const tr = document.createElement("tr");
+        cell(tr, i + 1);
+
+        const userCell = document.createElement("td");
+        const link = document.createElement("a");
+        link.textContent = "@" + (p.username || "desconocido");
+        link.href = validProfileUrl(p.profile_url)
+          ? p.profile_url : "#";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        userCell.appendChild(link);
+
+        const expand = document.createElement("button");
+        expand.type = "button";
+        expand.textContent = " ▸ Detalles";
+        expand.style.marginLeft = "8px";
+        expand.style.cursor = "pointer";
+        userCell.appendChild(expand);
+        tr.appendChild(userCell);
+
+        cell(tr, num(p.followers));
+        cell(tr, date(p.created_at_inferred));
+        cell(tr, num(p.profile_videos));
+        cell(tr, Number(p.similarity).toFixed(4));
+
+        const detailRow = document.createElement("tr");
+        detailRow.hidden = true;
+
+        const detailCell = document.createElement("td");
+        detailCell.colSpan = 6;
+        detailCell.appendChild(description(p));
+        detailRow.appendChild(detailCell);
+
+        expand.addEventListener("click", () => {
+          detailRow.hidden = !detailRow.hidden;
+          expand.textContent = detailRow.hidden
+            ? " ▸ Detalles" : " ▾ Ocultar";
+        });
+
+        tbody.appendChild(tr);
+        tbody.appendChild(detailRow);
+      });
+    })
+    .catch(err => {
+      summary.textContent =
+        "No se pudo cargar el ranking: " + err.message;
+    });
+})();
+</script>
+<!-- BLOCUS_PROFILE_RANKING_JS_END -->
 
 </body>
 

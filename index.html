@@ -2102,6 +2102,192 @@ function renderHashtags(
                     tr
                 );
 
+            // HASHTAG_TOP_POSTS_V1
+            const topPosts = Array.isArray(row.top_posts)
+                ? row.top_posts : [];
+
+            const topGrowth = Array.isArray(row.top_growth)
+                ? row.top_growth : [];
+
+            if (topPosts.length || topGrowth.length) {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.textContent = "▸ Ver publicaciones";
+                button.style.marginLeft = "8px";
+
+                tr.cells[1].appendChild(button);
+
+                const details = document.createElement("tr");
+                details.hidden = true;
+
+                const cell = document.createElement("td");
+                cell.colSpan = 6;
+                cell.style.padding = "8px";
+
+                const heading = document.createElement("div");
+                heading.className = "small";
+                heading.style.marginBottom = "7px";
+                heading.textContent =
+                    "Publicaciones del hashtag #" + row.hashtag;
+
+                const selector = document.createElement("select");
+                selector.setAttribute(
+                    "aria-label",
+                    "Ordenación de publicaciones"
+                );
+
+                for (const [value, label] of [
+                    ["plays", "Más reproducidas"],
+                    ["growth", "Mayor crecimiento"]
+                ]) {
+                    const option = document.createElement("option");
+                    option.value = value;
+                    option.textContent = label;
+                    selector.appendChild(option);
+                }
+
+                const tableWrap = document.createElement("div");
+                tableWrap.style.overflowX = "auto";
+                tableWrap.style.marginTop = "8px";
+
+                const innerTable = document.createElement("table");
+
+                const header = document.createElement("thead");
+                const headerRow = document.createElement("tr");
+
+                for (const text of [
+                    "#",
+                    "Usuario",
+                    "Reproducciones",
+                    "Δ reproducciones",
+                    "Me gusta",
+                    "Publicado",
+                    "Publicación"
+                ]) {
+                    const th = document.createElement("th");
+                    th.textContent = text;
+                    headerRow.appendChild(th);
+                }
+
+                header.appendChild(headerRow);
+                innerTable.appendChild(header);
+
+                const innerBody = document.createElement("tbody");
+                innerTable.appendChild(innerBody);
+                tableWrap.appendChild(innerTable);
+
+                function renderHashtagPosts() {
+                    innerBody.replaceChildren();
+
+                    const items = selector.value === "growth"
+                        ? topGrowth : topPosts;
+
+                    if (!items.length) {
+                        const empty = document.createElement("tr");
+                        const td = document.createElement("td");
+                        td.colSpan = 7;
+                        td.className = "muted";
+                        td.textContent =
+                            "No hay observaciones anteriores comparables " +
+                            "para calcular el crecimiento.";
+                        empty.appendChild(td);
+                        innerBody.appendChild(empty);
+                        return;
+                    }
+
+                    function addCell(parent, value, numeric=false) {
+                        const td = document.createElement("td");
+                        td.textContent = String(value ?? "—");
+                        if (numeric) td.className = "num";
+                        parent.appendChild(td);
+                        return td;
+                    }
+
+                    items.forEach((post, i) => {
+                        const rowEl = document.createElement("tr");
+
+                        addCell(rowEl, i + 1, true);
+                        addCell(rowEl, post.username
+                            ? "@" + post.username : "—");
+
+                        addCell(
+                            rowEl,
+                            Number(post.plays || 0)
+                                .toLocaleString("es-ES"),
+                            true
+                        );
+
+                        addCell(
+                            rowEl,
+                            post.plays_delta == null
+                                ? "—"
+                                : "+" + Number(post.plays_delta)
+                                    .toLocaleString("es-ES"),
+                            true
+                        );
+
+                        addCell(
+                            rowEl,
+                            Number(post.likes || 0)
+                                .toLocaleString("es-ES"),
+                            true
+                        );
+
+                        addCell(
+                            rowEl,
+                            post.published_at
+                                ? formatMadridDateTime(
+                                    post.published_at
+                                  )
+                                : "—"
+                        );
+
+                        const linkCell = addCell(rowEl, "");
+
+                        if (
+                            typeof post.url === "string" &&
+                            /^https:\/\/(www|m)\.tiktok\.com\//.test(
+                                post.url
+                            )
+                        ) {
+                            const a = document.createElement("a");
+                            a.href = post.url;
+                            a.target = "_blank";
+                            a.rel = "noopener noreferrer";
+                            a.textContent = "Abrir TikTok";
+                            linkCell.appendChild(a);
+                        } else {
+                            linkCell.textContent = "—";
+                        }
+
+                        innerBody.appendChild(rowEl);
+                    });
+                }
+
+                cell.appendChild(heading);
+                cell.appendChild(selector);
+                cell.appendChild(tableWrap);
+                details.appendChild(cell);
+
+                tbody.appendChild(details);
+
+                selector.addEventListener(
+                    "change",
+                    renderHashtagPosts
+                );
+
+                button.addEventListener("click", () => {
+                    details.hidden = !details.hidden;
+                    button.textContent = details.hidden
+                        ? "▸ Ver publicaciones"
+                        : "▾ Ocultar publicaciones";
+
+                    if (!details.hidden) renderHashtagPosts();
+                });
+            }
+            // HASHTAG_TOP_POSTS_V1_END
+
+
             }
         );
 

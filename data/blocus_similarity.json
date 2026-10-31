@@ -1,10 +1,10 @@
 {
   "title": "#blocus — Similitud visual",
-  "generated_at": "2026-10-31T00:54:22.757003+00:00",
+  "generated_at": "2026-10-31T00:56:31.621899+00:00",
   "model": "embeddinggemma-2:740m",
   "reference_images": 12,
-  "frames_compared": 2630,
-  "videos_compared": 664,
+  "frames_compared": 2662,
+  "videos_compared": 672,
   "invalid_embeddings": 0,
   "ranking": [
     {
@@ -809,13 +809,22 @@
       "rank": 89
     },
     {
+      "video_id": "7700933496612670752",
+      "similarity": 0.729906,
+      "frame_id": 4959,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700933496612670752/frame_01_0ms.jpg",
+      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
+      "reference_label": "Cartel 3",
+      "rank": 90
+    },
+    {
       "video_id": "7701027352263871766",
       "similarity": 0.729807,
       "frame_id": 4666,
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701027352263871766/frame_03_2878ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 90
+      "rank": 91
     },
     {
       "video_id": "7701394856907656480",
@@ -824,7 +833,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701394856907656480/frame_02_3335ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (3).jpeg",
       "reference_label": "Cartel 5",
-      "rank": 91
+      "rank": 92
     },
     {
       "video_id": "7700968964700081441",
@@ -833,7 +842,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7700968964700081441/frame_02_8033ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 92
+      "rank": 93
     },
     {
       "video_id": "7701104744764476705",
@@ -842,7 +851,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701104744764476705/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 93
+      "rank": 94
     },
     {
       "video_id": "7701302454343781654",
@@ -851,7 +860,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701302454343781654/frame_03_93936ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 94
+      "rank": 95
     },
     {
       "video_id": "7701349630382034209",
@@ -860,7 +869,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701349630382034209/frame_03_81827ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
-      "rank": 95
+      "rank": 96
     },
     {
       "video_id": "7695724326015864097",
@@ -869,7 +878,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7695724326015864097/frame_04_14845ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 96
+      "rank": 97
     },
     {
       "video_id": "7691785589502250272",
@@ -878,7 +887,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7691785589502250272/frame_03_14272ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31.jpeg",
       "reference_label": "Cartel 6",
-      "rank": 97
+      "rank": 98
     },
     {
       "video_id": "7701338303101996319",
@@ -887,7 +896,7 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701338303101996319/frame_04_40179ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.30.26 (2).jpeg",
       "reference_label": "Cartel 10",
-      "rank": 98
+      "rank": 99
     },
     {
       "video_id": "7701308508972616981",
@@ -896,15 +905,6 @@
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701308508972616981/frame_03_34179ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (2).jpeg",
       "reference_label": "Cartel 4",
-      "rank": 99
-    },
-    {
-      "video_id": "7701103508308790560",
-      "similarity": 0.726114,
-      "frame_id": 4339,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7701103508308790560/frame_03_6333ms.jpg",
-      "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
-      "reference_label": "Cartel 3",
       "rank": 100
     }
   ]

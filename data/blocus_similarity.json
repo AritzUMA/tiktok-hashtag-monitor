@@ -1,10 +1,10 @@
 {
   "title": "#blocus — Similitud visual",
-  "generated_at": "2026-10-31T09:29:48.413357+00:00",
+  "generated_at": "2026-10-31T09:31:35.208858+00:00",
   "model": "embeddinggemma-2:740m",
   "reference_images": 12,
-  "frames_compared": 10742,
-  "videos_compared": 2715,
+  "frames_compared": 10774,
+  "videos_compared": 2723,
   "invalid_embeddings": 0,
   "ranking": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "video_id": "7699936911317667104",
-      "similarity": 0.950832,
+      "similarity": 0.950833,
       "frame_id": 13008,
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7699936911317667104/frame_02_4667ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",

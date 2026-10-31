@@ -1,10 +1,10 @@
 {
   "title": "#blocus — Similitud visual",
-  "generated_at": "2026-10-31T04:48:53.910279+00:00",
+  "generated_at": "2026-10-31T04:51:20.032624+00:00",
   "model": "embeddinggemma-2:740m",
   "reference_images": 12,
-  "frames_compared": 6182,
-  "videos_compared": 1564,
+  "frames_compared": 6214,
+  "videos_compared": 1572,
   "invalid_embeddings": 0,
   "ranking": [
     {
@@ -216,9 +216,9 @@
     },
     {
       "video_id": "7694710525262957857",
-      "similarity": 0.849056,
-      "frame_id": 8480,
-      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694710525262957857/frame_02_6671ms.jpg",
+      "similarity": 0.849553,
+      "frame_id": 8482,
+      "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7694710525262957857/frame_04_19814ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",
       "reference_label": "Cartel 3",
       "rank": 24
@@ -315,7 +315,7 @@
     },
     {
       "video_id": "7695456335135083809",
-      "similarity": 0.831661,
+      "similarity": 0.831662,
       "frame_id": 8335,
       "frame_path": "/mnt/datos_141/TikTok_Hashtag_Telegram_Monitor/data/frames/7695456335135083809/frame_01_0ms.jpg",
       "reference": "WhatsApp Image 2026-10-30 at 22.28.31 (1).jpeg",

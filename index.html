@@ -1371,6 +1371,81 @@ canvas {
 </div>
 
 
+
+<!-- HISTORICO_PUBLICACIONES_HASHTAGS_V1 -->
+<div class="section">
+    <div class="section-title">
+        Histórico completo de publicaciones y hashtags
+    </div>
+    <div class="section-body">
+
+        <div class="small" style="margin-bottom:10px">
+            Fechas originales de publicación de los vídeos recopilados.
+            Una publicación cuenta una sola vez y cada hashtag
+            se cuenta una vez por publicación.
+        </div>
+
+        <div id="hist-summary" class="small"
+             style="margin-bottom:10px">Cargando histórico...</div>
+
+        <div style="margin-bottom:12px">
+            <label for="hist-period">Agrupación:</label>
+            <select id="hist-period">
+                <option value="day">Diaria</option>
+                <option value="week" selected>Semanal</option>
+                <option value="month">Mensual</option>
+            </select>
+
+            <label for="hist-range">Período:</label>
+            <select id="hist-range">
+                <option value="all" selected>Todo el histórico</option>
+                <option value="365">Últimos 365 días</option>
+                <option value="90">Últimos 90 días</option>
+            </select>
+        </div>
+
+        <canvas id="hist-chart"></canvas>
+
+        <div class="small" style="margin-top:10px">
+            Publicaciones únicas y asociaciones publicación–hashtag.
+            Las dos series utilizan escalas independientes.
+        </div>
+
+        <div class="section-title" style="margin-top:20px">
+            Hashtags del histórico completo
+        </div>
+
+        <div style="margin:10px 0">
+            <input id="hist-search" type="search"
+                   placeholder="Buscar hashtag"
+                   aria-label="Buscar hashtag histórico">
+            <span id="hist-results" class="small"></span>
+        </div>
+
+        <div style="overflow-x:auto">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="num">#</th>
+                        <th>Hashtag</th>
+                        <th class="num">Publicaciones</th>
+                        <th>Primera publicación</th>
+                        <th>Última publicación</th>
+                    </tr>
+                </thead>
+                <tbody id="hist-tags"></tbody>
+            </table>
+        </div>
+
+        <div style="margin-top:10px">
+            <button type="button" id="hist-prev">Anterior</button>
+            <span id="hist-page" class="small"></span>
+            <button type="button" id="hist-next">Siguiente</button>
+        </div>
+    </div>
+</div>
+
+
 <!-- ====================================================== -->
 <!-- FECHAS -->
 <!-- ====================================================== -->
@@ -4511,6 +4586,376 @@ window.addEventListener(
 })();
 </script>
 <!-- BLOCUS_PROFILE_RANKING_JS_END -->
+
+
+<script>
+/* HISTORICO_PUBLICACIONES_HASHTAGS_V1 */
+(function () {
+    "use strict";
+
+    let historical = null;
+    let filtered = [];
+    let page = 0;
+
+    const pageSize = 50;
+    const numberFormat = new Intl.NumberFormat("es-ES");
+
+    function byId(id) {
+        return document.getElementById(id);
+    }
+
+    function dateKey(date, period) {
+        if (period === "day") return date;
+        if (period === "month") return date.slice(0, 7);
+
+        const d = new Date(date + "T00:00:00Z");
+        const weekday = (d.getUTCDay() + 6) % 7;
+        d.setUTCDate(d.getUTCDate() - weekday);
+        return d.toISOString().slice(0, 10);
+    }
+
+    function seriesData() {
+        if (!historical) return [];
+
+        const period = byId("hist-period").value;
+        const range = byId("hist-range").value;
+
+        const end = new Date(
+            historical.summary.last_publication + "T00:00:00Z"
+        );
+
+        const cutoff = new Date(end);
+        if (range !== "all") {
+            cutoff.setUTCDate(
+                cutoff.getUTCDate() - Number(range) + 1
+            );
+        }
+
+        const grouped = new Map();
+
+        for (const item of historical.daily) {
+            const d = new Date(item.date + "T00:00:00Z");
+            if (range !== "all" && d < cutoff) continue;
+
+            const key = dateKey(item.date, period);
+            if (!grouped.has(key)) {
+                grouped.set(key, {
+                    date: key,
+                    posts: 0,
+                    mentions: 0
+                });
+            }
+
+            const value = grouped.get(key);
+            value.posts += Number(item.publications || 0);
+            value.mentions += Number(item.hashtag_mentions || 0);
+        }
+
+        return Array.from(grouped.values())
+            .sort((a, b) => a.date.localeCompare(b.date));
+    }
+
+    function drawHistory() {
+        if (!historical) return;
+
+        const canvas = byId("hist-chart");
+        const rect = canvas.getBoundingClientRect();
+        const width = Math.max(300, rect.width || 600);
+
+        const existing = byId("chart");
+        const originalHeight = existing
+            ? existing.getBoundingClientRect().height
+            : 0;
+
+        const height = Math.max(250, originalHeight || 300);
+        const ratio = window.devicePixelRatio || 1;
+
+        canvas.width = Math.round(width * ratio);
+        canvas.height = Math.round(height * ratio);
+
+        const ctx = canvas.getContext("2d");
+        ctx.scale(ratio, ratio);
+        ctx.clearRect(0, 0, width, height);
+
+        const style = getComputedStyle(canvas);
+        const foreground = style.color || "#333333";
+
+        // Reutilizar colores ya presentes en el gráfico existente.
+        let palette = [];
+        if (typeof drawChart === "function") {
+            const matches = drawChart.toString()
+                .match(/#[0-9a-fA-F]{6}\b/g) || [];
+
+            palette = [...new Set(matches)].filter(color => {
+                const c = color.toLowerCase();
+                return ![
+                    "#ffffff", "#000000", "#222222",
+                    "#333333", "#eeeeee", "#dddddd"
+                ].includes(c);
+            });
+        }
+
+        const firstColor = palette[0] || foreground;
+        const secondColor = palette[1] || "#777777";
+
+        const data = seriesData();
+        if (!data.length) return;
+
+        const left = 62;
+        const right = width - 65;
+        const top = 35;
+        const bottom = height - 42;
+        const plotWidth = Math.max(1, right - left);
+        const plotHeight = bottom - top;
+
+        const maxPosts = Math.max(
+            1, ...data.map(p => p.posts)
+        );
+        const maxMentions = Math.max(
+            1, ...data.map(p => p.mentions)
+        );
+
+        ctx.font = "11px Verdana";
+        ctx.textAlign = "left";
+        ctx.fillStyle = firstColor;
+        ctx.fillText("Publicaciones", left, 15);
+        ctx.fillStyle = secondColor;
+        ctx.fillText("Hashtags", left + 115, 15);
+
+        ctx.strokeStyle = foreground;
+        ctx.globalAlpha = 0.20;
+        ctx.lineWidth = 1;
+
+        for (let i = 0; i <= 4; i++) {
+            const y = bottom - (i / 4) * plotHeight;
+
+            ctx.beginPath();
+            ctx.moveTo(left, y);
+            ctx.lineTo(right, y);
+            ctx.stroke();
+        }
+
+        ctx.globalAlpha = 1;
+
+        function coordinate(i) {
+            return left + (
+                data.length === 1
+                    ? plotWidth / 2
+                    : i * plotWidth / (data.length - 1)
+            );
+        }
+
+        function plot(key, maximum, color) {
+            ctx.beginPath();
+            ctx.strokeStyle = color;
+            ctx.lineWidth = 2;
+
+            data.forEach((item, i) => {
+                const x = coordinate(i);
+                const y = bottom - (
+                    Number(item[key]) / maximum
+                ) * plotHeight;
+
+                if (i === 0) ctx.moveTo(x, y);
+                else ctx.lineTo(x, y);
+            });
+
+            ctx.stroke();
+        }
+
+        plot("posts", maxPosts, firstColor);
+        plot("mentions", maxMentions, secondColor);
+
+        ctx.font = "10px Verdana";
+
+        for (let i = 0; i <= 4; i++) {
+            const y = bottom - (i / 4) * plotHeight;
+
+            ctx.fillStyle = firstColor;
+            ctx.textAlign = "right";
+            ctx.fillText(
+                numberFormat.format(
+                    Math.round(maxPosts * i / 4)
+                ),
+                left - 7,
+                y + 3
+            );
+
+            ctx.fillStyle = secondColor;
+            ctx.textAlign = "left";
+            ctx.fillText(
+                numberFormat.format(
+                    Math.round(maxMentions * i / 4)
+                ),
+                right + 7,
+                y + 3
+            );
+        }
+
+        ctx.fillStyle = foreground;
+        ctx.textAlign = "center";
+
+        const labelCount = Math.min(6, data.length);
+        const used = new Set();
+
+        for (let i = 0; i < labelCount; i++) {
+            const index = labelCount === 1 ? 0 :
+                Math.round(i * (data.length - 1) /
+                    (labelCount - 1));
+
+            if (used.has(index)) continue;
+            used.add(index);
+
+            ctx.fillText(
+                data[index].date,
+                coordinate(index),
+                height - 12
+            );
+        }
+    }
+
+    function renderRanking() {
+        if (!historical) return;
+
+        const search = byId("hist-search")
+            .value.trim().toLocaleLowerCase();
+
+        filtered = historical.hashtag_ranking.filter(
+            item => item.hashtag.toLocaleLowerCase()
+                .includes(search)
+        );
+
+        const pages = Math.max(
+            1, Math.ceil(filtered.length / pageSize)
+        );
+
+        page = Math.min(page, pages - 1);
+
+        byId("hist-results").textContent =
+            numberFormat.format(filtered.length) + " hashtags";
+
+        byId("hist-page").textContent =
+            "Página " + (page + 1) + " de " + pages;
+
+        byId("hist-prev").disabled = page === 0;
+        byId("hist-next").disabled = page >= pages - 1;
+
+        const body = byId("hist-tags");
+        body.replaceChildren();
+
+        const start = page * pageSize;
+
+        filtered.slice(start, start + pageSize)
+            .forEach((item, i) => {
+                const row = document.createElement("tr");
+
+                const cells = [
+                    start + i + 1,
+                    "#" + item.hashtag,
+                    numberFormat.format(item.publications),
+                    item.first_publication || "—",
+                    item.last_publication || "—"
+                ];
+
+                cells.forEach((value, j) => {
+                    const cell = document.createElement("td");
+                    cell.textContent = value;
+                    if (j === 0 || j === 2) {
+                        cell.className = "num";
+                    }
+                    row.appendChild(cell);
+                });
+
+                body.appendChild(row);
+            });
+    }
+
+    async function refreshHistorical() {
+        try {
+            const response = await fetch(
+                "data/hashtag_history.json?_=" + Date.now(),
+                {cache: "no-store"}
+            );
+
+            if (!response.ok) {
+                throw new Error("HTTP " + response.status);
+            }
+
+            const data = await response.json();
+
+            if (!Array.isArray(data.daily) ||
+                !Array.isArray(data.hashtag_ranking)) {
+                throw new Error("JSON histórico incorrecto");
+            }
+
+            historical = data;
+
+            const s = data.summary;
+
+            byId("hist-summary").textContent =
+                numberFormat.format(s.unique_videos) +
+                " publicaciones · " +
+                numberFormat.format(s.distinct_hashtags) +
+                " hashtags · " +
+                numberFormat.format(
+                    s.total_video_hashtag_associations
+                ) + " asociaciones · " +
+                s.first_publication + " — " +
+                s.last_publication;
+
+            drawHistory();
+            renderRanking();
+
+        } catch (error) {
+            byId("hist-summary").textContent =
+                "Error cargando histórico: " + error.message;
+        }
+    }
+
+    function init() {
+        if (!byId("hist-chart")) return;
+
+        byId("hist-period").addEventListener(
+            "change", drawHistory
+        );
+        byId("hist-range").addEventListener(
+            "change", drawHistory
+        );
+
+        byId("hist-search").addEventListener("input", () => {
+            page = 0;
+            renderRanking();
+        });
+
+        byId("hist-prev").addEventListener("click", () => {
+            if (page > 0) {
+                page--;
+                renderRanking();
+            }
+        });
+
+        byId("hist-next").addEventListener("click", () => {
+            if ((page + 1) * pageSize < filtered.length) {
+                page++;
+                renderRanking();
+            }
+        });
+
+        window.addEventListener("resize", drawHistory);
+        refreshHistorical();
+
+        // El histórico es relativamente grande:
+        // no descargarlo de nuevo cada 60 segundos.
+        setInterval(refreshHistorical, 600000);
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+    } else {
+        init();
+    }
+})();
+</script>
 
 </body>
 

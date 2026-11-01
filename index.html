@@ -4396,9 +4396,40 @@ window.addEventListener(
 
       tbody.replaceChildren();
 
-      profiles.forEach((p, i) => {
+      const PAGE_SIZE = 20;
+      const totalPages = Math.max(1, Math.ceil(profiles.length / PAGE_SIZE));
+
+      const pager = document.createElement("div");
+      pager.style.display = "flex";
+      pager.style.justifyContent = "center";
+      pager.style.alignItems = "center";
+      pager.style.gap = "12px";
+      pager.style.margin = "18px 0";
+      pager.style.flexWrap = "wrap";
+
+      const previous = document.createElement("button");
+      previous.type = "button";
+      previous.textContent = "← Anterior";
+
+      const pageInfo = document.createElement("span");
+
+      const next = document.createElement("button");
+      next.type = "button";
+      next.textContent = "Siguiente →";
+
+      pager.append(previous, pageInfo, next);
+
+      const table = document.getElementById("blocus-profile-table");
+      if (!table) throw new Error("Tabla de perfiles no encontrada");
+      table.after(pager);
+
+      function renderPage(page) {
+        const start = (page - 1) * PAGE_SIZE;
+        tbody.replaceChildren();
+
+        profiles.slice(start, start + PAGE_SIZE).forEach((p, i) => {
         const tr = document.createElement("tr");
-        cell(tr, i + 1);
+        cell(tr, start + i + 1);
 
         const userCell = document.createElement("td");
         const link = document.createElement("a");
@@ -4438,7 +4469,40 @@ window.addEventListener(
 
         tbody.appendChild(tr);
         tbody.appendChild(detailRow);
+        });
+
+        const first = profiles.length ? start + 1 : 0;
+        const last = Math.min(start + PAGE_SIZE, profiles.length);
+
+        summary.textContent =
+          "Mostrando " + first + "–" + last +
+          " de " + num(profiles.length) +
+          " cuentas, ordenadas por similitud visual.";
+
+        pageInfo.textContent =
+          "Página " + page + " de " + totalPages;
+
+        previous.disabled = page <= 1;
+        next.disabled = page >= totalPages;
+      }
+
+      let currentPage = 1;
+
+      previous.addEventListener("click", () => {
+        if (currentPage > 1) {
+          currentPage--;
+          renderPage(currentPage);
+        }
       });
+
+      next.addEventListener("click", () => {
+        if (currentPage < totalPages) {
+          currentPage++;
+          renderPage(currentPage);
+        }
+      });
+
+      renderPage(currentPage);
     })
     .catch(err => {
       summary.textContent =

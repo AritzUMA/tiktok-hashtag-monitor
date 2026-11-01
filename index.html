@@ -1264,7 +1264,7 @@ canvas {
 
                 <tr>
                     <td>
-                        Telegram / WhatsApp activos
+                        Telegram / WhatsApp / Signal activos
                     </td>
 
                     <td id="linksWindow">
@@ -1274,7 +1274,7 @@ canvas {
 
                 <tr>
                     <td>
-                        Telegram / WhatsApp históricos
+                        Telegram / WhatsApp / Signal históricos
                     </td>
 
                     <td id="linksTotal">
@@ -1511,7 +1511,7 @@ canvas {
 <div class="section">
 
     <div class="section-title">
-        Telegram / WhatsApp
+        Telegram / WhatsApp / Signal
     </div>
 
     <div class="section-body">
@@ -3045,7 +3045,7 @@ function renderLinks(data) {
 
         addText(
             tr,
-            item.platform === "telegram" ? "Telegram" : item.platform === "whatsapp" ? "WhatsApp" : "—"
+            item.platform === "telegram" ? "Telegram" : item.platform === "whatsapp" ? "WhatsApp" : item.platform === "signal" ? "Signal" : "—"
         );
 
 

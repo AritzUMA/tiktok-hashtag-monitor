@@ -1456,6 +1456,82 @@ canvas {
         Fechas detectadas en OCR
     </div>
 
+
+<!-- DETECTED_DATES_HISTORY_V1 -->
+<div class="section">
+  <div class="section-title">Fechas OCR — histórico completo</div>
+  <div class="section-body">
+    <div class="small" style="margin-bottom:10px">
+      Fechas extraídas del texto de los fotogramas.
+      Cada fecha cuenta una vez por publicación.
+    </div>
+    <div id="dates-ocr-summary" class="small">Cargando...</div>
+    <div style="margin:10px 0">
+      <input type="search" id="dates-ocr-search"
+             placeholder="Buscar fecha o expresión"
+             aria-label="Buscar fechas OCR">
+    </div>
+    <div style="overflow-x:auto">
+      <table>
+        <thead>
+          <tr>
+            <th>Fecha detectada</th>
+            <th class="num">Publicaciones</th>
+            <th class="num">Usuarios</th>
+            <th class="num">Fotogramas</th>
+            <th>Expresiones OCR</th>
+            <th>Vídeos originales</th>
+          </tr>
+        </thead>
+        <tbody id="dates-ocr-body"></tbody>
+      </table>
+    </div>
+    <div style="margin-top:10px">
+      <button type="button" id="dates-ocr-prev">Anterior</button>
+      <span class="small" id="dates-ocr-page"></span>
+      <button type="button" id="dates-ocr-next">Siguiente</button>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Fechas detectadas por API — histórico</div>
+  <div class="section-body">
+    <div class="small" style="margin-bottom:10px">
+      Fechas presentes en las descripciones y campos textuales
+      de las publicaciones obtenidas mediante TikTok.
+      No se confunden con la fecha de publicación.
+    </div>
+    <div id="dates-api-summary" class="small">Cargando...</div>
+    <div style="margin:10px 0">
+      <input type="search" id="dates-api-search"
+             placeholder="Buscar fecha o expresión"
+             aria-label="Buscar fechas de API">
+    </div>
+    <div style="overflow-x:auto">
+      <table>
+        <thead>
+          <tr>
+            <th>Fecha detectada</th>
+            <th class="num">Publicaciones</th>
+            <th class="num">Usuarios</th>
+            <th>Expresiones</th>
+            <th>Vídeos originales</th>
+          </tr>
+        </thead>
+        <tbody id="dates-api-body"></tbody>
+      </table>
+    </div>
+    <div style="margin-top:10px">
+      <button type="button" id="dates-api-prev">Anterior</button>
+      <span class="small" id="dates-api-page"></span>
+      <button type="button" id="dates-api-next">Siguiente</button>
+    </div>
+  </div>
+</div>
+
+
+
     <div class="section-body">
 
         <div
@@ -4947,6 +5023,216 @@ window.addEventListener(
         // El histórico es relativamente grande:
         // no descargarlo de nuevo cada 60 segundos.
         setInterval(refreshHistorical, 600000);
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+    } else {
+        init();
+    }
+})();
+</script>
+
+
+<script>
+/* DETECTED_DATES_HISTORY_V1 */
+(function () {
+    "use strict";
+
+    const fmt = new Intl.NumberFormat("es-ES");
+    const pageSize = 30;
+    const state = {
+        ocr: {items: [], filtered: [], page: 0},
+        api: {items: [], filtered: [], page: 0}
+    };
+
+    function el(id) {
+        return document.getElementById(id);
+    }
+
+    function validVideoUrl(url) {
+        try {
+            const parsed = new URL(url);
+            return parsed.protocol === "https:" &&
+                (parsed.hostname === "www.tiktok.com" ||
+                 parsed.hostname === "m.tiktok.com" ||
+                 parsed.hostname === "tiktok.com");
+        } catch (_) {
+            return false;
+        }
+    }
+
+    function cell(row, text, numeric=false) {
+        const td = document.createElement("td");
+        td.textContent = String(text ?? "—");
+        if (numeric) td.className = "num";
+        row.appendChild(td);
+        return td;
+    }
+
+    function render(kind) {
+        const s = state[kind];
+        const body = el("dates-" + kind + "-body");
+        if (!body) return;
+
+        body.replaceChildren();
+
+        const pages = Math.max(
+            1, Math.ceil(s.filtered.length / pageSize)
+        );
+        s.page = Math.min(s.page, pages - 1);
+
+        el("dates-" + kind + "-page").textContent =
+            "Página " + (s.page + 1) + " de " + pages +
+            " · " + fmt.format(s.filtered.length) + " fechas";
+
+        el("dates-" + kind + "-prev").disabled = s.page === 0;
+        el("dates-" + kind + "-next").disabled =
+            s.page + 1 >= pages;
+
+        const start = s.page * pageSize;
+
+        for (const item of s.filtered.slice(start, start + pageSize)) {
+            const tr = document.createElement("tr");
+
+            cell(tr, item.date);
+            cell(tr, fmt.format(item.publications), true);
+            cell(tr, fmt.format(item.users), true);
+
+            if (kind === "ocr") {
+                cell(tr, fmt.format(item.frames), true);
+            }
+
+            const expressions = (item.expressions || [])
+                .slice(0, 5)
+                .map(x => x.text +
+                    (x.publications > 1
+                        ? " (" + fmt.format(x.publications) + ")"
+                        : ""));
+
+            cell(tr, expressions.join("; ") || "—");
+
+            const links = document.createElement("td");
+
+            for (const source of (item.source_videos || []).slice(0, 5)) {
+                if (!validVideoUrl(source.url)) continue;
+
+                const a = document.createElement("a");
+                a.href = source.url;
+                a.target = "_blank";
+                a.rel = "noopener noreferrer";
+                a.textContent = source.username
+                    ? "@" + source.username : "Ver TikTok";
+
+                if (links.childNodes.length) {
+                    links.appendChild(document.createTextNode(" · "));
+                }
+                links.appendChild(a);
+            }
+
+            if (!links.childNodes.length) {
+                links.textContent = "—";
+            }
+
+            tr.appendChild(links);
+            body.appendChild(tr);
+        }
+
+        if (!s.filtered.length) {
+            const tr = document.createElement("tr");
+            const td = document.createElement("td");
+            td.colSpan = kind === "ocr" ? 6 : 5;
+            td.className = "muted";
+            td.textContent = "No hay fechas para esta búsqueda.";
+            tr.appendChild(td);
+            body.appendChild(tr);
+        }
+    }
+
+    function applyFilter(kind) {
+        const s = state[kind];
+        const q = el("dates-" + kind + "-search")
+            .value.trim().toLocaleLowerCase();
+
+        s.filtered = q
+            ? s.items.filter(item =>
+                item.date.toLocaleLowerCase().includes(q) ||
+                (item.expressions || []).some(x =>
+                    x.text.toLocaleLowerCase().includes(q)))
+            : s.items;
+
+        s.page = 0;
+        render(kind);
+    }
+
+    function setup(kind) {
+        el("dates-" + kind + "-search")
+            .addEventListener("input", () => applyFilter(kind));
+
+        el("dates-" + kind + "-prev")
+            .addEventListener("click", () => {
+                if (state[kind].page > 0) {
+                    state[kind].page--;
+                    render(kind);
+                }
+            });
+
+        el("dates-" + kind + "-next")
+            .addEventListener("click", () => {
+                if ((state[kind].page + 1) * pageSize <
+                    state[kind].filtered.length) {
+                    state[kind].page++;
+                    render(kind);
+                }
+            });
+    }
+
+    async function loadHistoricalDates() {
+        try {
+            const response = await fetch(
+                "data/detected_dates_history.json?_=" + Date.now(),
+                {cache: "no-store"}
+            );
+
+            if (!response.ok) {
+                throw new Error("HTTP " + response.status);
+            }
+
+            const data = await response.json();
+
+            for (const kind of ["ocr", "api"]) {
+                if (!Array.isArray(data[kind])) {
+                    throw new Error("Datos " + kind + " inválidos");
+                }
+
+                state[kind].items = data[kind];
+                applyFilter(kind);
+
+                const relations = data[kind].reduce(
+                    (sum, item) => sum + Number(item.publications || 0),
+                    0
+                );
+
+                el("dates-" + kind + "-summary").textContent =
+                    fmt.format(data[kind].length) +
+                    " fechas diferentes · " +
+                    fmt.format(relations) +
+                    " relaciones publicación–fecha";
+            }
+        } catch (error) {
+            for (const kind of ["ocr", "api"]) {
+                el("dates-" + kind + "-summary").textContent =
+                    "Error cargando fechas: " + error.message;
+            }
+        }
+    }
+
+    function init() {
+        if (!el("dates-ocr-body") || !el("dates-api-body")) return;
+        setup("ocr");
+        setup("api");
+        loadHistoricalDates();
+        setInterval(loadHistoricalDates, 600000);
     }
 
     if (document.readyState === "loading") {

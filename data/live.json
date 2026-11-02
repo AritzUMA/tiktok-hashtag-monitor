@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-02T21:43:07.264523+00:00",
+  "generated_at": "2026-11-02T21:45:07.725930+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 22900,
-    "published_24h": 661,
-    "published_48h": 2826,
+    "published_24h": 659,
+    "published_48h": 2822,
     "discovered_24h": 1816,
-    "discovered_48h": 6342
+    "discovered_48h": 6332
   },
   "analysis": {
     "embeddings_total": 22900,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 661
+    "qwen_pending_24h": 659
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 292,
     "DE": 188,
-    "FR": 120,
+    "OTHER": 291,
+    "FR": 119,
     "ES": 51,
     "MULTI": 4,
-    "IT": 5,
-    "BE": 1
+    "BE": 1,
+    "IT": 5
   },
   "links": {
     "qr_videos": 0,
@@ -4269,12 +4269,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703553192558185761",
-      "username": "__eilmeldung__",
-      "url": "https://www.tiktok.com/@__eilmeldung__/video/7703553192558185761",
+      "video_id": "7703553205799521568",
+      "username": "anxsandy",
+      "url": "https://www.tiktok.com/@anxsandy/video/7703553205799521568",
       "published_at": "2026-11-02T12:40:56+00:00",
-      "description": "#Berlin #Deutschland #Demonstration #Proteste #BerlinNewsDemonstrationen in der deutschen Hauptstadt sorgen für Aufmerksamkeit. Menschen gehen auf die Straße, um ihre Meinung zu äußern. Doch was steckt hinter den Protesten?",
-      "country": "DE",
+      "description": "DISCLAIMER: I want to make it absolutely clear that I do not condone or support violence in any way. The acts of vandalism and destruction of property were not what the demonstration was about, nor do they represent the intentions of those who came out to protest peacefully. Unfortunately, some individuals took advantage of the crowds to cause damage and engage in violent behaviour. I strongly condemn these actions. I was there purely in a journalistic capacity to document what was happening.  #frankfurtammain #halloween #zeil #konstablerwache #polizeieinsatz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4286,12 +4286,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703553205799521568",
-      "username": "anxsandy",
-      "url": "https://www.tiktok.com/@anxsandy/video/7703553205799521568",
+      "video_id": "7703553192558185761",
+      "username": "__eilmeldung__",
+      "url": "https://www.tiktok.com/@__eilmeldung__/video/7703553192558185761",
       "published_at": "2026-11-02T12:40:56+00:00",
-      "description": "DISCLAIMER: I want to make it absolutely clear that I do not condone or support violence in any way. The acts of vandalism and destruction of property were not what the demonstration was about, nor do they represent the intentions of those who came out to protest peacefully. Unfortunately, some individuals took advantage of the crowds to cause damage and engage in violent behaviour. I strongly condemn these actions. I was there purely in a journalistic capacity to document what was happening.  #frankfurtammain #halloween #zeil #konstablerwache #polizeieinsatz",
-      "country": "OTHER",
+      "description": "#Berlin #Deutschland #Demonstration #Proteste #BerlinNewsDemonstrationen in der deutschen Hauptstadt sorgen für Aufmerksamkeit. Menschen gehen auf die Straße, um ihre Meinung zu äußern. Doch was steckt hinter den Protesten?",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5867,12 +5867,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703358659107015958",
-      "username": "realidadespana",
-      "url": "https://www.tiktok.com/@realidadespana/video/7703358659107015958",
+      "video_id": "7703475019027860758",
+      "username": "pastrisss",
+      "url": "https://www.tiktok.com/@pastrisss/video/7703475019027860758",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "description": "ÚLTIMA HORA | Jordi Wild carga contra la opinión sincronizada del gobierno por culpar al maquinista del accid3nt3 en Urda (Toledo) #oscarpuente #jordiwild #pedrosanchez #tren",
-      "country": "OTHER",
+      "description": "Valencia años 90. Volumen 2 #valencia",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5901,12 +5901,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703475019027860758",
-      "username": "pastrisss",
-      "url": "https://www.tiktok.com/@pastrisss/video/7703475019027860758",
+      "video_id": "7703358659107015958",
+      "username": "realidadespana",
+      "url": "https://www.tiktok.com/@realidadespana/video/7703358659107015958",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "description": "Valencia años 90. Volumen 2 #valencia",
-      "country": "ES",
+      "description": "ÚLTIMA HORA | Jordi Wild carga contra la opinión sincronizada del gobierno por culpar al maquinista del accid3nt3 en Urda (Toledo) #oscarpuente #jordiwild #pedrosanchez #tren",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11228,40 +11228,6 @@
       "published_at": "2026-11-01T21:45:10+00:00",
       "description": "🚄 El emotivo homenaje de maquinistas de Renfe e Iryo a sus compañeros fallecidos en el accidente de Urda: un minuto de pitidos en su memoria ⚫ El trágico suceso se ha cobrado la vida de 69 personas. Además, siguen activas hasta 13 denuncias por desaparición 🕯️ Entre los fallecidos están Antonio Acedo y Daniel Cabañas, que iba en la cabina del AVE y a quien sus compañeros recordaron con este emotivo gesto #Renfe #Urda #Maquinistas",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7703322189008833815",
-      "username": "evaymimundo",
-      "url": "https://www.tiktok.com/@evaymimundo/video/7703322189008833815",
-      "published_at": "2026-11-01T21:44:30+00:00",
-      "description": "Hay palabras que no esperas escuchar durante un viaje en tren… y que te llegan al corazón. ❤️ Hoy, nuestro maquinista ha querido dedicar unas palabras al reciente accidente de Toledo. Un gesto sencillo, pero lleno de humanidad. Porque detrás de cada tren hay personas, historias y emociones. 🕊️ #Toledo #Tren #Solidaridad #MomentosQueEmocionan",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7703321907860409622",
-      "username": "minimaxxxl",
-      "url": "https://www.tiktok.com/@minimaxxxl/video/7703321907860409622",
-      "published_at": "2026-11-01T21:43:25+00:00",
-      "description": "",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

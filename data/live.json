@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-03T02:30:48.942897+00:00",
+  "generated_at": "2026-11-03T02:32:49.555486+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 23208,
-    "published_24h": 778,
-    "published_48h": 2450,
+    "total_unique_videos": 23209,
+    "published_24h": 779,
+    "published_48h": 2447,
     "discovered_24h": 1515,
     "discovered_48h": 5441
   },
   "analysis": {
-    "embeddings_total": 23208,
+    "embeddings_total": 23209,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 778
+    "qwen_pending_24h": 779
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 153,
-    "OTHER": 350,
     "ES": 58,
+    "OTHER": 351,
     "DE": 203,
-    "BE": 2,
+    "FR": 153,
+    "IT": 8,
     "MULTI": 4,
-    "IT": 8
+    "BE": 2
   },
   "links": {
     "qr_videos": 0,
@@ -2348,6 +2348,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7703649002159426849",
+      "username": "julia_brestrich",
+      "url": "https://www.tiktok.com/@julia_brestrich/video/7703649002159426849",
+      "published_at": "2026-11-02T18:52:41+00:00",
+      "description": "‼️ Kurzer Take zu den Gen-Z Protesten! DAS sollte bei den Diskussionen nämlich nicht vergessen werden... und das ist mir als Journalistin einfach wichtig. #genz #genzregelt #proteste",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7703648307444305184",
       "username": "metinkent4",
       "url": "https://www.tiktok.com/@metinkent4/video/7703648307444305184",
@@ -3980,23 +3997,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703567001817484567",
-      "username": "franceculture",
-      "url": "https://www.tiktok.com/@franceculture/video/7703567001817484567",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "description": "La génération des baby-boomers a vu son niveau de vie considérablement évoluer dans l'après-guerre. A l'inverse, la Gen Z vivrait aujourd'hui avec l'idée que le meilleur est derrière elle explique Jean-Laurent Cassely, journaliste, essayiste, co-auteur du livre \"Nous, les Français\". 🎧 Il était l'invité des \"Matins de France Culture\". Une émission à écouter sur le site et l'app de Radio France. #GenZ #blocus #boomer #histoire",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7703612454881807638",
       "username": "cronica_global",
       "url": "https://www.tiktok.com/@cronica_global/video/7703612454881807638",
@@ -4014,12 +4014,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703594087261195542",
-      "username": "stimmeonline",
-      "url": "https://www.tiktok.com/@stimmeonline/video/7703594087261195542",
+      "video_id": "7703564791880633622",
+      "username": "letoutsavoir",
+      "url": "https://www.tiktok.com/@letoutsavoir/video/7703564791880633622",
       "published_at": "2026-11-02T17:00:00+00:00",
-      "description": "Die IG Metall erhöht in der laufenden Tarifrunde den Druck auf die Arbeitgeber und ruft bundesweit zu Warnstreiks auf. Auch die Region Heilbronn-Hohenlohe steht im Fokus, insbesondere das Audi-Werk in Neckarsulm, dessen Zukunft als unsicher gilt. ➡️ Mehr auf stimme.de Video: Daniel Hagmann #News #IGMetall #Warnstreiks #Arbeit",
-      "country": "OTHER",
+      "description": "Grève du jeudi 5 novembre : voilà ce qui t'attend cette semaine 📅 Marche étudiante mardi à Paris du Panthéon au Medef, Villarreal–PSG le soir, puis grève interprofessionnelle jeudi avec tous les syndicats (CGT, CFDT, FO, Unsa, FSU). Trains perturbés (TGV, Intercités, TER), écoles et cantines touchées. Salaires, Smic, retraites contre budget 2027 à 43 milliards d'économies. Vendredi la grève continue, samedi acte IV. Enregistre pour t'organiser 📌 Cette grève peut-elle faire plier le gouvernement ? 👇 #greve #5novembre #sncf #manifestation #actu",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4048,11 +4048,28 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703564791880633622",
-      "username": "letoutsavoir",
-      "url": "https://www.tiktok.com/@letoutsavoir/video/7703564791880633622",
+      "video_id": "7703594087261195542",
+      "username": "stimmeonline",
+      "url": "https://www.tiktok.com/@stimmeonline/video/7703594087261195542",
       "published_at": "2026-11-02T17:00:00+00:00",
-      "description": "Grève du jeudi 5 novembre : voilà ce qui t'attend cette semaine 📅 Marche étudiante mardi à Paris du Panthéon au Medef, Villarreal–PSG le soir, puis grève interprofessionnelle jeudi avec tous les syndicats (CGT, CFDT, FO, Unsa, FSU). Trains perturbés (TGV, Intercités, TER), écoles et cantines touchées. Salaires, Smic, retraites contre budget 2027 à 43 milliards d'économies. Vendredi la grève continue, samedi acte IV. Enregistre pour t'organiser 📌 Cette grève peut-elle faire plier le gouvernement ? 👇 #greve #5novembre #sncf #manifestation #actu",
+      "description": "Die IG Metall erhöht in der laufenden Tarifrunde den Druck auf die Arbeitgeber und ruft bundesweit zu Warnstreiks auf. Auch die Region Heilbronn-Hohenlohe steht im Fokus, insbesondere das Audi-Werk in Neckarsulm, dessen Zukunft als unsicher gilt. ➡️ Mehr auf stimme.de Video: Daniel Hagmann #News #IGMetall #Warnstreiks #Arbeit",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7703567001817484567",
+      "username": "franceculture",
+      "url": "https://www.tiktok.com/@franceculture/video/7703567001817484567",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "description": "La génération des baby-boomers a vu son niveau de vie considérablement évoluer dans l'après-guerre. A l'inverse, la Gen Z vivrait aujourd'hui avec l'idée que le meilleur est derrière elle explique Jean-Laurent Cassely, journaliste, essayiste, co-auteur du livre \"Nous, les Français\". 🎧 Il était l'invité des \"Matins de France Culture\". Une émission à écouter sur le site et l'app de Radio France. #GenZ #blocus #boomer #histoire",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -5816,11 +5833,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703267811120008470",
-      "username": "someone_clips",
-      "url": "https://www.tiktok.com/@someone_clips/video/7703267811120008470",
+      "video_id": "7703539152855354630",
+      "username": "dawn.today",
+      "url": "https://www.tiktok.com/@dawn.today/video/7703539152855354630",
       "published_at": "2026-11-02T15:00:00+00:00",
-      "description": "Mit Demo hat das hier null zutun ! #frankfurt #demo #frankfurtdemo #reaction #streamclip",
+      "description": "The German financial hub of Frankfurt saw some of the worst unrest after Germany's nationwide GenZ protests, with rioters looting stores, targeting a gun shop and clashing with police. Video Courtesy: Deutsche Welle  #DawnToday",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5833,11 +5850,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703539152855354630",
-      "username": "dawn.today",
-      "url": "https://www.tiktok.com/@dawn.today/video/7703539152855354630",
+      "video_id": "7703267811120008470",
+      "username": "someone_clips",
+      "url": "https://www.tiktok.com/@someone_clips/video/7703267811120008470",
       "published_at": "2026-11-02T15:00:00+00:00",
-      "description": "The German financial hub of Frankfurt saw some of the worst unrest after Germany's nationwide GenZ protests, with rioters looting stores, targeting a gun shop and clashing with police. Video Courtesy: Deutsche Welle  #DawnToday",
+      "description": "Mit Demo hat das hier null zutun ! #frankfurt #demo #frankfurtdemo #reaction #streamclip",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7686,12 +7703,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703553205799521568",
-      "username": "anxsandy",
-      "url": "https://www.tiktok.com/@anxsandy/video/7703553205799521568",
+      "video_id": "7703553192558185761",
+      "username": "__eilmeldung__",
+      "url": "https://www.tiktok.com/@__eilmeldung__/video/7703553192558185761",
       "published_at": "2026-11-02T12:40:56+00:00",
-      "description": "DISCLAIMER: I want to make it absolutely clear that I do not condone or support violence in any way. The acts of vandalism and destruction of property were not what the demonstration was about, nor do they represent the intentions of those who came out to protest peacefully. Unfortunately, some individuals took advantage of the crowds to cause damage and engage in violent behaviour. I strongly condemn these actions. I was there purely in a journalistic capacity to document what was happening.  #frankfurtammain #halloween #zeil #konstablerwache #polizeieinsatz",
-      "country": "OTHER",
+      "description": "#Berlin #Deutschland #Demonstration #Proteste #BerlinNewsDemonstrationen in der deutschen Hauptstadt sorgen für Aufmerksamkeit. Menschen gehen auf die Straße, um ihre Meinung zu äußern. Doch was steckt hinter den Protesten?",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7703,12 +7720,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703553192558185761",
-      "username": "__eilmeldung__",
-      "url": "https://www.tiktok.com/@__eilmeldung__/video/7703553192558185761",
+      "video_id": "7703553205799521568",
+      "username": "anxsandy",
+      "url": "https://www.tiktok.com/@anxsandy/video/7703553205799521568",
       "published_at": "2026-11-02T12:40:56+00:00",
-      "description": "#Berlin #Deutschland #Demonstration #Proteste #BerlinNewsDemonstrationen in der deutschen Hauptstadt sorgen für Aufmerksamkeit. Menschen gehen auf die Straße, um ihre Meinung zu äußern. Doch was steckt hinter den Protesten?",
-      "country": "DE",
+      "description": "DISCLAIMER: I want to make it absolutely clear that I do not condone or support violence in any way. The acts of vandalism and destruction of property were not what the demonstration was about, nor do they represent the intentions of those who came out to protest peacefully. Unfortunately, some individuals took advantage of the crowds to cause damage and engage in violent behaviour. I strongly condemn these actions. I was there purely in a journalistic capacity to document what was happening.  #frankfurtammain #halloween #zeil #konstablerwache #polizeieinsatz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9335,12 +9352,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703358659107015958",
-      "username": "realidadespana",
-      "url": "https://www.tiktok.com/@realidadespana/video/7703358659107015958",
+      "video_id": "7703475019027860758",
+      "username": "pastrisss",
+      "url": "https://www.tiktok.com/@pastrisss/video/7703475019027860758",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "description": "ÚLTIMA HORA | Jordi Wild carga contra la opinión sincronizada del gobierno por culpar al maquinista del accid3nt3 en Urda (Toledo) #oscarpuente #jordiwild #pedrosanchez #tren",
-      "country": "OTHER",
+      "description": "Valencia años 90. Volumen 2 #valencia",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9352,12 +9369,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703475019027860758",
-      "username": "pastrisss",
-      "url": "https://www.tiktok.com/@pastrisss/video/7703475019027860758",
+      "video_id": "7703358659107015958",
+      "username": "realidadespana",
+      "url": "https://www.tiktok.com/@realidadespana/video/7703358659107015958",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "description": "Valencia años 90. Volumen 2 #valencia",
-      "country": "ES",
+      "description": "ÚLTIMA HORA | Jordi Wild carga contra la opinión sincronizada del gobierno por culpar al maquinista del accid3nt3 en Urda (Toledo) #oscarpuente #jordiwild #pedrosanchez #tren",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -10236,11 +10253,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703511361728367893",
-      "username": "nicohgr1",
-      "url": "https://www.tiktok.com/@nicohgr1/video/7703511361728367893",
+      "video_id": "7703511362399407393",
+      "username": "yaelyeung5111",
+      "url": "https://www.tiktok.com/@yaelyeung5111/video/7703511362399407393",
       "published_at": "2026-11-02T09:58:36+00:00",
-      "description": "#genz #fy #viral #sad #protest",
+      "description": "#creatorsearchinsights Am 31.10. auf die Straße! #protest #genz #streik #demonstration Videos: dorothea.schupelius, meryem.ayalp, cduberlin",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -10253,11 +10270,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703511362399407393",
-      "username": "yaelyeung5111",
-      "url": "https://www.tiktok.com/@yaelyeung5111/video/7703511362399407393",
+      "video_id": "7703511361728367893",
+      "username": "nicohgr1",
+      "url": "https://www.tiktok.com/@nicohgr1/video/7703511361728367893",
       "published_at": "2026-11-02T09:58:36+00:00",
-      "description": "#creatorsearchinsights Am 31.10. auf die Straße! #protest #genz #streik #demonstration Videos: dorothea.schupelius, meryem.ayalp, cduberlin",
+      "description": "#genz #fy #viral #sad #protest",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T17:46:07.853960+00:00",
+  "generated_at": "2026-11-03T17:48:34.785345+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 24120,
     "published_24h": 749,
     "published_48h": 1808,
-    "discovered_24h": 1491,
-    "discovered_48h": 3484
+    "discovered_24h": 1488,
+    "discovered_48h": 3482
   },
   "analysis": {
     "embeddings_total": 24120,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "ES": 63,
     "OTHER": 352,
     "DE": 154,
     "FR": 163,
-    "ES": 63,
-    "MULTI": 6,
     "IT": 8,
-    "BE": 3
+    "BE": 3,
+    "MULTI": 6
   },
   "links": {
     "qr_videos": 0,
@@ -5816,6 +5816,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7703855860816088342",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7703855860816088342",
+      "published_at": "2026-11-03T08:15:02+00:00",
+      "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7703855848308690198",
       "username": "le_progres_",
       "url": "https://www.tiktok.com/@le_progres_/video/7703855848308690198",
@@ -5850,43 +5867,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855860816088342",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7703855860816088342",
-      "published_at": "2026-11-03T08:15:02+00:00",
-      "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7703855833154702614",
       "username": "lerepublicainlorrain",
       "url": "https://www.tiktok.com/@lerepublicainlorrain/video/7703855833154702614",
-      "published_at": "2026-11-03T08:15:01+00:00",
-      "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7703855838410149142",
-      "username": "lesdnafr",
-      "url": "https://www.tiktok.com/@lesdnafr/video/7703855838410149142",
       "published_at": "2026-11-03T08:15:01+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -5921,6 +5904,23 @@
       "video_id": "7703855862590360854",
       "username": "lejsl",
       "url": "https://www.tiktok.com/@lejsl/video/7703855862590360854",
+      "published_at": "2026-11-03T08:15:01+00:00",
+      "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7703855838410149142",
+      "username": "lesdnafr",
+      "url": "https://www.tiktok.com/@lesdnafr/video/7703855838410149142",
       "published_at": "2026-11-03T08:15:01+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -9080,11 +9080,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703667913307311381",
-      "username": "radiotelevisionalbayane",
-      "url": "https://www.tiktok.com/@radiotelevisionalbayane/video/7703667913307311381",
+      "video_id": "7703686958932872470",
+      "username": "0xblack_24",
+      "url": "https://www.tiktok.com/@0xblack_24/video/7703686958932872470",
       "published_at": "2026-11-02T21:20:00+00:00",
-      "description": "Les préparatifs du Hadj 2027 franchissent une nouvelle étape avec l’ouverture de l’identification en ligne des candidats inscrits auprès des agences privées agréées. La plateforme est accessible depuis ce lundi 2 novembre à 9 heures. Le coût du pèlerinage privé est fixé à partir de 5 millions 250 mille francs CFA. Ces annonces ont été faites le samedi 31 octobre, lors d’une rencontre entre le Commissariat général au Hadj et les acteurs du secteur, aux Deux-Plateaux, à Cocody. Cissé Bangali et Fatoumat Kodio. #Hadj2027 #IdentificationEnLigne #PèlerinagePrivé #CommissariatGénéralAuHadj #Islam #CôteDIvoire #AlBayaneTV #Reportage",
+      "description": "WoW Forever : ta race on s’en fout, le vrai choix le 5 novembre c’est PvP ou PvE 👀 Toi tu pars sur quoi ? Live mercredi minuit + jeudi matin sur Twitch (0xBlack24, lien en bio) #wowforever #worldofwarcraft #5novembre #mmorpg",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9097,11 +9097,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703686958932872470",
-      "username": "0xblack_24",
-      "url": "https://www.tiktok.com/@0xblack_24/video/7703686958932872470",
+      "video_id": "7703667913307311381",
+      "username": "radiotelevisionalbayane",
+      "url": "https://www.tiktok.com/@radiotelevisionalbayane/video/7703667913307311381",
       "published_at": "2026-11-02T21:20:00+00:00",
-      "description": "WoW Forever : ta race on s’en fout, le vrai choix le 5 novembre c’est PvP ou PvE 👀 Toi tu pars sur quoi ? Live mercredi minuit + jeudi matin sur Twitch (0xBlack24, lien en bio) #wowforever #worldofwarcraft #5novembre #mmorpg",
+      "description": "Les préparatifs du Hadj 2027 franchissent une nouvelle étape avec l’ouverture de l’identification en ligne des candidats inscrits auprès des agences privées agréées. La plateforme est accessible depuis ce lundi 2 novembre à 9 heures. Le coût du pèlerinage privé est fixé à partir de 5 millions 250 mille francs CFA. Ces annonces ont été faites le samedi 31 octobre, lors d’une rencontre entre le Commissariat général au Hadj et les acteurs du secteur, aux Deux-Plateaux, à Cocody. Cissé Bangali et Fatoumat Kodio. #Hadj2027 #IdentificationEnLigne #PèlerinagePrivé #CommissariatGénéralAuHadj #Islam #CôteDIvoire #AlBayaneTV #Reportage",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

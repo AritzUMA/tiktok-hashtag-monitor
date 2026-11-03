@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-03T22:51:56.374631+00:00",
+  "generated_at": "2026-11-03T22:54:16.786970+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 24472,
-    "published_24h": 695,
+    "total_unique_videos": 24475,
+    "published_24h": 696,
     "published_48h": 1705,
-    "discovered_24h": 1485,
+    "discovered_24h": 1483,
     "discovered_48h": 3165
   },
   "analysis": {
-    "embeddings_total": 24472,
+    "embeddings_total": 24475,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 695
+    "qwen_pending_24h": 696
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 311,
     "DE": 153,
+    "OTHER": 312,
+    "FR": 166,
     "ES": 47,
     "MULTI": 8,
-    "FR": 166,
     "IT": 8,
     "BE": 2
   },
@@ -127,6 +127,23 @@
       "published_at": "2026-11-03T20:31:19+00:00",
       "description": "Der musste noch sein…🫣😅 #demo #genz #31oktober #stuttgart",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704042601556495649",
+      "username": "marynabeauty",
+      "url": "https://www.tiktok.com/@marynabeauty/video/7704042601556495649",
+      "published_at": "2026-11-03T20:20:04+00:00",
+      "description": "Все таки не було тихої ночі в нас… спочатку побачила новини місцеві, фото добавила, а потім і сама побачила… шкода 😒@❌️❌️❌️OKs ssss❌️❌️❌️ @Світлячок Сова | Життя як є ✨ #protest #deutschlandtiktok #хелоуинн🎃 #auto #göppingen",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3266,12 +3283,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703961848026025249",
-      "username": "flolspt",
-      "url": "https://www.tiktok.com/@flolspt/video/7703961848026025249",
+      "video_id": "7703961836009409825",
+      "username": "salade.info",
+      "url": "https://www.tiktok.com/@salade.info/video/7703961836009409825",
       "published_at": "2026-11-03T15:06:40+00:00",
-      "description": "« Grève générale le 5 🕶️ Marre de faire le mouton face à l'oligarchie financière. Tous ensemble, frères et sœurs de Gaule. Battez-vous pour vos parents et vos enfants. 🔥 » ✌️",
-      "country": "OTHER",
+      "description": "Blocus en cours et présence des forces de l'ordre devant le lycée Jules Ferry à Paris ce mardi matin dans le cadre d’une nouvelle journée de mobilisation lycéenne et étudiante.#manifestation #3novembre",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3283,12 +3300,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703961836009409825",
-      "username": "salade.info",
-      "url": "https://www.tiktok.com/@salade.info/video/7703961836009409825",
+      "video_id": "7703961848026025249",
+      "username": "flolspt",
+      "url": "https://www.tiktok.com/@flolspt/video/7703961848026025249",
       "published_at": "2026-11-03T15:06:40+00:00",
-      "description": "Blocus en cours et présence des forces de l'ordre devant le lycée Jules Ferry à Paris ce mardi matin dans le cadre d’une nouvelle journée de mobilisation lycéenne et étudiante.#manifestation #3novembre",
-      "country": "FR",
+      "description": "« Grève générale le 5 🕶️ Marre de faire le mouton face à l'oligarchie financière. Tous ensemble, frères et sœurs de Gaule. Battez-vous pour vos parents et vos enfants. 🔥 » ✌️",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6122,11 +6139,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703910437472963873",
-      "username": "alerte.orbitale",
-      "url": "https://www.tiktok.com/@alerte.orbitale/video/7703910437472963873",
+      "video_id": "7703910434214120736",
+      "username": "misos12",
+      "url": "https://www.tiktok.com/@misos12/video/7703910434214120736",
       "published_at": "2026-11-03T11:47:13+00:00",
-      "description": "Détecté hier, il passera demain à près de 12 km/s. Mais 2026 VC sera-t-il réellement proche de la Terre ? ☄️🚨 NASA/JPL prévoit son approche le 4 novembre à 14 h 53 UTC, à environ cinq millions de kilomètres — treize distances Terre-Lune. La trajectoire montrée est un schéma animé fondé sur les données officielles, pas une image réelle de l’objet. L’astéroïde visible est Bennu et sert uniquement d’illustration. À partir de quelle distance parleriez-vous vraiment de passage « proche » ? Sources : NASA/JPL CNEOS ; Terre Blue Marble NASA/GSFC/Suomi NPP ; Bennu NASA/Goddard/University of Arizona. #Asteroide #Espace #NASA #JPL #CNEOS",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6139,11 +6156,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703910434214120736",
-      "username": "misos12",
-      "url": "https://www.tiktok.com/@misos12/video/7703910434214120736",
+      "video_id": "7703910437472963873",
+      "username": "alerte.orbitale",
+      "url": "https://www.tiktok.com/@alerte.orbitale/video/7703910437472963873",
       "published_at": "2026-11-03T11:47:13+00:00",
-      "description": "",
+      "description": "Détecté hier, il passera demain à près de 12 km/s. Mais 2026 VC sera-t-il réellement proche de la Terre ? ☄️🚨 NASA/JPL prévoit son approche le 4 novembre à 14 h 53 UTC, à environ cinq millions de kilomètres — treize distances Terre-Lune. La trajectoire montrée est un schéma animé fondé sur les données officielles, pas une image réelle de l’objet. L’astéroïde visible est Bennu et sert uniquement d’illustration. À partir de quelle distance parleriez-vous vraiment de passage « proche » ? Sources : NASA/JPL CNEOS ; Terre Blue Marble NASA/GSFC/Suomi NPP ; Bennu NASA/Goddard/University of Arizona. #Asteroide #Espace #NASA #JPL #CNEOS",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9437,9 +9454,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855848308690198",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7703855848308690198",
+      "video_id": "7703855860816088342",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7703855860816088342",
       "published_at": "2026-11-03T08:15:02+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -9454,9 +9471,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855860816088342",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7703855860816088342",
+      "video_id": "7703855848308690198",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7703855848308690198",
       "published_at": "2026-11-03T08:15:02+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -9488,9 +9505,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855833154702614",
-      "username": "lerepublicainlorrain",
-      "url": "https://www.tiktok.com/@lerepublicainlorrain/video/7703855833154702614",
+      "video_id": "7703855838410149142",
+      "username": "lesdnafr",
+      "url": "https://www.tiktok.com/@lesdnafr/video/7703855838410149142",
       "published_at": "2026-11-03T08:15:01+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -9505,9 +9522,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855862590360854",
-      "username": "lejsl",
-      "url": "https://www.tiktok.com/@lejsl/video/7703855862590360854",
+      "video_id": "7703855833154702614",
+      "username": "lerepublicainlorrain",
+      "url": "https://www.tiktok.com/@lerepublicainlorrain/video/7703855833154702614",
       "published_at": "2026-11-03T08:15:01+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",
@@ -9539,9 +9556,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703855838410149142",
-      "username": "lesdnafr",
-      "url": "https://www.tiktok.com/@lesdnafr/video/7703855838410149142",
+      "video_id": "7703855862590360854",
+      "username": "lejsl",
+      "url": "https://www.tiktok.com/@lejsl/video/7703855862590360854",
       "published_at": "2026-11-03T08:15:01+00:00",
       "description": "Les vacances scolaires terminées, des blocages dans certains lycées ont été observé dans plusieurs villes de France lundi 2 novembre. Les blocages pourraient être reconduits ce mardi 3 novembre, y compris dans les facs, mais aussi le jeudi 5 novembre, jour de grève générale. On vous résume les prochaines mobilisations prévues. #ebrainfo #sinformersurtiktok #grève #lycées #universités",
       "country": "FR",

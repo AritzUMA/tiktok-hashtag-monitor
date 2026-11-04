@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T22:43:37.692765+00:00",
+  "generated_at": "2026-11-04T22:47:31.782691+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 25729,
-    "published_24h": 612,
-    "published_48h": 1577,
+    "total_unique_videos": 25730,
+    "published_24h": 610,
+    "published_48h": 1573,
     "discovered_24h": 1267,
-    "discovered_48h": 2745
+    "discovered_48h": 2744
   },
   "analysis": {
-    "embeddings_total": 25729,
+    "embeddings_total": 25730,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 612
+    "qwen_pending_24h": 610
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 324,
-    "FR": 135,
-    "MULTI": 6,
+    "OTHER": 323,
+    "IT": 8,
+    "DE": 91,
+    "FR": 136,
     "ES": 44,
-    "DE": 93,
-    "BE": 2,
-    "IT": 8
+    "MULTI": 6,
+    "BE": 2
   },
   "links": {
     "qr_videos": 0,
@@ -109,7 +109,7 @@
       "url": "https://www.tiktok.com/@parisblogger/video/7704425849197481249",
       "published_at": "2026-11-04T21:07:14+00:00",
       "description": "#greve #5november #france #paris #metro",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6377,9 +6377,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269510617943326",
+      "video_id": "7704269511192595743",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -6394,9 +6394,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269511192595743",
+      "video_id": "7704269510617943326",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -6428,23 +6428,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704123399613828374",
-      "username": "francedirect27",
-      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
-      "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7704263043827404054",
       "username": "m6officiel",
       "url": "https://www.tiktok.com/@m6officiel/video/7704263043827404054",
@@ -6462,11 +6445,28 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704133599636753686",
-      "username": "leraadarsocial",
-      "url": "https://www.tiktok.com/@leraadarsocial/video/7704133599636753686",
+      "video_id": "7704113014168931606",
+      "username": "soyelcuboazul",
+      "url": "https://www.tiktok.com/@soyelcuboazul/video/7704113014168931606",
       "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "Image créée par IA pour illustrer les mobilisations en France. Grève générale prévue jeudi 5 novembre. Abonne-toi pour suivre l'actualité ! #budget2027 #économies #retraites #fonctionnaires #actu #grève #école #enseignement #grève5novembre #syndicats #SNCF #france #fyp #manifestation #colere #impots #pouvoirdachat #expressionlibre #liberte #France",
+      "description": "¿Qué pasa si el 11N no vas a trabajar? 🪧 Huelga general de 24 horas en toda España: no tienes que avisar a tu jefe, ese día no cobras, no te pueden despedir por hacer huelga y si te tocan servicios mínimos tienes que ir. ¿Vas a hacer huelga? Te leo 👇 #huelgageneral #11N #huelga #vivienda #elcuboazul",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704123399613828374",
+      "username": "francedirect27",
+      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
+      "published_at": "2026-11-04T11:00:00+00:00",
+      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6479,12 +6479,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704113014168931606",
-      "username": "soyelcuboazul",
-      "url": "https://www.tiktok.com/@soyelcuboazul/video/7704113014168931606",
+      "video_id": "7704133599636753686",
+      "username": "leraadarsocial",
+      "url": "https://www.tiktok.com/@leraadarsocial/video/7704133599636753686",
       "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "¿Qué pasa si el 11N no vas a trabajar? 🪧 Huelga general de 24 horas en toda España: no tienes que avisar a tu jefe, ese día no cobras, no te pueden despedir por hacer huelga y si te tocan servicios mínimos tienes que ir. ¿Vas a hacer huelga? Te leo 👇 #huelgageneral #11N #huelga #vivienda #elcuboazul",
-      "country": "ES",
+      "description": "Image créée par IA pour illustrer les mobilisations en France. Grève générale prévue jeudi 5 novembre. Abonne-toi pour suivre l'actualité ! #budget2027 #économies #retraites #fonctionnaires #actu #grève #école #enseignement #grève5novembre #syndicats #SNCF #france #fyp #manifestation #colere #impots #pouvoirdachat #expressionlibre #liberte #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8434,11 +8434,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704100979100159254",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
+      "video_id": "7704122665174355222",
+      "username": "francedirect27",
+      "url": "https://www.tiktok.com/@francedirect27/photo/7704122665174355222",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
+      "description": "SNCF les cheminots se rassemblent ce mardi 3 novembre 2026 avant la grève nationale du 5 novembre. Rassemblement à Saint-Denis 93 devant la direction de la SNCF à partir de 11h. Grève nationale le 5 novembre, perturbations possibles sur les TGV, TER, Intercités, RER, Transilien. La mobilisation monte dans le secteur ferroviaire, rassemblement cheminots CGT. Tu prends le train mardi ou mercredi ? Tu es cheminot ou usager impacté à Saint-Denis ? #sncf #cheminots #greve5novembre #saintdenis #ferroviaire",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -8451,11 +8451,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704122665174355222",
-      "username": "francedirect27",
-      "url": "https://www.tiktok.com/@francedirect27/photo/7704122665174355222",
+      "video_id": "7704100979100159254",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "SNCF les cheminots se rassemblent ce mardi 3 novembre 2026 avant la grève nationale du 5 novembre. Rassemblement à Saint-Denis 93 devant la direction de la SNCF à partir de 11h. Grève nationale le 5 novembre, perturbations possibles sur les TGV, TER, Intercités, RER, Transilien. La mobilisation monte dans le secteur ferroviaire, rassemblement cheminots CGT. Tu prends le train mardi ou mercredi ? Tu es cheminot ou usager impacté à Saint-Denis ? #sncf #cheminots #greve5novembre #saintdenis #ferroviaire",
+      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -10395,40 +10395,6 @@
       "published_at": "2026-11-03T23:00:29+00:00",
       "description": "‼️ Jeudi 5 novembre : grève générale, tous ensemble ‼️ 📍 RDV à la manifestation à 13h à Bastille pour manifester en cortège interfac.  On se retrouvera le lendemain en assemblée générale interfac pour organiser les suites, vendredi à 18h à Paris (lieu à confirmer).",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704080535877864737",
-      "username": "das_ist_berlin",
-      "url": "https://www.tiktok.com/@das_ist_berlin/video/7704080535877864737",
-      "published_at": "2026-11-03T22:47:20+00:00",
-      "description": "🚨 Marzahn – Wo ist Lisa Tạ? Die Berliner Polizei sucht mit Fotos nach der erst 13 Jahre alten Schülerin aus Marzahn und bittet um Mithilfe. 🙏🔎 🏠 Lisa verließ am Dienstag gegen 7.15 Uhr die Wohnung ihrer Eltern an der Golliner Straße. Seitdem ist ihr Aufenthaltsort unbekannt. ❗ 👧 Die 13-Jährige ist etwa 1,60 bis 1,65 Meter groß, schlank und hat dunkle Haare. Zuletzt trug sie eine schwarze Winterjacke 🧥, ein graues Oberteil, eine blaue Jeans 👖 und weiße Sneaker 👟. Außerdem hatte sie einen schwarzen Rucksack 🎒 dabei. 🚨 Die Berliner Polizei fragt: Wer hat Lisa nach 7.15 Uhr gesehen? Wer weiß, wo sie sich derzeit aufhält? 🔎🙏 📞 Hinweise nimmt die Vermisstenstelle des Landeskriminalamts unter (030) 4664-912444 oder jede Polizeidienststelle entgegen. 👮‍♂️ #DasIstBerlin #Berlin #Marzahn #Vermisst #vermisstekinder",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704079733130038561",
-      "username": "news_berlin",
-      "url": "https://www.tiktok.com/@news_berlin/photo/7704079733130038561",
-      "published_at": "2026-11-03T22:44:19+00:00",
-      "description": "Dramatische Szenen spielten sich am Dienstagmittag in Charlottenburg ab, als ein Autofahrer bei einer Polizeikontrolle flüchtete und dabei mehrere Unfälle verursachte. Ein Beamter gab sogar einen Schuss ab. Um 13:45 Uhr wollten Zivilfahnder der Berliner Polizei ein Fahrzeug stoppen. Der Fahrer entzog sich der Kontrolle, gab Gas und raste laut Polizei auf seiner Flucht über die Uhlandstraße, wobei er sogar über den Gehweg fuhr und direkt auf Beamte zusteuerte. Ein Polizist zog daraufhin seine Dienstwaffe und schoss aus nächster Nähe auf einen Reifen des Fluchtwagens. Trotz des Schusses setzte der Fahrer seine Fahrt fort und kollidierte mehrfach mit anderen Fahrzeugen. Erst die Kollision mit einem entgegenkommenden Pkw brachte die wilde Fahrt zum Stillstand. Der Fahrer und seine Beifahrerin wurden umgehend festgenommen. Die Uhlandstraße wurde zwischen Kantstraße und Kurfürstendamm voll gesperrt, Autofahrer mussten den Bereich weiträumig umfahren. Das Motiv des Mannes, vor der Verkehrskontrolle zu flüchten, ist derzeit noch unklar. Die Ermittlungen in diesem Fall dauern an. #Kudamm #Polizei #Berlin #Verfolgungsjagd #Charlottenburg",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

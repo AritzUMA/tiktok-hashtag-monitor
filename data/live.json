@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T14:09:17.334269+00:00",
+  "generated_at": "2026-11-04T14:11:25.021215+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 25254,
-    "published_24h": 675,
-    "published_48h": 1711,
-    "discovered_24h": 1396,
-    "discovered_48h": 2895
+    "total_unique_videos": 25257,
+    "published_24h": 673,
+    "published_48h": 1712,
+    "discovered_24h": 1394,
+    "discovered_48h": 2897
   },
   "analysis": {
-    "embeddings_total": 25254,
+    "embeddings_total": 25257,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 675
+    "qwen_pending_24h": 673
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 322,
+    "DE": 137,
     "FR": 132,
     "ES": 70,
-    "OTHER": 323,
-    "BE": 1,
-    "DE": 138,
     "MULTI": 7,
-    "IT": 4
+    "IT": 4,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -597,6 +597,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704275845027859744",
+      "username": "info.gaucho",
+      "url": "https://www.tiktok.com/@info.gaucho/video/7704275845027859744",
+      "published_at": "2026-11-04T11:25:11+00:00",
+      "description": "Le maire de Trappes à Orléans le 24 octobre lors du meeting contre le congrès du RN. Une journée de mobilisation qui a rassemblé 26 000 personnes au lendemain de l'attentat raciste de Trappes. #Trappes #Orléans #alirabeh #extremedroite #pourtoi",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704275523899362562",
       "username": "bigcitynantes",
       "url": "https://www.tiktok.com/@bigcitynantes/photo/7704275523899362562",
@@ -750,9 +767,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269511192595743",
+      "video_id": "7704269510617943326",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -767,9 +784,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269510617943326",
+      "video_id": "7704269511192595743",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -2178,11 +2195,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704121538915749142",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7704121538915749142",
+      "video_id": "7704100979100159254",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨🇫🇷 JEUDI NOIR LE 5 NOVEMBRE : TRAINS, ÉCOLES, HÔPITAUX… LA FRANCE SE PRÉPARE À UNE GRÈVE MAJEURE ! 😱 ⚠️ Ce jeudi 5 novembre, une importante mobilisation interprofessionnelle est annoncée en France. Plusieurs syndicats appellent à la grève pour réclamer notamment des hausses de salaires, davantage de moyens pour les services publics et des mesures sur le pouvoir d’achat. <Cite refs={[\"turn199828search0\",\"turn199828search1\"]}/> 🚆 Transports : la SNCF annonce des perturbations sur certains trains et RER en Île-de-France. Les prévisions détaillées doivent être vérifiées avant le départ. <Cite refs={[\"turn199828search2\"]}/> 🏫 Écoles et lycées : des syndicats enseignants appellent également à la mobilisation. Des perturbations locales sont possibles. 🏥 Hôpitaux et services publics : des personnels sont appelés à faire grève, mais les établissements doivent organiser la continuité des soins. 📢 Une journée qui pourrait compliquer le quotidien de nombreux Français… mais l’ampleur exacte des perturbations dépendra de la mobilisation. 💬 Vous êtes concernés par la grève du 5 novembre ? Transports, école ou travail : dites-nous ce qui risque de changer pour vous ! 👇 #JeudiNoir #Greve #5Novembre #Transport #France",
+      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -2195,11 +2212,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704100979100159254",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
+      "video_id": "7704121538915749142",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7704121538915749142",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
+      "description": "🚨🇫🇷 JEUDI NOIR LE 5 NOVEMBRE : TRAINS, ÉCOLES, HÔPITAUX… LA FRANCE SE PRÉPARE À UNE GRÈVE MAJEURE ! 😱 ⚠️ Ce jeudi 5 novembre, une importante mobilisation interprofessionnelle est annoncée en France. Plusieurs syndicats appellent à la grève pour réclamer notamment des hausses de salaires, davantage de moyens pour les services publics et des mesures sur le pouvoir d’achat. <Cite refs={[\"turn199828search0\",\"turn199828search1\"]}/> 🚆 Transports : la SNCF annonce des perturbations sur certains trains et RER en Île-de-France. Les prévisions détaillées doivent être vérifiées avant le départ. <Cite refs={[\"turn199828search2\"]}/> 🏫 Écoles et lycées : des syndicats enseignants appellent également à la mobilisation. Des perturbations locales sont possibles. 🏥 Hôpitaux et services publics : des personnels sont appelés à faire grève, mais les établissements doivent organiser la continuité des soins. 📢 Une journée qui pourrait compliquer le quotidien de nombreux Français… mais l’ampleur exacte des perturbations dépendra de la mobilisation. 💬 Vous êtes concernés par la grève du 5 novembre ? Transports, école ou travail : dites-nous ce qui risque de changer pour vous ! 👇 #JeudiNoir #Greve #5Novembre #Transport #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -7822,12 +7839,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703973489601989910",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7703973489601989910",
+      "video_id": "7703999606757117206",
+      "username": "konbini",
+      "url": "https://www.tiktok.com/@konbini/video/7703999606757117206",
       "published_at": "2026-11-03T18:00:00+00:00",
-      "description": "Selenskyj in Berlin: Merz verspricht 200 Millionen Euro #eilmeldung #nachrichten #news #deutschland #politik #fyp #fürdich #merz #ukraine",
-      "country": "DE",
+      "description": "Du patin artistique à ma meilleure en passant par sur un air latino. Lorie revient sur plus de 20 ans de carrière dans l’interview Remember ✨ Le concert événement de LORIE « LORIE PARTY » sera au cinéma dans plus de 200 salles le 5 novembre | Remember #lorie",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7839,12 +7856,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703999606757117206",
-      "username": "konbini",
-      "url": "https://www.tiktok.com/@konbini/video/7703999606757117206",
+      "video_id": "7703973489601989910",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7703973489601989910",
       "published_at": "2026-11-03T18:00:00+00:00",
-      "description": "Du patin artistique à ma meilleure en passant par sur un air latino. Lorie revient sur plus de 20 ans de carrière dans l’interview Remember ✨ Le concert événement de LORIE « LORIE PARTY » sera au cinéma dans plus de 200 salles le 5 novembre | Remember #lorie",
-      "country": "OTHER",
+      "description": "Selenskyj in Berlin: Merz verspricht 200 Millionen Euro #eilmeldung #nachrichten #news #deutschland #politik #fyp #fürdich #merz #ukraine",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8213,12 +8230,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704000141392481568",
-      "username": "jolidjo",
-      "url": "https://www.tiktok.com/@jolidjo/video/7704000141392481568",
+      "video_id": "7704000135889489184",
+      "username": "bassemm_13",
+      "url": "https://www.tiktok.com/@bassemm_13/video/7704000135889489184",
       "published_at": "2026-11-03T17:35:16+00:00",
-      "description": "Second Chance Holiday, une romance de Noël où son premier amour veut la reconquérir 🥰🥹🍿  Le 5 novembre. #secondechanceholiday #onregardequoi",
-      "country": "OTHER",
+      "description": "Extraits du live du samedi #31octobre à #marseille la plaine #manifestation #17octobre #pourtoi Halloween déguisement",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8230,12 +8247,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704000135889489184",
-      "username": "bassemm_13",
-      "url": "https://www.tiktok.com/@bassemm_13/video/7704000135889489184",
+      "video_id": "7704000141392481568",
+      "username": "jolidjo",
+      "url": "https://www.tiktok.com/@jolidjo/video/7704000141392481568",
       "published_at": "2026-11-03T17:35:16+00:00",
-      "description": "Extraits du live du samedi #31octobre à #marseille la plaine #manifestation #17octobre #pourtoi Halloween déguisement",
-      "country": "FR",
+      "description": "Second Chance Holiday, une romance de Noël où son premier amour veut la reconquérir 🥰🥹🍿  Le 5 novembre. #secondechanceholiday #onregardequoi",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11426,23 +11443,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703947858914921761",
-      "username": "mickael6467",
-      "url": "https://www.tiktok.com/@mickael6467/video/7703947858914921761",
-      "published_at": "2026-11-03T14:12:24+00:00",
-      "description": "le PEUPLE francais unis pour faire tomber ces elites m💪💪🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷 jeudi 5 novembre sera le jour du peuple #unis #🇫🇷🇫🇷 #prt #generationZ #peuple",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7703947840615222550",
       "username": "fdsdsfdfsdfsfds33",
       "url": "https://www.tiktok.com/@fdsdsfdfsdfsfds33/video/7703947840615222550",
@@ -11460,45 +11460,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703947263143398689",
-      "username": "aleyls",
-      "url": "https://www.tiktok.com/@aleyls/video/7703947263143398689",
-      "published_at": "2026-11-03T14:10:04+00:00",
-      "description": "Karma bei Gen Z Protesten #genz #protest #meme #streamer #fy",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7703947217236708630",
-      "username": "ey.clm",
-      "url": "https://www.tiktok.com/@ey.clm/video/7703947217236708630",
-      "published_at": "2026-11-03T14:09:59+00:00",
-      "description": "🗣️ Nuevas medidas para reforzar la seguridad ferroviaria tras el accidente de Urda. Óscar Puente ha anunciado cambios en los protocolos ferroviarios, entre ellos la doble validación humana de las órdenes que se transmitan a los maquinistas cuando fallen los sistemas LZB o ERTMS. El paquete incluye también otras medidas para reforzar la seguridad y mejorar los procedimientos de actuación en la red ferroviaria. #urda #seguridad #trenes #clm",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7703947054715850017",
-      "username": "deafkakichumpy",
-      "url": "https://www.tiktok.com/@deafkakichumpy/video/7703947054715850017",
-      "published_at": "2026-11-03T14:09:17+00:00",
-      "description": "🇮🇹 Il 5 NOVEMBRE esce la live session di \"Nel Sonno\", secondo brano del nostro nuovo disco \"Agàpe\". 🔥🔊  \"Agàpe\" é disponibile su tutte le piattaforme e in vinile. 📀  Clicca nel LINK in BIO 🇬🇧 On NOVEMBER 5th, the live session of 'Nel Sonno' drops—the second track from our new album 'Agàpe'. 🔥 🔊  'Agàpe' is available on all platforms and on vinyl. 📀  Click the LINK in BIO #perchicrea #siae #ministerodellacultura #deafkakichumpy @giuliasmusicco @Andao91 @Riccardo Ruggeri @Daniele Fasoli",
+      "video_id": "7703947858914921761",
+      "username": "mickael6467",
+      "url": "https://www.tiktok.com/@mickael6467/video/7703947858914921761",
+      "published_at": "2026-11-03T14:12:24+00:00",
+      "description": "le PEUPLE francais unis pour faire tomber ces elites m💪💪🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷 jeudi 5 novembre sera le jour du peuple #unis #🇫🇷🇫🇷 #prt #generationZ #peuple",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

@@ -1,22 +1,6 @@
 {
   "FR": [
     {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "manifestation": 45,
-        "france": 42,
-        "blocus": 24,
-        "greve": 22,
-        "paris": 19,
-        "mobilisation": 15,
-        "5novembre": 15,
-        "actu": 10,
-        "sncf": 10,
-        "grève": 9
-      }
-    },
-    {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
       "hashtags": {
@@ -3199,25 +3183,25 @@
         "grève": 13,
         "mobilisation": 12
       }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "greve": 38,
+        "manifestation": 37,
+        "france": 31,
+        "5novembre": 24,
+        "paris": 19,
+        "sncf": 17,
+        "blocus": 16,
+        "greve5novembre": 14,
+        "grève": 13,
+        "mobilisation": 12
+      }
     }
   ],
   "DE": [
-    {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "berlin": 41,
-        "deutschland": 33,
-        "genz": 31,
-        "demo": 30,
-        "frankfurt": 29,
-        "protest": 24,
-        "politik": 22,
-        "ukraine": 16,
-        "polizei": 16,
-        "fyp": 13
-      }
-    },
     {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
@@ -6401,25 +6385,25 @@
         "demo": 17,
         "polizei": 10
       }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "berlin": 34,
+        "protest": 29,
+        "genz": 23,
+        "deutschland": 20,
+        "demonstration": 20,
+        "frankfurt": 19,
+        "genzregelt": 19,
+        "politik": 18,
+        "demo": 17,
+        "polizei": 10
+      }
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "valencia": 38,
-        "españa": 15,
-        "tren": 6,
-        "fyp": 5,
-        "barcelona": 4,
-        "renfe": 4,
-        "parati": 4,
-        "accidente": 3,
-        "actualidad": 3,
-        "elecciones": 3
-      }
-    },
     {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
@@ -9603,25 +9587,25 @@
         "accidenteferroviario": 2,
         "martorell": 2
       }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "valencia": 26,
+        "españa": 11,
+        "parati": 3,
+        "spain": 3,
+        "blocus": 3,
+        "politica": 2,
+        "sagunto": 2,
+        "pirata": 2,
+        "luz": 2,
+        "tren": 2
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "prosteste": 1,
-        "30ottobre": 1,
-        "sciopero": 1,
-        "goldengoose": 1,
-        "fivefourfive": 1,
-        "sante": 1,
-        "lucasanteramo": 1,
-        "silviocampara": 1,
-        "194": 1,
-        "facciamoiseri": 1
-      }
-    },
     {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
@@ -12805,25 +12789,25 @@
         "vertenza": 1,
         "solcobas": 1
       }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "napoli": 2,
+        "italia": 2,
+        "sciopero": 2,
+        "licenziati": 1,
+        "duomo": 1,
+        "solcobas": 1,
+        "vertenza": 1,
+        "gls": 1,
+        "palermo": 1,
+        "20novembre2026": 1
+      }
     }
   ],
   "BE": [
-    {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "bruxelles": 2,
-        "lille": 2,
-        "poisson": 2,
-        "restaurantlille": 2,
-        "prosteste": 1,
-        "30ottobre": 1,
-        "sciopero": 1,
-        "loriepester": 1,
-        "lorieaucinema": 1,
-        "lorieparty": 1
-      }
-    },
     {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
@@ -15448,25 +15432,20 @@
         "manifestation": 2,
         "visitesdomicilaires": 2
       }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "manifestation": 2,
+        "bruxelles": 2,
+        "visitesdomicilaires": 2,
+        "belgique": 2,
+        "actualite": 2
+      }
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-11-04T14:01:48+01:00",
-      "round_id": "20261104_140146",
-      "hashtags": {
-        "5novembre": 20,
-        "greve": 19,
-        "manifestation": 14,
-        "pourtoi": 14,
-        "genz": 14,
-        "blocus": 11,
-        "demo": 9,
-        "cgt": 9,
-        "grève": 9,
-        "fyp": 8
-      }
-    },
     {
       "updated_at": "2026-11-04T14:05:16+01:00",
       "round_id": "20261104_140351",
@@ -18646,6 +18625,22 @@
         "cgt": 15,
         "grève": 14,
         "pourtoi": 13,
+        "fyp": 11,
+        "viral": 10,
+        "horoscope": 9
+      }
+    },
+    {
+      "updated_at": "2026-11-04T23:17:51+01:00",
+      "round_id": "20261104_231743",
+      "hashtags": {
+        "5novembre": 40,
+        "manifestation": 31,
+        "greve": 27,
+        "genz": 17,
+        "cgt": 15,
+        "grève": 14,
+        "pourtoi": 12,
         "fyp": 11,
         "viral": 10,
         "horoscope": 9

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-05T02:39:36.026294+00:00",
+  "generated_at": "2026-11-05T02:42:20.068972+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 25926,
-    "published_24h": 699,
+    "total_unique_videos": 25927,
+    "published_24h": 700,
     "published_48h": 1669,
-    "discovered_24h": 1220,
-    "discovered_48h": 2710
+    "discovered_24h": 1215,
+    "discovered_48h": 2709
   },
   "analysis": {
     "embeddings_total": 25926,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 699
+    "qwen_pending_24h": 700
   },
   "mobilization": {
     "yes": 0,
@@ -22,12 +22,12 @@
   "roles": {},
   "countries": {
     "OTHER": 381,
-    "FR": 151,
-    "IT": 10,
+    "FR": 152,
     "DE": 100,
     "ES": 48,
-    "BE": 2,
-    "MULTI": 7
+    "IT": 10,
+    "MULTI": 7,
+    "BE": 2
   },
   "links": {
     "qr_videos": 0,
@@ -449,7 +449,7 @@
       "url": "https://www.tiktok.com/@actufrance27/video/7704451149440634145",
       "published_at": "2026-11-04T22:45:29+00:00",
       "description": "#creatorsearchinsights  🚨 تنبيه في فرنسا 🇫🇷.. مستجدات الإضرابات والمظاهرات المقررة غدًا الخميس 5 نوفمبر 2026 🚨 Info en France 🇫🇷 : Grèves et manifestations prévues demain, jeudi 5 novembre 2026. #france #immigration #politique #paris",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5153,6 +5153,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704341744288124193",
+      "username": "team_tomorrow",
+      "url": "https://www.tiktok.com/@team_tomorrow/video/7704341744288124193",
+      "published_at": "2026-11-04T15:40:53+00:00",
+      "description": "Wir waren letzten Samstag auf der GenZ regelt Demo unterwegs und haben die Leute mal gefragt, warum sie eigentlich hier sind.  Genz regelt Interview 2/3 #teamtomorrow #genzregelt #demo",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704341746158669089",
       "username": "lili4ka609",
       "url": "https://www.tiktok.com/@lili4ka609/video/7704341746158669089",
@@ -5476,12 +5493,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704335315317656864",
-      "username": "temoin.muet",
-      "url": "https://www.tiktok.com/@temoin.muet/video/7704335315317656864",
+      "video_id": "7704335316596919584",
+      "username": "interlyces_nantes",
+      "url": "https://www.tiktok.com/@interlyces_nantes/video/7704335316596919584",
       "published_at": "2026-11-04T15:15:55+00:00",
-      "description": "Ton lycée bloqué ou pas ? #manif #actu #blocus #5novembre",
-      "country": "OTHER",
+      "description": "À demain ! #greve #interlycee #nantes #fyp #mobilisation",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5493,12 +5510,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704335316596919584",
-      "username": "interlyces_nantes",
-      "url": "https://www.tiktok.com/@interlyces_nantes/video/7704335316596919584",
+      "video_id": "7704335315317656864",
+      "username": "temoin.muet",
+      "url": "https://www.tiktok.com/@temoin.muet/video/7704335315317656864",
       "published_at": "2026-11-04T15:15:55+00:00",
-      "description": "À demain ! #greve #interlycee #nantes #fyp #mobilisation",
-      "country": "FR",
+      "description": "Ton lycée bloqué ou pas ? #manif #actu #blocus #5novembre",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5748,11 +5765,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704287199440719126",
-      "username": "liberaiphoneimei",
-      "url": "https://www.tiktok.com/@liberaiphoneimei/video/7704287199440719126",
+      "video_id": "7704311261894364438",
+      "username": "igmetallsha",
+      "url": "https://www.tiktok.com/@igmetallsha/video/7704311261894364438",
       "published_at": "2026-11-04T15:00:00+00:00",
-      "description": "¿Es posible acceder a un iPhone bloqueado por código sin borrarlo y recuperar toda la información que tiene dentro? En condiciones normales, no existe un método universal para saltarse el código de un iPhone actualizado y acceder a sus datos personales sin conocer la contraseña. Apple utiliza sistemas de cifrado para proteger fotografías, conversaciones, documentos y otra información almacenada en el dispositivo. Y aquí hay una diferencia importante: desbloquear un iPhone para volver a utilizarlo no es lo mismo que conseguir acceso a los datos privados de su propietario anterior. Si has olvidado el código de tu propio iPhone, existen procedimientos oficiales para borrarlo y configurarlo de nuevo. Después podrás recuperar tus datos si tienes una copia de seguridad disponible en iCloud o en un ordenador. Eso sí, no todos los iPhone tienen una copia de seguridad reciente. Si no existe, puedes perder la información que no hayas sincronizado o guardado anteriormente. Además, después de restaurarlo, podría ser necesario introducir la cuenta Apple vinculada al dispositivo si tiene activado el bloqueo de activación. Por eso, desconfía de quien te prometa recuperar cualquier iPhone sin conocer el código y sin borrar nada. No es una solución que pueda ofrecerse de forma general. Yo trabajo ayudando a personas que necesitan recuperar el uso de sus dispositivos, no accediendo a conversaciones, fotografías o información privada de terceros. Si tienes un iPhone bloqueado y no sabes qué opciones existen para recuperarlo legítimamente, puedes escribirme por privado y explicarme tu caso. #iPhoneBloqueado #CodigoDeDesbloqueo #SeguridadiPhone",
+      "description": "Rückblick auf den zweiten Tag der Warnstreiks. #igmetall #wirsindhier",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5765,11 +5782,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704311261894364438",
-      "username": "igmetallsha",
-      "url": "https://www.tiktok.com/@igmetallsha/video/7704311261894364438",
+      "video_id": "7704287199440719126",
+      "username": "liberaiphoneimei",
+      "url": "https://www.tiktok.com/@liberaiphoneimei/video/7704287199440719126",
       "published_at": "2026-11-04T15:00:00+00:00",
-      "description": "Rückblick auf den zweiten Tag der Warnstreiks. #igmetall #wirsindhier",
+      "description": "¿Es posible acceder a un iPhone bloqueado por código sin borrarlo y recuperar toda la información que tiene dentro? En condiciones normales, no existe un método universal para saltarse el código de un iPhone actualizado y acceder a sus datos personales sin conocer la contraseña. Apple utiliza sistemas de cifrado para proteger fotografías, conversaciones, documentos y otra información almacenada en el dispositivo. Y aquí hay una diferencia importante: desbloquear un iPhone para volver a utilizarlo no es lo mismo que conseguir acceso a los datos privados de su propietario anterior. Si has olvidado el código de tu propio iPhone, existen procedimientos oficiales para borrarlo y configurarlo de nuevo. Después podrás recuperar tus datos si tienes una copia de seguridad disponible en iCloud o en un ordenador. Eso sí, no todos los iPhone tienen una copia de seguridad reciente. Si no existe, puedes perder la información que no hayas sincronizado o guardado anteriormente. Además, después de restaurarlo, podría ser necesario introducir la cuenta Apple vinculada al dispositivo si tiene activado el bloqueo de activación. Por eso, desconfía de quien te prometa recuperar cualquier iPhone sin conocer el código y sin borrar nada. No es una solución que pueda ofrecerse de forma general. Yo trabajo ayudando a personas que necesitan recuperar el uso de sus dispositivos, no accediendo a conversaciones, fotografías o información privada de terceros. Si tienes un iPhone bloqueado y no sabes qué opciones existen para recuperarlo legítimamente, puedes escribirme por privado y explicarme tu caso. #iPhoneBloqueado #CodigoDeDesbloqueo #SeguridadiPhone",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8196,12 +8213,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7703991087949548833",
-      "username": "travelwkylie",
-      "url": "https://www.tiktok.com/@travelwkylie/video/7703991087949548833",
+      "video_id": "7704050986351955222",
+      "username": "5minactu.fr",
+      "url": "https://www.tiktok.com/@5minactu.fr/video/7704050986351955222",
       "published_at": "2026-11-04T11:30:00+00:00",
-      "description": "Valencia have my heart now ❤️😩🇪🇸#traveltok #valencia #spain🇪🇸",
-      "country": "ES",
+      "description": "Grève du 5 novembre : à quoi s'attendre jeudi ? 👇 #greve #5novembre #greve5novembre #sncf #viechere #actu #pourtoi",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8213,12 +8230,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704050986351955222",
-      "username": "5minactu.fr",
-      "url": "https://www.tiktok.com/@5minactu.fr/video/7704050986351955222",
+      "video_id": "7703991087949548833",
+      "username": "travelwkylie",
+      "url": "https://www.tiktok.com/@travelwkylie/video/7703991087949548833",
       "published_at": "2026-11-04T11:30:00+00:00",
-      "description": "Grève du 5 novembre : à quoi s'attendre jeudi ? 👇 #greve #5novembre #greve5novembre #sncf #viechere #actu #pourtoi",
-      "country": "OTHER",
+      "description": "Valencia have my heart now ❤️😩🇪🇸#traveltok #valencia #spain🇪🇸",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8672,9 +8689,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269510617943326",
+      "video_id": "7704269511192595743",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -8689,9 +8706,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704269511192595743",
+      "video_id": "7704269510617943326",
       "username": "user9558584595684",
-      "url": "https://www.tiktok.com/@user9558584595684/video/7704269511192595743",
+      "url": "https://www.tiktok.com/@user9558584595684/video/7704269510617943326",
       "published_at": "2026-11-04T11:00:47+00:00",
       "description": "#GenZ #GenZRegelt #Stuttgart #Demonstration #Protest",
       "country": "DE",
@@ -8740,12 +8757,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704113014168931606",
-      "username": "soyelcuboazul",
-      "url": "https://www.tiktok.com/@soyelcuboazul/video/7704113014168931606",
+      "video_id": "7704123399613828374",
+      "username": "francedirect27",
+      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
       "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "¿Qué pasa si el 11N no vas a trabajar? 🪧 Huelga general de 24 horas en toda España: no tienes que avisar a tu jefe, ese día no cobras, no te pueden despedir por hacer huelga y si te tocan servicios mínimos tienes que ir. ¿Vas a hacer huelga? Te leo 👇 #huelgageneral #11N #huelga #vivienda #elcuboazul",
-      "country": "ES",
+      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8774,12 +8791,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704123399613828374",
-      "username": "francedirect27",
-      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
+      "video_id": "7704113014168931606",
+      "username": "soyelcuboazul",
+      "url": "https://www.tiktok.com/@soyelcuboazul/video/7704113014168931606",
       "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
-      "country": "FR",
+      "description": "¿Qué pasa si el 11N no vas a trabajar? 🪧 Huelga general de 24 horas en toda España: no tienes que avisar a tu jefe, ese día no cobras, no te pueden despedir por hacer huelga y si te tocan servicios mínimos tienes que ir. ¿Vas a hacer huelga? Te leo 👇 #huelgageneral #11N #huelga #vivienda #elcuboazul",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -10746,11 +10763,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704122665174355222",
-      "username": "francedirect27",
-      "url": "https://www.tiktok.com/@francedirect27/photo/7704122665174355222",
+      "video_id": "7704100979100159254",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "SNCF les cheminots se rassemblent ce mardi 3 novembre 2026 avant la grève nationale du 5 novembre. Rassemblement à Saint-Denis 93 devant la direction de la SNCF à partir de 11h. Grève nationale le 5 novembre, perturbations possibles sur les TGV, TER, Intercités, RER, Transilien. La mobilisation monte dans le secteur ferroviaire, rassemblement cheminots CGT. Tu prends le train mardi ou mercredi ? Tu es cheminot ou usager impacté à Saint-Denis ? #sncf #cheminots #greve5novembre #saintdenis #ferroviaire",
+      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -10763,11 +10780,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704100979100159254",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
+      "video_id": "7704122665174355222",
+      "username": "francedirect27",
+      "url": "https://www.tiktok.com/@francedirect27/photo/7704122665174355222",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
+      "description": "SNCF les cheminots se rassemblent ce mardi 3 novembre 2026 avant la grève nationale du 5 novembre. Rassemblement à Saint-Denis 93 devant la direction de la SNCF à partir de 11h. Grève nationale le 5 novembre, perturbations possibles sur les TGV, TER, Intercités, RER, Transilien. La mobilisation monte dans le secteur ferroviaire, rassemblement cheminots CGT. Tu prends le train mardi ou mercredi ? Tu es cheminot ou usager impacté à Saint-Denis ? #sncf #cheminots #greve5novembre #saintdenis #ferroviaire",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -11834,11 +11851,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704152570788384013",
-      "username": "big.muzungu",
-      "url": "https://www.tiktok.com/@big.muzungu/video/7704152570788384013",
+      "video_id": "7704152534486682910",
+      "username": "socalhyperss",
+      "url": "https://www.tiktok.com/@socalhyperss/video/7704152534486682910",
       "published_at": "2026-11-04T03:26:52+00:00",
-      "description": "Gen Z went out & Voted 🗳️ Like Their Lives Depended on It! 🇺🇸  . . . . . . #midterms2026 #bigmuzungu #votingresults2026 #bluewave2026",
+      "description": "1/1 purple cgt in sunset can life get any better #cgt #carreragt #porsche #sunset #carsoftiktok @kuz.carzzz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -11851,11 +11868,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704152534486682910",
-      "username": "socalhyperss",
-      "url": "https://www.tiktok.com/@socalhyperss/video/7704152534486682910",
+      "video_id": "7704152570788384013",
+      "username": "big.muzungu",
+      "url": "https://www.tiktok.com/@big.muzungu/video/7704152570788384013",
       "published_at": "2026-11-04T03:26:52+00:00",
-      "description": "1/1 purple cgt in sunset can life get any better #cgt #carreragt #porsche #sunset #carsoftiktok @kuz.carzzz",
+      "description": "Gen Z went out & Voted 🗳️ Like Their Lives Depended on It! 🇺🇸  . . . . . . #midterms2026 #bigmuzungu #votingresults2026 #bluewave2026",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

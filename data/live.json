@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T03:32:29.005406+00:00",
+  "generated_at": "2026-11-05T03:35:19.942765+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 25945,
     "published_24h": 710,
     "published_48h": 1678,
     "discovered_24h": 1212,
-    "discovered_48h": 2680
+    "discovered_48h": 2678
   },
   "analysis": {
     "embeddings_total": 25945,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "DE": 104,
-    "OTHER": 385,
     "FR": 152,
-    "ES": 50,
-    "IT": 10,
+    "OTHER": 385,
+    "DE": 104,
+    "BE": 2,
     "MULTI": 7,
-    "BE": 2
+    "IT": 10,
+    "ES": 50
   },
   "links": {
     "qr_videos": 0,
@@ -8281,11 +8281,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704280872790347016",
-      "username": "negritosdehuanuco92",
-      "url": "https://www.tiktok.com/@negritosdehuanuco92/video/7704280872790347016",
+      "video_id": "7704280877433425185",
+      "username": "ca_se_debat",
+      "url": "https://www.tiktok.com/@ca_se_debat/video/7704280877433425185",
       "published_at": "2026-11-04T11:44:41+00:00",
-      "description": "Hoy 5 de noviembre esto es el panorama en nuestra ciudad de #huanuco #huelga #paro #bastaya",
+      "description": "Jeudi 5 Novembre, beaucoup de transport risque d'être perturber ! Défendre ses droits perturbant le quotidien des Français vous êtes pour ou contre ? #casedébat #manifestation #colere #blocage #lycee",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8298,11 +8298,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704280877433425185",
-      "username": "ca_se_debat",
-      "url": "https://www.tiktok.com/@ca_se_debat/video/7704280877433425185",
+      "video_id": "7704280872790347016",
+      "username": "negritosdehuanuco92",
+      "url": "https://www.tiktok.com/@negritosdehuanuco92/video/7704280872790347016",
       "published_at": "2026-11-04T11:44:41+00:00",
-      "description": "Jeudi 5 Novembre, beaucoup de transport risque d'être perturber ! Défendre ses droits perturbant le quotidien des Français vous êtes pour ou contre ? #casedébat #manifestation #colere #blocage #lycee",
+      "description": "Hoy 5 de noviembre esto es el panorama en nuestra ciudad de #huanuco #huelga #paro #bastaya",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8995,6 +8995,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704123399613828374",
+      "username": "francedirect27",
+      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
+      "published_at": "2026-11-04T11:00:00+00:00",
+      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704113014168931606",
       "username": "soyelcuboazul",
       "url": "https://www.tiktok.com/@soyelcuboazul/video/7704113014168931606",
@@ -9018,23 +9035,6 @@
       "published_at": "2026-11-04T11:00:00+00:00",
       "description": "\"Le seul moyen de s'échapper, c'est de les bloquer\" @Studiodanielle et @Arthur Lombard tentent de semer les gardiens, mais rien ne peut les arrêter 😮   Retrouvez la finale de #WantedM6, jeudi à 21:10 sur M6 et en streaming sur @M6+",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704123399613828374",
-      "username": "francedirect27",
-      "url": "https://www.tiktok.com/@francedirect27/photo/7704123399613828374",
-      "published_at": "2026-11-04T11:00:00+00:00",
-      "description": "5 novembre la France en grève ? Salaires, services publics, emploi. Les syndicats appellent à une journée de mobilisation nationale. Des salaires plus élevés, des services publics plus forts, des emplois et une industrie soutenue. 4 principaux syndicats ferroviaires appellent aussi à la grève, perturbations possibles dans les trains, l'ampleur exacte n'est pas encore connue. Manifestation massive à Paris et partout en France. Tu fais grève le 5 novembre toi ? T'es concerné par les trains bloqués ou les services publics ? #5novembre #greve #france #salaires #servicespublics",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11018,11 +11018,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704121538915749142",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7704121538915749142",
+      "video_id": "7704100979100159254",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨🇫🇷 JEUDI NOIR LE 5 NOVEMBRE : TRAINS, ÉCOLES, HÔPITAUX… LA FRANCE SE PRÉPARE À UNE GRÈVE MAJEURE ! 😱 ⚠️ Ce jeudi 5 novembre, une importante mobilisation interprofessionnelle est annoncée en France. Plusieurs syndicats appellent à la grève pour réclamer notamment des hausses de salaires, davantage de moyens pour les services publics et des mesures sur le pouvoir d’achat. <Cite refs={[\"turn199828search0\",\"turn199828search1\"]}/> 🚆 Transports : la SNCF annonce des perturbations sur certains trains et RER en Île-de-France. Les prévisions détaillées doivent être vérifiées avant le départ. <Cite refs={[\"turn199828search2\"]}/> 🏫 Écoles et lycées : des syndicats enseignants appellent également à la mobilisation. Des perturbations locales sont possibles. 🏥 Hôpitaux et services publics : des personnels sont appelés à faire grève, mais les établissements doivent organiser la continuité des soins. 📢 Une journée qui pourrait compliquer le quotidien de nombreux Français… mais l’ampleur exacte des perturbations dépendra de la mobilisation. 💬 Vous êtes concernés par la grève du 5 novembre ? Transports, école ou travail : dites-nous ce qui risque de changer pour vous ! 👇 #JeudiNoir #Greve #5Novembre #Transport #France",
+      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -11052,11 +11052,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704100979100159254",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7704100979100159254",
+      "video_id": "7704121538915749142",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7704121538915749142",
       "published_at": "2026-11-04T08:00:00+00:00",
-      "description": "🚨 GRÈVE DEMAIN : les transports vont-ils être BLOQUÉS en France ? Grève nationale du jeudi 5 novembre 2026 : SNCF, TGV, TER, Intercités, RER et Transilien, voici les premières prévisions de trafic. Vérifiez votre trajet avant de partir et partagez l’information aux personnes concernées. #Greve5Novembre #SNCF #Transport #Actu #InfoTrafic",
+      "description": "🚨🇫🇷 JEUDI NOIR LE 5 NOVEMBRE : TRAINS, ÉCOLES, HÔPITAUX… LA FRANCE SE PRÉPARE À UNE GRÈVE MAJEURE ! 😱 ⚠️ Ce jeudi 5 novembre, une importante mobilisation interprofessionnelle est annoncée en France. Plusieurs syndicats appellent à la grève pour réclamer notamment des hausses de salaires, davantage de moyens pour les services publics et des mesures sur le pouvoir d’achat. <Cite refs={[\"turn199828search0\",\"turn199828search1\"]}/> 🚆 Transports : la SNCF annonce des perturbations sur certains trains et RER en Île-de-France. Les prévisions détaillées doivent être vérifiées avant le départ. <Cite refs={[\"turn199828search2\"]}/> 🏫 Écoles et lycées : des syndicats enseignants appellent également à la mobilisation. Des perturbations locales sont possibles. 🏥 Hôpitaux et services publics : des personnels sont appelés à faire grève, mais les établissements doivent organiser la continuité des soins. 📢 Une journée qui pourrait compliquer le quotidien de nombreux Français… mais l’ampleur exacte des perturbations dépendra de la mobilisation. 💬 Vous êtes concernés par la grève du 5 novembre ? Transports, école ou travail : dites-nous ce qui risque de changer pour vous ! 👇 #JeudiNoir #Greve #5Novembre #Transport #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

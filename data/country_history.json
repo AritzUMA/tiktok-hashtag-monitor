@@ -1,22 +1,6 @@
 {
   "FR": [
     {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "greve": 38,
-        "manifestation": 35,
-        "france": 33,
-        "5novembre": 24,
-        "paris": 21,
-        "sncf": 17,
-        "grève": 15,
-        "blocus": 15,
-        "mobilisation": 14,
-        "greve5novembre": 13
-      }
-    },
-    {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
       "hashtags": {
@@ -3193,6 +3177,22 @@
         "france": 35,
         "5novembre": 34,
         "paris": 28,
+        "fyp": 23,
+        "blocus": 18,
+        "grève": 17,
+        "sncf": 16,
+        "mobilisation": 16
+      }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
+      "hashtags": {
+        "manifestation": 45,
+        "greve": 39,
+        "france": 35,
+        "5novembre": 34,
+        "paris": 29,
         "fyp": 23,
         "blocus": 18,
         "grève": 17,
@@ -3203,22 +3203,6 @@
   ],
   "DE": [
     {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "berlin": 32,
-        "protest": 29,
-        "genz": 24,
-        "demonstration": 20,
-        "deutschland": 20,
-        "genzregelt": 19,
-        "politik": 18,
-        "frankfurt": 18,
-        "demo": 17,
-        "fyp": 10
-      }
-    },
-    {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
       "hashtags": {
@@ -6389,6 +6373,22 @@
     {
       "updated_at": "2026-11-05T09:57:37+01:00",
       "round_id": "20261105_095703",
+      "hashtags": {
+        "berlin": 41,
+        "protest": 32,
+        "genz": 24,
+        "genzregelt": 22,
+        "deutschland": 21,
+        "demonstration": 20,
+        "politik": 19,
+        "demo": 17,
+        "frankfurt": 14,
+        "polizei": 12
+      }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
       "hashtags": {
         "berlin": 41,
         "protest": 32,
@@ -6404,22 +6404,6 @@
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "valencia": 26,
-        "españa": 12,
-        "blocus": 3,
-        "huelga": 3,
-        "spain": 3,
-        "viral": 3,
-        "parati": 3,
-        "sagunto": 2,
-        "vivienda": 2,
-        "luz": 2
-      }
-    },
     {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
@@ -9603,25 +9587,25 @@
         "humor": 3,
         "travel": 2
       }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
+      "hashtags": {
+        "valencia": 32,
+        "españa": 13,
+        "fyp": 5,
+        "parati": 5,
+        "huelga": 4,
+        "viral": 4,
+        "humor": 3,
+        "spain": 3,
+        "huelgageneral": 3,
+        "genz": 2
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "napoli": 2,
-        "sciopero": 2,
-        "italia": 2,
-        "casa": 1,
-        "dirittoallabitare": 1,
-        "20novembre2026": 1,
-        "palermo": 1,
-        "scioperogenerale": 1,
-        "carovita": 1,
-        "università": 1
-      }
-    },
     {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
@@ -12805,20 +12789,25 @@
         "infotrafic": 1,
         "skyuel": 1
       }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
+      "hashtags": {
+        "italia": 3,
+        "5novembre": 2,
+        "napoli": 2,
+        "sciopero": 2,
+        "nationale": 1,
+        "grandmanif": 1,
+        "mobilisations": 1,
+        "queenhouse": 1,
+        "pourtoi": 1,
+        "moha": 1
+      }
     }
   ],
   "BE": [
-    {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "bruxelles": 2,
-        "belgique": 2,
-        "manifestation": 2,
-        "visitesdomicilaires": 2,
-        "actualite": 2
-      }
-    },
     {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
@@ -15007,25 +14996,20 @@
         "belgique": 2,
         "visitesdomicilaires": 2
       }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
+      "hashtags": {
+        "actualite": 2,
+        "visitesdomicilaires": 2,
+        "belgique": 2,
+        "manifestation": 2,
+        "bruxelles": 2
+      }
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-11-05T00:06:15+01:00",
-      "round_id": "20261105_000539",
-      "hashtags": {
-        "5novembre": 40,
-        "manifestation": 31,
-        "greve": 27,
-        "genz": 17,
-        "cgt": 16,
-        "grève": 14,
-        "pourtoi": 12,
-        "viral": 10,
-        "fyp": 10,
-        "warnstreik": 9
-      }
-    },
     {
       "updated_at": "2026-11-05T00:09:07+01:00",
       "round_id": "20261105_000732",
@@ -18208,6 +18192,22 @@
         "viral": 16,
         "grève": 15,
         "horoscope": 10
+      }
+    },
+    {
+      "updated_at": "2026-11-05T10:00:37+01:00",
+      "round_id": "20261105_095923",
+      "hashtags": {
+        "5novembre": 48,
+        "manifestation": 36,
+        "greve": 35,
+        "genz": 26,
+        "cgt": 23,
+        "fyp": 19,
+        "pourtoi": 19,
+        "viral": 16,
+        "grève": 15,
+        "warnstreik": 10
       }
     }
   ]

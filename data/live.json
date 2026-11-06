@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T18:52:46.679026+00:00",
+  "generated_at": "2026-11-06T18:55:28.220260+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28096,
-    "published_24h": 499,
-    "published_48h": 1764,
-    "discovered_24h": 1099,
-    "discovered_48h": 2585
+    "total_unique_videos": 28098,
+    "published_24h": 497,
+    "published_48h": 1761,
+    "discovered_24h": 1098,
+    "discovered_48h": 2584
   },
   "analysis": {
-    "embeddings_total": 28096,
+    "embeddings_total": 28098,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 499
+    "qwen_pending_24h": 497
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 199,
-    "DE": 63,
+    "FR": 198,
+    "DE": 62,
     "OTHER": 182,
-    "MULTI": 6,
     "ES": 46,
+    "MULTI": 6,
     "IT": 3
   },
   "links": {
@@ -647,11 +647,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -664,11 +664,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7430,23 +7430,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704503578563497238",
-      "username": "echolotnews",
-      "url": "https://www.tiktok.com/@echolotnews/video/7704503578563497238",
-      "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "Warum Europas Jugend gerade überall auf die Straße geht 🔥 Von Paris bis Berlin: die ganze Gen-Z-Welle erklärt. #genz #proteste #europa #nachrichten #echolotnews",
-      "country": "MULTI",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7704720243112955158",
       "username": "parisnormandieofficiel",
       "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
@@ -7470,6 +7453,23 @@
       "published_at": "2026-11-05T20:00:00+00:00",
       "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704503578563497238",
+      "username": "echolotnews",
+      "url": "https://www.tiktok.com/@echolotnews/video/7704503578563497238",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "description": "Warum Europas Jugend gerade überall auf die Straße geht 🔥 Von Paris bis Berlin: die ganze Gen-Z-Welle erklärt. #genz #proteste #europa #nachrichten #echolotnews",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8473,40 +8473,6 @@
       "published_at": "2026-11-05T18:56:05+00:00",
       "description": "🗣\"Creo que aquí se está jugando y hay un tablero de ajedrez sobre la mesa\" La filtración de los audios de los maquinistas y el momento elegido para hacerlos públicos abren interrogantes sobre los intereses que puede haber detrás. ➡Carlos García Barret, investigador privado y criminalista forense, analiza la filtración de los audios, el momento en el que se produjo y los intereses que hay detrás.",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704762862207503649",
-      "username": "lobjectif.chalonn",
-      "url": "https://www.tiktok.com/@lobjectif.chalonn/video/7704762862207503649",
-      "published_at": "2026-11-05T18:55:00+00:00",
-      "description": "Frissons garantis 😮🇫🇷 Les jeunes reprennent la Marseillaise en choeur à la fin de la manifestation à Reims aujourd'hui ! Une mobilisation historique. Vous en pensez quoi ? Dites-le en commentaire ! 👇 #reims #manifestation #5novembre #mobilisation #jeunesse #",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704762292952468758",
-      "username": "giwora",
-      "url": "https://www.tiktok.com/@giwora/video/7704762292952468758",
-      "published_at": "2026-11-05T18:52:49+00:00",
-      "description": "Polizei-Razzia live im Stream  … und am Ende war’s Cola-Werbung. Laut Polizei Berlin alles inszeniert, HandOfBlood findet’s selbst „unheimlich“, wie schnell das explodiert ist. Genial oder zu weit?  #handofblood #polizeirazzia #spandau #news #handofbloodmemes",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

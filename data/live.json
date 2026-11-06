@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T17:52:45.908546+00:00",
+  "generated_at": "2026-11-06T17:55:44.290896+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28058,
+    "total_unique_videos": 28060,
     "published_24h": 555,
-    "published_48h": 1806,
-    "discovered_24h": 1135,
-    "discovered_48h": 2602
+    "published_48h": 1803,
+    "discovered_24h": 1134,
+    "discovered_48h": 2588
   },
   "analysis": {
-    "embeddings_total": 28058,
+    "embeddings_total": 28060,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 555
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "FR": 238,
+    "OTHER": 196,
     "DE": 63,
-    "FR": 239,
-    "OTHER": 195,
     "ES": 50,
-    "MULTI": 5,
-    "IT": 3
+    "IT": 3,
+    "MULTI": 5
   },
   "links": {
     "qr_videos": 0,
@@ -494,23 +494,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705058027040230688",
       "username": "poinglevetls",
       "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
@@ -533,6 +516,23 @@
       "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
       "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5662,6 +5662,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704804494189595937",
+      "username": "stf.brt",
+      "url": "https://www.tiktok.com/@stf.brt/video/7704804494189595937",
+      "published_at": "2026-11-05T21:36:33+00:00",
+      "description": "#revolutioncitoyenne #onbloquelextremedroite #RN #LFI #Mélenchon2027",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704804346050989334",
       "username": "cgtfapt49",
       "url": "https://www.tiktok.com/@cgtfapt49/video/7704804346050989334",
@@ -8603,11 +8620,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704756550480448790",
-      "username": "franceinfo",
-      "url": "https://www.tiktok.com/@franceinfo/video/7704756550480448790",
+      "video_id": "7704756561226239254",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7704756561226239254",
       "published_at": "2026-11-05T18:30:11+00:00",
-      "description": "🔴 À Lille, un feu de poubelles allumé en marge d'une mobilisation lycéenne a provoqué l'incendie d'une alimentation en gaz devant le lycée César-Baggio, ce jeudi 5 novembre. Un périmètre de sécurité de 200 mètres a été instauré et six élèves ont été évacués. Le gaz a depuis été coupé et le périmètre levé, mais plus de 200 abonnés restent privés de gaz. #franceinfo #sinformersurtiktok",
+      "description": "L'Orchestre du nouveau monde avait lancé un appel aux rassemblements dans toute la France. Un pari réussi puisque plusieurs groupes et orchestres se sont retrouvés dans les manifestations de ce 5 novembre. #ebrainfo #orchestre #manifestation",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -8620,11 +8637,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704756561226239254",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7704756561226239254",
+      "video_id": "7704756550480448790",
+      "username": "franceinfo",
+      "url": "https://www.tiktok.com/@franceinfo/video/7704756550480448790",
       "published_at": "2026-11-05T18:30:11+00:00",
-      "description": "L'Orchestre du nouveau monde avait lancé un appel aux rassemblements dans toute la France. Un pari réussi puisque plusieurs groupes et orchestres se sont retrouvés dans les manifestations de ce 5 novembre. #ebrainfo #orchestre #manifestation",
+      "description": "🔴 À Lille, un feu de poubelles allumé en marge d'une mobilisation lycéenne a provoqué l'incendie d'une alimentation en gaz devant le lycée César-Baggio, ce jeudi 5 novembre. Un périmètre de sécurité de 200 mètres a été instauré et six élèves ont été évacués. Le gaz a depuis été coupé et le périmètre levé, mais plus de 200 abonnés restent privés de gaz. #franceinfo #sinformersurtiktok",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -8824,9 +8841,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754146380991766",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
+      "video_id": "7704754148746562838",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7704754148746562838",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -8841,9 +8858,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754148746562838",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7704754148746562838",
+      "video_id": "7704754146380991766",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -9419,23 +9436,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704747615681858848",
-      "username": "actu.paris",
-      "url": "https://www.tiktok.com/@actu.paris/video/7704747615681858848",
-      "published_at": "2026-11-05T17:55:50+00:00",
-      "description": "En ce jour de grève nationale, jeudi 5 novembre 2026, une soixantaine de croyants ont répondu à l’appel à manifester d’Anastasis, un collectif chrétien “théologico-politique” ancré à gauche. Pour la première fois, ils ont mis en place une “église refuge”, ouverte à tous les manifestants, équipée en café, gâteaux... et sérum phy. #chretiens #religion #eglise #manifestation #Paris",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7704747610875120929",
       "username": "le_poing_leve_stras",
       "url": "https://www.tiktok.com/@le_poing_leve_stras/video/7704747610875120929",
@@ -9453,11 +9453,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704747409066216737",
-      "username": "infosmondiale27",
-      "url": "https://www.tiktok.com/@infosmondiale27/video/7704747409066216737",
-      "published_at": "2026-11-05T17:55:04+00:00",
-      "description": "#paris : Un feu est allumé place de la nation, intervention de la #police #french #5novembre #manifestations",
+      "video_id": "7704747615681858848",
+      "username": "actu.paris",
+      "url": "https://www.tiktok.com/@actu.paris/video/7704747615681858848",
+      "published_at": "2026-11-05T17:55:50+00:00",
+      "description": "En ce jour de grève nationale, jeudi 5 novembre 2026, une soixantaine de croyants ont répondu à l’appel à manifester d’Anastasis, un collectif chrétien “théologico-politique” ancré à gauche. Pour la première fois, ils ont mis en place une “église refuge”, ouverte à tous les manifestants, équipée en café, gâteaux... et sérum phy. #chretiens #religion #eglise #manifestation #Paris",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

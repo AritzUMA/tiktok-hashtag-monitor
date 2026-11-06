@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T06:44:49.166636+00:00",
+  "generated_at": "2026-11-06T06:48:50.877788+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 27627,
-    "published_24h": 1104,
+    "total_unique_videos": 27629,
+    "published_24h": 1105,
     "published_48h": 2002,
-    "discovered_24h": 1552,
-    "discovered_48h": 2762
+    "discovered_24h": 1550,
+    "discovered_48h": 2763
   },
   "analysis": {
-    "embeddings_total": 27627,
+    "embeddings_total": 27629,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 1104
+    "qwen_pending_24h": 1105
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 426,
+    "OTHER": 427,
     "FR": 515,
-    "ES": 66,
     "DE": 78,
-    "MULTI": 8,
+    "MULTI": 7,
     "IT": 10,
+    "ES": 67,
     "BE": 1
   },
   "links": {
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7704927939670084887",
+      "username": "lilidima6",
+      "url": "https://www.tiktok.com/@lilidima6/video/7704927939670084887",
+      "published_at": "2026-11-06T05:35:56+00:00",
+      "description": "#ESPAÑA🇪🇦#ROMÂNIA🇦🇩 #VALENCIA #viralvideotiktok #viral_video",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7704907090266983698",
       "username": "emmawarokka",
@@ -262,6 +279,23 @@
       "url": "https://www.tiktok.com/@ajplus/video/7704825777803545870",
       "published_at": "2026-11-06T00:00:00+00:00",
       "description": "Protesters are demonstrating their support for Palestine Action as the UK Supreme Court holds its second day of hearings over the ban of the group. #PalestineAction #PalAction #UK #SupremeCourt",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704840123732577569",
+      "username": "liv_reda1",
+      "url": "https://www.tiktok.com/@liv_reda1/video/7704840123732577569",
+      "published_at": "2026-11-05T23:54:54+00:00",
+      "description": "Reunited with twin 😁😁😁😁😁#valenciawatchout",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2535,12 +2569,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704733096909770006",
-      "username": "equipoinvestigacion",
-      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
+      "video_id": "7704720243112955158",
+      "username": "parisnormandieofficiel",
+      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
-      "country": "ES",
+      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2552,12 +2586,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704720243112955158",
-      "username": "parisnormandieofficiel",
-      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
+      "video_id": "7704733096909770006",
+      "username": "equipoinvestigacion",
+      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
-      "country": "FR",
+      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8145,11 +8179,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704229291336240406",
-      "username": "geerhjij67",
-      "url": "https://www.tiktok.com/@geerhjij67/video/7704229291336240406",
+      "video_id": "7704705098861137174",
+      "username": "igmetallsha",
+      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
       "published_at": "2026-11-05T15:30:00+00:00",
-      "description": "#genz #halloween #demo #dachschadenmitwissen#news",
+      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8162,11 +8196,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704705098861137174",
-      "username": "igmetallsha",
-      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
+      "video_id": "7704229291336240406",
+      "username": "geerhjij67",
+      "url": "https://www.tiktok.com/@geerhjij67/video/7704229291336240406",
       "published_at": "2026-11-05T15:30:00+00:00",
-      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
+      "description": "#genz #halloween #demo #dachschadenmitwissen#news",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -11545,11 +11579,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704424659235704086",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7704424659235704086",
+      "video_id": "7704295807448780034",
+      "username": "hoypasaque",
+      "url": "https://www.tiktok.com/@hoypasaque/video/7704295807448780034",
       "published_at": "2026-11-05T13:00:00+00:00",
-      "description": "Würdest du für mehr Lohn streiken? ✊ Die IG Metall fordert 5 % mehr, die Arbeitgeber bieten 1,3 % – erst ab Juli 2028. Seit 1. November sind Warnstreiks erlaubt. A: Team Streik. B: Team Arbeit (weiterarbeiten). Schreib A oder B + in einem Satz, warum, in die Kommentare 👇 #waswärewenn #fyp #igmetall #warnstreik #tarifrunde",
+      "description": "El accidente de tren de Toledo pudo ser todavía peor: había un tercer tren 🚆 Su maquinista recibió la misma orden… y dijo que no. ¿Tú habrías desobedecido a tu jefe? Fuentes: Telecinco y El Mundo (3 nov 2026), con un documento interno de Iryo. #trentoledo #urda #accidentetren #maquinista #noticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -11562,11 +11596,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704295807448780034",
-      "username": "hoypasaque",
-      "url": "https://www.tiktok.com/@hoypasaque/video/7704295807448780034",
+      "video_id": "7704424659235704086",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7704424659235704086",
       "published_at": "2026-11-05T13:00:00+00:00",
-      "description": "El accidente de tren de Toledo pudo ser todavía peor: había un tercer tren 🚆 Su maquinista recibió la misma orden… y dijo que no. ¿Tú habrías desobedecido a tu jefe? Fuentes: Telecinco y El Mundo (3 nov 2026), con un documento interno de Iryo. #trentoledo #urda #accidentetren #maquinista #noticias",
+      "description": "Würdest du für mehr Lohn streiken? ✊ Die IG Metall fordert 5 % mehr, die Arbeitgeber bieten 1,3 % – erst ab Juli 2028. Seit 1. November sind Warnstreiks erlaubt. A: Team Streik. B: Team Arbeit (weiterarbeiten). Schreib A oder B + in einem Satz, warum, in die Kommentare 👇 #waswärewenn #fyp #igmetall #warnstreik #tarifrunde",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -12684,11 +12718,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704657302493596961",
-      "username": "impactmediafrance",
-      "url": "https://www.tiktok.com/@impactmediafrance/video/7704657302493596961",
+      "video_id": "7704657304733371680",
+      "username": "medlo466",
+      "url": "https://www.tiktok.com/@medlo466/video/7704657304733371680",
       "published_at": "2026-11-05T12:05:23+00:00",
-      "description": "🚨 FLASH – « T'es venu provoquer les jeunes » : un manifestant à Jordan Florentin, journaliste de 100 % Frontières sur CNews, à Paris 🇫🇷 En direct rue de Rivoli, le manifestant lui reproche de ne pas faire son travail. Un autre lui répond : « Tout est cher, on en a ras le bol. » Source : CNews #actu #paris #5novembre #greve #cnews",
+      "description": "#Lyon #5novembre",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -12701,11 +12735,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704657304733371680",
-      "username": "medlo466",
-      "url": "https://www.tiktok.com/@medlo466/video/7704657304733371680",
+      "video_id": "7704657302493596961",
+      "username": "impactmediafrance",
+      "url": "https://www.tiktok.com/@impactmediafrance/video/7704657302493596961",
       "published_at": "2026-11-05T12:05:23+00:00",
-      "description": "#Lyon #5novembre",
+      "description": "🚨 FLASH – « T'es venu provoquer les jeunes » : un manifestant à Jordan Florentin, journaliste de 100 % Frontières sur CNews, à Paris 🇫🇷 En direct rue de Rivoli, le manifestant lui reproche de ne pas faire son travail. Un autre lui répond : « Tout est cher, on en a ras le bol. » Source : CNews #actu #paris #5novembre #greve #cnews",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -18776,23 +18810,6 @@
       "published_at": "2026-11-05T06:48:52+00:00",
       "description": "La grève d’aujourd’hui #actualite #greve #jeudi #5novembre #manif",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704575084370873632",
-      "username": "jfchk0woj3",
-      "url": "https://www.tiktok.com/@jfchk0woj3/video/7704575084370873632",
-      "published_at": "2026-11-05T06:46:23+00:00",
-      "description": "#hypic #hypiccreator 💙🎗️✨ Novembre Bleu 2026 – Ensemble contre le cancer de la prostate 💙👨🏾‍🦱 Une mobilisation importante pour mettre la santé masculine au premier plan, mieux informer sur le cancer de la prostate, encourager le dialogue, la prévention, la consultation médicale et le soutien aux hommes 🙏🏾💙. Crée ton visuel Novembre Bleu avec ruban bleu 🎗️, tenue bleu royal 👗, bijoux bleus 💎, fleurs bleues et blanches 💐 et une ambiance élégante porteuse d’espoir ✨. Fais circuler le message façon Abidjan, Dakar, Bamako, Conakry, Cotonou, Lomé, Ouagadougou, Douala, Yaoundé, Kinshasa, Brazzaville, Paris, Bruxelles vibes 🌍💙. Utilise les mots-clés Novembre Bleu 2026, cancer de la prostate, santé masculine, sensibilisation cancer prostate, ruban bleu, prévention santé homme, consultation santé masculine, soutien aux hommes, campagne Novembre Bleu, prostate cancer awareness, Blue November, men's health awareness pour retrouver exactement cette mobilisation 🎗️✨. Sauvegarde ce message 📌, partage-le à ton père, ton frère, ton mari, ton ami ou un homme qui compte pour toi ❤️, commente ton pays 🌍 et laisse un 💙 pour soutenir Novembre Bleu. Blue November 2026 is a time to raise awareness about prostate cancer and men's health, encourage informed conversations with healthcare professionals, support the men we love and help break the silence around men's health. Wear blue, share the blue ribbon and spread the message. #NovembreBleu #CancerDeLaProstate SanteMasculine #Godpic @hypic_global",
-      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

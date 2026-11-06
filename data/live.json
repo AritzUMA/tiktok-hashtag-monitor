@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T18:47:10.952937+00:00",
+  "generated_at": "2026-11-06T18:49:58.552511+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28095,
-    "published_24h": 504,
+    "total_unique_videos": 28096,
+    "published_24h": 505,
     "published_48h": 1766,
-    "discovered_24h": 1102,
-    "discovered_48h": 2591
+    "discovered_24h": 1099,
+    "discovered_48h": 2592
   },
   "analysis": {
-    "embeddings_total": 28095,
+    "embeddings_total": 28096,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 504
+    "qwen_pending_24h": 505
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "MULTI": 6,
+    "OTHER": 184,
     "FR": 203,
-    "OTHER": 183,
     "DE": 63,
     "ES": 46,
+    "MULTI": 6,
     "IT": 3
   },
   "links": {
@@ -58,6 +58,23 @@
       "published_at": "2026-11-06T17:00:00+00:00",
       "description": "Neuer Linken-Skandal in Berlin – und die SPD verhandelt weiter. Hat die SPD noch eine rote Linie? #eilmeldung #nachrichten #news #deutschland #politik #fyp #fürdich #linke #berlin",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705104202980134177",
+      "username": "evenements.finisteresud",
+      "url": "https://www.tiktok.com/@evenements.finisteresud/video/7705104202980134177",
+      "published_at": "2026-11-06T16:59:35+00:00",
+      "description": "🔴 𝐆𝐑𝐄̀𝐕𝐄 𝐂𝐇𝐄𝐙 𝐁𝐋𝐔𝐄𝐁𝐔𝐒 – 𝐄𝐑𝐆𝐔𝐄́-𝐆𝐀𝐁𝐄́𝐑𝐈𝐂 Une mobilisation est en cours ce vendredi 6 novembre chez Bluebus, à Ergué-Gabéric. Les syndicats CGT, FO et CFTC appellent à la grève pour défendre l'emploi et obtenir de véritables garanties de la part du groupe Bolloré. Au cœur de cette mobilisation : le projet de plan de sauvegarde de l'emploi (PSE), qui prévoit notamment la suppression de 74 postes chez Bluebus. Les salariés dénoncent le manque de dialogue avec la direction locale et demandent que les négociations se déroulent avec des représentants du groupe Bolloré disposant d'un réel pouvoir de décision. Parmi leurs principales revendications : • Des garanties concrètes sur l'emploi et l'avenir du site. • Des mesures d'accompagnement à la hauteur des moyens du groupe Bolloré. • Le libre choix pour les 17 salariés concernés par un transfert des activités de recherche et développement (R&D). Des garanties écrites concernant les conditions de transfert : rémunération, fonction, statut et conditions de retour. Les syndicats alertent également sur les conséquences économiques pour Ergué-Gabéric et les commerces locaux, estimant que la suppression de ces emplois pourrait avoir des répercussions sur tout le territoire. Les grévistes appellent à rejoindre le mouvement et sollicitent la compréhension des automobilistes en cas de perturbations de circulation. « Nos emplois, notre dignité, notre avenir : nous ne lâcherons rien ! » ©️Crédit vidéo : Amandine Curunet #erguegaberic #Bluebus #manifestation #finistere #bollore",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -630,12 +647,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058027040230688",
+      "username": "poinglevetls",
+      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
-      "country": "DE",
+      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -664,12 +681,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058027040230688",
-      "username": "poinglevetls",
-      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
-      "country": "FR",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7413,12 +7430,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704733096909770006",
-      "username": "equipoinvestigacion",
-      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
+      "video_id": "7704720243112955158",
+      "username": "parisnormandieofficiel",
+      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
-      "country": "ES",
+      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7430,12 +7447,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704720243112955158",
-      "username": "parisnormandieofficiel",
-      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
+      "video_id": "7704733096909770006",
+      "username": "equipoinvestigacion",
+      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
-      "country": "FR",
+      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

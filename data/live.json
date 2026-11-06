@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T03:53:45.213376+00:00",
+  "generated_at": "2026-11-06T03:56:46.944654+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 27526,
-    "published_24h": 1101,
-    "published_48h": 1962,
-    "discovered_24h": 1575,
-    "discovered_48h": 2781
+    "total_unique_videos": 27530,
+    "published_24h": 1104,
+    "published_48h": 1964,
+    "discovered_24h": 1578,
+    "discovered_48h": 2783
   },
   "analysis": {
-    "embeddings_total": 27526,
+    "embeddings_total": 27530,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 1101
+    "qwen_pending_24h": 1104
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 497,
-    "OTHER": 444,
-    "DE": 79,
-    "IT": 9,
+    "OTHER": 447,
     "ES": 62,
+    "FR": 497,
+    "IT": 9,
+    "DE": 79,
     "MULTI": 9,
     "BE": 1
   },
@@ -228,6 +228,23 @@
       "url": "https://www.tiktok.com/@tisswarrenjazz/video/7704828527916469510",
       "published_at": "2026-11-05T23:09:52+00:00",
       "description": "Rassemblement des gens bien 🌞 🎟️ 🇬🇦 Vos billets dans la bio @Institut français du Gabon",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704827177845427488",
+      "username": "hannymc_oduc",
+      "url": "https://www.tiktok.com/@hannymc_oduc/video/7704827177845427488",
+      "published_at": "2026-11-05T23:04:36+00:00",
+      "description": "🚨 CẢNH BÁO: TRẺ EM MẤT TÍCH TẠI ĐỨC – BỐ MẸ HÃY CHỦ ĐỘNG BẢO VỆ CON! #hannycuộcsốngởđức #hannymckếtnốinguờiviệt #hannymcởđức #hanny36Oreview #trảinghiệmcuộcsôngcùnghanny",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1379,6 +1396,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704789812783369494",
+      "username": "f124481",
+      "url": "https://www.tiktok.com/@f124481/video/7704789812783369494",
+      "published_at": "2026-11-05T20:39:36+00:00",
+      "description": "#oujda_48_city #valencia #malvarrosa",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704789433488346390",
       "username": "elpais",
       "url": "https://www.tiktok.com/@elpais/video/7704789433488346390",
@@ -1838,12 +1872,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704720243112955158",
-      "username": "parisnormandieofficiel",
-      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
+      "video_id": "7704503578563497238",
+      "username": "echolotnews",
+      "url": "https://www.tiktok.com/@echolotnews/video/7704503578563497238",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
-      "country": "FR",
+      "description": "Warum Europas Jugend gerade überall auf die Straße geht 🔥 Von Paris bis Berlin: die ganze Gen-Z-Welle erklärt. #genz #proteste #europa #nachrichten #echolotnews",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1872,12 +1906,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704503578563497238",
-      "username": "echolotnews",
-      "url": "https://www.tiktok.com/@echolotnews/video/7704503578563497238",
+      "video_id": "7704720243112955158",
+      "username": "parisnormandieofficiel",
+      "url": "https://www.tiktok.com/@parisnormandieofficiel/photo/7704720243112955158",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "Warum Europas Jugend gerade überall auf die Straße geht 🔥 Von Paris bis Berlin: die ganze Gen-Z-Welle erklärt. #genz #proteste #europa #nachrichten #echolotnews",
-      "country": "MULTI",
+      "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2586,6 +2620,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704764145937354006",
+      "username": "funatikapp",
+      "url": "https://www.tiktok.com/@funatikapp/video/7704764145937354006",
+      "published_at": "2026-11-05T19:00:00+00:00",
+      "description": "🐸 Que le dirían los “granotas” a los niños Valencianos para convencerles de que es mejor que ser “ches”?  🫵🏼 ¿Tú qué le dirías? ¡Te leemos!  #valencia #levanteud #valenciacf #futbol #laliga",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704763857998253344",
       "username": "pryoxer",
       "url": "https://www.tiktok.com/@pryoxer/video/7704763857998253344",
@@ -3232,9 +3283,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754146380991766",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
+      "video_id": "7704754142501293334",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7704754142501293334",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -3249,9 +3300,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754142501293334",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7704754142501293334",
+      "video_id": "7704754146380991766",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -7108,11 +7159,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704229291336240406",
-      "username": "geerhjij67",
-      "url": "https://www.tiktok.com/@geerhjij67/video/7704229291336240406",
+      "video_id": "7704705098861137174",
+      "username": "igmetallsha",
+      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
       "published_at": "2026-11-05T15:30:00+00:00",
-      "description": "#genz #halloween #demo #dachschadenmitwissen#news",
+      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7125,11 +7176,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704705098861137174",
-      "username": "igmetallsha",
-      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
+      "video_id": "7704229291336240406",
+      "username": "geerhjij67",
+      "url": "https://www.tiktok.com/@geerhjij67/video/7704229291336240406",
       "published_at": "2026-11-05T15:30:00+00:00",
-      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
+      "description": "#genz #halloween #demo #dachschadenmitwissen#news",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8060,12 +8111,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704698154846833952",
-      "username": "celineautrice",
-      "url": "https://www.tiktok.com/@celineautrice/video/7704698154846833952",
+      "video_id": "7704698146319813910",
+      "username": "informativost5",
+      "url": "https://www.tiktok.com/@informativost5/video/7704698146319813910",
       "published_at": "2026-11-05T14:43:54+00:00",
-      "description": "Brest, 5/11 grève générale, une marée humaine rassemblée dans un cortège immense.  #brest #manifestation #greve #actualite #peuple",
-      "country": "OTHER",
+      "description": "Novedades en el 'caso Koldo': la UCO registra la casa de Ábalos en Valencia y detiene a seis personas, entre ellas al exchófer de Pedro Sánchez #noticiastiktok #noticias #news",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8077,12 +8128,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704698146319813910",
-      "username": "informativost5",
-      "url": "https://www.tiktok.com/@informativost5/video/7704698146319813910",
+      "video_id": "7704698154846833952",
+      "username": "celineautrice",
+      "url": "https://www.tiktok.com/@celineautrice/video/7704698154846833952",
       "published_at": "2026-11-05T14:43:54+00:00",
-      "description": "Novedades en el 'caso Koldo': la UCO registra la casa de Ábalos en Valencia y detiene a seis personas, entre ellas al exchófer de Pedro Sánchez #noticiastiktok #noticias #news",
-      "country": "ES",
+      "description": "Brest, 5/11 grève générale, une marée humaine rassemblée dans un cortège immense.  #brest #manifestation #greve #actualite #peuple",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -12446,11 +12497,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704648421243669792",
-      "username": "l4ctuforyou",
-      "url": "https://www.tiktok.com/@l4ctuforyou/video/7704648421243669792",
+      "video_id": "7704648352054463776",
+      "username": "beyhive.m",
+      "url": "https://www.tiktok.com/@beyhive.m/video/7704648352054463776",
       "published_at": "2026-11-05T11:30:40+00:00",
-      "description": "🚨 GRÈVE : JEUDI NOIR ? Jusqu'à 700 000 manifestants attendus en régions et 80 000 à Paris ce jeudi 5 novembre, à l'appel de CGT, CFDT, FO, UNSA et FSU contre le budget 2027 et la vie chère. Un TGV sur dix supprimé, RER D à un train sur trois, et à Paris le cortège part de République à 14 h vers Nation. Pour toi : grève utile ou journée de galère de plus ? Dis-le en commentaire 👇 Sources : Euronews, Sortiraparis, Selectra, L'Express/RTL via Orange Actu (04-05/11/2026) Illustrations générées — contenu IA #greve #5novembre #manifestation #sncf #budget2027 #viechere #actu #info",
+      "description": "Enorme manif actuellement à lyon, 5 novembre  #manifestation #lyon #fyp #cgt #grevegenerale",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -12463,11 +12514,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704648352054463776",
-      "username": "beyhive.m",
-      "url": "https://www.tiktok.com/@beyhive.m/video/7704648352054463776",
+      "video_id": "7704648421243669792",
+      "username": "l4ctuforyou",
+      "url": "https://www.tiktok.com/@l4ctuforyou/video/7704648421243669792",
       "published_at": "2026-11-05T11:30:40+00:00",
-      "description": "Enorme manif actuellement à lyon, 5 novembre  #manifestation #lyon #fyp #cgt #grevegenerale",
+      "description": "🚨 GRÈVE : JEUDI NOIR ? Jusqu'à 700 000 manifestants attendus en régions et 80 000 à Paris ce jeudi 5 novembre, à l'appel de CGT, CFDT, FO, UNSA et FSU contre le budget 2027 et la vie chère. Un TGV sur dix supprimé, RER D à un train sur trois, et à Paris le cortège part de République à 14 h vers Nation. Pour toi : grève utile ou journée de galère de plus ? Dis-le en commentaire 👇 Sources : Euronews, Sortiraparis, Selectra, L'Express/RTL via Orange Actu (04-05/11/2026) Illustrations générées — contenu IA #greve #5novembre #manifestation #sncf #budget2027 #viechere #actu #info",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T23:18:35.896823+00:00",
+  "generated_at": "2026-11-06T23:21:31.140656+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 28300,
-    "published_24h": 417,
-    "published_48h": 1724,
-    "discovered_24h": 983,
-    "discovered_48h": 2538
+    "published_24h": 414,
+    "published_48h": 1722,
+    "discovered_24h": 980,
+    "discovered_48h": 2536
   },
   "analysis": {
-    "embeddings_total": 28299,
+    "embeddings_total": 28300,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 417
+    "qwen_pending_24h": 414
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 161,
+    "FR": 144,
+    "OTHER": 160,
     "ES": 41,
     "DE": 61,
-    "FR": 146,
-    "MULTI": 6,
-    "IT": 2
+    "IT": 2,
+    "MULTI": 6
   },
   "links": {
     "qr_videos": 0,
@@ -2415,11 +2415,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -2432,11 +2432,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7061,57 +7061,6 @@
       "url": "https://www.tiktok.com/@samaventurier/video/7704831709535145249",
       "published_at": "2026-11-05T23:22:17+00:00",
       "description": "🚨 FLASH INFO : Jeudi 5 novembre : 1.6 millions de manifestants recensés selon la CGT, des lycées bloqués et plusieurs incidents à travers la France. #Actualité #france #pourtoi",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704831456152980769",
-      "username": "bessif67",
-      "url": "https://www.tiktok.com/@bessif67/video/7704831456152980769",
-      "published_at": "2026-11-05T23:21:13+00:00",
-      "description": "#tiktoklive #livehighlights  Grève générale : plus de 25 000 manifestants, des dizaines d’interpellations Syndicats et coordination des Gilets jaunes ont appelé à une journée de grève générale ce jeudi 5 novembre, contre l’augmentation des prix et pour une revalorisation des salaires. Une manifestation a réuni plus de 20 000 personnes, sur un trajet imposé par la préfecture hors du centre-ville. #liveforthechallenge #on #live",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704811417458724118",
-      "username": "ledossierouvert",
-      "url": "https://www.tiktok.com/@ledossierouvert/video/7704811417458724118",
-      "published_at": "2026-11-05T23:20:00+00:00",
-      "description": "FLASH - Grève du 5 novembre : ce que la journée a coûté à ceux qui l'ont faite. À Lyon, une enseignante confie être « à 100 euros près à la fin du mois », quand une comptable n'a posé qu'une heure : « il faut quand même pouvoir vivre ». Le ministère de l'Intérieur compte 575 000 manifestants (1,6 million selon la CGT), des cortèges « globalement bien déroulés », 448 interpellations et 53 policiers et gendarmes blessés. Lundi, Sébastien Lecornu reçoit syndicats et patronat à Matignon. Et toi, tu aurais fait grève ?  #greve #5novembre #salaire #lyon #fyp",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704830877615918350",
-      "username": "cbsnews",
-      "url": "https://www.tiktok.com/@cbsnews/video/7704830877615918350",
-      "published_at": "2026-11-05T23:19:09+00:00",
-      "description": "While protesters in Paris continue to march for better living conditions, armed with signs and megaphones, the New World Orchestra is taking a different approach — bringing strings, brass and music to the demonstrations. CBS News' @Ramy Inocencio has more on the musicians, who are encouraging others with instruments to join the demonstrations, turning music into another form of protest. The demonstrations have been ongoing for nearly two months. #news #paris #protest #music #orchestra",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

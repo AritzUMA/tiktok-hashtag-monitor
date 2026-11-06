@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T19:45:47.712125+00:00",
+  "generated_at": "2026-11-06T19:48:53.225316+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28138,
-    "published_24h": 475,
-    "published_48h": 1744,
-    "discovered_24h": 1062,
-    "discovered_48h": 2582
+    "total_unique_videos": 28139,
+    "published_24h": 473,
+    "published_48h": 1739,
+    "discovered_24h": 1060,
+    "discovered_48h": 2579
   },
   "analysis": {
-    "embeddings_total": 28138,
+    "embeddings_total": 28139,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 475
+    "qwen_pending_24h": 473
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 181,
-    "IT": 3,
-    "FR": 181,
+    "MULTI": 6,
+    "OTHER": 179,
     "DE": 62,
+    "FR": 181,
     "ES": 42,
-    "MULTI": 6
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -533,7 +533,7 @@
       "url": "https://www.tiktok.com/@straben.radar/video/7705075635097570591",
       "published_at": "2026-11-06T15:09:04+00:00",
       "description": "#AngelaMerkel #Zwickau #Politik #Demonstration #Deutschland",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -885,11 +885,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -902,11 +902,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -8065,40 +8065,6 @@
       "published_at": "2026-11-05T19:49:26+00:00",
       "description": "Grève du 5 novembre  à Strasbourg : la police embarque les manifestants dans un bus de la CTS. #greve #manifestation #police #strasbourg #cts",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704776764526021920",
-      "username": "politikmiteinblick1",
-      "url": "https://www.tiktok.com/@politikmiteinblick1/video/7704776764526021920",
-      "published_at": "2026-11-05T19:48:26+00:00",
-      "description": "Der Tod von Hubert Aiwanger wirft große Fragen auf. Warum war er in Berlin ohne LKA-Personenschutz unterwegs? #aiwanger #nachrichten #berlin #politik",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704776600335781153",
-      "username": "lfi.pontaudemer",
-      "url": "https://www.tiktok.com/@lfi.pontaudemer/video/7704776600335781153",
-      "published_at": "2026-11-05T19:48:19+00:00",
-      "description": "mobilisation ce jeudi 5 novembre à Pont-Audemer ! (salariés, retraités et lycéens) ont défilé ensemble dans les rues. Le mot d’ordre ? Une double colère : 1️⃣ Contre la vie chère : Salariés et retraités réclament d'urgence une hausse des salaires et des pensions pour faire face à l'inflation. 2️⃣ Pour l'avenir des jeunes : Les lycéens de Jacques-Prévert ont mené la marche pour dénoncer le manque de profs, les classes surchargées et la vétusté de leur établissement. Une belle preuve de solidarité entre les générations pour défendre nos services publics et notre pouvoir d'achat ! ✊ #PontAudemer #greve5novembre #PouvoirDachat #jeunesse EnColere",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

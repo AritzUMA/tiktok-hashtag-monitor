@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T12:30:22.674147+00:00",
+  "generated_at": "2026-11-06T12:33:11.262989+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 27823,
-    "published_24h": 860,
-    "published_48h": 1921,
-    "discovered_24h": 1339,
-    "discovered_48h": 2644
+    "total_unique_videos": 27824,
+    "published_24h": 861,
+    "published_48h": 1919,
+    "discovered_24h": 1324,
+    "discovered_48h": 2642
   },
   "analysis": {
     "embeddings_total": 27823,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 860
+    "qwen_pending_24h": 861
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 409,
-    "OTHER": 323,
+    "FR": 410,
     "DE": 66,
     "ES": 53,
+    "OTHER": 323,
     "IT": 6,
     "MULTI": 3
   },
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7704999055453162766",
+      "username": "sacce246",
+      "url": "https://www.tiktok.com/@sacce246/video/7704999055453162766",
+      "published_at": "2026-11-06T11:15:00+00:00",
+      "description": "Berlin protest turned chaotic: 27 police officers injured in the unrest#EuropeNews #FranceProtests #GermanyProtests #ParisUnrest #Frankfurt",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705014331510951190",
       "username": "dr.recht",
@@ -74,7 +91,7 @@
       "url": "https://www.tiktok.com/@.racinesdefrance/video/7705012363757473056",
       "published_at": "2026-11-06T11:03:14+00:00",
       "description": "Eeeeet ouiiii 🙌🏻🇫🇷 #france #liberte #rassemblement #manifestation #police",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4574,23 +4591,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704733096909770006",
-      "username": "equipoinvestigacion",
-      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
-      "published_at": "2026-11-05T20:00:00+00:00",
-      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7704503578563497238",
       "username": "echolotnews",
       "url": "https://www.tiktok.com/@echolotnews/video/7704503578563497238",
@@ -4614,6 +4614,23 @@
       "published_at": "2026-11-05T20:00:00+00:00",
       "description": "📣 Grève générale du 5 novembre Sélection (non exhaustive) des meilleures pancartes aperçues pendant les manifs au Havre et à Rouen 📸 Photos Stéphanie Péron-Clément, Boris Maslard et Garance Ferrard #greve #5novembre #Normandie#Rouen#LeHavre#manif #pourtoi",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704733096909770006",
+      "username": "equipoinvestigacion",
+      "url": "https://www.tiktok.com/@equipoinvestigacion/video/7704733096909770006",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "description": "🚘 ¿Cuánto gana un gorrilla al mes? Hablamos con uno de ellos en València. ‘GORRILLAS: LA LEY DE LA CALLE’ #EquipoGorrillas ESTRENO | VIERNES a las 22.30h | En @lasexta_ #EquipodeInvestigación #gorrillas #valencia #dinero",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6206,9 +6223,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754142501293334",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7704754142501293334",
+      "video_id": "7704754146380991766",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -6223,9 +6240,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704754146380991766",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7704754146380991766",
+      "video_id": "7704754142501293334",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7704754142501293334",
       "published_at": "2026-11-05T18:20:49+00:00",
       "description": "La CGT a revendiqué « près de 1,6 million » de manifestants en France ce jeudi 5 novembre, contre 600 000 selon une première estimation du ministère de l’Intérieur à 17h. Le chiffre définitif doit être publié plus tard. #ebrainfo #sinformersurtiktok #manifestation #5novembre",
       "country": "FR",
@@ -10507,6 +10524,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704705098861137174",
+      "username": "igmetallsha",
+      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
+      "published_at": "2026-11-05T15:30:00+00:00",
+      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704229291336240406",
       "username": "geerhjij67",
       "url": "https://www.tiktok.com/@geerhjij67/video/7704229291336240406",
@@ -10530,23 +10564,6 @@
       "published_at": "2026-11-05T15:30:00+00:00",
       "description": "🔴 Mobilisation du 5 novembre : matinée de tensions dans plusieurs villes Plusieurs débordements ont eu lieu ce matin dans le cadre de la journée de mobilisation du 5 novembre. Un lycée a été en partie incendié par des tirs de mortiers près de Toulouse. À Paris, des échauffourées se sont déroulées entre manifestants et forces de l’ordre. À Lyon, plusieurs manifestants ont été interpellés aux abords de la manifestation.",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704705098861137174",
-      "username": "igmetallsha",
-      "url": "https://www.tiktok.com/@igmetallsha/video/7704705098861137174",
-      "published_at": "2026-11-05T15:30:00+00:00",
-      "description": "Wir sind streikbereit bei Emax!  #wirsindhier #warnstreik #igmSHA",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11544,12 +11561,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704698154846833952",
-      "username": "celineautrice",
-      "url": "https://www.tiktok.com/@celineautrice/video/7704698154846833952",
+      "video_id": "7704698146319813910",
+      "username": "informativost5",
+      "url": "https://www.tiktok.com/@informativost5/video/7704698146319813910",
       "published_at": "2026-11-05T14:43:54+00:00",
-      "description": "Brest, 5/11 grève générale, une marée humaine rassemblée dans un cortège immense.  #brest #manifestation #greve #actualite #peuple",
-      "country": "OTHER",
+      "description": "Novedades en el 'caso Koldo': la UCO registra la casa de Ábalos en Valencia y detiene a seis personas, entre ellas al exchófer de Pedro Sánchez #noticiastiktok #noticias #news",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11561,12 +11578,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704698146319813910",
-      "username": "informativost5",
-      "url": "https://www.tiktok.com/@informativost5/video/7704698146319813910",
+      "video_id": "7704698154846833952",
+      "username": "celineautrice",
+      "url": "https://www.tiktok.com/@celineautrice/video/7704698154846833952",
       "published_at": "2026-11-05T14:43:54+00:00",
-      "description": "Novedades en el 'caso Koldo': la UCO registra la casa de Ábalos en Valencia y detiene a seis personas, entre ellas al exchófer de Pedro Sánchez #noticiastiktok #noticias #news",
-      "country": "ES",
+      "description": "Brest, 5/11 grève générale, une marée humaine rassemblée dans un cortège immense.  #brest #manifestation #greve #actualite #peuple",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

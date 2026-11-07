@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T18:34:14.800746+00:00",
+  "generated_at": "2026-11-07T18:37:55.188117+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29075,
-    "published_24h": 444,
-    "published_48h": 1153,
-    "discovered_24h": 988,
-    "discovered_48h": 2092
+    "total_unique_videos": 29080,
+    "published_24h": 445,
+    "published_48h": 1148,
+    "discovered_24h": 991,
+    "discovered_48h": 2089
   },
   "analysis": {
-    "embeddings_total": 29075,
+    "embeddings_total": 29080,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 444
+    "qwen_pending_24h": 445
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 117,
     "DE": 77,
-    "OTHER": 157,
+    "FR": 119,
     "ES": 89,
+    "OTHER": 156,
     "IT": 2,
-    "BE": 1,
-    "MULTI": 1
+    "MULTI": 1,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -325,6 +325,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705450512971304214",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705450512971304214",
+      "published_at": "2026-11-07T16:00:00+00:00",
+      "description": "🚨 Gilets jaunes : rassemblement interdit, ils maintiennent leur appel à Paris ! Les Gilets jaunes maintiennent leur rassemblement place de la Concorde ce samedi 7 novembre, malgré l’interdiction de la préfecture de police. Le cortège syndical République–Nation, lui, est autorisé. 70 000 policiers et gendarmes sont mobilisés dans toute la France. Le mouvement peut-il reprendre ? #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705458192242756896",
       "username": "noxifylive",
       "url": "https://www.tiktok.com/@noxifylive/video/7705458192242756896",
@@ -410,9 +427,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -427,9 +444,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -920,12 +937,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438324894207254",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
-      "published_at": "2026-11-07T14:35:50+00:00",
-      "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
-      "country": "OTHER",
+      "video_id": "7705438470814108960",
+      "username": "parisreportage",
+      "url": "https://www.tiktok.com/@parisreportage/video/7705438470814108960",
+      "published_at": "2026-11-07T14:36:45+00:00",
+      "description": "Le bruit de l'hélicoptère recouvre les huées et les chants \"Tout le monde déteste la police\". Acte IV de la mobilisation citoyenne contre la vie chère. #france #Paris #manifestation #rassemblement #revolution",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -940,6 +957,23 @@
       "video_id": "7705438336357240086",
       "username": "le_progres_",
       "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
+      "published_at": "2026-11-07T14:35:50+00:00",
+      "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705438324894207254",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -7556,23 +7590,6 @@
       "published_at": "2026-11-06T18:38:32+00:00",
       "description": "🚨 ÚLTIMA HORA | Pedro Sánchez vuelve a los mítines en Valencia entre aplausos dentro y protestas de ultraderecha fuera. Es su primer acto tras el accidente de Urda. 📢 La concentración, convocada por Patriam, ha dejado cánticos contra el presidente y Óscar Puente, además de insultos a los periodistas. 👉 Paula Blanco | #MalasLenguas",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705128752082177287",
-      "username": "pam.floy",
-      "url": "https://www.tiktok.com/@pam.floy/video/7705128752082177287",
-      "published_at": "2026-11-06T18:34:55+00:00",
-      "description": "Le JOURNAL 🗞️ : LA DISPARITION DES CHATS AU GABON 🐈 ———————————————- Representants : @@moupita00🍻🍺@@Tonton Lazzarus🇬🇦@@astraflyy n’oubliez surtout pas de vous faire inscrire dans la meilleure école supérieure de gestion@@IRTEC-Fisc🎓📊💰afin de donner un nouvel élan à votre avenir. 🤝 ##journal##gabon🇬🇦##gabontelevision",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

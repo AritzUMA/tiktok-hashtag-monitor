@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:38:17.273055+00:00",
+  "generated_at": "2026-11-07T14:41:19.925674+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28844,
-    "published_24h": 412,
-    "published_48h": 1359,
-    "discovered_24h": 911,
-    "discovered_48h": 2195
+    "total_unique_videos": 28846,
+    "published_24h": 413,
+    "published_48h": 1354,
+    "discovered_24h": 912,
+    "discovered_48h": 2197
   },
   "analysis": {
-    "embeddings_total": 28843,
+    "embeddings_total": 28846,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 412
+    "qwen_pending_24h": 413
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 150,
-    "ES": 79,
+    "ES": 80,
+    "OTHER": 149,
     "FR": 109,
-    "DE": 65,
     "MULTI": 6,
+    "DE": 66,
     "IT": 3
   },
   "links": {
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@lustigergeselle/video/7705430208253300001",
       "published_at": "2026-11-07T14:04:41+00:00",
       "description": "#news #nachrichten #update #missing #berlin",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -74,7 +74,7 @@
       "url": "https://www.tiktok.com/@perrosanxenews/video/7705428184304553248",
       "published_at": "2026-11-07T13:56:49+00:00",
       "description": "Abucheos a Ayuso en un acto en Valencia.  ¿Se está cansando la gente de su forma de hacer política? #Madrid #Ayuso #Valencia #PP #PSOE",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1072,6 +1072,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705363136555109664",
+      "username": "rj_azharkiani",
+      "url": "https://www.tiktok.com/@rj_azharkiani/video/7705363136555109664",
+      "published_at": "2026-11-07T09:44:24+00:00",
+      "description": "🇩🇪 فرینکفرٹ میں ایرانی کمیونٹی کے بڑے مظاہرے! جرمنی کے شہر فرینکفرٹ میں رضا پہلوی کے حامیوں اور مخالفین کی الگ الگ ریلیاں، ایرانی کمیونٹی کی جانب سے احتجاجی مظاہرے۔ 🎥 رپورٹ: اظہر کیانی، فرینکفرٹ جرمنی 📺 PK49 News Germany #Frankfurt #IranProtest #RezaPahlavi #PK49NewsGermany #AzharKiani",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705361781715242272",
       "username": "charly.photos",
       "url": "https://www.tiktok.com/@charly.photos/video/7705361781715242272",
@@ -1242,11 +1259,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1259,11 +1276,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

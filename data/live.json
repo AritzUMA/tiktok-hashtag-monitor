@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T10:32:15.240242+00:00",
+  "generated_at": "2026-11-07T10:34:43.035826+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 28662,
-    "published_24h": 437,
-    "published_48h": 1620,
-    "discovered_24h": 915,
-    "discovered_48h": 2311
+    "published_24h": 436,
+    "published_48h": 1612,
+    "discovered_24h": 914,
+    "discovered_48h": 2305
   },
   "analysis": {
     "embeddings_total": 28662,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 437
+    "qwen_pending_24h": 436
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 71,
-    "FR": 127,
-    "DE": 69,
+    "FR": 126,
     "OTHER": 161,
-    "MULTI": 6,
-    "IT": 3
+    "ES": 71,
+    "DE": 69,
+    "IT": 3,
+    "MULTI": 6
   },
   "links": {
     "qr_videos": 0,
@@ -7436,23 +7436,6 @@
       "published_at": "2026-11-06T10:34:44+00:00",
       "description": "LIVE | The NPP National Women’s Wing has hit the streets of Obuasi for the #JusticeForOurGirls demonstration, demanding justice, accountability, an end to sexual abuse and violence against girls, stronger protection for their rights and equal opportunities. #VerifiedNews #VerifiedTV",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705004450078903584",
-      "username": "udcgt42",
-      "url": "https://www.tiktok.com/@udcgt42/video/7705004450078903584",
-      "published_at": "2026-11-06T10:32:38+00:00",
-      "description": "La mobilisation continue dans toute la France ! #cgt #saintetienne #roanne #7novembre",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

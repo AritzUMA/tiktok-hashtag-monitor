@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:27:28.574118+00:00",
+  "generated_at": "2026-11-07T14:30:09.821910+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28834,
-    "published_24h": 407,
-    "published_48h": 1370,
-    "discovered_24h": 915,
-    "discovered_48h": 2208
+    "total_unique_videos": 28835,
+    "published_24h": 408,
+    "published_48h": 1363,
+    "discovered_24h": 908,
+    "discovered_48h": 2200
   },
   "analysis": {
-    "embeddings_total": 28834,
+    "embeddings_total": 28835,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 407
+    "qwen_pending_24h": 408
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "MULTI": 6,
     "FR": 107,
-    "OTHER": 147,
-    "ES": 79,
     "DE": 65,
+    "OTHER": 148,
+    "ES": 79,
+    "MULTI": 6,
     "IT": 3
   },
   "links": {
@@ -142,6 +142,23 @@
       "url": "https://www.tiktok.com/@parismatch/video/7705410553279253792",
       "published_at": "2026-11-07T12:48:26+00:00",
       "description": "#sinformersurktiktok #onregardequoi #acte4",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705404299223878944",
+      "username": "macho.boulot.dodo",
+      "url": "https://www.tiktok.com/@macho.boulot.dodo/video/7705404299223878944",
+      "published_at": "2026-11-07T12:24:10+00:00",
+      "description": "🌈🌈🌈",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1140,11 +1157,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1157,11 +1174,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6767,12 +6784,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705059394047905047",
-      "username": "20minutesfrance",
-      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
+      "video_id": "7704999465282768150",
+      "username": "klassenbildung",
+      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
-      "country": "FR",
+      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6784,12 +6801,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704999465282768150",
-      "username": "klassenbildung",
-      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
+      "video_id": "7705059394047905047",
+      "username": "20minutesfrance",
+      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
-      "country": "MULTI",
+      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

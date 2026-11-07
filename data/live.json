@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T05:33:56.865845+00:00",
+  "generated_at": "2026-11-07T05:37:12.432976+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28513,
+    "total_unique_videos": 28514,
     "published_24h": 469,
-    "published_48h": 1771,
-    "discovered_24h": 910,
-    "discovered_48h": 2514
+    "published_48h": 1772,
+    "discovered_24h": 909,
+    "discovered_48h": 2511
   },
   "analysis": {
-    "embeddings_total": 28513,
+    "embeddings_total": 28514,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 469
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 150,
-    "DE": 71,
-    "MULTI": 8,
-    "ES": 61,
     "OTHER": 175,
-    "IT": 4
+    "FR": 151,
+    "DE": 71,
+    "IT": 4,
+    "ES": 60,
+    "MULTI": 8
   },
   "links": {
     "qr_videos": 0,
@@ -210,7 +210,7 @@
       "url": "https://www.tiktok.com/@fach842/video/7705223138870611222",
       "published_at": "2026-11-07T00:41:16+00:00",
       "description": "✨ De la joie, de l'espoir, des souvenirs pour toujours et du carburant dans la lutte pour la justice ! #marseille #5nov2026 #internationale #nouveaumonde #revolution #libertedemanifester #grevegenerale #greve",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -415,6 +415,23 @@
       "published_at": "2026-11-06T23:06:40+00:00",
       "description": "@guille toledano y @Lucia Casani cantan “siempre es de noche” en el concierto de Valencia #eltoledanotour 🎤 📹 @Maja 💙/ Toledanista 🦞  #guilletoledano #luciacasani #siempreesdenoche",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705198603660266765",
+      "username": "jessespeaksjesus",
+      "url": "https://www.tiktok.com/@jessespeaksjesus/video/7705198603660266765",
+      "published_at": "2026-11-06T23:05:54+00:00",
+      "description": "This is what the new generation actually looks like #genz #church #faith",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7980,23 +7997,6 @@
       "published_at": "2026-11-06T05:58:17+00:00",
       "description": "Un peuple uni jamais ne sera vaincu !#grevegeneral #tousensemble #solidaires #jusquaubout #cacasurbardella",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704927939670084887",
-      "username": "lilidima6",
-      "url": "https://www.tiktok.com/@lilidima6/video/7704927939670084887",
-      "published_at": "2026-11-06T05:35:56+00:00",
-      "description": "#ESPAÑA🇪🇦#ROMÂNIA🇦🇩 #VALENCIA #viralvideotiktok #viral_video",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

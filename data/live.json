@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T12:10:59.954709+00:00",
+  "generated_at": "2026-11-07T12:13:49.591062+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28721,
-    "published_24h": 409,
-    "published_48h": 1487,
-    "discovered_24h": 915,
-    "discovered_48h": 2261
+    "total_unique_videos": 28725,
+    "published_24h": 413,
+    "published_48h": 1488,
+    "discovered_24h": 918,
+    "discovered_48h": 2265
   },
   "analysis": {
-    "embeddings_total": 28721,
+    "embeddings_total": 28725,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 409
+    "qwen_pending_24h": 413
   },
   "mobilization": {
     "yes": 0,
@@ -23,9 +23,9 @@
   "countries": {
     "OTHER": 149,
     "FR": 118,
-    "DE": 65,
-    "ES": 68,
+    "ES": 71,
     "MULTI": 6,
+    "DE": 66,
     "IT": 3
   },
   "links": {
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705386511822359830",
+      "username": "popularesvlc",
+      "url": "https://www.tiktok.com/@popularesvlc/video/7705386511822359830",
+      "published_at": "2026-11-07T11:15:11+00:00",
+      "description": "#ElCambioNecesario 🇪🇸 #Valencia #España #Feijoo #Ayuso",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705386236608793889",
       "username": "boufitfatfood",
@@ -109,6 +126,23 @@
       "published_at": "2026-11-07T10:40:12+00:00",
       "description": "Это сказка 🔥 Недвижимость в Испании в городе Кальп! Одно из лучших мест для жизни в Европе по климату - побережье Коста-Бланка. По всем вопросам пишите в директ. #spain #travel #valencia #property #calpe",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705375967916641569",
+      "username": "press_nantes",
+      "url": "https://www.tiktok.com/@press_nantes/video/7705375967916641569",
+      "published_at": "2026-11-07T10:34:12+00:00",
+      "description": "🚨 ALERTE INFO – NANTES Plusieurs camions de CRS ainsi qu’un camion lanceur d’eau de la Police nationale partent en direction de la place du Commerce, à Nantes. Ce déploiement intervient dans un contexte de fortes tensions et de mobilisations annoncées ce samedi 7 novembre 2026 dans le centre-ville. Les autorités ont annoncé un important dispositif de sécurité sur l’ensemble du territoire, avec une vigilance renforcée face aux risques de débordements, de dégradations et de violences. À Nantes, les manifestations et rassemblements revendicatifs sont soumis à des interdictions préfectorales dans certains secteurs du centre-ville, de 10 h à 20 h. La présence de ces renforts pourrait laisser présager un important dispositif de maintien de l’ordre dans le secteur du Commerce. La situation reste à suivre. Nous vous tiendrons informés de toute évolution sur le terrain. #nantes #manif #commerce #crs",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -205,12 +239,29 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705366939966786838",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705366939966786838",
+      "published_at": "2026-11-07T09:59:15+00:00",
+      "description": "Gritos de alabanza a Puente en el primer mitin de Sánchez tras la tragedia de Urda: «¡Óscar, Óscar!» «Gracias Óscar por la dignidad que has demostrado en política en los momentos en los que hace falta dignidad y empatizar con el dolor. No somos iguales», chilló Morant #eldebate #españa #madrid #SÁNCHEZ #accidente #urda #oscarpuente",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705364161483525409",
       "username": "ayparem",
       "url": "https://www.tiktok.com/@ayparem/video/7705364161483525409",
       "published_at": "2026-11-07T09:48:25+00:00",
       "description": "🚨Mordkommission Berlin ermittelt wegen der vermissten 13-jährigen Schülerin Lisa aus Marzahn. Bitte teilt das Video ❗️#vermisst #Polizei #Berlin #eilmeldung #hilfe",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -358,11 +409,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -375,11 +426,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -3401,6 +3452,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705142193207512342",
+      "username": "espiritutemplarionews",
+      "url": "https://www.tiktok.com/@espiritutemplarionews/video/7705142193207512342",
+      "published_at": "2026-11-06T19:27:02+00:00",
+      "description": "🇪🇸 | España | La gente esperando a entrar al mitin de Pedro Sánchez, de Valencia...😏",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705141525495172384",
       "username": "elespanolcom",
       "url": "https://www.tiktok.com/@elespanolcom/video/7705141525495172384",
@@ -5696,12 +5764,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704999465282768150",
-      "username": "klassenbildung",
-      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
+      "video_id": "7705059394047905047",
+      "username": "20minutesfrance",
+      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
-      "country": "MULTI",
+      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5713,12 +5781,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705059394047905047",
-      "username": "20minutesfrance",
-      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
+      "video_id": "7704999465282768150",
+      "username": "klassenbildung",
+      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
-      "country": "FR",
+      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6070,12 +6138,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058027040230688",
+      "username": "poinglevetls",
+      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
-      "country": "DE",
+      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6087,12 +6155,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058027040230688",
-      "username": "poinglevetls",
-      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
-      "country": "FR",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T19:19:48.214187+00:00",
+  "generated_at": "2026-11-07T19:23:03.230044+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29121,
-    "published_24h": 445,
-    "published_48h": 1127,
-    "discovered_24h": 1000,
-    "discovered_48h": 2074
+    "total_unique_videos": 29122,
+    "published_24h": 446,
+    "published_48h": 1124,
+    "discovered_24h": 995,
+    "discovered_48h": 2070
   },
   "analysis": {
-    "embeddings_total": 29121,
+    "embeddings_total": 29122,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 445
+    "qwen_pending_24h": 446
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 120,
+    "FR": 121,
     "ES": 91,
-    "DE": 75,
     "OTHER": 155,
+    "DE": 75,
     "BE": 1,
     "MULTI": 1,
     "IT": 2
@@ -1521,6 +1521,23 @@
       "published_at": "2026-11-07T14:11:59+00:00",
       "description": "✊ En direct de la manifestation au départ de République. La mobilisation continue et il faut s’organiser !  📢 On t’invite à la 2e Conférence Anticapitaliste Internationale le samedi 14 novembre à 18h à la commune libre d’Aligre ! Inscris-toi via le lien en bio ! #7novembre #grevegenerale #manifestation #révolution #anticapitaliste",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705431761408281889",
+      "username": "cgtauchan.montgeron",
+      "url": "https://www.tiktok.com/@cgtauchan.montgeron/video/7705431761408281889",
+      "published_at": "2026-11-07T14:10:42+00:00",
+      "description": "En direct de Paris - Samedi 07 Novembre 2026 ✊🏽 #tous #tiktok100k #greve #followers #cgtauchan",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

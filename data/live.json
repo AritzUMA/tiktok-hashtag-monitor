@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:21:07.400572+00:00",
+  "generated_at": "2026-11-07T14:24:33.049662+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28824,
-    "published_24h": 409,
-    "published_48h": 1378,
-    "discovered_24h": 910,
-    "discovered_48h": 2201
+    "total_unique_videos": 28832,
+    "published_24h": 408,
+    "published_48h": 1370,
+    "discovered_24h": 916,
+    "discovered_48h": 2207
   },
   "analysis": {
-    "embeddings_total": 28824,
+    "embeddings_total": 28830,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 409
+    "qwen_pending_24h": 408
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 146,
     "ES": 79,
     "DE": 66,
-    "OTHER": 146,
-    "FR": 109,
-    "IT": 3,
-    "MULTI": 6
+    "FR": 108,
+    "MULTI": 6,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -602,6 +602,23 @@
       "published_at": "2026-11-07T10:45:54+00:00",
       "description": "Keine Wehrpflicht mehr wegen Demonstration.  #demonstration #generalstreik #for #deutschland #viral",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705378758806588705",
+      "username": "pichou_nebri",
+      "url": "https://www.tiktok.com/@pichou_nebri/video/7705378758806588705",
+      "published_at": "2026-11-07T10:45:05+00:00",
+      "description": "Faire plaisir aux anciens c’est une kiffance😍 #pov #demonstration #bikelife",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6942,40 +6959,6 @@
       "url": "https://www.tiktok.com/@stephaniemichel617/video/7705064755613977889",
       "published_at": "2026-11-06T14:26:33+00:00",
       "description": "Quelle fierté, nous étions hier 1,6 millions! La convergence des luttes est là, partout en France des petites villes aux grandes métropoles des cortèges se sont formés: une vraie et profonde vague populaire #grève #grèvegénerale #LFI",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705064121586191649",
-      "username": "noelonfacts",
-      "url": "https://www.tiktok.com/@noelonfacts/video/7705064121586191649",
-      "published_at": "2026-11-06T14:24:03+00:00",
-      "description": "Natürlich kennen wir Nickelodeon,Toggo,Disney und co.😭😭#fürdich #gehviral #foryoupage❤️❤️ #viralvide #genz",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705063786482257185",
-      "username": "actufrnantes",
-      "url": "https://www.tiktok.com/@actufrnantes/video/7705063786482257185",
-      "published_at": "2026-11-06T14:22:46+00:00",
-      "description": "Jeudi 5 novembre, plusieurs dizaines de milliers de manifestants ont battu le pavé à #Nantes.",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

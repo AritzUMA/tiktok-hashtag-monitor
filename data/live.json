@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T08:11:09.407934+00:00",
+  "generated_at": "2026-11-07T08:13:48.279503+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28595,
+    "total_unique_videos": 28597,
     "published_24h": 471,
-    "published_48h": 1728,
-    "discovered_24h": 928,
-    "discovered_48h": 2429
+    "published_48h": 1726,
+    "discovered_24h": 927,
+    "discovered_48h": 2426
   },
   "analysis": {
-    "embeddings_total": 28595,
+    "embeddings_total": 28597,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 471
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 68,
+    "OTHER": 184,
     "FR": 139,
-    "OTHER": 185,
-    "ES": 69,
+    "DE": 69,
     "MULTI": 7,
-    "IT": 3
+    "IT": 3,
+    "ES": 69
   },
   "links": {
     "qr_videos": 0,
@@ -227,7 +227,7 @@
       "url": "https://www.tiktok.com/@straben.radar/video/7705297509756751135",
       "published_at": "2026-11-07T05:29:55+00:00",
       "description": "#AngelaMerkel #Zwickau #Politik #Demonstration #Deutschland",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4761,11 +4761,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4778,11 +4778,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7821,6 +7821,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704963881885617430",
+      "username": "virex.sl",
+      "url": "https://www.tiktok.com/@virex.sl/video/7704963881885617430",
+      "published_at": "2026-11-06T08:30:41+00:00",
+      "description": "🛑💥España: ¿Huelga General por la Vivienda y Contra la Oposición?🇪🇦",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7704971665792339252",
       "username": "obuasimedia",
       "url": "https://www.tiktok.com/@obuasimedia/video/7704971665792339252",
@@ -8014,23 +8031,6 @@
       "published_at": "2026-11-06T08:14:03+00:00",
       "description": "🚨Mouvement du 5 novembre : un sans-abri voit sa voiture brûler en marge des manifestations à Lyon.",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704968445577776404",
-      "username": "phamous.com",
-      "url": "https://www.tiktok.com/@phamous.com/video/7704968445577776404",
-      "published_at": "2026-11-06T08:12:54+00:00",
-      "description": "Instantl Update: JUSTICE FOR OUR GIRLS DEMONSTRATIONS happening live at Obuasi",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

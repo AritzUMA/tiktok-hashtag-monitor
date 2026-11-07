@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T18:31:00.630638+00:00",
+  "generated_at": "2026-11-07T18:34:14.800746+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29074,
-    "published_24h": 448,
-    "published_48h": 1156,
-    "discovered_24h": 990,
-    "discovered_48h": 2091
+    "total_unique_videos": 29075,
+    "published_24h": 444,
+    "published_48h": 1153,
+    "discovered_24h": 988,
+    "discovered_48h": 2092
   },
   "analysis": {
-    "embeddings_total": 29074,
+    "embeddings_total": 29075,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 448
+    "qwen_pending_24h": 444
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "DE": 78,
+    "FR": 117,
+    "DE": 77,
+    "OTHER": 157,
     "ES": 89,
-    "OTHER": 158,
-    "FR": 119,
-    "MULTI": 1,
     "IT": 2,
-    "BE": 1
+    "BE": 1,
+    "MULTI": 1
   },
   "links": {
     "qr_videos": 0,
@@ -920,9 +920,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438336357240086",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
+      "video_id": "7705438324894207254",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -937,9 +937,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438324894207254",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
+      "video_id": "7705438336357240086",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -7572,74 +7572,6 @@
       "url": "https://www.tiktok.com/@pam.floy/video/7705128752082177287",
       "published_at": "2026-11-06T18:34:55+00:00",
       "description": "Le JOURNAL 🗞️ : LA DISPARITION DES CHATS AU GABON 🐈 ———————————————- Representants : @@moupita00🍻🍺@@Tonton Lazzarus🇬🇦@@astraflyy n’oubliez surtout pas de vous faire inscrire dans la meilleure école supérieure de gestion@@IRTEC-Fisc🎓📊💰afin de donner un nouvel élan à votre avenir. 🤝 ##journal##gabon🇬🇦##gabontelevision",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705128225671777569",
-      "username": "tesprevenu",
-      "url": "https://www.tiktok.com/@tesprevenu/video/7705128225671777569",
-      "published_at": "2026-11-06T18:32:47+00:00",
-      "description": "🎉 Une scène de fête, de joie et de lutte captée dans la manifestation marseillaise ce jeudi 5 novembre #fete #humour #joie #feelgood #marseille",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705128112144649505",
-      "username": "sooaden",
-      "url": "https://www.tiktok.com/@sooaden/video/7705128112144649505",
-      "published_at": "2026-11-06T18:32:23+00:00",
-      "description": "Manif 5 novembre 2026 #manif #france #Paris",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705127815166922006",
-      "username": "user96385583269922222",
-      "url": "https://www.tiktok.com/@user96385583269922222/video/7705127815166922006",
-      "published_at": "2026-11-06T18:32:08+00:00",
-      "description": "🚨 BERLIN / MARZAHN: 13-jährige Schülerin auf dem Schulweg spurlos verschwunden – Mordkommission übernimmt die Ermittlungen!#berlin #vermisst  #marzahn #fahndung #nachrichten",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705128011389046049",
-      "username": "lemasque31500",
-      "url": "https://www.tiktok.com/@lemasque31500/video/7705128011389046049",
-      "published_at": "2026-11-06T18:31:59+00:00",
-      "description": "Merci les 2010 😂 #syndicat #cgt #blocus #lycée #etudiants",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

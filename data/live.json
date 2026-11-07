@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T11:03:44.229678+00:00",
+  "generated_at": "2026-11-07T11:07:00.622231+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28678,
+    "total_unique_videos": 28679,
     "published_24h": 427,
-    "published_48h": 1578,
-    "discovered_24h": 911,
-    "discovered_48h": 2305
+    "published_48h": 1573,
+    "discovered_24h": 912,
+    "discovered_48h": 2304
   },
   "analysis": {
     "embeddings_total": 28678,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 68,
+    "OTHER": 159,
     "FR": 124,
-    "OTHER": 158,
+    "MULTI": 6,
+    "ES": 67,
     "DE": 68,
-    "IT": 3,
-    "MULTI": 6
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -5713,11 +5713,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5730,11 +5730,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6110,6 +6110,23 @@
       "published_at": "2026-11-06T13:04:33+00:00",
       "description": "🇫🇷🤝 Francia se manifiesta de forma pacífica. Miles de franceses salieron este jueves 5 de noviembre a las calles de París en el marco de una huelga general convocada por las principales organizaciones sindicales del país. La movilización estuvo acompañada de una llamativa estampa musical: decenas de músicos del Orchestre du Nouveau Monde interpretaron distintas piezas con violines y otros instrumentos en la plaza de la República, mientras miles de personas secundaban las reivindicaciones. La jornada tenía como principales objetivos reclamar mejores salarios, recuperar poder adquisitivo frente al encarecimiento de la vida y exigir más recursos para los servicios públicos, además de defender el empleo y la educación. La convocatoria reunió a trabajadores, estudiantes, sindicatos y otros colectivos sociales. Según las estimaciones, la participación osciló entre los 575.000 asistentes contabilizados por el Ministerio del Interior y los cerca de 1,6 millones que calculó la CGT en todo el país. Las imágenes de París dejaron una estampa muy distinta a la de otras movilizaciones recientes: una protesta multitudinaria en la que la música y la reivindicación compartieron protagonismo. La manifestación parisina transcurrió pacíficamente, aunque en otras ciudades francesas sí se registraron enfrentamientos y altercados, con 448 detenidos y 53 agentes heridos, según el balance oficial. 📹 @lucauffret 📲 ¡Comparte el vídeo y síguenos! #francia #paris #protesta #pacifica #noticias",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705042714328370454",
+      "username": "mitkooux",
+      "url": "https://www.tiktok.com/@mitkooux/video/7705042714328370454",
+      "published_at": "2026-11-06T13:01:04+00:00",
+      "description": "#cover#demo #fyp @Demo Nazliev",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7266,23 +7283,6 @@
       "published_at": "2026-11-06T11:07:14+00:00",
       "description": "#cgt #greve #fonctionpublique",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705013076390694166",
-      "username": "mar.amiiiiii",
-      "url": "https://www.tiktok.com/@mar.amiiiiii/video/7705013076390694166",
-      "published_at": "2026-11-06T11:06:06+00:00",
-      "description": "#valencia",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

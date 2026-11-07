@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T09:13:49.893402+00:00",
+  "generated_at": "2026-11-07T09:16:57.223030+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28623,
+    "total_unique_videos": 28625,
     "published_24h": 457,
-    "published_48h": 1694,
-    "discovered_24h": 919,
-    "discovered_48h": 2351
+    "published_48h": 1693,
+    "discovered_24h": 921,
+    "discovered_48h": 2349
   },
   "analysis": {
-    "embeddings_total": 28623,
+    "embeddings_total": 28625,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 457
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 139,
+    "OTHER": 177,
+    "ES": 69,
     "DE": 63,
-    "ES": 70,
-    "IT": 3,
-    "OTHER": 176,
-    "MULTI": 6
+    "FR": 139,
+    "MULTI": 6,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705352900955901206",
+      "username": "marcoexeai",
+      "url": "https://www.tiktok.com/@marcoexeai/video/7705352900955901206",
+      "published_at": "2026-11-07T09:04:14+00:00",
+      "description": "Treffpunkt der nächsten Gen-Z-Demo: „Standort folgt in Kürze“ Freitag, 20. November, 14 Uhr, 34 Städte. Die Website verrät den Ort noch nicht. Schick das jemandem, der am 20. in Frankfurt arbeitet. Kartendaten: Copernicus Sentinel-2 / ESA WorldCover, CC BY 4.0 · NASA Blue Marble · NOAA ETOPO1 · Grenzen: OpenHistoricalMap · Natural Earth #genzregelt #demo #schulstreik #dachschadenmitwissen",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705337723602652448",
       "username": "whathappensjouli2",
@@ -976,6 +993,23 @@
       "published_at": "2026-11-06T23:17:25+00:00",
       "description": "dónde estás?!#parati #foryourpage #guapa #valencia",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705200708206808353",
+      "username": "genzregelt_",
+      "url": "https://www.tiktok.com/@genzregelt_/video/7705200708206808353",
+      "published_at": "2026-11-06T23:14:06+00:00",
+      "description": "DER 31. WAR ERST DER ANFANG. JETZT BEGINNT PHASE || Heraus zum 20.11. um für eine bessere Zukunft zu kämpfen! Rückblick von @genzregelt_leipzig                         #genzregelt #genz #genzprotest #leipzig",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5084,11 +5118,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5101,11 +5135,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7758,40 +7792,6 @@
       "url": "https://www.tiktok.com/@linoisharon/video/7704985116153531670",
       "published_at": "2026-11-06T09:17:32+00:00",
       "description": "Sígueme en ig para más @linoisharon 💗#valencia #jamsession #planesvalencia #languageexchange #amigos",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704984851136384288",
-      "username": "jung_und_laut",
-      "url": "https://www.tiktok.com/@jung_und_laut/video/7704984851136384288",
-      "published_at": "2026-11-06T09:16:31+00:00",
-      "description": "‼️MELDUNG: 3 SCHULEN IN HAMBURG BLOCKIERT‼️ Aktionstag an Hamburger Schulen: Einen Woche nach den Bundesweiten Gen-Z Regelt Protesten und 2 Wochen vor dem nächsten Schulstreik am 20.11. finden heute an mehreren Hamburger Schulen Blockaden, Schulhofkundgebungen und Demos statt. Teils haben sich die Lehrer mit den Schülern solidarisiert oder sogar zusammen mit ihnen den Protest organisiert. In Altona schließen sich mehrere Schulen zu einer Demo zusammen.",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704984389368745248",
-      "username": "_.mariaafdezz._",
-      "url": "https://www.tiktok.com/@_.mariaafdezz._/video/7704984389368745248",
-      "published_at": "2026-11-06T09:14:44+00:00",
-      "description": "#valencia #celos #parati #viral",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

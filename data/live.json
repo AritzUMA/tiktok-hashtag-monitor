@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T19:42:17.152854+00:00",
+  "generated_at": "2026-11-07T19:46:28.686480+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29146,
-    "published_24h": 450,
-    "published_48h": 1126,
-    "discovered_24h": 1010,
+    "total_unique_videos": 29147,
+    "published_24h": 449,
+    "published_48h": 1124,
+    "discovered_24h": 1009,
     "discovered_48h": 2071
   },
   "analysis": {
-    "embeddings_total": 29146,
+    "embeddings_total": 29147,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 450
+    "qwen_pending_24h": 449
   },
   "mobilization": {
     "yes": 0,
@@ -22,12 +22,12 @@
   "roles": {},
   "countries": {
     "OTHER": 153,
-    "DE": 77,
-    "ES": 93,
     "FR": 123,
-    "BE": 1,
+    "DE": 77,
+    "ES": 92,
+    "IT": 2,
     "MULTI": 1,
-    "IT": 2
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -70,23 +70,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705213243085638934",
-      "username": "udcgt82",
-      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705474350786399510",
       "username": "eldebate_com",
       "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
@@ -110,6 +93,23 @@
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705213243085638934",
+      "username": "udcgt82",
+      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -869,9 +869,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -886,9 +886,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4354,11 +4354,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4371,11 +4371,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -7658,23 +7658,6 @@
       "published_at": "2026-11-06T19:50:40+00:00",
       "description": "«Dans un monde de plus en plus dangereux, il faut retrouver les moyens de notre défense», souhaite Jordan Bardella, président du Rassemblement national, dans un échange avec l'ancien ministre Philippe de Villiers. #jordanbardella #cnews #politique #défense #bardella",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705146716885912865",
-      "username": "amandaaajaja",
-      "url": "https://www.tiktok.com/@amandaaajaja/video/7705146716885912865",
-      "published_at": "2026-11-06T19:44:34+00:00",
-      "description": "amamos a sergio🫰🏼 #gout #lapanterabby #valencia #lapantera #parati",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

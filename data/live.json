@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:03:27.561130+00:00",
+  "generated_at": "2026-11-07T14:06:05.606947+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28810,
-    "published_24h": 407,
-    "published_48h": 1402,
-    "discovered_24h": 910,
-    "discovered_48h": 2218
+    "total_unique_videos": 28812,
+    "published_24h": 406,
+    "published_48h": 1397,
+    "discovered_24h": 909,
+    "discovered_48h": 2207
   },
   "analysis": {
-    "embeddings_total": 28810,
+    "embeddings_total": 28812,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 407
+    "qwen_pending_24h": 406
   },
   "mobilization": {
     "yes": 0,
@@ -22,9 +22,9 @@
   "roles": {},
   "countries": {
     "ES": 77,
-    "DE": 66,
-    "OTHER": 146,
     "FR": 109,
+    "OTHER": 145,
+    "DE": 66,
     "MULTI": 6,
     "IT": 3
   },
@@ -873,7 +873,7 @@
       "url": "https://www.tiktok.com/@charly.photos/video/7705361781715242272",
       "published_at": "2026-11-07T09:39:16+00:00",
       "description": "« Le Défilé des 10 000 personnes et les Revendications » Manifestation le 5 novembre, à Dijon. Prise de parole du secrétaire départemental de la CGT Côté d’Or : Frédéric Pissot. Il expose les revendications des syndicats #manifdu5novembre #manifcontrelaviechere #suppressionParcoursup",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1038,11 +1038,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1055,11 +1055,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6925,23 +6925,6 @@
       "url": "https://www.tiktok.com/@unotv/video/7705059896831511828",
       "published_at": "2026-11-06T14:07:20+00:00",
       "description": "#Francia vivió una nueva jornada de protestas masivas. Al menos 600 mil personas, según las autoridades, marcharon este jueves en distintas ciudades; el sindicato CGT elevó la cifra hasta 1.6 millones. En París, decenas de miles de #manifestantes llegaron por la noche a la Plaza de la Nación, tras una movilización nacional y una huelga de trabajadores públicos convocadas por sindicatos y respaldadas por grupos estudiantiles. Las protestas ocurren después de meses de descontento por el costo de vida, los servicios públicos y la educación, en medio de una de las mayores olas de tensión social de los últimos años. Además, Francia está a cinco meses de unas #elecciones presidenciales en las que #EmmanuelMacron ya no podrá competir por un tercer mandato consecutivo. ¿Crees que estas movilizaciones influirán en las próximas elecciones? #PortalUnoTV",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705058975154195744",
-      "username": "afpfr",
-      "url": "https://www.tiktok.com/@afpfr/video/7705058975154195744",
-      "published_at": "2026-11-06T14:03:51+00:00",
-      "description": "🪧🇫🇷 La coordination des gilets jaunes a maintenu son appel à un rassemblement samedi place de la Concorde à Paris, qui a été interdit par la préfecture de police, refusant de rejoindre un parcours intersyndical autorisé. 🎥 Josephine Gruwe-Court 📸 Guillaume Saligot / AFP 💻 Damien Duffau-Mongilardi #sinformersurtiktok #manifestations #giletsjaunes",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

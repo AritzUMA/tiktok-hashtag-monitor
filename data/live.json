@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T14:06:05.606947+00:00",
+  "generated_at": "2026-11-07T14:08:42.305243+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28812,
+    "total_unique_videos": 28814,
     "published_24h": 406,
-    "published_48h": 1397,
-    "discovered_24h": 909,
-    "discovered_48h": 2207
+    "published_48h": 1395,
+    "discovered_24h": 906,
+    "discovered_48h": 2205
   },
   "analysis": {
-    "embeddings_total": 28812,
+    "embeddings_total": 28814,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 406
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "ES": 77,
-    "FR": 109,
     "OTHER": 145,
+    "FR": 109,
+    "ES": 77,
     "DE": 66,
     "MULTI": 6,
     "IT": 3
@@ -57,6 +57,23 @@
       "url": "https://www.tiktok.com/@dexterbanni24fois/video/7705416946023402785",
       "published_at": "2026-11-07T13:13:12+00:00",
       "description": "La police interpelle les porte-parole de la Coordination Gilets jaunes devant l’Assemblée nationale. Ils avaient appelé à se rassembler sur la Place de la Concorde en désobéissant à l’interdiction de manifester de la Préfecture de Police de Paris.",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705052690686037270",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705052690686037270",
+      "published_at": "2026-11-07T13:00:00+00:00",
+      "description": "Dans les coulisses de la grève du 5 novembre à Dunkerque : reportage avec deux syndicalistes en ordre de bataille. Face à la vie chère et pour la défense des services publics, les syndicats tentent de mobiliser de l'industrie lourde jusqu'à l'Éducation nationale. Leur objectif : mettre le pays à l'arrêt. Nous avons suivi Gaétan Lecocq, représentant CGT dans la sidérurgie, et Laurie Rohart, déléguée FSU.  Alors que le mandat d'Emmanuel Macron approche de son terme, ce mois de novembre peut-il marquer un tournant pour le mouvement social ? Selon vous, les syndicats peuvent-ils réussir à mettre le pays à l'arrêt ? Partagez votre avis dans les commentaires. Regardez ou re-regardez l’émission sur France.tv !Et, pour les adeptes des podcasts … BONNE NOUVELLE : vous pouvez retrouver nos émissions sur toutes les plateformes !Abonnez-vous pour découvrir des contenus exclusifs ! #sinformersurtiktok",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1038,11 +1055,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1055,11 +1072,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6909,23 +6926,6 @@
       "published_at": "2026-11-06T14:17:31+00:00",
       "description": "j’vous attend pour vous bloquer dans les coms  #antifa",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705059896831511828",
-      "username": "unotv",
-      "url": "https://www.tiktok.com/@unotv/video/7705059896831511828",
-      "published_at": "2026-11-06T14:07:20+00:00",
-      "description": "#Francia vivió una nueva jornada de protestas masivas. Al menos 600 mil personas, según las autoridades, marcharon este jueves en distintas ciudades; el sindicato CGT elevó la cifra hasta 1.6 millones. En París, decenas de miles de #manifestantes llegaron por la noche a la Plaza de la Nación, tras una movilización nacional y una huelga de trabajadores públicos convocadas por sindicatos y respaldadas por grupos estudiantiles. Las protestas ocurren después de meses de descontento por el costo de vida, los servicios públicos y la educación, en medio de una de las mayores olas de tensión social de los últimos años. Además, Francia está a cinco meses de unas #elecciones presidenciales en las que #EmmanuelMacron ya no podrá competir por un tercer mandato consecutivo. ¿Crees que estas movilizaciones influirán en las próximas elecciones? #PortalUnoTV",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

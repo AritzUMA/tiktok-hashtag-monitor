@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T04:48:31.322038+00:00",
+  "generated_at": "2026-11-07T04:51:27.279750+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28490,
-    "published_24h": 468,
-    "published_48h": 1777,
-    "discovered_24h": 923,
-    "discovered_48h": 2511
+    "total_unique_videos": 28495,
+    "published_24h": 469,
+    "published_48h": 1778,
+    "discovered_24h": 926,
+    "discovered_48h": 2513
   },
   "analysis": {
-    "embeddings_total": 28490,
+    "embeddings_total": 28495,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 468
+    "qwen_pending_24h": 469
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "FR": 151,
-    "DE": 69,
     "ES": 60,
-    "OTHER": 175,
-    "IT": 4,
-    "MULTI": 9
+    "DE": 69,
+    "OTHER": 176,
+    "MULTI": 9,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705274574975339828",
+      "username": "evangelio.news",
+      "url": "https://www.tiktok.com/@evangelio.news/video/7705274574975339828",
+      "published_at": "2026-11-07T04:02:26+00:00",
+      "description": "Una fuerte presencia policial y medidas de seguridad reforzadas se desplegaron en Berlín, Alemania, durante las protestas juveniles registradas el 31 de octubre de 2026. Las autoridades implementaron un amplio operativo de vigilancia en distintos puntos de la capital alemana, con numerosos elementos policiales y unidades de seguridad para supervisar las movilizaciones, controlar posibles alteraciones del orden público y prevenir enfrentamientos. El despliegue incluyó una mayor vigilancia en las zonas de concentración de manifestantes, mientras las protestas reunieron a jóvenes en distintos puntos de la ciudad. Las imágenes de la jornada muestran el dispositivo policial que acompañó las movilizaciones. #Evangelio #LaLecturaDeHoy #Noticias #Berlín #Protestas",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705262802012884238",
       "username": "arellano9183",

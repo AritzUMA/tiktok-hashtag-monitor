@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T04:32:40.152581+00:00",
+  "generated_at": "2026-11-07T04:35:10.140916+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28476,
-    "published_24h": 462,
+    "total_unique_videos": 28479,
+    "published_24h": 464,
     "published_48h": 1776,
-    "discovered_24h": 921,
-    "discovered_48h": 2506
+    "discovered_24h": 920,
+    "discovered_48h": 2508
   },
   "analysis": {
-    "embeddings_total": 28476,
+    "embeddings_total": 28479,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 462
+    "qwen_pending_24h": 464
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 173,
     "FR": 151,
     "ES": 58,
-    "OTHER": 173,
     "DE": 69,
     "MULTI": 9,
-    "IT": 2
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -936,6 +936,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705159355372424470",
+      "username": "_riverss_",
+      "url": "https://www.tiktok.com/@_riverss_/video/7705159355372424470",
+      "published_at": "2026-11-06T20:33:38+00:00",
+      "description": "bloquear gente y punto jajajaj",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705158299338968342",
       "username": "elpais",
       "url": "https://www.tiktok.com/@elpais/video/7705158299338968342",
@@ -1740,7 +1757,7 @@
       "url": "https://www.tiktok.com/@vxzo.exe/video/7705130999486696737",
       "published_at": "2026-11-06T18:43:35+00:00",
       "description": "#catania #palermo #scuola #sciopero #fyp",
-      "country": "OTHER",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2675,7 +2692,7 @@
       "url": "https://www.tiktok.com/@.salvatore87/video/7705099174789860641",
       "published_at": "2026-11-06T16:40:07+00:00",
       "description": "🇮🇹 OTTOBRE, UN MESE DI PROTESTE! Scioperi, cortei, camionisti e lavoratori sono scesi in piazza per chiedere salari dignitosi, meno caro vita e maggiori tutele. Il 30 ottobre le piazze hanno parlato. Ma dopo le proteste, quali risultati concreti sono arrivati? Il governo va avanti, ma i problemi dei cittadini meritano ancora attenzione. NON LASCIAMO CHE TUTTO FINISCA NEL SILENZIO! Voi cosa ne pensate? 👇 #Sciopero #Lavoratori #CaroVita #Italia #government",
-      "country": "OTHER",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3418,12 +3435,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704999465282768150",
-      "username": "klassenbildung",
-      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
+      "video_id": "7705059394047905047",
+      "username": "20minutesfrance",
+      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
-      "country": "MULTI",
+      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3435,12 +3452,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705059394047905047",
-      "username": "20minutesfrance",
-      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
+      "video_id": "7704999465282768150",
+      "username": "klassenbildung",
+      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
-      "country": "FR",
+      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3758,23 +3775,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705058027040230688",
       "username": "poinglevetls",
       "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
@@ -3792,11 +3792,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3814,6 +3814,23 @@
       "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
       "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5872,6 +5889,23 @@
       "published_at": "2026-11-06T10:14:14+00:00",
       "description": "Ieri, 5 novembre, in Francia ha avuto luogo lo sciopero generale con manifestazioni e cortei in più di 260 città del Paese.  Secondo i sindacati sono scese in piazza 1,6 milioni di persone, 350.000 solo a Parigi. Il ministero cerca di ridimensionare parlando di 600.000 persone. Numeri che, comunque sia, riportano la vastità della protesta in corso nel Paese da settimane. Sebbene la maggior parte delle proteste siano state pacifiche, tensioni si sono registrate in numerose città, dalla capitale fino a Lione, Lille e Nantes, con diversi edifici incendiati. 🚫 Un giornale che non si può comprare non si può nemmeno zittire. ✍️ Sostenere un’informazione senza padroni significa difendere il diritto a un’informazione onesta. 🔗 SCOPRI I NOSTRI SERVIZI DAL LINK IN BIO www.lindipendente.online",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704999138118700321",
+      "username": "blankiitaa__",
+      "url": "https://www.tiktok.com/@blankiitaa__/video/7704999138118700321",
+      "published_at": "2026-11-06T10:11:59+00:00",
+      "description": "este audio 🔝 HAHHAHA AMOO",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T15:16:06.315426+00:00",
+  "generated_at": "2026-11-07T15:18:52.688169+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28873,
-    "published_24h": 418,
-    "published_48h": 1328,
-    "discovered_24h": 921,
-    "discovered_48h": 2191
+    "total_unique_videos": 28874,
+    "published_24h": 419,
+    "published_48h": 1327,
+    "discovered_24h": 920,
+    "discovered_48h": 2185
   },
   "analysis": {
-    "embeddings_total": 28873,
+    "embeddings_total": 28874,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 418
+    "qwen_pending_24h": 419
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 82,
-    "FR": 108,
+    "FR": 110,
+    "OTHER": 151,
     "DE": 68,
-    "OTHER": 152,
     "MULTI": 5,
+    "ES": 82,
     "IT": 3
   },
   "links": {
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@brutofficiel/video/7705438536731741472",
       "published_at": "2026-11-07T14:36:57+00:00",
       "description": "Les manifestants sont verbalisés à hauteur de 135 euros sur la place de la Concorde, les autorités ont interdit tout rassemblement sur la place, autorisant un parcours entre République et Nation à Paris.",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -193,7 +193,7 @@
       "url": "https://www.tiktok.com/@parisreportage/video/7705418958488309025",
       "published_at": "2026-11-07T13:21:02+00:00",
       "description": "Paris, 7 novembre 2026 — La République parle encore de révolution. En direct de la place de la République, où les manifestants sont toujours présents. Une atmosphère de bonne humeur et, aujourd’hui, pas de présence syndicale visible. Des sensibilités diverses se côtoient dans une ambiance plutôt joyeuse. #france #Paris #manifestation #rassemblement #republique",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -380,6 +380,23 @@
       "url": "https://www.tiktok.com/@parismatch/video/7705410553279253792",
       "published_at": "2026-11-07T12:48:26+00:00",
       "description": "#sinformersurktiktok #onregardequoi #acte4",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705406783707155734",
+      "username": "algrano.hoy",
+      "url": "https://www.tiktok.com/@algrano.hoy/video/7705406783707155734",
+      "published_at": "2026-11-07T12:33:47+00:00",
+      "description": "Huelga general 11 de noviembre y paros de maquinistas el 10 y el 12: qué trenes cancelan y qué pasa con tu trabajo. 1 · Los paros: martes 10, Semaf (maquinistas), huelga de jornada completa en Renfe; miércoles 11, huelga general de 24 horas de CCOO y UGT; jueves 12, paros parciales de Semaf (Diari de Tarragona/ACN, Euronews, Demócrata, BOE). 2 · Los trenes: Ouigo cancela 8 trenes el miércoles 11; billete cambiable sin coste o devolución, más una compensación no reembolsable del 50 % (EFE, La Razón). Los mínimos de Renfe y Adif no estaban cerrados el 4 de noviembre (Demócrata). 3 · Tu trabajo: el teletrabajo es voluntario y necesita acuerdo (Ley 10/2021). No llegar por un tren cancelado no es secundar la huelga ni garantiza cobrar esas horas (Demócrata). Ojo: Semaf convoca por la seguridad ferroviaria; la huelga general, por salarios, derechos laborales y vivienda. Guárdalo y mándaselo a quien vaya en tren al trabajo. ¿Qué duda tienes sobre estos días? 👇 Fuentes: 20minutos/EFE · La Razón · Diari de Tarragona/ACN · Euronews · Demócrata · BOE (7-nov-2026) #HuelgaGeneral #11N #EleccionesGenerales #29N",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1497,11 +1514,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1514,11 +1531,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

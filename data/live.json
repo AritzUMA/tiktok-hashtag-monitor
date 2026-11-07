@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T12:20:21.010631+00:00",
+  "generated_at": "2026-11-07T12:23:39.190270+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28729,
+    "total_unique_videos": 28730,
     "published_24h": 407,
-    "published_48h": 1484,
+    "published_48h": 1480,
     "discovered_24h": 916,
-    "discovered_48h": 2259
+    "discovered_48h": 2256
   },
   "analysis": {
-    "embeddings_total": 28729,
+    "embeddings_total": 28730,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 407
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 116,
-    "OTHER": 147,
+    "FR": 117,
+    "OTHER": 146,
     "DE": 64,
+    "MULTI": 6,
     "ES": 71,
-    "IT": 3,
-    "MULTI": 6
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -278,7 +278,7 @@
       "url": "https://www.tiktok.com/@press_nantes/video/7705360985300749601",
       "published_at": "2026-11-07T09:36:07+00:00",
       "description": "NANTES – Tension palpable dans le centre-ville ce samedi matin. Alors que l'arrêté préfectoral interdisant les rassemblements non déclarés est entré en vigueur à 10h00, un important dispositif de sécurité a immédiatement été déployé au cœur de la cité des Ducs. Dès 10h00, plusieurs compagnies de CRS ont pris position aux abords du Miroir d’eau, point névralgique où l'intercollectif Personne à la rue ! a appelé à se rassembler. Sur place, les forces de l'ordre quadrillent méthodiquement le secteur, encerclant l'esplanade pour anticiper tout débordement ou jonction avec les mobilisations étudiantes prévues plus tard dans la journée. Les accès menant au Château des ducs de Bretagne et à la station de tramway Duchesse Anne sont étroitement surveillés. Dans un périmètre de l'hypercentre totalement verrouillé et déserté par les transports en commun, l'ambiance est lourde. Les premiers militants commencent à converger sous le regard tendu des CRS, alors que les autorités affichent une tolérance zéro face à cette journée classée à haut risque.  #manif #nantes #crs",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1315,6 +1315,23 @@
       "url": "https://www.tiktok.com/@straitstimes/video/7705286956896357652",
       "published_at": "2026-11-07T04:48:47+00:00",
       "description": "Thousands of women took part in Jakarta’s Women’s March on Nov 7, calling on the government to end gender-based violence and scrap economic policies they say place an unfair burden on citizens. The march comes amid a broader wave of demonstrations against the Indonesian government. #WomensMarch #demonstration #Jakarta #Indonesia",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705275342130318625",
+      "username": "mk280372",
+      "url": "https://www.tiktok.com/@mk280372/video/7705275342130318625",
+      "published_at": "2026-11-07T04:05:29+00:00",
+      "description": "30000 Teilnehmer werden erwartet..#demo#fyyyyyyy#viral",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6926,23 +6943,6 @@
       "published_at": "2026-11-06T12:23:44+00:00",
       "description": "#blocus #fyp",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705032792408689952",
-      "username": "jadenouv",
-      "url": "https://www.tiktok.com/@jadenouv/video/7705032792408689952",
-      "published_at": "2026-11-06T12:22:29+00:00",
-      "description": "Les meilleurs ✨#genz #manageur #travail #manageuse #work",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

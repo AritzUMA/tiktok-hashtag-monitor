@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:18:22.718577+00:00",
+  "generated_at": "2026-11-07T14:21:07.400572+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28820,
-    "published_24h": 408,
-    "published_48h": 1380,
-    "discovered_24h": 908,
-    "discovered_48h": 2197
+    "total_unique_videos": 28824,
+    "published_24h": 409,
+    "published_48h": 1378,
+    "discovered_24h": 910,
+    "discovered_48h": 2201
   },
   "analysis": {
-    "embeddings_total": 28820,
+    "embeddings_total": 28824,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 408
+    "qwen_pending_24h": 409
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 145,
-    "FR": 109,
-    "DE": 66,
     "ES": 79,
-    "MULTI": 6,
-    "IT": 3
+    "DE": 66,
+    "OTHER": 146,
+    "FR": 109,
+    "IT": 3,
+    "MULTI": 6
   },
   "links": {
     "qr_videos": 0,
@@ -58,6 +58,23 @@
       "published_at": "2026-11-07T13:13:12+00:00",
       "description": "La police interpelle les porte-parole de la Coordination Gilets jaunes devant l’Assemblée nationale. Ils avaient appelé à se rassembler sur la Place de la Concorde en désobéissant à l’interdiction de manifester de la Préfecture de Police de Paris.",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705414506251357473",
+      "username": "codigo10tele",
+      "url": "https://www.tiktok.com/@codigo10tele/video/7705414506251357473",
+      "published_at": "2026-11-07T13:03:22+00:00",
+      "description": "Gabriel García, maquinista con más de 40 años de experiencia, reclama perfiles técnicos al frente de la gestión ferroviaria: \"¿Para qué quiero un político que no tiene ni idea de lo que estamos hablando?\". 🔴 #Codigo10 en @cuatrotv con Nacho Abad y David Aleman #QueVer #TeleEnTikTok #Urda #OscarPuente",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -176,6 +193,23 @@
       "url": "https://www.tiktok.com/@lindependant_officiel/video/7705400034661092611",
       "published_at": "2026-11-07T12:07:15+00:00",
       "description": "Alors qu'ils avaient rendez-vous place de Catalogne à Perpignan à 10h30, les manifestants ont entamé un tour des axes principaux de la ville vers 11h45. Les manifestants se sont arrêtés sur le rond-point du pont Arnaud Beltrame, bloquant ainsi la circulation en direction de la route de Canet. Ils étaient environ 300 à suivre ce parcours au cours d'une manifestation sans incident à ce moment-là.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705397778930847009",
+      "username": "info.gaucho",
+      "url": "https://www.tiktok.com/@info.gaucho/video/7705397778930847009",
+      "published_at": "2026-11-07T11:58:51+00:00",
+      "description": "Le maire d'Orléans Serge Grouard, a organisé ce vendredi 6 octobre devant la mairie un rassemblement pour criminaliser la contestation sociale alors qu'aucune dégradation majeure n'a été commise à Orléans. Des insultes racistes ont été préférée à Jaden qui se trouvait dans le contre rassemblement au même endroit. Des saluts fascistes ont aussi été constatés. #orléans #grouard #manifestation #interview #pourtoi",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1072,11 +1106,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1089,11 +1123,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6943,23 +6977,6 @@
       "published_at": "2026-11-06T14:22:46+00:00",
       "description": "Jeudi 5 novembre, plusieurs dizaines de milliers de manifestants ont battu le pavé à #Nantes.",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705062806047034657",
-      "username": "info.gaucho",
-      "url": "https://www.tiktok.com/@info.gaucho/video/7705062806047034657",
-      "published_at": "2026-11-06T14:18:58+00:00",
-      "description": "Ce vendredi 6 novembre 2026 sur cnews, Serge Grouard fait la publicité de son rassemblement réactionnaire devant la mairie d'Orléans à 18h. Il veut stopper le mouvement social et la \"bordelisation\". Il accuse LFI et l'ultra gauche et se pose en républicain pour la démocratie. Crédit : cnews  #orleans #grouard #manifestation #fyp #pourtoi",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

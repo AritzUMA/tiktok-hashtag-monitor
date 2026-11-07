@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T01:27:21.365981+00:00",
+  "generated_at": "2026-11-07T01:30:28.645177+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28370,
-    "published_24h": 430,
-    "published_48h": 1740,
+    "total_unique_videos": 28371,
+    "published_24h": 431,
+    "published_48h": 1741,
     "discovered_24h": 951,
-    "discovered_48h": 2492
+    "discovered_48h": 2493
   },
   "analysis": {
-    "embeddings_total": 28370,
+    "embeddings_total": 28371,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 430
+    "qwen_pending_24h": 431
   },
   "mobilization": {
     "yes": 0,
@@ -23,10 +23,10 @@
   "countries": {
     "FR": 144,
     "DE": 63,
-    "OTHER": 162,
+    "OTHER": 163,
     "ES": 50,
-    "IT": 3,
-    "MULTI": 8
+    "MULTI": 8,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -2993,23 +2993,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705058055632751905",
       "username": "wiesbadenerkurier",
       "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
@@ -3049,6 +3032,23 @@
       "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
       "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5311,6 +5311,23 @@
       "published_at": "2026-11-06T09:46:11+00:00",
       "description": "#info #cgt  #immigration #manifestation #france",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704992071039388949",
+      "username": "podsos170",
+      "url": "https://www.tiktok.com/@podsos170/video/7704992071039388949",
+      "published_at": "2026-11-06T09:44:29+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

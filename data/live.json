@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T14:24:33.049662+00:00",
+  "generated_at": "2026-11-07T14:27:28.574118+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28832,
-    "published_24h": 408,
+    "total_unique_videos": 28834,
+    "published_24h": 407,
     "published_48h": 1370,
-    "discovered_24h": 916,
-    "discovered_48h": 2207
+    "discovered_24h": 915,
+    "discovered_48h": 2208
   },
   "analysis": {
-    "embeddings_total": 28830,
+    "embeddings_total": 28834,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 408
+    "qwen_pending_24h": 407
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 146,
-    "ES": 79,
-    "DE": 66,
-    "FR": 108,
     "MULTI": 6,
+    "FR": 107,
+    "OTHER": 147,
+    "ES": 79,
+    "DE": 65,
     "IT": 3
   },
   "links": {
@@ -381,6 +381,23 @@
       "published_at": "2026-11-07T11:15:11+00:00",
       "description": "#ElCambioNecesario 🇪🇸 #Valencia #España #Feijoo #Ayuso",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705386514057858336",
+      "username": "lezappingdecyrilou",
+      "url": "https://www.tiktok.com/@lezappingdecyrilou/video/7705386514057858336",
+      "published_at": "2026-11-07T11:15:06+00:00",
+      "description": "🚨 NOIR DÉSIR EN MANIF : QUAND LA PLAYLIST DE LA CGT FAIT EXPLOSER LES FUSIBLES ! 🤣🎶 ​✍️ ​Scène surréaliste à Brest lors de la manif du 5 novembre ! Un militant CGT lance tranquillement une chanson de Noir Désir sur son enceinte, et là... crise d'hystérie totale d'une manifestante ! ​Entre les choix musicaux risqués du syndicat et les réactions survoltées du cortège, l'ambiance des manifs devient un vrai spectacle comique. On ne sait plus si on est dans un défilé social ou dans un vaudeville ! ​Je dis ça, je dis rien Abonne-toi 🤣 #new #info #fy #manifestation #humour",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6926,40 +6943,6 @@
       "published_at": "2026-11-06T14:33:07+00:00",
       "description": "“Justice for Our Girls” demonstration in Obuasi, demanding justice and accountability over allegations involving the headmaster of Obuasi Senior High Technical School (SHTS) and female students by NPP Women's wing  #UTVGhana",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705064883137563936",
-      "username": "vorortaktuell_",
-      "url": "https://www.tiktok.com/@vorortaktuell_/video/7705064883137563936",
-      "published_at": "2026-11-06T14:27:02+00:00",
-      "description": "AKTUELL : REDE STEPHAN BRANDNER ( AFD ) AM 6.NOVEMBER IM DEUTSCHEN BUNDESTAG IN BERLIN. AUFNAHME / QUELLE :  DEUTSCHER BUNDESTAG  PLENARSITZUNG - 106.SITZUNG VOM 6.NOVEMBER  21.WAHLPERIODE    REDE  THEMA : ÄNDERUNG DES STGB - SCHUTZ VOR K.-O.-TROPFEN    #AFD #VORORTAKTUELL #DEUTSCHERBUNDESTAG NEU : VOR ORT AKTUELL IHRE INFORMATIONSSEITE SEITEN-ÜBERBLICK - SIEHE SEITE : CAMPSITE.BIO/VORORTAKTUELL WEITERE INFORMATIONEN - AUCH ZU ANDEREN FRAKTIONEN - SIEHE SEITE : BUNDESTAG.DE AFD - ALTERNATIVE FÜR DEUTSCHLAND AFD PERSONAL",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705064755613977889",
-      "username": "stephaniemichel617",
-      "url": "https://www.tiktok.com/@stephaniemichel617/video/7705064755613977889",
-      "published_at": "2026-11-06T14:26:33+00:00",
-      "description": "Quelle fierté, nous étions hier 1,6 millions! La convergence des luttes est là, partout en France des petites villes aux grandes métropoles des cortèges se sont formés: une vraie et profonde vague populaire #grève #grèvegénerale #LFI",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

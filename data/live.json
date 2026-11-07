@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T02:55:34.462661+00:00",
+  "generated_at": "2026-11-07T02:59:47.319906+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28413,
-    "published_24h": 445,
-    "published_48h": 1756,
-    "discovered_24h": 930,
-    "discovered_48h": 2482
+    "total_unique_videos": 28417,
+    "published_24h": 446,
+    "published_48h": 1758,
+    "discovered_24h": 931,
+    "discovered_48h": 2485
   },
   "analysis": {
-    "embeddings_total": 28413,
+    "embeddings_total": 28417,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 445
+    "qwen_pending_24h": 446
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 166,
-    "ES": 53,
-    "DE": 66,
-    "FR": 148,
     "MULTI": 9,
+    "ES": 54,
+    "OTHER": 165,
+    "FR": 148,
+    "DE": 67,
     "IT": 3
   },
   "links": {
@@ -41,6 +41,23 @@
       "published_at": "2026-11-06T23:28:06+00:00",
       "description": "\"Y en marre !\" c'est le mot d'ordre du rassemblement réactionnaire su maire Serge Grouard ce vendredi 6 novembre devant la mairie d'Orléans. Le maire aux tendances d'extrême droite qui souhaite le droit du sang, la sortie de la cour européenne des droits de l'Homme, qui s'en prends aux musulmans et à l'immigration, qui empêche les manifestations de se dérouler dans le centre ville, a subie un contre rassemblement énergique et revendicatif. Il veut stopper le mouvement social et la \"bordelisation\". Il accuse LFI et l'ultra gauche et se pose en républicain pour la démocratie. #orléans #grouard #manifestation #discours #fyp",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705204238883786002",
+      "username": "dimdim.ditiya",
+      "url": "https://www.tiktok.com/@dimdim.ditiya/video/7705204238883786002",
+      "published_at": "2026-11-06T23:27:49+00:00",
+      "description": "Prediksi pertandingan LaLiga antara Valencia vs Real Madrid🚨 #realmadrid #madrid #laliga #OlahragaTikTok",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2194,6 +2211,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705103101803466016",
+      "username": "rbb24",
+      "url": "https://www.tiktok.com/@rbb24/video/7705103101803466016",
+      "published_at": "2026-11-06T16:55:19+00:00",
+      "description": "Ob GTA-Fan oder nicht, wer momentan über den Alexanderplatz läuft, blickt auf das wortwörtlich haushohe Plakat. Die großangelegte Kampagne wirbt für “Grand Theft Auto 6”, das diesen November veröffentlicht werden soll. #gta6 #berlin #hochhaus",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705102779676626209",
       "username": "le.grand.nancy.insoumis",
       "url": "https://www.tiktok.com/@le.grand.nancy.insoumis/video/7705102779676626209",
@@ -3316,23 +3350,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705058055632751905",
       "username": "wiesbadenerkurier",
       "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
@@ -3373,6 +3390,23 @@
       "published_at": "2026-11-06T14:00:04+00:00",
       "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7570,23 +7604,6 @@
       "username": "vulcanocoin",
       "url": "https://www.tiktok.com/@vulcanocoin/video/7704888707450408225",
       "published_at": "2026-11-06T03:04:06+00:00",
-      "description": "",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704887346847616263",
-      "username": "mimpimu__",
-      "url": "https://www.tiktok.com/@mimpimu__/video/7704887346847616263",
-      "published_at": "2026-11-06T02:58:09+00:00",
       "description": "",
       "country": "OTHER",
       "country_method": "rules",

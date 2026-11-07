@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T17:17:46.257616+00:00",
+  "generated_at": "2026-11-07T17:21:35.849597+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28987,
+    "total_unique_videos": 28988,
     "published_24h": 439,
-    "published_48h": 1230,
-    "discovered_24h": 948,
-    "discovered_48h": 2133
+    "published_48h": 1224,
+    "discovered_24h": 946,
+    "discovered_48h": 2127
   },
   "analysis": {
-    "embeddings_total": 28987,
+    "embeddings_total": 28988,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 439
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 125,
     "ES": 85,
+    "FR": 124,
+    "OTHER": 154,
     "DE": 71,
-    "OTHER": 153,
-    "MULTI": 2,
+    "BE": 1,
     "IT": 2,
-    "BE": 1
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -431,6 +431,23 @@
       "username": "lalsacefr",
       "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
+      "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705438235085901078",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705438235085901078",
+      "published_at": "2026-11-07T14:35:30+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
       "country_method": "rules",
@@ -7471,23 +7488,6 @@
       "published_at": "2026-11-06T17:23:06+00:00",
       "description": "no vull plorar, pero…. ❤️‍🩹 #lafumiga #valencia #català #catalunya #paisvalencià",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705109550604586262",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705109550604586262",
-      "published_at": "2026-11-06T17:20:01+00:00",
-      "description": "Avec un extincteur, une personne a aspergé à bout portant le proviseur adjoint du lycée Henri Poincaré à Nancy ce vendredi. L'agression a été filmée et circule sur les réseaux sociaux. Une plainte a été déposée aussi bien par l'adjoint que par le proviseur du lycée nancéien. Les agressions se multiplient devant les lycées et les personnels de l’Éducation nationale sont clairement menacés sur les réseaux sociaux… La police évoque un climat de haine. #sinformersurtiktok #mobilisationlyceenne #agression #extincteur",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

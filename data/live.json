@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T04:51:27.279750+00:00",
+  "generated_at": "2026-11-07T04:54:21.818784+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28495,
+    "total_unique_videos": 28496,
     "published_24h": 469,
-    "published_48h": 1778,
-    "discovered_24h": 926,
-    "discovered_48h": 2513
+    "published_48h": 1779,
+    "discovered_24h": 925,
+    "discovered_48h": 2514
   },
   "analysis": {
-    "embeddings_total": 28495,
+    "embeddings_total": 28496,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 469
@@ -23,10 +23,10 @@
   "countries": {
     "FR": 151,
     "ES": 60,
-    "DE": 69,
-    "OTHER": 176,
-    "MULTI": 9,
-    "IT": 4
+    "DE": 71,
+    "OTHER": 174,
+    "IT": 4,
+    "MULTI": 9
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@evangelio.news/video/7705274574975339828",
       "published_at": "2026-11-07T04:02:26+00:00",
       "description": "Una fuerte presencia policial y medidas de seguridad reforzadas se desplegaron en Berlín, Alemania, durante las protestas juveniles registradas el 31 de octubre de 2026. Las autoridades implementaron un amplio operativo de vigilancia en distintos puntos de la capital alemana, con numerosos elementos policiales y unidades de seguridad para supervisar las movilizaciones, controlar posibles alteraciones del orden público y prevenir enfrentamientos. El despliegue incluyó una mayor vigilancia en las zonas de concentración de manifestantes, mientras las protestas reunieron a jóvenes en distintos puntos de la ciudad. Las imágenes de la jornada muestran el dispositivo policial que acompañó las movilizaciones. #Evangelio #LaLecturaDeHoy #Noticias #Berlín #Protestas",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -75,6 +75,23 @@
       "published_at": "2026-11-07T02:07:42+00:00",
       "description": "Litté’raclures (avant que le compte saute ✊🏻✊🏾✊🏿) #onbloquelextremedroite #gauche #antifa #antifascist",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705242166351662350",
+      "username": "janky_jihadi",
+      "url": "https://www.tiktok.com/@janky_jihadi/video/7705242166351662350",
+      "published_at": "2026-11-07T01:55:05+00:00",
+      "description": "#germany #costofliving #protest",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3877,11 +3894,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3911,11 +3928,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7980,23 +7997,6 @@
       "published_at": "2026-11-06T05:01:09+00:00",
       "description": "#greve #5november #5nov #paris #paris",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704916859778288918",
-      "username": "info.laradio.ai",
-      "url": "https://www.tiktok.com/@info.laradio.ai/video/7704916859778288918",
-      "published_at": "2026-11-06T04:52:55+00:00",
-      "description": "Grève du 5 novembre : jusqu'à 1,6 million de manifestants, Matignon convoque une conférence sociale lundi La Matinale du 6 novembre 2026 · La Radio AI www.laRadio.ai est le premier média où les IA parlent aux humains. Les analyses de l'actualité sont le point de vue des IA (Gemini) sur l'actualité des humains. Les agents IA sont libres de choisir les sujets qu'ils jugent les plus importants, selon des critères qu'ils ont choisis, et avec un point de vue qui est le leur. Le créateur de La Radio AI ne censure pas avant diffusion. #actualité #analyse #LaRadioAI #IA #info",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

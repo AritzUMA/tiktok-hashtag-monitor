@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T15:52:30.192709+00:00",
+  "generated_at": "2026-11-07T15:56:28.960569+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28904,
-    "published_24h": 428,
-    "published_48h": 1302,
-    "discovered_24h": 924,
-    "discovered_48h": 2167
+    "total_unique_videos": 28907,
+    "published_24h": 427,
+    "published_48h": 1296,
+    "discovered_24h": 925,
+    "discovered_48h": 2161
   },
   "analysis": {
-    "embeddings_total": 28904,
+    "embeddings_total": 28907,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 428
+    "qwen_pending_24h": 427
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 151,
-    "DE": 73,
+    "OTHER": 149,
     "FR": 117,
     "ES": 82,
-    "IT": 3,
-    "MULTI": 2
+    "DE": 74,
+    "MULTI": 2,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -805,7 +805,7 @@
       "url": "https://www.tiktok.com/@behrang.iran.doost/video/7705399498717105441",
       "published_at": "2026-11-07T12:05:30+00:00",
       "description": "Der größten Demonstrationen der Welt wird heute in Frankfurt stattfinden. Die Straßen werden hinterher sauberer sein als vorher und wir zeigen euch. Wir Iraner werden euch zeigen wie 5000 Jahre Kultur aussieht. Ihr werdet Zeuge einer der größten Rückkehr von Europa von der ganzen welt enden Iran zurück, und wenn man nicht den extremen Easthamismus ein Riegel vorsetzt, dann werden sehr viel Leid in Europa gewonnen",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7283,23 +7283,6 @@
       "published_at": "2026-11-06T15:56:58+00:00",
       "description": "Nach einer Woche mit Demonstrationen in vielen deutschen Städten bleiben neben friedlichen Protesten auch Bilder von Randalen in Erinnerung. Gianni Matheja ist 21 Jahre alt, studiert in Berlin und war Sprecher von „Gen Z regelt“. Vor dem großen Protestwochenende räumte er den Posten, weil er den friedlichen Rahmen nicht mehr abgesichert sah. Eine Woche später kritisiert der 21-Jährige die entstandene Debatte als zu undifferenziert. Er verurteile Gewalt gegen Menschen und Sachen scharf, trenne aber zwischen beiden: „Ich würde immer zwischen friedlich und friedfertig unterscheiden.“ Im Dialog mit Ronen Steinke macht Matheja klar, worauf sich die Forderungen der jungen Bewegung konkret stützen. Er kenne Studenten, die mit einem Föhn unter der Decke heizen, weil sie ihre Heizungen nicht anmachen wollen. Das sei die Lebensrealität von Studenten in Deutschland. Er fragt sich: Hat die Politik daran in den letzten Jahren irgendwas geändert? Die neue Folge des Podcasts von Ronen Steinke könnt ihr jetzt kostenfrei hören! Auf SZ.de, Spotify und überall sonst, wo es Podcasts gibt.   Redaktion: Annabell Burkhardt Host: Ronen Steinke Schnitt: Jerrit Schloßer",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705087677158296834",
-      "username": "lequipe",
-      "url": "https://www.tiktok.com/@lequipe/video/7705087677158296834",
-      "published_at": "2026-11-06T15:55:04+00:00",
-      "description": "Thomas Tuchel est revenu sur son choix de ne pas retenir Cole Palmer pour le prochain rassemblement de l'Angleterre",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T19:23:03.230044+00:00",
+  "generated_at": "2026-11-07T19:26:40.482972+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29122,
-    "published_24h": 446,
-    "published_48h": 1124,
-    "discovered_24h": 995,
-    "discovered_48h": 2070
+    "total_unique_videos": 29124,
+    "published_24h": 445,
+    "published_48h": 1125,
+    "discovered_24h": 996,
+    "discovered_48h": 2062
   },
   "analysis": {
-    "embeddings_total": 29122,
+    "embeddings_total": 29124,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 446
+    "qwen_pending_24h": 445
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "ES": 90,
     "FR": 121,
-    "ES": 91,
     "OTHER": 155,
     "DE": 75,
+    "IT": 2,
     "BE": 1,
-    "MULTI": 1,
-    "IT": 2
+    "MULTI": 1
   },
   "links": {
     "qr_videos": 0,
@@ -1400,7 +1400,7 @@
       "username": "yvesfta67",
       "url": "https://www.tiktok.com/@yvesfta67/video/7705435288759242016",
       "published_at": "2026-11-07T14:24:23+00:00",
-      "description": "#Strasbourg  Départ de la manifestation Place de la Bourse. Actuellement sur les Quais des Bateliers  #manifestation #5novembre #france",
+      "description": "#Strasbourg  Départ de la manifestation aux alentours de 15h à partir de la Place du Maréchal de Lattre de Tassigny. Actuellement sur les Quais des Bateliers.  #manifestation #5novembre #france",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -3300,6 +3300,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705379653329980705",
+      "username": "jpierre.mercier",
+      "url": "https://www.tiktok.com/@jpierre.mercier/video/7705379653329980705",
+      "published_at": "2026-11-07T10:48:38+00:00",
+      "description": "#bfmtv #greve #manifestation #5novembre #lutteouvriere",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705379016601046294",
       "username": "lili80lili",
       "url": "https://www.tiktok.com/@lili80lili/video/7705379016601046294",
@@ -4065,6 +4082,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705063296075975958",
+      "username": "booska_p",
+      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705237536947375382",
       "username": "actufranceexpress",
       "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
@@ -4088,23 +4122,6 @@
       "published_at": "2026-11-07T09:00:00+00:00",
       "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705063296075975958",
-      "username": "booska_p",
-      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7573,40 +7590,6 @@
       "published_at": "2026-11-06T19:27:02+00:00",
       "description": "🇪🇸 | España | La gente esperando a entrar al mitin de Pedro Sánchez, de Valencia...😏",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705141525495172384",
-      "username": "elespanolcom",
-      "url": "https://www.tiktok.com/@elespanolcom/video/7705141525495172384",
-      "published_at": "2026-11-06T19:24:25+00:00",
-      "description": "‼️ Diana Morant agradece la labor de Óscar Puente en política en un mitin del PSOE en Valencia: \"Gracias por la dignidad que has demostrado\" 📲 Sigue la última hora en EL ESPAÑOL #dianamorant #oscarpuente #sanchez #psoe #valencia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705141448177569057",
-      "username": "whoxver",
-      "url": "https://www.tiktok.com/@whoxver/video/7705141448177569057",
-      "published_at": "2026-11-06T19:24:07+00:00",
-      "description": "AH",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

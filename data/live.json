@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T01:47:53.909449+00:00",
+  "generated_at": "2026-11-07T01:50:23.326248+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28383,
-    "published_24h": 436,
-    "published_48h": 1748,
+    "total_unique_videos": 28384,
+    "published_24h": 437,
+    "published_48h": 1747,
     "discovered_24h": 950,
-    "discovered_48h": 2497
+    "discovered_48h": 2493
   },
   "analysis": {
-    "embeddings_total": 28383,
+    "embeddings_total": 28384,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 436
+    "qwen_pending_24h": 437
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 146,
-    "DE": 63,
-    "OTHER": 166,
-    "IT": 3,
+    "OTHER": 165,
     "ES": 50,
-    "MULTI": 8
+    "FR": 147,
+    "MULTI": 8,
+    "DE": 64,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -312,7 +312,7 @@
       "url": "https://www.tiktok.com/@patriotismebonsens58/video/7705171388096679190",
       "published_at": "2026-11-06T21:20:20+00:00",
       "description": "#cnews#jordanbardella#rassemblementnational#france#francais",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -499,7 +499,7 @@
       "url": "https://www.tiktok.com/@hexagora/video/7705163617737493792",
       "published_at": "2026-11-06T20:50:09+00:00",
       "description": "Ce jeudi 5 novembre, un bus a été réquisitionnée par la police pour emmener des jeunes manifestants majoritairement mineurs au commissariat #manifestation #repression #genz #17octobre #5novembre",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2211,6 +2211,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7704991708076936480",
+      "username": "sous.la.peinture",
+      "url": "https://www.tiktok.com/@sous.la.peinture/video/7704991708076936480",
+      "published_at": "2026-11-06T16:30:00+00:00",
+      "description": "#berlin #mur #manifestation #1989 #photographie",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705096407811640609",
       "username": "anastasiia22_",
       "url": "https://www.tiktok.com/@anastasiia22_/video/7705096407811640609",
@@ -2772,12 +2789,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705059394047905047",
-      "username": "20minutesfrance",
-      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
+      "video_id": "7704999465282768150",
+      "username": "klassenbildung",
+      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
-      "country": "FR",
+      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2789,12 +2806,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704999465282768150",
-      "username": "klassenbildung",
-      "url": "https://www.tiktok.com/@klassenbildung/video/7704999465282768150",
+      "video_id": "7705059394047905047",
+      "username": "20minutesfrance",
+      "url": "https://www.tiktok.com/@20minutesfrance/video/7705059394047905047",
       "published_at": "2026-11-06T15:00:00+00:00",
-      "description": "Über 120.000 Menschen waren am 31.10. in ganz Deutschland auf der Straße. Sie haben unter dem Label „GenZ regelt das“, inspiriert von den seit Monaten anhaltenden Protesten in Frankreich, unter anderem gegen explodierende Preise, Militarisierung, ein kaputtes Bildungssystem und die Wehrpflicht demonstriert. GenZ regelt ist zunächst eine spontane Bewegung. Sie ist aufgrund von Wut, Unzufriedenheit, und Perspektivlosigkeit entstanden. Sie ist ideologisch umkämpft, und hat dementsprechend auch keine klare inhaltliche Linie. Rechtsoffene Haltungen existieren unter ihren Teilnehmer:innen genauso wie sozialistische Standpunkte. Ohne die Beteiligung von Kommunist:innen wird sie auch zwangsläufig darauf beschränkt bleiben, und eine bürgerliche Führung wird sich durchsetzen. Das schauen wir uns in diesem Video genauer an! Das Video basiert auf unserem letzten Positions-Text, es empfiehlt sich auch den kompletten Text zu lesen, ihr findet ihn auf unserer Website über den Link in der Bio. #GenZRegelt #GenZProtest #Jugendproteste #Klassenbildung",
-      "country": "MULTI",
+      "description": "Jeudi 5 novembre, 400 musiciens de l'orchestre du Nouveau Monde ont investi la place de la République pour y interpréter les hymnes du mouvement lycéen, remixés en version symphonique. Nous avons rencontré certains participants de ce rassemblement musical. #protest #musique #orchestre #paris",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3112,11 +3129,28 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058027040230688",
+      "username": "poinglevetls",
+      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3146,28 +3180,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058027040230688",
-      "username": "poinglevetls",
-      "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔴 Augustin, travailleur dans l'aéro et membre de l'interpro du Mirail : « il faut construire la grève générale reconductible » « Il faut que des secteurs comme le vôtre, qui sont stratégiques et qui ont la capacité de bloquer l'économie, rentrent dans la lutte massivement, en ce sens on était devant les sites d'airbus et les technicentres ces derniers jours pour aller chercher les travailleurs et qu'on construise une grève générale reconductible qui nous permette de gagner, d'arracher nos revendications et de faire plier Macron » - 📢 Augustin, membre de l'interpro du Mirail, sur le piquet de la SNCF à Matabiau à Toulouse ce jeudi 5 novembre.",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

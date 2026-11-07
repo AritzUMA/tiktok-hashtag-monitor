@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T08:39:04.294412+00:00",
+  "generated_at": "2026-11-07T08:41:58.628195+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 28613,
-    "published_24h": 465,
-    "published_48h": 1718,
-    "discovered_24h": 929,
-    "discovered_48h": 2408
+    "published_24h": 464,
+    "published_48h": 1715,
+    "discovered_24h": 927,
+    "discovered_48h": 2399
   },
   "analysis": {
     "embeddings_total": 28613,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 465
+    "qwen_pending_24h": 464
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "IT": 3,
-    "DE": 69,
-    "OTHER": 180,
-    "FR": 138,
+    "OTHER": 178,
     "ES": 69,
-    "MULTI": 6
+    "FR": 140,
+    "DE": 68,
+    "MULTI": 6,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -482,7 +482,7 @@
       "url": "https://www.tiktok.com/@pamphletz/video/7705249413085531399",
       "published_at": "2026-11-07T02:23:02+00:00",
       "description": "🚨🇫🇷 ARCHIVE — Sophie Binet; France's CGT leader speaks about cuts to public services and workers' demands. BFM, national strike · September 29, 2026.",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3168,7 +3168,7 @@
       "url": "https://www.tiktok.com/@france3nouvelleaquitaine/video/7705120793931287841",
       "published_at": "2026-11-06T18:03:28+00:00",
       "description": "🤝 Étonnamment, CGT et MEDEF sont sur la même longueur d’onde ! Syndicats et patronat s’accordent sur un point : il n’est plus possible de faire attendre les salariés face à la baisse du pouvoir d’achat. Si les solutions divergent, tous réclament désormais des réponses concrètes et un véritable dialogue social. 📱💻 L'émission \"Dimanche en politique Aquitaine \" est à retrouver sur france.tv #PouvoirDAchat #CGT #MEDEF #Salaires #DialogueSocial #NouvelleAquitaine",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4948,23 +4948,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
-      "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705058027040230688",
       "username": "poinglevetls",
       "url": "https://www.tiktok.com/@poinglevetls/video/7705058027040230688",
@@ -4982,11 +4965,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4999,11 +4982,28 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "published_at": "2026-11-06T14:00:04+00:00",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7912,23 +7912,6 @@
       "published_at": "2026-11-06T08:44:21+00:00",
       "description": "Il 20 novembre scendi in piazza e fai sentire la tua voce, urla, parla, canta, è il momento di far sentire la propria rabbia, è il momento di cambiare tutto! #scuola #sciopero #20novembre",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7704975221052263713",
-      "username": "uwe.knoch7",
-      "url": "https://www.tiktok.com/@uwe.knoch7/video/7704975221052263713",
-      "published_at": "2026-11-06T08:39:12+00:00",
-      "description": "🕯️ „WIR BRAUCHEN MEHR POLITIKER WIE HUBERT AIWANGER!“ Deutliche Worte von WELT-Mitarbeiter Ulf Poschardt über Hubert Aiwanger. „Er war so unopportunistisch, immer ganz bei sich selbst“, sagt Poschardt. Während man in Berlin viele Politiker kaum noch voneinander unterscheiden könne, sei Aiwanger seiner Ansicht nach deutlich anders gewesen. Poschardt wünscht sich deshalb mehr Persönlichkeiten wie ihn in der deutschen Politik. Seine Worte werfen eine interessante Frage auf: Braucht Deutschland mehr Politiker, die unabhängig von Erwartungen ihren eigenen Weg gehen, auch wenn sie damit anecken? Wie seht ihr das? #HubertAiwanger #UlfPoschardt #Politik #Deutschland #FreieWähler",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

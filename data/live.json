@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T15:18:52.688169+00:00",
+  "generated_at": "2026-11-07T15:21:51.875267+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28874,
+    "total_unique_videos": 28875,
     "published_24h": 419,
-    "published_48h": 1327,
-    "discovered_24h": 920,
-    "discovered_48h": 2185
+    "published_48h": 1325,
+    "discovered_24h": 919,
+    "discovered_48h": 2177
   },
   "analysis": {
-    "embeddings_total": 28874,
+    "embeddings_total": 28875,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 419
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "ES": 82,
+    "DE": 68,
     "FR": 110,
     "OTHER": 151,
-    "DE": 68,
-    "MULTI": 5,
-    "ES": 82,
-    "IT": 3
+    "IT": 3,
+    "MULTI": 5
   },
   "links": {
     "qr_videos": 0,
@@ -176,6 +176,23 @@
       "url": "https://www.tiktok.com/@inf_larochelle/video/7705421119385357601",
       "published_at": "2026-11-07T13:29:26+00:00",
       "description": "Quelques centaines de personnes commencent à se rassembler ce samedi 7 novembre devant la gare de La Rochelle contre la vie chère, pour le quatrième acte de la mobilisation",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705420476289453344",
+      "username": "1izzzy11",
+      "url": "https://www.tiktok.com/@1izzzy11/video/7705420476289453344",
+      "published_at": "2026-11-07T13:26:57+00:00",
+      "description": "What’s going on here..!! #germany #berlin #protest #mallofberlin",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1514,11 +1531,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1531,11 +1548,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -7130,23 +7147,6 @@
       "published_at": "2026-11-06T15:22:02+00:00",
       "description": "Il 5 novembre la Francia è stata attraversata da una giornata di sciopero nazionale e manifestazioni contro il carovita, per chiedere aumenti salariali, maggiori investimenti nell’istruzione e il rafforzamento dei servizi pubblici. A Marsiglia, circa 350 musicisti, professionisti e amatoriali, hanno aperto il corteo sulle note di “Bella ciao”. A promuovere la mobilitazione musicale è stata l’Orchestre du Nouveau Monde, collettivo impegnato nelle battaglie per la giustizia sociale e climatica. Dopo che alcuni suoi musicisti erano stati raggiunti dai lacrimogeni durante il corteo di Parigi del 17 ottobre, il gruppo aveva lanciato un appello per creare orchestre di protesta in tutto il Paese. La proposta ha raccolto adesioni in 26 città francesi, dove la mobilitazione sindacale si è accompagnata a quella musicale. #esteri #marsiglia #bellaciao #francia",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705078932915162400",
-      "username": "demo_634",
-      "url": "https://www.tiktok.com/@demo_634/video/7705078932915162400",
-      "published_at": "2026-11-06T15:21:31+00:00",
-      "description": "Кога да я пускаме ? #Адреналин #demo_634",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

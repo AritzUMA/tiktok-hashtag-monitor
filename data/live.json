@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T15:01:46.169905+00:00",
+  "generated_at": "2026-11-07T15:05:13.953500+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 28856,
     "published_24h": 409,
-    "published_48h": 1333,
+    "published_48h": 1325,
     "discovered_24h": 911,
-    "discovered_48h": 2180
+    "discovered_48h": 2178
   },
   "analysis": {
-    "embeddings_total": 28854,
+    "embeddings_total": 28856,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 409
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "ES": 79,
+    "OTHER": 147,
     "FR": 106,
     "DE": 69,
-    "IT": 3,
-    "OTHER": 147,
-    "ES": 79,
-    "MULTI": 5
+    "MULTI": 5,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -1293,11 +1293,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1310,11 +1310,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

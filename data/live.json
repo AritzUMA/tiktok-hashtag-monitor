@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T15:38:46.972543+00:00",
+  "generated_at": "2026-11-07T15:41:29.743317+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28887,
-    "published_24h": 421,
+    "total_unique_videos": 28890,
+    "published_24h": 423,
     "published_48h": 1305,
-    "discovered_24h": 916,
-    "discovered_48h": 2163
+    "discovered_24h": 915,
+    "discovered_48h": 2166
   },
   "analysis": {
-    "embeddings_total": 28887,
+    "embeddings_total": 28888,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 421
+    "qwen_pending_24h": 423
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "OTHER": 152,
-    "ES": 81,
-    "DE": 71,
     "FR": 110,
-    "MULTI": 4,
-    "IT": 3
+    "ES": 81,
+    "DE": 73,
+    "IT": 3,
+    "MULTI": 4
   },
   "links": {
     "qr_videos": 0,
@@ -41,6 +41,23 @@
       "published_at": "2026-11-07T14:36:57+00:00",
       "description": "Les manifestants sont verbalisés à hauteur de 135 euros sur la place de la Concorde, les autorités ont interdit tout rassemblement sur la place, autorisant un parcours entre République et Nation à Paris.",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705435590996643094",
+      "username": "abc.es",
+      "url": "https://www.tiktok.com/@abc.es/video/7705435590996643094",
+      "published_at": "2026-11-07T14:25:34+00:00",
+      "description": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real» La presidenta madrileña anticipa en Valencia el final del sanchismo y reivindica a Feijóo como el encargado de «reiniciar España» tras el 29N #Ayuso #PSOE #PP #Campaña #Elecciones",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -142,7 +159,7 @@
       "url": "https://www.tiktok.com/@mainhattanfrankfurt/video/7705426756945071392",
       "published_at": "2026-11-07T13:51:17+00:00",
       "description": "Gen Z Demo Frankfurt #frankfurt #ffm #frankfurtammain #genz #frankfurtgermany",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -432,6 +449,23 @@
       "published_at": "2026-11-07T12:58:23+00:00",
       "description": "🔥🤯 ¡Locura en Valencia con la llegada del Madrid!  ✍️ Espí, Lunin, Huijsen, Courtois, Carreras, Brahim y Mbappé, el más aclamado, se pararon a firmar a los aficionados #ValenciaRealMadrid #LaLiga #deportesentiktok #tiktokfootballacademy #realmadrid",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705412338945510678",
+      "username": "toknews_de",
+      "url": "https://www.tiktok.com/@toknews_de/video/7705412338945510678",
+      "published_at": "2026-11-07T12:55:21+00:00",
+      "description": "Nachrichten zum 07.11.2026 #fy  #viral  #nachrichten  #news  #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

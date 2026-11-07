@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T20:11:03.357808+00:00",
+  "generated_at": "2026-11-07T20:14:20.834221+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29165,
-    "published_24h": 444,
-    "published_48h": 1102,
-    "discovered_24h": 1004,
-    "discovered_48h": 2051
+    "total_unique_videos": 29166,
+    "published_24h": 445,
+    "published_48h": 1101,
+    "discovered_24h": 1002,
+    "discovered_48h": 2050
   },
   "analysis": {
-    "embeddings_total": 29165,
+    "embeddings_total": 29166,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 444
+    "qwen_pending_24h": 445
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 89,
+    "FR": 122,
     "OTHER": 151,
     "DE": 79,
-    "FR": 121,
-    "MULTI": 1,
+    "ES": 89,
     "IT": 2,
-    "BE": 1
+    "BE": 1,
+    "MULTI": 1
   },
   "links": {
     "qr_videos": 0,
@@ -246,6 +246,23 @@
       "published_at": "2026-11-07T17:46:03+00:00",
       "description": "#parati #viral #valencia",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705483632802221343",
+      "username": "aljazeeraenglish",
+      "url": "https://www.tiktok.com/@aljazeeraenglish/video/7705483632802221343",
+      "published_at": "2026-11-07T17:32:11+00:00",
+      "description": "Around 500 people took part in a demonstration in Pau, France, as trade unions called for action against the rising cost of living and in support of high school students.",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -988,9 +1005,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -1005,9 +1022,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4473,12 +4490,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705063296075975958",
-      "username": "booska_p",
-      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
-      "country": "OTHER",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4507,12 +4524,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705063296075975958",
+      "username": "booska_p",
+      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
-      "country": "FR",
+      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

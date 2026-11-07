@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T17:29:14.330633+00:00",
+  "generated_at": "2026-11-07T17:31:53.438067+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28993,
+    "total_unique_videos": 28995,
     "published_24h": 438,
-    "published_48h": 1215,
-    "discovered_24h": 949,
-    "discovered_48h": 2115
+    "published_48h": 1210,
+    "discovered_24h": 948,
+    "discovered_48h": 2116
   },
   "analysis": {
-    "embeddings_total": 28993,
+    "embeddings_total": 28995,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 438
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 123,
-    "OTHER": 155,
     "DE": 71,
+    "OTHER": 156,
+    "FR": 122,
     "ES": 84,
-    "BE": 1,
+    "MULTI": 2,
     "IT": 2,
-    "MULTI": 2
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -2677,6 +2677,23 @@
       "published_at": "2026-11-07T09:44:24+00:00",
       "description": "🇩🇪 فرینکفرٹ میں ایرانی کمیونٹی کے بڑے مظاہرے! جرمنی کے شہر فرینکفرٹ میں رضا پہلوی کے حامیوں اور مخالفین کی الگ الگ ریلیاں، ایرانی کمیونٹی کی جانب سے احتجاجی مظاہرے۔ 🎥 رپورٹ: اظہر کیانی، فرینکفرٹ جرمنی 📺 PK49 News Germany #Frankfurt #IranProtest #RezaPahlavi #PK49NewsGermany #AzharKiani",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705362151916981537",
+      "username": "christianberardi_finanza",
+      "url": "https://www.tiktok.com/@christianberardi_finanza/video/7705362151916981537",
+      "published_at": "2026-11-07T09:40:37+00:00",
+      "description": "2.500 miliardi di dollari bruciati in una sola seduta. Giovedì 5 novembre Wall Street ha vissuto una delle sue giornate peggiori dall'aprile 2025: il Nasdaq ha perso il 5,5% ed è entrato in correzione, il Nasdaq 100 è arrivato a -6,4% e i semiconduttori hanno ceduto oltre il 12%. È scoppiata la bolla dell'intelligenza artificiale? Non è quello che dicono i numeri. Ecco come leggerla: 📉 Le correzioni sono normali. Il Nasdaq era già andato in correzione a marzo di quest'anno. Cali di questo tipo capitano mediamente almeno una volta l'anno e fanno parte del ciclo dei mercati. 🗳️ Il fattore politico. La vittoria dei Democratici alle elezioni di metà mandato ha riacceso i timori di una regolamentazione più severa sull'AI, in particolare sui data center. Questo potrebbe ridurre il ritorno degli enormi investimenti delle big tech. Ma la strada legislativa è ancora lunga e incerta. 🔍 Non è solo politica. Gli investitori si chiedono se i miliardi investiti in AI si trasformeranno in utili, e con quali tempi. Una correzione è anche il mercato che rifà i conti. 💡 La mia lettura. Il mercato non sta mettendo in dubbio che l'AI funzioni, ma quanto costi e quando renda. Una bolla scoppia quando la domanda sparisce, e qui il dubbio riguarda tempi e costi. Cosa può fare un investitore: ✅ Non decidere sull'onda dell'emotività ✅ Verificare quanto il portafoglio sia concentrato sulla tecnologia USA ✅ Tenere sempre presente il proprio orizzonte temporale: giorni come questi pesano molto diversamente su 10 anni o su 2 📩 Vuoi capire quanto è esposto il tuo portafoglio? Scrivimi in DM. Contenuto a scopo informativo e divulgativo. Non costituisce consulenza personalizzata né sollecitazione all'investimento. Le performance passate non sono indicative di quelle future. #ai #consulentefinanziario #investire #finanza #bolla",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7453,23 +7470,6 @@
       "url": "https://www.tiktok.com/@letribunaldunet/video/7705112815874346272",
       "published_at": "2026-11-06T17:32:40+00:00",
       "description": "À Strasbourg, plusieurs milliers de manifestants défilent dans une ambiance bon enfant lors de la mobilisation du 5 novembre !",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705112175530020129",
-      "username": "lemondefr",
-      "url": "https://www.tiktok.com/@lemondefr/video/7705112175530020129",
-      "published_at": "2026-11-06T17:30:01+00:00",
-      "description": "« L’Heure de la présidentielle ». Le Rassemblement national n’a jamais été aussi populaire en France. Est-ce le signe d’une fracture du front républicain ? Matthieu Goar, cochef du service Politique, apporte quelques éléments de réponse. #sinformersurtiktok",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

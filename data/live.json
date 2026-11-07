@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T20:05:34.619546+00:00",
+  "generated_at": "2026-11-07T20:08:39.598218+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29161,
-    "published_24h": 445,
-    "published_48h": 1105,
-    "discovered_24h": 1006,
-    "discovered_48h": 2048
+    "total_unique_videos": 29164,
+    "published_24h": 446,
+    "published_48h": 1106,
+    "discovered_24h": 1005,
+    "discovered_48h": 2051
   },
   "analysis": {
-    "embeddings_total": 29161,
+    "embeddings_total": 29164,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 445
+    "qwen_pending_24h": 446
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 120,
-    "OTHER": 152,
-    "ES": 90,
     "DE": 79,
-    "BE": 1,
+    "FR": 122,
+    "OTHER": 151,
+    "ES": 90,
+    "MULTI": 1,
     "IT": 2,
-    "MULTI": 1
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -41,6 +41,23 @@
       "url": "https://www.tiktok.com/@policenationale/video/7705499294823943457",
       "published_at": "2026-11-07T18:32:45+00:00",
       "description": "Partout en France, les policiers sont restés pleinement mobilisés à l’occasion de cette nouvelle journée de manifestation, afin d’assurer la sécurité de tous et le bon déroulement des rassemblements.",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705499046793743648",
+      "username": "fonkystyle60",
+      "url": "https://www.tiktok.com/@fonkystyle60/video/7705499046793743648",
+      "published_at": "2026-11-07T18:31:46+00:00",
+      "description": "La mobilisation s’est poursuivie dans plusieurs villes françaises pour dénoncer la vie chère, défendre le pouvoir d’achat et réclamer davantage de moyens pour la jeunesse et les services publics. À Paris, le cortège reliant la place de la République à celle de la Nation a rassemblé 46 000 personnes selon la préfecture de police. Les organisations de jeunesse avancent, elles, le chiffre de 75 000 participants dans la capitale. La journée est restée globalement calme à l’échelle nationale, selon le ministère de l’Intérieur. Des tensions ont toutefois été signalées à Paris, place de la Nation : des poubelles ont été incendiées et plusieurs tirs de grenades ont été entendus. La préfecture évoque un groupe d’environ 200 individus violents impliqués dans des affrontements avec les forces de l’ordre. À 16 h 45, la préfecture de police faisait état de 15 interpellations et de 5 813 contrôles à Paris et dans l’agglomération. À Lyon, environ 900 personnes réunies devant la Manufacture des tabacs ont été dispersées par les forces de l’ordre. À Clermont-Ferrand, près de 500 personnes ont également participé à un rassemblement. Une nouvelle journée de mobilisation qui confirme la persistance de la contestation sociale, malgré une participation en baisse par rapport aux précédents rassemblements. #Actu #News #Info #Manifestation #VieChere",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -70,11 +87,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705477897712340226",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
+      "video_id": "7705474350786399510",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
+      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -104,11 +121,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705474350786399510",
-      "username": "eldebate_com",
-      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
+      "video_id": "7705477897712340226",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
+      "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -478,12 +495,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704691760647130390",
-      "username": "timoclips_de",
-      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
+      "video_id": "7705432547945172246",
+      "username": "france3bretagne",
+      "url": "https://www.tiktok.com/@france3bretagne/video/7705432547945172246",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
-      "country": "DE",
+      "description": "Cette semaine a été marquée par une nouvelle mobilisation sociale.  Entre blocages des lycées et appels à la grève générale, la colère semble ne pas faiblir. Et la riposte politique s’organise avec notamment le projet de loi « casseurs payeurs ». Adopté au Sénat, le texte étend la responsabilité civile des manifestants présents lors de dégradations, qui pourraient devoir en assumer les coûts même sans les avoir commises.  Mesure de justice ou dérive liberticide ?  Face à la mobilisation de la rue, l’exécutif peut-il éteindre l’incendie ?  Quels sont les scénarios d'une sortie de crise ? 📲 L'émission Dimanche en politique est à retrouver sur france.tv et sur YouTube dès maintenant ! #manif#colere#blocus#bretagne",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -495,12 +512,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705432547945172246",
-      "username": "france3bretagne",
-      "url": "https://www.tiktok.com/@france3bretagne/video/7705432547945172246",
+      "video_id": "7704691760647130390",
+      "username": "timoclips_de",
+      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "Cette semaine a été marquée par une nouvelle mobilisation sociale.  Entre blocages des lycées et appels à la grève générale, la colère semble ne pas faiblir. Et la riposte politique s’organise avec notamment le projet de loi « casseurs payeurs ». Adopté au Sénat, le texte étend la responsabilité civile des manifestants présents lors de dégradations, qui pourraient devoir en assumer les coûts même sans les avoir commises.  Mesure de justice ou dérive liberticide ?  Face à la mobilisation de la rue, l’exécutif peut-il éteindre l’incendie ?  Quels sont les scénarios d'une sortie de crise ? 📲 L'émission Dimanche en politique est à retrouver sur france.tv et sur YouTube dès maintenant ! #manif#colere#blocus#bretagne",
-      "country": "FR",
+      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3113,6 +3130,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705398225364143393",
+      "username": "hgdjvnfei18",
+      "url": "https://www.tiktok.com/@hgdjvnfei18/video/7705398225364143393",
+      "published_at": "2026-11-07T12:00:07+00:00",
+      "description": "Des manifestations de colère auraient éclaté après le blocage de comptes bancaires appartenant à plusieurs millions de clients, selon les informations affichées dans la vidéo. Les images montrent un rassemblement de personnes dans la rue, avec des individus brandissant des pancartes et exprimant leur mécontentement face à une situation financière qui semble provoquer de fortes tensions. Si ces informations sont confirmées, le blocage de comptes à une telle échelle pourrait avoir des conséquences importantes sur les économies des particuliers, leurs paiements quotidiens et leur accès à leur argent. La capture ne permet toutefois pas de confirmer les banques concernées, le pays, les raisons de ces blocages ni l'exactitude du chiffre de 3 millions de comptes évoqué dans la vidéo. #actualite #France #info #banques #comptesbloqu es",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705397778930847009",
       "username": "info.gaucho",
       "url": "https://www.tiktok.com/@info.gaucho/video/7705397778930847009",
@@ -4456,11 +4490,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4473,11 +4507,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -7573,23 +7607,6 @@
       "published_at": "2026-11-06T20:08:40+00:00",
       "description": "En Valencia hay planazos 😂😂😂😂😂 #planesenvalencia #traveller #traveltok #viajesporespaña #trips",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705152802934279438",
-      "username": "cancelswindle",
-      "url": "https://www.tiktok.com/@cancelswindle/video/7705152802934279438",
-      "published_at": "2026-11-06T20:08:36+00:00",
-      "description": "#swindle #yapp",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

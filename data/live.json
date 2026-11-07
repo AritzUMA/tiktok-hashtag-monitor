@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T22:39:49.400019+00:00",
+  "generated_at": "2026-11-07T22:43:04.915954+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 29344,
-    "published_24h": 498,
-    "published_48h": 1089,
-    "discovered_24h": 1074,
-    "discovered_48h": 2049
+    "published_24h": 497,
+    "published_48h": 1088,
+    "discovered_24h": 1072,
+    "discovered_48h": 2046
   },
   "analysis": {
     "embeddings_total": 29344,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 498
+    "qwen_pending_24h": 497
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 166,
-    "FR": 133,
+    "FR": 134,
+    "IT": 2,
+    "ES": 102,
     "DE": 93,
-    "ES": 103,
-    "BE": 1,
-    "IT": 2
+    "OTHER": 165,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@nox77580/photo/7705557561713397025",
       "published_at": "2026-11-07T22:18:53+00:00",
       "description": "BLOCUS LE MARDI 10 NOVEMBRE A 8H15 DEVANT LA GRILLE POUR LA REPRISE DES BLOCUS VENEZ EN NOMBRES ET PARTAGER L INFO  #fyp #zyxbca #viral #blocus #pourtoi",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -953,9 +953,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500473184226582",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
+      "video_id": "7705500483879734550",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -970,9 +970,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500483879734550",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
+      "video_id": "7705500473184226582",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -1157,23 +1157,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705213243085638934",
-      "username": "udcgt82",
-      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705474350786399510",
       "username": "eldebate_com",
       "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
@@ -1197,6 +1180,23 @@
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705213243085638934",
+      "username": "udcgt82",
+      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2619,9 +2619,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -2636,9 +2636,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -6665,12 +6665,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705222482269146400",
-      "username": "cateconcerne",
-      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
+      "video_id": "7705231170191002902",
+      "username": "elokio8",
+      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
-      "country": "FR",
+      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6682,12 +6682,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705231170191002902",
-      "username": "elokio8",
-      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
+      "video_id": "7705222482269146400",
+      "username": "cateconcerne",
+      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
-      "country": "OTHER",
+      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8472,23 +8472,6 @@
       "url": "https://www.tiktok.com/@user1245891_/video/7705193136481504534",
       "published_at": "2026-11-06T22:44:47+00:00",
       "description": "#parati#valencia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705191982011878689",
-      "username": "leibmaark",
-      "url": "https://www.tiktok.com/@leibmaark/video/7705191982011878689",
-      "published_at": "2026-11-06T22:40:15+00:00",
-      "description": "LLAMANDO A TU EX📲🫣#leibmark #virall #valencia #parati #fyp",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T01:30:28.645177+00:00",
+  "generated_at": "2026-11-07T01:33:38.730392+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 28371,
-    "published_24h": 431,
-    "published_48h": 1741,
-    "discovered_24h": 951,
-    "discovered_48h": 2493
+    "total_unique_videos": 28375,
+    "published_24h": 434,
+    "published_48h": 1745,
+    "discovered_24h": 950,
+    "discovered_48h": 2494
   },
   "analysis": {
-    "embeddings_total": 28371,
+    "embeddings_total": 28374,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 431
+    "qwen_pending_24h": 434
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 166,
+    "ES": 50,
     "FR": 144,
     "DE": 63,
-    "OTHER": 163,
-    "ES": 50,
     "MULTI": 8,
     "IT": 3
   },
@@ -993,6 +993,23 @@
       "published_at": "2026-11-06T19:06:53+00:00",
       "description": "Welche Strafe für Krawalle? #genz  #demo  #frankfurtammain  #hamburg",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705136991771315489",
+      "username": "lejournaldeboudene",
+      "url": "https://www.tiktok.com/@lejournaldeboudene/video/7705136991771315489",
+      "published_at": "2026-11-06T19:06:51+00:00",
+      "description": "Les chiffres de la manifestation du 5 novembre à Toulouse. 80 000 manifestants selon les syndicats et 21 800 selon la préfecture. La préfecture annonce 30 interpellations et 19 blessés dont 18 policiers. Les secours volontaires 31 présents sur le terrain lors des manifestations ont publié un rapport recensant des manifestants blessés : 3 crises d'angoisse liées au gaz lacrymogène • 10 plaies, dermabrasions dont une épistaxis, douleur liées à des matraquages et charge des FDOs • 2 hématomes liés à la réception d'un palet de gaz lacrymogène et de LBD • Divers traumatismes cheville/pied, avant bras • 2 expositions à la gazeuse à main • Environ 250 décontaminations au gaz #toulouse #manifestation",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2313,6 +2330,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705091280451226902",
+      "username": "bfmtv",
+      "url": "https://www.tiktok.com/@bfmtv/video/7705091280451226902",
+      "published_at": "2026-11-06T16:09:29+00:00",
+      "description": "Une voiture a été brûlée jeudi 5 novembre à Lyon en marge de la manifestation. Il s'agissait de la voiture d'un SDF qui vit dans une tente juste à côté. Il a pu sauvé son passeport et son titre de séjour du véhicule mais a perdu tout le reste. #sansabri #lyon #manifestation",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705090800035646752",
       "username": "werratv2",
       "url": "https://www.tiktok.com/@werratv2/video/7705090800035646752",
@@ -2574,6 +2608,23 @@
       "published_at": "2026-11-06T15:22:02+00:00",
       "description": "Il 5 novembre la Francia è stata attraversata da una giornata di sciopero nazionale e manifestazioni contro il carovita, per chiedere aumenti salariali, maggiori investimenti nell’istruzione e il rafforzamento dei servizi pubblici. A Marsiglia, circa 350 musicisti, professionisti e amatoriali, hanno aperto il corteo sulle note di “Bella ciao”. A promuovere la mobilitazione musicale è stata l’Orchestre du Nouveau Monde, collettivo impegnato nelle battaglie per la giustizia sociale e climatica. Dopo che alcuni suoi musicisti erano stati raggiunti dai lacrimogeni durante il corteo di Parigi del 17 ottobre, il gruppo aveva lanciato un appello per creare orchestre di protesta in tutto il Paese. La proposta ha raccolto adesioni in 26 città francesi, dove la mobilitazione sindacale si è accompagnata a quella musicale. #esteri #marsiglia #bellaciao #francia",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705078932915162400",
+      "username": "demo_634",
+      "url": "https://www.tiktok.com/@demo_634/video/7705078932915162400",
+      "published_at": "2026-11-06T15:21:31+00:00",
+      "description": "Кога да я пускаме ? #Адреналин #demo_634",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2993,11 +3044,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058055632751905",
-      "username": "wiesbadenerkurier",
-      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
+      "video_id": "7705058044777975072",
+      "username": "echoonline",
+      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3027,11 +3078,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058049861422369",
-      "username": "mittelhessen.de",
-      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
+      "video_id": "7705058055632751905",
+      "username": "wiesbadenerkurier",
+      "url": "https://www.tiktok.com/@wiesbadenerkurier/video/7705058055632751905",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#frankfurt#krawalle#polizei#demos#wiesbadenerkurier",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3044,11 +3095,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705058044777975072",
-      "username": "echoonline",
-      "url": "https://www.tiktok.com/@echoonline/video/7705058044777975072",
+      "video_id": "7705058049861422369",
+      "username": "mittelhessen.de",
+      "url": "https://www.tiktok.com/@mittelhessen.de/video/7705058049861422369",
       "published_at": "2026-11-06T14:00:04+00:00",
-      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #genz#proteste#krawalle#demo#frankfurt",
+      "description": "🔥 🪧 🚨 Nach Krawallen bei den GenZ-Jugendprotesten wie in Frankfurt gibt es Kritik an den Veranstaltern und Überlegungen, weitere Demonstrationen nicht zuzulassen. Geht das überhaupt? #demo#proteste#genZ#frankfurt#krawalle",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

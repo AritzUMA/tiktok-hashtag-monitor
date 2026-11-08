@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T06:31:04.642980+00:00",
+  "generated_at": "2026-11-08T06:33:42.275599+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29787,
-    "published_24h": 708,
-    "published_48h": 1314,
-    "discovered_24h": 1236,
-    "discovered_48h": 2164
+    "total_unique_videos": 29790,
+    "published_24h": 710,
+    "published_48h": 1316,
+    "discovered_24h": 1237,
+    "discovered_48h": 2165
   },
   "analysis": {
-    "embeddings_total": 29787,
+    "embeddings_total": 29790,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 708
+    "qwen_pending_24h": 710
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 228,
     "ES": 213,
     "DE": 109,
     "FR": 154,
-    "OTHER": 226,
     "IT": 2,
     "MULTI": 3,
     "BE": 1
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705668742558010657",
+      "username": "cest_reel_est_enforce",
+      "url": "https://www.tiktok.com/@cest_reel_est_enforce/video/7705668742558010657",
+      "published_at": "2026-11-08T05:30:38+00:00",
+      "description": "bloque #raciste #facho #2026 #attentat #lepen",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705643510065597709",
       "username": "aurajunkieagain",
@@ -3062,11 +3079,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539257963760928",
-      "username": "claudia.abb4",
-      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
+      "video_id": "7705539179609869581",
+      "username": "addisyter1",
+      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "",
+      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3079,11 +3096,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539179609869581",
-      "username": "addisyter1",
-      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
+      "video_id": "7705539257963760928",
+      "username": "claudia.abb4",
+      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5306,23 +5323,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705270185741028630",
-      "username": "aprendiendoddtodo",
-      "url": "https://www.tiktok.com/@aprendiendoddtodo/video/7705270185741028630",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "¿Por qué Anakin Skywalker se ha convertido en el símbolo de la frustración de una parte de la Generación Z? Te cuento la historia y el ORIGEN DEL MEME de ANAKIN SKYWALKER GEN Z MALE RAGE, también conocido como Anakin Poasting, una tendencia que ha recuperado escenas de las precuelas de Star Wars para hablar de problemas económicos, relaciones, masculinidad, conflictos generacionales y desconfianza hacia las instituciones. #memes #viral #starwars #polemica",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705477897712340226",
       "username": "larazon.es",
       "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
@@ -5346,6 +5346,23 @@
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705270185741028630",
+      "username": "aprendiendoddtodo",
+      "url": "https://www.tiktok.com/@aprendiendoddtodo/video/7705270185741028630",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "¿Por qué Anakin Skywalker se ha convertido en el símbolo de la frustración de una parte de la Generación Z? Te cuento la historia y el ORIGEN DEL MEME de ANAKIN SKYWALKER GEN Z MALE RAGE, también conocido como Anakin Poasting, una tendencia que ha recuperado escenas de las precuelas de Star Wars para hablar de problemas económicos, relaciones, masculinidad, conflictos generacionales y desconfianza hacia las instituciones. #memes #viral #starwars #polemica",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6173,23 +6190,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704691760647130390",
-      "username": "timoclips_de",
-      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
-      "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705432547945172246",
       "username": "france3bretagne",
       "url": "https://www.tiktok.com/@france3bretagne/video/7705432547945172246",
@@ -6213,6 +6213,23 @@
       "published_at": "2026-11-07T17:00:00+00:00",
       "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7704691760647130390",
+      "username": "timoclips_de",
+      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
+      "published_at": "2026-11-07T17:00:00+00:00",
+      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7159,6 +7176,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705453020833713441",
+      "username": "heliacherry",
+      "url": "https://www.tiktok.com/@heliacherry/video/7705453020833713441",
+      "published_at": "2026-11-07T15:33:12+00:00",
+      "description": "Keine Drohung des islamischen Regimes bringt uns zum Schweigen! An der Seite von King Reza Pahlavi stehen wir vereint, furchtlos und entschlossen für einen freien Iran! 🦁☀️ #frankfurtiran #demofrankfurtiran #جاویدشاه_جاویدایران #kingrezapahlavi💚🦁❤️ #MurderRegime",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705452590951042336",
       "username": "revolutionpermanentepaca",
       "url": "https://www.tiktok.com/@revolutionpermanentepaca/video/7705452590951042336",
@@ -7856,9 +7890,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438336357240086",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
+      "video_id": "7705438324894207254",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -7873,9 +7907,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438324894207254",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
+      "video_id": "7705438336357240086",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -10661,12 +10695,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705371542904982817",
-      "username": "user665363998911",
-      "url": "https://www.tiktok.com/@user665363998911/video/7705371542904982817",
+      "video_id": "7705371543068593440",
+      "username": "lepourquoiste",
+      "url": "https://www.tiktok.com/@lepourquoiste/video/7705371543068593440",
       "published_at": "2026-11-07T10:17:01+00:00",
-      "description": "Es geht los: Raketenangriffe auf Berlin. #alexanderschreiner #Politik #News",
-      "country": "DE",
+      "description": "Krach de l'IA en Bourse : où sont passés les 2 000 milliards de dollars partis en fumée ? Jeudi 5 novembre, les actions de l'IA ont chuté : plus de 2 000 milliards de dollars de valeur effacés en une journée (2 300 milliards pour le Nasdaq 100, selon NBC News). Pourtant, presque aucune action n'a été vendue : chez Nvidia, à peine plus d'une sur cent a changé de main. En Bourse, une entreprise vaut le prix de la dernière action vendue, multiplié par toutes ses actions. Nvidia a perdu 9 %, environ 450 milliards de dollars de valeur, alors que près de 60 milliards seulement ont vraiment été échangés. Vendredi, l'action est remontée : environ 120 milliards sont revenus. Sources : NBC News (5/11/2026) ; cours et volumes de stockanalysis.com et rapport de Nvidia à la SEC (nos calculs) ; OQLF et TradingView (capitalisation boursière). Schéma 3D, exemple simplifié. Pas un conseil d'investissement. Toi, tu dirais que ces 2 000 milliards existaient vraiment ? Oui ou non 👇 #bourse #nvidia #argent #economie #lesavaistu",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -10678,12 +10712,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705371543068593440",
-      "username": "lepourquoiste",
-      "url": "https://www.tiktok.com/@lepourquoiste/video/7705371543068593440",
+      "video_id": "7705371542904982817",
+      "username": "user665363998911",
+      "url": "https://www.tiktok.com/@user665363998911/video/7705371542904982817",
       "published_at": "2026-11-07T10:17:01+00:00",
-      "description": "Krach de l'IA en Bourse : où sont passés les 2 000 milliards de dollars partis en fumée ? Jeudi 5 novembre, les actions de l'IA ont chuté : plus de 2 000 milliards de dollars de valeur effacés en une journée (2 300 milliards pour le Nasdaq 100, selon NBC News). Pourtant, presque aucune action n'a été vendue : chez Nvidia, à peine plus d'une sur cent a changé de main. En Bourse, une entreprise vaut le prix de la dernière action vendue, multiplié par toutes ses actions. Nvidia a perdu 9 %, environ 450 milliards de dollars de valeur, alors que près de 60 milliards seulement ont vraiment été échangés. Vendredi, l'action est remontée : environ 120 milliards sont revenus. Sources : NBC News (5/11/2026) ; cours et volumes de stockanalysis.com et rapport de Nvidia à la SEC (nos calculs) ; OQLF et TradingView (capitalisation boursière). Schéma 3D, exemple simplifié. Pas un conseil d'investissement. Toi, tu dirais que ces 2 000 milliards existaient vraiment ? Oui ou non 👇 #bourse #nvidia #argent #economie #lesavaistu",
-      "country": "OTHER",
+      "description": "Es geht los: Raketenangriffe auf Berlin. #alexanderschreiner #Politik #News",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -11154,11 +11188,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -11188,11 +11222,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

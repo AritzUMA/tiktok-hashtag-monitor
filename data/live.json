@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T00:53:36.098008+00:00",
+  "generated_at": "2026-11-08T00:56:50.461913+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29504,
-    "published_24h": 577,
+    "total_unique_videos": 29505,
+    "published_24h": 578,
     "published_48h": 1169,
-    "discovered_24h": 1151,
-    "discovered_48h": 2108
+    "discovered_24h": 1149,
+    "discovered_48h": 2107
   },
   "analysis": {
-    "embeddings_total": 29504,
+    "embeddings_total": 29505,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 577
+    "qwen_pending_24h": 578
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "DE": 105,
-    "OTHER": 186,
-    "ES": 140,
     "FR": 142,
-    "BE": 1,
+    "DE": 105,
+    "OTHER": 187,
+    "ES": 140,
     "MULTI": 1,
-    "IT": 2
+    "IT": 2,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -110,6 +110,23 @@
       "published_at": "2026-11-07T23:04:37+00:00",
       "description": "👀💥 ¡El mensaje de Roncero a Maffeo tras el Valencia - Real Madrid! #realmadrid #valencia #maffeo #futbol #deportesentiktok",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705568335257242913",
+      "username": "nedahamzehpour",
+      "url": "https://www.tiktok.com/@nedahamzehpour/video/7705568335257242913",
+      "published_at": "2026-11-07T23:00:43+00:00",
+      "description": "#Frankfurt#Germany#demo#freeiran🙏",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1107,11 +1124,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539257963760928",
-      "username": "claudia.abb4",
-      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
+      "video_id": "7705539179609869581",
+      "username": "addisyter1",
+      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "",
+      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1124,11 +1141,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539179609869581",
-      "username": "addisyter1",
-      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
+      "video_id": "7705539257963760928",
+      "username": "claudia.abb4",
+      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2484,9 +2501,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500483879734550",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
+      "video_id": "7705500473184226582",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -2501,9 +2518,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500473184226582",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
+      "video_id": "7705500483879734550",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -2756,6 +2773,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705474350786399510",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705213243085638934",
       "username": "udcgt82",
       "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
@@ -2778,23 +2812,6 @@
       "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705474350786399510",
-      "username": "eldebate_com",
-      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -3589,12 +3606,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705017008760294678",
-      "username": "ozyo.fr",
-      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
+      "video_id": "7704691760647130390",
+      "username": "timoclips_de",
+      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
-      "country": "FR",
+      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3623,12 +3640,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704691760647130390",
-      "username": "timoclips_de",
-      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
+      "video_id": "7705017008760294678",
+      "username": "ozyo.fr",
+      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
-      "country": "DE",
+      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5119,9 +5136,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438336357240086",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
+      "video_id": "7705438324894207254",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -5136,9 +5153,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438324894207254",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
+      "video_id": "7705438336357240086",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",

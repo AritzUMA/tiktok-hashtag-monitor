@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T18:40:49.634895+00:00",
+  "generated_at": "2026-11-08T18:43:45.099180+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30291,
-    "published_24h": 562,
+    "total_unique_videos": 30293,
+    "published_24h": 563,
     "published_48h": 1213,
-    "discovered_24h": 1207,
-    "discovered_48h": 2199
+    "discovered_24h": 1208,
+    "discovered_48h": 2200
   },
   "analysis": {
-    "embeddings_total": 30291,
+    "embeddings_total": 30293,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 562
+    "qwen_pending_24h": 563
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "ES": 225,
-    "OTHER": 175,
-    "FR": 65,
+    "OTHER": 177,
     "DE": 91,
-    "IT": 2,
-    "MULTI": 4
+    "FR": 64,
+    "MULTI": 4,
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -210,6 +210,23 @@
       "url": "https://www.tiktok.com/@dayana.mariie/video/7705837158015290656",
       "published_at": "2026-11-08T16:23:52+00:00",
       "description": "Bloquez les médias corrompus, les politiques de droites/extrêmes droite et puis abonnez les à des comptes qui debunk et qui informe réellement sur leur téléphones !  #media #jlm2027 #manifestation",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705836634217925920",
+      "username": "info.gaucho",
+      "url": "https://www.tiktok.com/@info.gaucho/video/7705836634217925920",
+      "published_at": "2026-11-08T16:21:51+00:00",
+      "description": "Face au rassemblement réactionnaire du maire  d'Orléans ce vendredi 6 novembre, cette citoyenne s'est mobilisée pour lui rappeler qu'elle ne laissera pas trabquille les discours racistes et criminalisant, alors même que Serge Grouard fait la courte échelle au RN. #orleans #grouard #politique #manifestation #pourtoi",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2217,6 +2234,23 @@
       "published_at": "2026-11-08T10:37:00+00:00",
       "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705747686862966049",
+      "username": "lavinia_desio",
+      "url": "https://www.tiktok.com/@lavinia_desio/video/7705747686862966049",
+      "published_at": "2026-11-08T10:36:39+00:00",
+      "description": "#halloween #correre #amiche@𝘀𝗽𝗮𝗺 𝗮𝘀𝗶𝗮🌟 @Isabel",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9561,23 +9595,6 @@
       "published_at": "2026-11-07T18:48:18+00:00",
       "description": "Pronti ad abbassare gli scudi, a togliere caschi e divise. E a scendere in piazza. Questa volta non per fronteggiare o contenere chi manifesta contro il caro vita, ma per rivendicare il loro diritto ad una pensione dignitosa. «Saremo in piazza sicuramente per lo sciopero generale del 20 novembre», annuncia Pietro Colapietro, segretario generale del Silp Cigil. L’articolo di Alessandra Ziniti su Repubblica #rep",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705501583265500448",
-      "username": "rnational_off",
-      "url": "https://www.tiktok.com/@rnational_off/video/7705501583265500448",
-      "published_at": "2026-11-07T18:41:37+00:00",
-      "description": "🇫🇷 La jeunesse de France est très nombreuse ce soir à La Seyne-sur-Mer !  Engagez-vous, mobilisez-vous : en 2027, on gagne !",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

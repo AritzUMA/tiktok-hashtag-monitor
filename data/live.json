@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T00:28:02.652268+00:00",
+  "generated_at": "2026-11-08T00:31:07.654354+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29478,
-    "published_24h": 565,
-    "published_48h": 1154,
-    "discovered_24h": 1134,
-    "discovered_48h": 2098
+    "total_unique_videos": 29481,
+    "published_24h": 566,
+    "published_48h": 1155,
+    "discovered_24h": 1130,
+    "discovered_48h": 2100
   },
   "analysis": {
-    "embeddings_total": 29478,
+    "embeddings_total": 29481,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 565
+    "qwen_pending_24h": 566
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 133,
-    "FR": 142,
-    "OTHER": 183,
     "DE": 103,
-    "MULTI": 1,
+    "FR": 142,
+    "ES": 133,
+    "OTHER": 184,
+    "IT": 2,
     "BE": 1,
-    "IT": 2
+    "MULTI": 1
   },
   "links": {
     "qr_videos": 0,
@@ -263,6 +263,23 @@
       "published_at": "2026-11-07T22:24:36+00:00",
       "description": "😍🥰 ¡El saludo de Espí con sus abuelas en la grada de Mestalla tras el Valencia - Real Madrid! #espi #realmadrid #laliga #futbol #deportesentiktok",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705559007418682646",
+      "username": "benzothe1st",
+      "url": "https://www.tiktok.com/@benzothe1st/video/7705559007418682646",
+      "published_at": "2026-11-07T22:24:28+00:00",
+      "description": "POV: Pastors who try keep up with the times Be Like… #fyp #viral #pastor #church #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -937,11 +954,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539257963760928",
-      "username": "claudia.abb4",
-      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
+      "video_id": "7705539179609869581",
+      "username": "addisyter1",
+      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "",
+      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -954,11 +971,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539179609869581",
-      "username": "addisyter1",
-      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
+      "video_id": "7705539257963760928",
+      "username": "claudia.abb4",
+      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2484,23 +2501,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705213243085638934",
-      "username": "udcgt82",
-      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705474350786399510",
       "username": "eldebate_com",
       "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
@@ -2524,6 +2524,23 @@
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705213243085638934",
+      "username": "udcgt82",
+      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3317,12 +3334,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705017008760294678",
-      "username": "ozyo.fr",
-      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
+      "video_id": "7704691760647130390",
+      "username": "timoclips_de",
+      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
-      "country": "FR",
+      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3351,12 +3368,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7704691760647130390",
-      "username": "timoclips_de",
-      "url": "https://www.tiktok.com/@timoclips_de/video/7704691760647130390",
+      "video_id": "7705017008760294678",
+      "username": "ozyo.fr",
+      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
       "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
-      "country": "DE",
+      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4116,9 +4133,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4133,9 +4150,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -7941,12 +7958,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705063296075975958",
-      "username": "booska_p",
-      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
-      "country": "OTHER",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7958,12 +7975,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "video_id": "7705063296075975958",
+      "username": "booska_p",
+      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
-      "country": "FR",
+      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

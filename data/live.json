@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08T01:51:44.113373+00:00",
+  "generated_at": "2026-11-08T01:55:09.818709+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29549,
+    "total_unique_videos": 29551,
     "published_24h": 599,
-    "published_48h": 1195,
+    "published_48h": 1196,
     "discovered_24h": 1165,
-    "discovered_48h": 2114
+    "discovered_48h": 2111
   },
   "analysis": {
-    "embeddings_total": 29549,
+    "embeddings_total": 29551,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 599
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "DE": 107,
+    "OTHER": 192,
     "ES": 152,
-    "BE": 1,
-    "OTHER": 191,
     "FR": 143,
-    "DE": 108,
+    "MULTI": 2,
     "IT": 2,
-    "MULTI": 2
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705585776293170465",
+      "username": "lilouestpartoutoff",
+      "url": "https://www.tiktok.com/@lilouestpartoutoff/video/7705585776293170465",
+      "published_at": "2026-11-08T00:08:24+00:00",
+      "description": "Moi et le chien qui me bloque:",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705473753320394006",
       "username": "rtvenoticias",
@@ -1362,11 +1379,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539179609869581",
-      "username": "addisyter1",
-      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
+      "video_id": "7705539257963760928",
+      "username": "claudia.abb4",
+      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1379,11 +1396,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705539257963760928",
-      "username": "claudia.abb4",
-      "url": "https://www.tiktok.com/@claudia.abb4/video/7705539257963760928",
+      "video_id": "7705539179609869581",
+      "username": "addisyter1",
+      "url": "https://www.tiktok.com/@addisyter1/video/7705539179609869581",
       "published_at": "2026-11-07T21:07:52+00:00",
-      "description": "",
+      "description": "No justice no peace ✌️  Justice for Jarvis demonstration  🇺🇸🔥  See you there",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3130,23 +3147,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705474350786399510",
-      "username": "eldebate_com",
-      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705213243085638934",
       "username": "udcgt82",
       "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
@@ -3169,6 +3169,23 @@
       "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
       "published_at": "2026-11-07T18:00:00+00:00",
       "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705474350786399510",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -4796,9 +4813,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4813,9 +4830,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -8706,6 +8723,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705232394365701398",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705063296075975958",
       "username": "booska_p",
       "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
@@ -8728,23 +8762,6 @@
       "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
       "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705232394365701398",
-      "username": "flashactufr1",
-      "url": "https://www.tiktok.com/@flashactufr1/video/7705232394365701398",
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -9097,12 +9114,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705231170191002902",
-      "username": "elokio8",
-      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
+      "video_id": "7705222482269146400",
+      "username": "cateconcerne",
+      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
-      "country": "OTHER",
+      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9114,12 +9131,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705222482269146400",
-      "username": "cateconcerne",
-      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
+      "video_id": "7705231170191002902",
+      "username": "elokio8",
+      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
-      "country": "FR",
+      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -10191,23 +10208,6 @@
       "published_at": "2026-11-07T02:07:42+00:00",
       "description": "Litté’raclures (avant que le compte saute ✊🏻✊🏾✊🏿) #onbloquelextremedroite #gauche #antifa #antifascist",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705242166351662350",
-      "username": "janky_jihadi",
-      "url": "https://www.tiktok.com/@janky_jihadi/video/7705242166351662350",
-      "published_at": "2026-11-07T01:55:05+00:00",
-      "description": "#germany #costofliving #protest",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

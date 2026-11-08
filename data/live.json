@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T00:19:38.561443+00:00",
+  "generated_at": "2026-11-08T00:22:41.829470+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29473,
-    "published_24h": 565,
-    "published_48h": 1152,
-    "discovered_24h": 1133,
-    "discovered_48h": 2106
+    "total_unique_videos": 29476,
+    "published_24h": 566,
+    "published_48h": 1153,
+    "discovered_24h": 1134,
+    "discovered_48h": 2101
   },
   "analysis": {
-    "embeddings_total": 29473,
+    "embeddings_total": 29475,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 565
+    "qwen_pending_24h": 566
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 141,
     "OTHER": 183,
-    "DE": 104,
     "ES": 133,
-    "IT": 2,
+    "FR": 142,
+    "DE": 104,
+    "BE": 1,
     "MULTI": 1,
-    "BE": 1
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -1163,7 +1163,7 @@
       "url": "https://www.tiktok.com/@anadoluagency/video/7705536623630404885",
       "published_at": "2026-11-07T20:57:39+00:00",
       "description": "📹 Clashes erupt between protesters and police in Lille and Lyon during nationwide demonstrations against rising cost of living in France 🔺 Police use tear gas and water cannon to disperse protesters, with arrests also reported 🪧 Trade unions, student groups and Yellow Vest activists join demonstrations demanding action on living costs and social concerns",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2501,12 +2501,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705474350786399510",
-      "username": "eldebate_com",
-      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
+      "video_id": "7705213243085638934",
+      "username": "udcgt82",
+      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
-      "country": "ES",
+      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2518,12 +2518,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705213243085638934",
-      "username": "udcgt82",
-      "url": "https://www.tiktok.com/@udcgt82/video/7705213243085638934",
+      "video_id": "7705474350786399510",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "#greve #JeunesseEnLutte #fyp #cgt#blocuslycee #salaire",
-      "country": "FR",
+      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3776,6 +3776,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705465410350566688",
+      "username": "albertotallman",
+      "url": "https://www.tiktok.com/@albertotallman/video/7705465410350566688",
+      "published_at": "2026-11-07T16:21:17+00:00",
+      "description": "Cosa è cambiato dopo gli scioperi degli autotrasportatori per il caro gasolio? Chiediamolo a META 🤖",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705465256230866198",
       "username": "flashactufr1",
       "url": "https://www.tiktok.com/@flashactufr1/video/7705465256230866198",
@@ -4099,9 +4116,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4116,9 +4133,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -7941,12 +7958,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705063296075975958",
-      "username": "booska_p",
-      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
+      "video_id": "7705237536947375382",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
-      "country": "OTHER",
+      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7958,12 +7975,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705237536947375382",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
+      "video_id": "7705063296075975958",
+      "username": "booska_p",
+      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
       "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "🚨 70 000 policiers et gendarmes mobilisés : que se passe-t-il en France ? Ce samedi 7 novembre, 70 000 policiers et gendarmes sont mobilisés en France pour encadrer les manifestations. Blindés, drones, hélicoptères et engins lanceurs d’eau : le dispositif de sécurité est reconduit. Est-ce nécessaire pour garantir la sécurité ? Débat en commentaires. #Manifestation #Police #GiletsJaunes #ActualitéFrance #France",
-      "country": "FR",
+      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8315,12 +8332,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705231170191002902",
-      "username": "elokio8",
-      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
+      "video_id": "7705222482269146400",
+      "username": "cateconcerne",
+      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
-      "country": "OTHER",
+      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8332,12 +8349,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705222482269146400",
-      "username": "cateconcerne",
-      "url": "https://www.tiktok.com/@cateconcerne/video/7705222482269146400",
+      "video_id": "7705231170191002902",
+      "username": "elokio8",
+      "url": "https://www.tiktok.com/@elokio8/video/7705231170191002902",
       "published_at": "2026-11-07T08:00:00+00:00",
-      "description": "Manif 7 novembre Paris : stations de métro fermées, RER coupés, amende 135 € Ce qui ferme aujourd'hui à Paris : 8 stations dès 5h30 (Concorde, Tuileries, Charles de Gaulle-Étoile…), 6 autres dès 10h le long du boulevard Voltaire, RER B et D coupés, ligne 6 fermée dimanche. Vérifie ton trajet avant de sortir. Sources : Sortiraparis.com (mise à jour du 06/11/2026) · chiffres du 5/11 : ministère de l'Intérieur, CGT #manif #paris #metro #greve #transports",
-      "country": "FR",
+      "description": "Lis à voix haute sans t'arrêter. Si tu bloques, tu recommences du début. Ton niveau en commentaire, sois honnête. #virelangue #diction #articulation #eloquence #defi",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

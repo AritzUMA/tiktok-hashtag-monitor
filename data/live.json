@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T00:39:55.650352+00:00",
+  "generated_at": "2026-11-08T00:42:30.432590+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29490,
-    "published_24h": 573,
-    "published_48h": 1161,
-    "discovered_24h": 1137,
-    "discovered_48h": 2104
+    "total_unique_videos": 29498,
+    "published_24h": 575,
+    "published_48h": 1164,
+    "discovered_24h": 1145,
+    "discovered_48h": 2111
   },
   "analysis": {
-    "embeddings_total": 29490,
+    "embeddings_total": 29498,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 573
+    "qwen_pending_24h": 575
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 142,
+    "FR": 141,
     "ES": 140,
-    "OTHER": 184,
     "DE": 103,
-    "IT": 2,
+    "OTHER": 187,
     "BE": 1,
+    "IT": 2,
     "MULTI": 1
   },
   "links": {
@@ -195,6 +195,23 @@
       "published_at": "2026-11-07T22:46:42+00:00",
       "description": "Fernando Sanz hace balance del partido entre el Valencia y el Real Madrid #valenciacf #realmadrid",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705562803771346208",
+      "username": "mandarintveurope",
+      "url": "https://www.tiktok.com/@mandarintveurope/video/7705562803771346208",
+      "published_at": "2026-11-07T22:39:10+00:00",
+      "description": "Ce 7 novembre, des milliers de manifestants ont défilé à Paris, de République à Nation, pour dénoncer la vie chère et réclamer davantage de pouvoir d’achat. Quatrième samedi consécutif de mobilisation, marqué par quelques tensions en fin de cortège. #Manifestation #Paris #pouvoirdachat #Actualité #gouvernement",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1787,6 +1804,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705524483175599392",
+      "username": "rnj_001",
+      "url": "https://www.tiktok.com/@rnj_001/video/7705524483175599392",
+      "published_at": "2026-11-07T20:10:31+00:00",
+      "description": "#rassemblementnatinonal #2027 #bardella #lfi #extremegauche🤡",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705524324697918753",
       "username": "kmillouuu",
       "url": "https://www.tiktok.com/@kmillouuu/video/7705524324697918753",
@@ -2348,6 +2382,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705503365211360544",
+      "username": "liberta.francia.87",
+      "url": "https://www.tiktok.com/@liberta.francia.87/video/7705503365211360544",
+      "published_at": "2026-11-07T18:48:31+00:00",
+      "description": "La relève est assurée... vive la jeunesse patriotes.... vive le rassemblement... vive la FRANCE... Et j'emmerde la gauche... #rn #2027 #france #politique #libertedexpression",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705503380164103456",
       "username": "la.repubblica",
       "url": "https://www.tiktok.com/@la.repubblica/video/7705503380164103456",
@@ -2365,9 +2416,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500483879734550",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
+      "video_id": "7705500473184226582",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -2382,9 +2433,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500473184226582",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
+      "video_id": "7705500483879734550",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -4269,9 +4320,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454257411034390",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
+      "video_id": "7705454259000659222",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -4286,9 +4337,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705454259000659222",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7705454259000659222",
+      "video_id": "7705454257411034390",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705454257411034390",
       "published_at": "2026-11-07T15:37:39+00:00",
       "description": "Alors qu'une nouvelle journée de rassemblement se tient ce samedi 7 novembre, dans le même temps, Jean-Luc Mélenchon est en meeting au Bourget (Seine-Saint-Denis) pour présenter son programme. Les militants LFI en ont profité pour reprendre des célèbres slogans entendus ces dernières semaines dans les cortèges. #ebrainfo #sinformersurtiktok #manifestation #lfi #jeanlucmelenchon",
       "country": "FR",
@@ -8111,6 +8162,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705063296075975958",
+      "username": "booska_p",
+      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705237536947375382",
       "username": "actufranceexpress",
       "url": "https://www.tiktok.com/@actufranceexpress/video/7705237536947375382",
@@ -8134,23 +8202,6 @@
       "published_at": "2026-11-07T09:00:00+00:00",
       "description": "🚨 Gilets jaunes : ils défient l’interdiction ce samedi à Paris ! Les Gilets jaunes annoncent un nouvel Acte IV ce samedi 7 novembre. À Paris, le rassemblement prévu place de la Concorde est interdit par la préfecture, mais les organisateurs maintiennent leur appel. 70 000 policiers et gendarmes sont mobilisés. Le mouvement peut-il reprendre ? 🇫🇷 #GiletsJaunes #Manifestation #PouvoirDAchat #ActualitéFrance #France",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705063296075975958",
-      "username": "booska_p",
-      "url": "https://www.tiktok.com/@booska_p/video/7705063296075975958",
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "description": "✊🏽 Ils ont pris la parole, lancé la mobilisation et rendu leur combat visible.  Pourtant, malgré leur engagement, les lycéens ultramarins continuent de faire face à des inégalités et à un système qui peine à évoluer. @powered by kali vous explique.",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9749,23 +9800,6 @@
       "published_at": "2026-11-07T00:49:46+00:00",
       "description": "#bloquear #fyp #said",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705223138870611222",
-      "username": "fach842",
-      "url": "https://www.tiktok.com/@fach842/video/7705223138870611222",
-      "published_at": "2026-11-07T00:41:16+00:00",
-      "description": "✨ De la joie, de l'espoir, des souvenirs pour toujours et du carburant dans la lutte pour la justice ! #marseille #5nov2026 #internationale #nouveaumonde #revolution #libertedemanifester #grevegenerale #greve",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

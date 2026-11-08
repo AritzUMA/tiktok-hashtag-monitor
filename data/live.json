@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08T23:47:55.437098+00:00",
+  "generated_at": "2026-11-08T23:51:10.367525+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30532,
+    "total_unique_videos": 30533,
     "published_24h": 423,
-    "published_48h": 1238,
-    "discovered_24h": 1100,
-    "discovered_48h": 2215
+    "published_48h": 1239,
+    "discovered_24h": 1097,
+    "discovered_48h": 2213
   },
   "analysis": {
-    "embeddings_total": 30532,
+    "embeddings_total": 30533,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 423
@@ -22,9 +22,9 @@
   "roles": {},
   "countries": {
     "DE": 120,
+    "OTHER": 144,
+    "FR": 48,
     "ES": 107,
-    "FR": 49,
-    "OTHER": 143,
     "IT": 2,
     "MULTI": 2
   },
@@ -2211,6 +2211,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705825839849442593",
+      "username": "lecinephileoff0",
+      "url": "https://www.tiktok.com/@lecinephileoff0/video/7705825839849442593",
+      "published_at": "2026-11-08T15:39:54+00:00",
+      "description": "#bally#saintdenis#actu#france#maire",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705825592259759393",
       "username": "fcbmarianne",
       "url": "https://www.tiktok.com/@fcbmarianne/video/7705825592259759393",
@@ -3809,12 +3826,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3826,12 +3843,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4710,11 +4727,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4727,11 +4744,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7196,23 +7213,6 @@
       "username": "marc.verdenet",
       "url": "https://www.tiktok.com/@marc.verdenet/video/7705581931559210272",
       "published_at": "2026-11-07T23:53:28+00:00",
-      "description": "Scènes filmées, sur le terrain à Paris, le 7 novembre 2026, lors des manifestations rassemblant étudiants, Gilets jaunes et citoyens. dans une visée de témoignage et d'information.",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705580711071337760",
-      "username": "marc.verdenet",
-      "url": "https://www.tiktok.com/@marc.verdenet/video/7705580711071337760",
-      "published_at": "2026-11-07T23:48:43+00:00",
       "description": "Scènes filmées, sur le terrain à Paris, le 7 novembre 2026, lors des manifestations rassemblant étudiants, Gilets jaunes et citoyens. dans une visée de témoignage et d'information.",
       "country": "FR",
       "country_method": "rules",

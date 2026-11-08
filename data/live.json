@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T00:46:48.258952+00:00",
+  "generated_at": "2026-11-08T00:50:42.169736+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 29500,
-    "published_24h": 577,
-    "published_48h": 1166,
-    "discovered_24h": 1147,
-    "discovered_48h": 2111
+    "total_unique_videos": 29504,
+    "published_24h": 578,
+    "published_48h": 1169,
+    "discovered_24h": 1151,
+    "discovered_48h": 2109
   },
   "analysis": {
-    "embeddings_total": 29500,
+    "embeddings_total": 29504,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 577
+    "qwen_pending_24h": 578
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 143,
     "OTHER": 186,
+    "FR": 143,
+    "DE": 105,
     "ES": 140,
-    "DE": 104,
-    "BE": 1,
+    "MULTI": 1,
     "IT": 2,
-    "MULTI": 1
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -552,6 +552,23 @@
       "published_at": "2026-11-07T22:09:23+00:00",
       "description": "⚽ ¡SHOW BLANCO EN MESTALLA! VALENCIA 0-3 MADRID | EL LÍDER NO PERDONA ⚪️🔥 ¡El Real Madrid no tuvo piedad en Mestalla! Los de Mourinho arrollan al Valencia con un contundente 0-3. Un partido dominado de principio a fin con una pegada letal y una solidez defensiva de hierro. ¡Los blancos demuestran por qué son el equipo a batir en LaLiga! 🏆 👇 ¿Está en crisis total el Valencia? ¡Dale like y sígueme! ⚽ #ValenciaMadrid #RealMadrid #LaLiga #Goleada #ValenciaCF",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705554961479781645",
+      "username": "addisyter1",
+      "url": "https://www.tiktok.com/@addisyter1/video/7705554961479781645",
+      "published_at": "2026-11-07T22:09:08+00:00",
+      "description": "DAY 9 — JUSTICE FOR JARVIS FRIMPONG Today marks the 9th day of our fight for justice for Jarvis Frimpong. We are still here. We are still speaking. We are still demanding answers. Today, we walked together in demonstration—not because we want attention, but because a young life was lost, and we refuse to let his name be forgotten. To everyone who came out today—students, parents, young people, community members, and everyone who stood together—thank you. Your presence sends a powerful message: Jarvis matters. His family deserves answers. His community deserves accountability. We are angry. We are hurt. We are frustrated. And we are tired of silence. JUSTICE FOR JARVIS FRIMPONG. We will continue to speak. We will continue to march. We will continue to demand accountability. And we will continue to keep Jarvis’s name alive. Day 9. The fight continues. The voices are getting louder. We are not forgetting Jarvis. #JusticeForJarvis #JusticeForJarvisFrimpong #JarvisFrimpong #Day9 #Justice",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2076,6 +2093,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705512522778004769",
+      "username": "mainhattanfrankfurt",
+      "url": "https://www.tiktok.com/@mainhattanfrankfurt/video/7705512522778004769",
+      "published_at": "2026-11-07T19:24:05+00:00",
+      "description": "Gen Z Demo Frankfurt #069 #frankfurt #ffm #genz #frankfurtammain",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705511820894686496",
       "username": "flash.infosofficiel",
       "url": "https://www.tiktok.com/@flash.infosofficiel/video/7705511820894686496",
@@ -2450,9 +2484,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500483879734550",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
+      "video_id": "7705500473184226582",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -2467,9 +2501,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705500473184226582",
-      "username": "ledauphinelibere",
-      "url": "https://www.tiktok.com/@ledauphinelibere/video/7705500473184226582",
+      "video_id": "7705500483879734550",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705500483879734550",
       "published_at": "2026-11-07T18:36:53+00:00",
       "description": "250 000 personnes ont manifesté ce samedi 7 novembre en France selon les syndicats, ils étaient 146 000 selon le ministère de l’Intérieur, une mobilisation en forte baisse par rapport aux épisodes précédents. Les cortèges se sont pour la plupart déroulés dans le calme. À Paris, plusieurs manifestants nous ont confié leur crainte de voir des dérives autoritaires de la part de l’État dans la gestion de ces rassemblements et une mise en danger de la démocratie. #ebrainfo #sinformersurtiktok #manifestations",
       "country": "FR",
@@ -2722,11 +2756,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705474350786399510",
-      "username": "eldebate_com",
-      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
+      "video_id": "7705477897712340226",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
+      "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -2756,11 +2790,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705477897712340226",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7705477897712340226",
+      "video_id": "7705474350786399510",
+      "username": "eldebate_com",
+      "url": "https://www.tiktok.com/@eldebate_com/video/7705474350786399510",
       "published_at": "2026-11-07T18:00:00+00:00",
-      "description": "🗣️La primera parada de Isabel Díaz Ayuso en Valencia este sábado no fue el escenario del mitin. Antes de encontrarse con los militantes del PP, la presidenta de la Comunidad de Madrid recorrió el Mercado del Cabanyal acompañada por dirigentes valencianos de su partido. Entre los puestos se detuvo a hablar con trabajadores y clientes, en una visita que no figuraba en su agenda pública. Una de las trabajadoras la recibió entre aplausos y se declaró admiradora suya: \"Cuarenta como tú tenía que haber en el Congreso\". #ayuso #valencia #mercado #cabanyal",
+      "description": "Ayuso conquista el Mercado de Valencia entre aplausos: «¡40 como tú tenía que haber en el Congreso!» 🗣️ «¡Viva Ayuso! Soy tu fan» Fuente: @SerranoAlfonso  #debate #eldebate #españa #gobierno #ayuso #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -3555,23 +3589,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705017008760294678",
-      "username": "ozyo.fr",
-      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
-      "published_at": "2026-11-07T17:00:00+00:00",
-      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7705432547945172246",
       "username": "france3bretagne",
       "url": "https://www.tiktok.com/@france3bretagne/video/7705432547945172246",
@@ -3595,6 +3612,23 @@
       "published_at": "2026-11-07T17:00:00+00:00",
       "description": "Hat MontanaBlack mit seiner Kritik an den Ausschreitungen recht? 💬 @montanablack #genzregelt #frankfurt #demo #montanablack",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705017008760294678",
+      "username": "ozyo.fr",
+      "url": "https://www.tiktok.com/@ozyo.fr/video/7705017008760294678",
+      "published_at": "2026-11-07T17:00:00+00:00",
+      "description": "🇫🇷🔥 JUSQU'À 1,6 MILLION DE MANIFESTANTS DANS LES RUES DE FRANCE ! Ce jeudi 5 novembre 2026, une mobilisation sociale d'ampleur nationale a rassemblé des centaines de milliers de Français. ✊ 📊 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Salaires, pouvoir d'achat, coût de la vie, logement, avenir des jeunes… Des salariés, des étudiants et des retraités se sont mobilisés pour faire entendre leurs revendications. Des générations et des professions différentes, mais des préoccupations communes. Face à cette mobilisation, une conférence sociale réunissant syndicats et patronat est annoncée à Matignon. 💬 Et toi, tu penses que cette mobilisation peut réellement faire bouger les choses ? Donne ton avis en commentaire ! 👇 #Manifestation #5Novembre2026 #CGT #France #Greve #PouvoirDAchat #ActualiteFrance #OZYO #Jul #PNL #Booba #Gazo #LaRvfleuze #MauvaisDjo #TriangleDesBermudes",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5085,9 +5119,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438336357240086",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
+      "video_id": "7705438324894207254",
+      "username": "lalsacefr",
+      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -5102,9 +5136,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705438324894207254",
-      "username": "lalsacefr",
-      "url": "https://www.tiktok.com/@lalsacefr/video/7705438324894207254",
+      "video_id": "7705438336357240086",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7705438336357240086",
       "published_at": "2026-11-07T14:35:50+00:00",
       "description": "Après la manifestation intersyndicale, de jeudi, un nouvelle journée de mobilisation, a lieu, ce samedi 7 novembre, à l'appel des gilets jaunes. À Chambéry, près de 350 manifestants sont rassemblés, dans une ambiance pour le moment bon enfant. #sinformersurtiktok #7novembre #chambery",
       "country": "OTHER",
@@ -9817,23 +9851,6 @@
       "published_at": "2026-11-07T00:53:19+00:00",
       "description": "all in a week btw #genz #protest #freedom #france",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705225328423161121",
-      "username": "aya._ait_",
-      "url": "https://www.tiktok.com/@aya._ait_/video/7705225328423161121",
-      "published_at": "2026-11-07T00:49:46+00:00",
-      "description": "#bloquear #fyp #said",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

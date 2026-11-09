@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T00:28:59.647327+00:00",
+  "generated_at": "2026-11-09T00:32:12.251570+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30556,
-    "published_24h": 424,
-    "published_48h": 1253,
+    "total_unique_videos": 30557,
+    "published_24h": 425,
+    "published_48h": 1254,
     "discovered_24h": 1076,
-    "discovered_48h": 2212
+    "discovered_48h": 2205
   },
   "analysis": {
-    "embeddings_total": 30556,
+    "embeddings_total": 30557,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 424
+    "qwen_pending_24h": 425
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 148,
     "DE": 124,
     "ES": 100,
-    "OTHER": 147,
+    "IT": 3,
     "FR": 48,
-    "MULTI": 2,
-    "IT": 3
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -346,6 +346,23 @@
       "url": "https://www.tiktok.com/@leylasen947/video/7705902657940065568",
       "published_at": "2026-11-08T20:38:00+00:00",
       "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705901757452340513",
+      "username": "angelina.bal",
+      "url": "https://www.tiktok.com/@angelina.bal/video/7705901757452340513",
+      "published_at": "2026-11-08T20:34:31+00:00",
+      "description": "#duet with @BlitzTicker Germany #berlin",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4132,12 +4149,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4149,12 +4166,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

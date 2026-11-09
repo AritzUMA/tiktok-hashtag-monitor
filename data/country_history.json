@@ -1,22 +1,6 @@
 {
   "FR": [
     {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {
-        "manifestation": 12,
-        "france": 9,
-        "paris": 7,
-        "blocus": 5,
-        "fyp": 5,
-        "pourtoi": 4,
-        "mobilisation": 4,
-        "laligaexperience": 2,
-        "marseille": 2,
-        "creatorsearchinsights": 2
-      }
-    },
-    {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
       "hashtags": {
@@ -3199,25 +3183,25 @@
         "5novembre": 4,
         "genz": 3
       }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "manifestation": 13,
+        "france": 12,
+        "blocus": 6,
+        "paris": 6,
+        "actualité": 5,
+        "grève": 5,
+        "mobilisation": 4,
+        "fyp": 4,
+        "saintdenis": 4,
+        "5novembre": 4
+      }
     }
   ],
   "DE": [
-    {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {
-        "berlin": 53,
-        "nachrichten": 26,
-        "deutschland": 26,
-        "bundestag": 12,
-        "reichstag": 11,
-        "protest": 10,
-        "demo": 10,
-        "eilmeldung": 9,
-        "polizei": 9,
-        "freepalestine": 8
-      }
-    },
     {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
@@ -6401,25 +6385,25 @@
         "protest": 12,
         "genz": 11
       }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "berlin": 85,
+        "nachrichten": 46,
+        "deutschland": 39,
+        "bundestag": 19,
+        "reichstag": 17,
+        "lisa": 13,
+        "polizei": 12,
+        "protest": 12,
+        "eilmeldung": 12,
+        "genz": 11
+      }
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {
-        "valencia": 110,
-        "realmadrid": 85,
-        "laliga": 50,
-        "futbol": 23,
-        "parati": 16,
-        "mbappe": 15,
-        "valenciacf": 15,
-        "fyp": 14,
-        "maffeo": 14,
-        "viral": 13
-      }
-    },
     {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
@@ -9603,20 +9587,25 @@
         "mbappe": 5,
         "valenciacf": 4
       }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "valencia": 53,
+        "realmadrid": 23,
+        "laliga": 14,
+        "españa": 8,
+        "parati": 7,
+        "futbol": 6,
+        "maffeo": 6,
+        "viral": 6,
+        "mbappe": 5,
+        "fyp": 4
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {
-        "guerra": 1,
-        "scuole": 1,
-        "scioperogenerale": 1,
-        "occupazioni": 1,
-        "carovita": 1
-      }
-    },
     {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
@@ -12595,16 +12584,27 @@
         "scuole": 1,
         "guerra": 1,
         "scioperogenerale": 1
+      }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "carovita": 2,
+        "avion": 1,
+        "europe": 1,
+        "france": 1,
+        "actualité": 1,
+        "aviation": 1,
+        "scuole": 1,
+        "occupazioni": 1,
+        "scioperogenerale": 1,
+        "guerra": 1
       }
     }
   ],
   "BE": [
     {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {}
-    },
-    {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
       "hashtags": {}
@@ -14384,25 +14384,20 @@
         "blocus": 1,
         "bx": 1
       }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "blocus": 1,
+        "lg": 1,
+        "liege": 1,
+        "manifestation": 1,
+        "bx": 1
+      }
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-11-08T22:53:36+01:00",
-      "round_id": "20261108_225335",
-      "hashtags": {
-        "genz": 19,
-        "fyp": 16,
-        "cgt": 9,
-        "manifestation": 9,
-        "realmadrid": 6,
-        "pourtoi": 6,
-        "urda": 6,
-        "lfi": 5,
-        "foryoupage": 5,
-        "viral": 4
-      }
-    },
     {
       "updated_at": "2026-11-08T22:56:34+01:00",
       "round_id": "20261108_225532",
@@ -17585,6 +17580,22 @@
         "urda": 6,
         "foryoupage": 4,
         "demo": 4
+      }
+    },
+    {
+      "updated_at": "2026-11-09T10:54:37+01:00",
+      "round_id": "20261109_105413",
+      "hashtags": {
+        "genz": 22,
+        "fyp": 14,
+        "pourtoi": 12,
+        "manifestation": 8,
+        "cgt": 7,
+        "viral": 7,
+        "urda": 6,
+        "politique": 6,
+        "foryoupage": 4,
+        "tren": 4
       }
     }
   ]

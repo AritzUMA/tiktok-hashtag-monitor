@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T07:24:06.796695+00:00",
+  "generated_at": "2026-11-09T07:27:48.808598+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30773,
-    "published_24h": 485,
-    "published_48h": 1325,
+    "total_unique_videos": 30774,
+    "published_24h": 483,
+    "published_48h": 1323,
     "discovered_24h": 951,
-    "discovered_48h": 2202
+    "discovered_48h": 2203
   },
   "analysis": {
-    "embeddings_total": 30773,
+    "embeddings_total": 30774,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 485
+    "qwen_pending_24h": 483
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "ES": 89,
+    "OTHER": 183,
     "DE": 148,
-    "OTHER": 184,
-    "ES": 90,
     "FR": 56,
+    "BE": 2,
     "MULTI": 3,
-    "IT": 2,
-    "BE": 2
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -1855,11 +1855,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1872,11 +1872,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8236,40 +8236,6 @@
       "published_at": "2026-11-08T07:33:49+00:00",
       "description": "Kommt zu den Demos in Stuttgart, um euch für soziale Gerechtigkeit und Klimaschutz einzusetzen!! Weil wir eine lebenswerte Zukunft haben wollen!! 13.11. Klima Demo von Fridays for Future (Schlossplatz Stuttgart 16:30 Uhr) 💚 20.11. GenZ Demo in Stuttgart ❤️",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705698797413747976",
-      "username": "31volgoeb10",
-      "url": "https://www.tiktok.com/@31volgoeb10/video/7705698797413747976",
-      "published_at": "2026-11-08T07:27:02+00:00",
-      "description": "полный видос на yt канале #волга #газ #3110 #ремонт",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705698686147235079",
-      "username": "medinadjesus",
-      "url": "https://www.tiktok.com/@medinadjesus/video/7705698686147235079",
-      "published_at": "2026-11-08T07:26:31+00:00",
-      "description": "#silvestredangond #valencia #vallenato",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

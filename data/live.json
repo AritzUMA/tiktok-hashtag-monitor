@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T19:37:03.192455+00:00",
+  "generated_at": "2026-11-09T19:40:29.539794+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31264,
-    "published_24h": 398,
-    "published_48h": 1180,
-    "discovered_24h": 933,
-    "discovered_48h": 2126
+    "total_unique_videos": 31265,
+    "published_24h": 397,
+    "published_48h": 1178,
+    "discovered_24h": 934,
+    "discovered_48h": 2120
   },
   "analysis": {
-    "embeddings_total": 31264,
+    "embeddings_total": 31265,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 398
+    "qwen_pending_24h": 397
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 168,
-    "FR": 47,
     "DE": 120,
-    "ES": 55,
-    "IT": 5,
+    "OTHER": 168,
     "MULTI": 2,
-    "BE": 1
+    "FR": 47,
+    "ES": 55,
+    "IT": 5
   },
   "links": {
     "qr_videos": 0,
@@ -1923,23 +1922,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706140210651860246",
-      "username": "a3noticias",
-      "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "🛤️ Se espera una semana muy complicada en Rodalies con huelga de maquinistas y la huelga general  👉🏼 Se recomienda a los viajeros que busquen alternativas  🗣️ Marta Rams   📲 Consulta toda la #actualidad en antena3noticias.com #Noticias #News #Antena3Noticias",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7706109461609450759",
       "username": "kitsarang",
       "url": "https://www.tiktok.com/@kitsarang/video/7706109461609450759",
@@ -1963,6 +1945,23 @@
       "published_at": "2026-11-09T12:00:00+00:00",
       "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706140210651860246",
+      "username": "a3noticias",
+      "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "description": "🛤️ Se espera una semana muy complicada en Rodalies con huelga de maquinistas y la huelga general  👉🏼 Se recomienda a los viajeros que busquen alternativas  🗣️ Marta Rams   📲 Consulta toda la #actualidad en antena3noticias.com #Noticias #News #Antena3Noticias",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2382,12 +2381,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706105783976578326",
-      "username": "les.cartes.sur.ta",
-      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
+      "video_id": "7706107889965862166",
+      "username": "cronica_global",
+      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
-      "country": "OTHER",
+      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2399,12 +2398,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706107889965862166",
-      "username": "cronica_global",
-      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
+      "video_id": "7706105783976578326",
+      "username": "les.cartes.sur.ta",
+      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
-      "country": "ES",
+      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6774,23 +6773,6 @@
       "published_at": "2026-11-08T19:41:38+00:00",
       "description": "Pro-Palestinian activists removed Germany's 'Flag of Unity' from a monument outside the Reichstag in Berlin and replaced it with a Palestinian flag. Police took down the flag and detained the activists. The group \"Peacefully Against Genocide\" claimed responsibility. #dwnews",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705887685717593376",
-      "username": "blocus.be",
-      "url": "https://www.tiktok.com/@blocus.be/video/7705887685717593376",
-      "published_at": "2026-11-08T19:39:55+00:00",
-      "description": "Appel au blocus des demain dans toute la Belgique! Mobilisation d’étudiants et enseignants devant les écoles des 7h20. Un blocus structuré et organisé. Pour plus d’info blocus.be sur instagram  avec l’aide de @spiderman2lg #manifestation #blocus #liege #bx #lg",
-      "country": "BE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

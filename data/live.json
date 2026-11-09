@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T04:01:34.740870+00:00",
+  "generated_at": "2026-11-09T04:06:00.779500+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30670,
-    "published_24h": 457,
-    "published_48h": 1302,
-    "discovered_24h": 1016,
-    "discovered_48h": 2212
+    "total_unique_videos": 30671,
+    "published_24h": 458,
+    "published_48h": 1301,
+    "discovered_24h": 1005,
+    "discovered_48h": 2210
   },
   "analysis": {
-    "embeddings_total": 30670,
+    "embeddings_total": 30671,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 457
+    "qwen_pending_24h": 458
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 94,
     "DE": 132,
+    "OTHER": 170,
     "FR": 55,
-    "OTHER": 169,
-    "MULTI": 3,
+    "ES": 94,
     "IT": 3,
+    "MULTI": 3,
     "BE": 1
   },
   "links": {
@@ -42,6 +42,23 @@
       "published_at": "2026-11-09T02:40:18+00:00",
       "description": "#CapCut  🔥 5 NOVEMBRE À BÉZIERS : UNE MOBILISATION À LA HAUTEUR DE NOS COLÈRES ET DE NOS ESPOIRS ! Près de 2 000 personnes dans les rues de Béziers ! Une véritable réussite pour cette manifestation populaire, unitaire et déterminée. ✊ Syndicats, partis politiques, Gilets jaunes, travailleurs et travailleuses, jeunesse… Des parcours différents, des sensibilités diverses, mais une même volonté : se rassembler pour faire entendre nos revendications ! Une manifestation festive et revendicative, rythmée par la musique engagée, les chants, les prises de parole et des slogans qui ont résonné dans les rues de Béziers. 🎶📢 Parce que nos droits ne se négocient pas à la baisse. Parce que nos services publics méritent des moyens. Parce que nos salaires, nos retraites et notre avenir méritent mieux. Cette mobilisation montre que la solidarité et la lutte collective sont bien vivantes ! 🔥 Continuons à nous mobiliser, à nous rassembler et à faire entendre nos voix ! Ensemble, on est plus forts ! ✊ #5novembre #beziers #tousensemble #convergencedesluttes",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705976873943158038",
+      "username": "wundermix2",
+      "url": "https://www.tiktok.com/@wundermix2/video/7705976873943158038",
+      "published_at": "2026-11-09T01:26:01+00:00",
+      "description": "Nach friedlichen Demos eskaliert die Lage: Geschäfte werden geplündert, Polizisten angegriffen. #Frankfurt #Demonstration #Krawall #Gewalt Source: https://www.youtube.com/watch?v=HgR4qv0SOMA",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1702,12 +1719,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1719,12 +1736,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2212,12 +2229,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2229,12 +2246,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

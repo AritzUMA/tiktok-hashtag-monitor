@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T00:10:18.136941+00:00",
+  "generated_at": "2026-11-09T00:13:15.243535+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30544,
-    "published_24h": 420,
-    "published_48h": 1244,
-    "discovered_24h": 1083,
-    "discovered_48h": 2211
+    "total_unique_videos": 30546,
+    "published_24h": 421,
+    "published_48h": 1245,
+    "discovered_24h": 1080,
+    "discovered_48h": 2213
   },
   "analysis": {
-    "embeddings_total": 30542,
+    "embeddings_total": 30544,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 420
+    "qwen_pending_24h": 421
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 146,
-    "FR": 47,
     "ES": 101,
+    "OTHER": 146,
     "DE": 121,
-    "IT": 3,
-    "MULTI": 2
+    "FR": 48,
+    "MULTI": 2,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -431,6 +431,23 @@
       "url": "https://www.tiktok.com/@michelemichele722/video/7705894251988569377",
       "published_at": "2026-11-08T20:05:25+00:00",
       "description": "Sciopero generale 20 novembre tu ci sarai? #cgl #landini #sciopero #generale #tucisei",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705886669076958486",
+      "username": "rtvenoticias",
+      "url": "https://www.tiktok.com/@rtvenoticias/video/7705886669076958486",
+      "published_at": "2026-11-08T20:00:00+00:00",
+      "description": "🔸Un activista quita la bandera de Alemania del Parlamento y pone la de Palestina. La policía asegura que habrían participado otros dos hombres, que lo transmitieron en directo por redes sociales. Los tres han sido detenidos. #alemania #berlin #palestina",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -851,12 +868,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -868,12 +885,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1123,6 +1140,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705864917290618145",
+      "username": "fahim.210",
+      "url": "https://www.tiktok.com/@fahim.210/video/7705864917290618145",
+      "published_at": "2026-11-08T18:11:33+00:00",
+      "description": "#ComfortSegredos #deutsch #viral #fahim209 #news",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705864479141006624",
       "username": "fokusnews3",
       "url": "https://www.tiktok.com/@fokusnews3/video/7705864479141006624",
@@ -1264,7 +1298,7 @@
       "url": "https://www.tiktok.com/@ulyces.co/video/7705862126635683105",
       "published_at": "2026-11-08T18:00:44+00:00",
       "description": "Crédit : @dkryllw // 😭 Dans le contexte des mobilisations qui secouent la France, notamment la journée nationale du 5 novembre, contre la hausse du coût de la vie, cette séquence détourne l’une des astuces les plus célèbres du jeu vidéo Metal Gear Solid : se faire passer pour une boite en carton afin d’échapper à la vigilance de l’ennemi. Le manifestant s’approche d’un gendarme en pensant passer inaperçu pour sortir du cordon de sécurité, mais la manœuvre échoue totalement.",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4863,11 +4897,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4880,11 +4914,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7147,23 +7181,6 @@
       "published_at": "2026-11-08T00:16:12+00:00",
       "description": "Belingham se encara con un miembro de seguridad en el túnel del vestuario en el momento de descanso del Valencia vs Real madrid #madrid #valencia #belingham #laliga #parati",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705586751850564878",
-      "username": "mars20682",
-      "url": "https://www.tiktok.com/@mars20682/video/7705586751850564878",
-      "published_at": "2026-11-08T00:12:34+00:00",
-      "description": "#gorilla #gorillatagvr #cgt #compgorillatag @.uhmimskel @cap2618",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

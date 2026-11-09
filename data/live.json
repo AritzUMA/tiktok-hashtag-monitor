@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T06:52:29.370974+00:00",
+  "generated_at": "2026-11-09T06:56:08.154891+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30759,
-    "published_24h": 491,
+    "total_unique_videos": 30760,
+    "published_24h": 492,
     "published_48h": 1328,
-    "discovered_24h": 960,
-    "discovered_48h": 2198
+    "discovered_24h": 959,
+    "discovered_48h": 2199
   },
   "analysis": {
-    "embeddings_total": 30759,
+    "embeddings_total": 30760,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 491
+    "qwen_pending_24h": 492
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 184,
-    "FR": 57,
     "DE": 148,
+    "OTHER": 185,
+    "FR": 57,
     "ES": 96,
-    "BE": 1,
+    "MULTI": 3,
     "IT": 2,
-    "MULTI": 3
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -790,6 +790,23 @@
       "published_at": "2026-11-08T21:48:25+00:00",
       "description": "Escándalo en Berlín 🚨🇩🇪🇵🇸 Activistas del grupo \"Pacíficamente contra el Genocidio\" (Peacefully Against Genocide) lograron vulnerar la seguridad del Reichstag, la sede del Parlamento alemán en Berlín, escalaron el asta principal, arrancaron la bandera de la unidad y levantaron una bandera palestina como forma de protesta contra el gobierno alemán frente al conflicto en Gaza. 🚨 El embajador de Israel en Alemania, Ron Prosor, declaró que reemplazar la bandera alemana \"rechaza los valores que encarnan los colores nacionales: la libertad, la democracia y el Estado de derecho\". 🗣️ La intervención policial fue inmediata: tres personas (de 20, 22 y 32 años) terminaron detenidas y ahora enfrentan cargos formales por allanamiento de morada y ultraje a los símbolos del Estado. Una acción directa de alto impacto que vuelve a encender el debate en Europa sobre los límites de la protesta y la política exterior en Oriente Medio. 🚔 Este grupo ha estado detrás de otras acciones dirigidas directamente contra el gobierno alemán y en contra de Israel, incluyendo protestas y bloqueos a plantas de defensa que suministran armamento, además de asediar ministerios y puntos neurálgicos de Berlín para exigir el cese total del respaldo militar y diplomático al gobierno israelí. 🔍",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705920318585457953",
+      "username": "giacomomosca_",
+      "url": "https://www.tiktok.com/@giacomomosca_/video/7705920318585457953",
+      "published_at": "2026-11-08T21:46:34+00:00",
+      "description": "Continueremo a scendere in piazza finché servirà! #piazza #manifestazione #sciopero #politica",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2824,12 +2841,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2841,12 +2858,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6020,12 +6037,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6037,12 +6054,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6972,11 +6989,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6989,11 +7006,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

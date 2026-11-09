@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T06:42:01.753915+00:00",
+  "generated_at": "2026-11-09T06:45:29.085259+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30754,
-    "published_24h": 487,
-    "published_48h": 1326,
-    "discovered_24h": 959,
-    "discovered_48h": 2200
+    "total_unique_videos": 30755,
+    "published_24h": 488,
+    "published_48h": 1325,
+    "discovered_24h": 960,
+    "discovered_48h": 2199
   },
   "analysis": {
-    "embeddings_total": 30754,
+    "embeddings_total": 30755,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 487
+    "qwen_pending_24h": 488
   },
   "mobilization": {
     "yes": 0,
@@ -22,12 +22,12 @@
   "roles": {},
   "countries": {
     "DE": 146,
-    "OTHER": 181,
-    "IT": 2,
     "ES": 97,
+    "BE": 1,
+    "OTHER": 182,
     "FR": 57,
     "MULTI": 3,
-    "BE": 1
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -7063,6 +7063,23 @@
       "published_at": "2026-11-08T10:10:39+00:00",
       "description": "Et partout en France 🇫🇷 ✊🏼( grève général mardi 10novembre ) #saintetienne #gauche #france",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705740140047600898",
+      "username": "userrjsjsjajjshs",
+      "url": "https://www.tiktok.com/@userrjsjsjajjshs/video/7705740140047600898",
+      "published_at": "2026-11-08T10:07:23+00:00",
+      "description": "holi #valenciacf #partido #mestalla #parati",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

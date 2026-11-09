@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T00:44:49.613239+00:00",
+  "generated_at": "2026-11-09T00:47:53.236181+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30563,
-    "published_24h": 424,
-    "published_48h": 1254,
-    "discovered_24h": 1063,
-    "discovered_48h": 2210
+    "total_unique_videos": 30565,
+    "published_24h": 425,
+    "published_48h": 1255,
+    "discovered_24h": 1064,
+    "discovered_48h": 2212
   },
   "analysis": {
-    "embeddings_total": 30563,
+    "embeddings_total": 30565,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 424
+    "qwen_pending_24h": 425
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 150,
     "FR": 48,
-    "OTHER": 149,
     "DE": 124,
     "ES": 98,
-    "IT": 3,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -160,6 +160,23 @@
       "published_at": "2026-11-08T21:25:21+00:00",
       "description": "🔴 Ce qui se joue à Paul Eluard, c'est l'avenir du mouvement ! « La résistance de Paul Éluard est une digue face à la répression de l'ensemble des personnels et de la mobilisation. Il faut absolument les protéger, et le meilleur bouclier pour eux, c'est que la mobilisation gagne, et pour ça on a besoin d'une grève générale ! » 📢 - @AnasseKazib, candidat à l'élection présidentielle, depuis le rassemblement contre la répression du lycée Paul Éluard à Saint-Denis",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705914536729103649",
+      "username": "guckmal24",
+      "url": "https://www.tiktok.com/@guckmal24/video/7705914536729103649",
+      "published_at": "2026-11-08T21:24:07+00:00",
+      "description": "Traurige Entwicklung im Fall Lisa: Was Polizei und Staatsanwaltschaft bisher mitteilen. #Berlin #Brandenburg #Lisa #Nachrichten #GuckMalNews",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -987,12 +1004,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1004,12 +1021,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4183,12 +4200,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4200,12 +4217,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5084,11 +5101,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5101,11 +5118,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

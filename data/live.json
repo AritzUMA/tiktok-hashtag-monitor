@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T02:16:28.835339+00:00",
+  "generated_at": "2026-11-09T02:20:00.314532+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30618,
-    "published_24h": 437,
+    "total_unique_videos": 30619,
+    "published_24h": 438,
     "published_48h": 1273,
     "discovered_24h": 1046,
-    "discovered_48h": 2223
+    "discovered_48h": 2221
   },
   "analysis": {
-    "embeddings_total": 30618,
+    "embeddings_total": 30619,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 437
+    "qwen_pending_24h": 438
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 159,
-    "DE": 126,
     "ES": 94,
+    "DE": 126,
+    "OTHER": 160,
     "FR": 51,
     "IT": 3,
     "MULTI": 3,
@@ -160,6 +160,23 @@
       "url": "https://www.tiktok.com/@alemaozando/video/7705921027842280725",
       "published_at": "2026-11-08T21:49:21+00:00",
       "description": "Neste domingo (08/11), um ativista de 22 anos escalou o mastro de aproximadamente 30 metros em frente ao Parlamento Alemão (Reichstag), em Berlim, retirou a bandeira da Alemanha e hasteou uma bandeira da Palestina em seu lugar. A ação foi reivindicada pelo grupo ativista Peacefully Against Genocide, que protesta contra o posicionamento do governo alemão em relação a Israel e à guerra em Gaza, denunciando também as exportações de armamentos alemães para Israel. O grupo já havia realizado outra ação de grande repercussão em Berlim, em novembro de 2025, quando ativistas colocaram uma faixa no Portão de Brandemburgo com a mensagem: „Nie wieder Völkermord, Freiheit für Palästina“ (Nunca mais genocídio, liberdade para a Palestina). A bandeira retirada do Reichstag é conhecida como Flagge der Einheit (Bandeira da Unidade), um símbolo histórico da reunificação alemã em 1990. O ativista permaneceu aproximadamente uma hora no mastro. Outros dois homens participaram da ação, filmando e transmitindo o ocorrido pelo TikTok. Os três foram identificados pela polícia, que abriu uma investigação por possíveis crimes relacionados à profanação de símbolos nacionais, danos ao patrimônio público e outras infrações.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705916983249931543",
+      "username": "manostijeras_",
+      "url": "https://www.tiktok.com/@manostijeras_/video/7705916983249931543",
+      "published_at": "2026-11-08T21:33:40+00:00",
+      "description": "4 min de versión de los hechos de este fin de semana en Valencia, añade descripción de los valencianos y como no, NADA ES CULPA DE ELLA. Imperdible #viral #fyp #parati #tiktokespaña #valencia",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1821,12 +1838,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1838,12 +1855,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

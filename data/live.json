@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T09:01:17.937579+00:00",
+  "generated_at": "2026-11-09T09:04:12.008559+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30810,
-    "published_24h": 469,
-    "published_48h": 1305,
-    "discovered_24h": 945,
-    "discovered_48h": 2192
+    "total_unique_videos": 30813,
+    "published_24h": 468,
+    "published_48h": 1306,
+    "discovered_24h": 948,
+    "discovered_48h": 2195
   },
   "analysis": {
-    "embeddings_total": 30810,
+    "embeddings_total": 30813,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 469
+    "qwen_pending_24h": 468
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "ES": 84,
     "DE": 149,
-    "ES": 85,
-    "OTHER": 176,
-    "FR": 53,
+    "OTHER": 178,
+    "FR": 51,
     "MULTI": 2,
-    "BE": 2,
-    "IT": 2
+    "IT": 2,
+    "BE": 2
   },
   "links": {
     "qr_videos": 0,
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706082525751364896",
+      "username": "lagacetadesalamanca",
+      "url": "https://www.tiktok.com/@lagacetadesalamanca/video/7706082525751364896",
+      "published_at": "2026-11-09T08:15:37+00:00",
+      "description": "‼️ La huelga del sector cárnico ha comenzado la madrugada de este lunes en la comarca de Guijuelo, con concentraciones de trabajadores y representantes sindicales desde la una de la mañana en distintos mataderos y grandes fábricas de la comarca. Los piquetes informativos se han organizado por turnos para coincidir con las entradas y salidas de los trabajadores y así poder informarles de las condiciones de la huelga. La movilización ha contado con la presencia de representantes de distintos sindicatos, entre ellos CCOO de Castilla y León y UGT, así como de trabajadores que se han sumado a la convocatoria.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706073310441901344",
       "username": "silvi_hart86",
@@ -3096,12 +3113,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3113,12 +3130,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5357,6 +5374,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705807079558221088",
+      "username": "generasonrap",
+      "url": "https://www.tiktok.com/@generasonrap/video/7705807079558221088",
+      "published_at": "2026-11-08T14:27:07+00:00",
+      "description": "CNEWS s’est retrouvé dans une séquence particulièrement tendue après avoir été piégé par un intervenant qui a profité de son passage à l’antenne pour lancer un appel au boycott de la chaîne. En direct, il a déclaré : « On appelle au boycott de la chaîne CNEWS parce qu’on en a plein le c*l des fachos comme vous ! » Une intervention inattendue qui a visiblement pris la chaîne de court et qui risque de faire beaucoup réagir sur les réseaux sociaux. La séquence est déjà au cœur des discussions et divise les internautes.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705806575902018829",
       "username": "rcworld.rc",
       "url": "https://www.tiktok.com/@rcworld.rc/video/7705806575902018829",
@@ -7329,11 +7363,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7346,11 +7380,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7947,57 +7981,6 @@
       "published_at": "2026-11-08T09:05:11+00:00",
       "description": "Strajk generalny w całej Hiszpanii — środa, 11 listopada 2026. Związki CCOO i UGT, razem z CGT, CNT, organizacjami najemców i innymi, zwołały 24-godzinny strajk ogólnokrajowy (od 0:00 do 24:00). Postulaty: dostęp do mieszkań, płace i siła nabywcza, skrócenie czasu pracy. To pierwszy strajk generalny w Hiszpanii od 14 lat. Kolej — trzy trudne dni: wtorek 10.11 — całodniowy strajk maszynistów Renfe (AVE, Cercanías, media distancia, regionalne), środa 11.11 — strajk generalny, usługi minimalne (servicios mínimos), czwartek 12.11 — częściowe przestoje maszynistów Renfe. 11 listopada: pociągi, metro, autobusy i tramwaje kursują rzadziej, możliwe odwołania i opóźnienia lotów — status sprawdzaj u przewoźnika, w szpitalach, szkołach i części urzędów obowiązują usługi minimalne, sklepy i restauracje nie zamykają się automatycznie — zależy to od udziału pracowników, demonstracje w Madrycie, Barcelonie, Walencji i innych miastach, możliwe zamknięcia ulic. Co zrobić już teraz: masz citę w extranjería, urzędzie lub u notariusza 11.11? Potwierdź, czy się odbędzie, dzień strajku nie jest dniem wolnym — terminy urzędowe i podatkowe biegną normalnie, złóż wnioski online wcześniej, podróżujesz 10–12.11? Sprawdź pociąg lub lot dzień wcześniej i zaplanuj alternatywę. Zakres usług minimalnych nie był jeszcze w pełni opublikowany na 6.11 — sprawdzaj komunikaty przewoźników i urzędów. Masz w tym tygodniu sprawy urzędowe? Nasz zespół prawników i doradców podatkowych pomoże przełożyć wizytę, dotrzymać terminów i załatwić formalności online. Zapisz post, żeby mieć go pod ręką 11 listopada, i wyślij go znajomym, którzy w tych dniach podróżują. www.tramitly.eu · WhatsApp / tel. +34 604 33 23 15 · hola@tramitly.eu #Hiszpania #ŻycieWHiszpanii #PolacyWHiszpanii #HuelgaGeneral #Strajk11N",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705723500534942998",
-      "username": "france3hautsdefrance",
-      "url": "https://www.tiktok.com/@france3hautsdefrance/video/7705723500534942998",
-      "published_at": "2026-11-08T09:02:53+00:00",
-      "description": "Acte IV de la mobilisation à Lille. Ce samedi 7 novembre, lycéens, étudiants et syndicats se sont rassemblés pour dénoncer la vie chère et défendre leurs revendications. Pouvoir d’achat, conditions de vie, avenir de la jeunesse... Pourquoi continuent-ils à se mobiliser ?",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705723363758525728",
-      "username": "charly.photos",
-      "url": "https://www.tiktok.com/@charly.photos/video/7705723363758525728",
-      "published_at": "2026-11-08T09:02:18+00:00",
-      "description": "« Le Parcours vers la Rocade » Manifestation le 7 novembre, à Dijon - Les manifestants voulaient se rendre, sur la rocade Est mais ils en ont été empêchés, par les forces de l’ordre. Ils sont revenus, sur leur pas, avant de connaître d’autres péripéties (à suivre) #manifdu7novembre #manifcontrelaviechere #suppressionParcoursup",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705723285513833736",
-      "username": "neeymolina",
-      "url": "https://www.tiktok.com/@neeymolina/video/7705723285513833736",
-      "published_at": "2026-11-08T09:01:58+00:00",
-      "description": "#silvestredangond #valencia #silvestre #lluvia #concierto",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T23:15:15.088948+00:00",
+  "generated_at": "2026-11-09T23:18:19.941230+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 31426,
-    "published_24h": 394,
-    "published_48h": 1032,
-    "discovered_24h": 920,
-    "discovered_48h": 2052
+    "published_24h": 393,
+    "published_48h": 1031,
+    "discovered_24h": 918,
+    "discovered_48h": 2042
   },
   "analysis": {
     "embeddings_total": 31426,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 394
+    "qwen_pending_24h": 393
   },
   "mobilization": {
     "yes": 0,
@@ -23,10 +23,10 @@
   "countries": {
     "OTHER": 179,
     "DE": 102,
-    "MULTI": 3,
-    "ES": 50,
     "FR": 54,
+    "ES": 49,
     "IT": 5,
+    "MULTI": 3,
     "BE": 1
   },
   "links": {
@@ -3368,23 +3368,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706131895087615254",
-      "username": "france.inter",
-      "url": "https://www.tiktok.com/@france.inter/video/7706131895087615254",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7706140210651860246",
       "username": "a3noticias",
       "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
@@ -3408,6 +3391,23 @@
       "published_at": "2026-11-09T12:00:00+00:00",
       "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706131895087615254",
+      "username": "france.inter",
+      "url": "https://www.tiktok.com/@france.inter/video/7706131895087615254",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3861,12 +3861,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706105783976578326",
-      "username": "les.cartes.sur.ta",
-      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
+      "video_id": "7706107889965862166",
+      "username": "cronica_global",
+      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
-      "country": "OTHER",
+      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3895,12 +3895,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706107889965862166",
-      "username": "cronica_global",
-      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
+      "video_id": "7706105783976578326",
+      "username": "les.cartes.sur.ta",
+      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
-      "country": "ES",
+      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6706,23 +6706,6 @@
       "published_at": "2026-11-08T23:23:18+00:00",
       "description": "Ein tragisches Ende einer verzweifelten Suche. Die 13-jährige Lisa aus Berlin ist tot. Was bleibt, sind unzählige Fragen, tiefe Trauer und eine Familie, die einen unvorstellbaren Verlust verkraften muss. Ruhe in Frieden, Lisa. 🕊️ #Lisa #Berlin #Deutschland #News",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705943596947623190",
-      "username": "daznfutbol",
-      "url": "https://www.tiktok.com/@daznfutbol/video/7705943596947623190",
-      "published_at": "2026-11-08T23:17:03+00:00",
-      "description": "El gesto de Bellingham al banquillo del Valencia CF tras el 0-2 del Real Madrid #ElPost #deportesentiktok #tiktokfootballacademy #LALIGA",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T00:16:17.184687+00:00",
+  "generated_at": "2026-11-09T00:20:18.531810+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 30551,
-    "published_24h": 424,
+    "published_24h": 422,
     "published_48h": 1250,
-    "discovered_24h": 1081,
-    "discovered_48h": 2214
+    "discovered_24h": 1077,
+    "discovered_48h": 2210
   },
   "analysis": {
     "embeddings_total": 30551,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 424
+    "qwen_pending_24h": 422
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 48,
     "ES": 100,
     "DE": 124,
-    "OTHER": 147,
-    "IT": 3,
-    "MULTI": 2
+    "FR": 48,
+    "OTHER": 145,
+    "MULTI": 2,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -57,7 +57,7 @@
       "url": "https://www.tiktok.com/@jazmingamarragr/video/7705940613799234868",
       "published_at": "2026-11-08T23:06:22+00:00",
       "description": "#oufits #parati #valencia #marina #viral",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -414,7 +414,7 @@
       "url": "https://www.tiktok.com/@roig.arena/video/7705897825111936278",
       "published_at": "2026-11-08T20:19:16+00:00",
       "description": "Así ha arrancando el concierto de @Servando & Florentino en #SalaAuditorio ❤️‍🔥 #RoigArena #Valencia #Concierto",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7198,40 +7198,6 @@
       "published_at": "2026-11-08T00:26:35+00:00",
       "description": "🔵 #Televistazo l La Jornada Nacional de Movilización Contra el Gobierno se desarrolló este sábado en 12 ciudades del país. En Quito, Guayaquil y Cuenca, cientos de ciudadanos salieron a las calles para expresar sus reclamos y exigir respuestas a distintas demandas sociales. Más información en 🔗 Ecuavisa.com",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705588420927655175",
-      "username": "vectide",
-      "url": "https://www.tiktok.com/@vectide/video/7705588420927655175",
-      "published_at": "2026-11-08T00:18:40+00:00",
-      "description": "26 fouls is crazy #realmadrid #laliga #football #today #foryou Real Madrid vs Valencia today | Real Madrid today | Madrid Today | Valencia's fouls against Real Madrid | Bellingham today | Mbappe today",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705587399899794710",
-      "username": "100x100madridista1",
-      "url": "https://www.tiktok.com/@100x100madridista1/video/7705587399899794710",
-      "published_at": "2026-11-08T00:18:05+00:00",
-      "description": "¡EL MADRID GOLPEA TRES VECES! ⚽🔥 Valencia 0-3 Madrid Tres golpes blancos que hicieron vibrar a todo el madridismo! El Real Madrid salió decidido a imponer su fútbol ante el Valencia, con intensidad, velocidad y un ataque que no perdonó, tres goles que reflejan la contundencia del conjunto blanco, cada jugada demuestra la ambición de un equipo que quiere seguir mandando en LaLiga, ¡tres auténticos golpazos madridistas! ¿Cuál de los tres goles te gustó más? Real Madrid 🤍🔥 #RealMadrid #HalaMadrid #LaLiga #Mbappe #futbol #Arda #valverde #España #tiktokfutbol",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

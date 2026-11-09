@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T00:20:18.531810+00:00",
+  "generated_at": "2026-11-09T00:23:17.130985+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30551,
-    "published_24h": 422,
-    "published_48h": 1250,
+    "total_unique_videos": 30553,
+    "published_24h": 424,
+    "published_48h": 1252,
     "discovered_24h": 1077,
-    "discovered_48h": 2210
+    "discovered_48h": 2211
   },
   "analysis": {
-    "embeddings_total": 30551,
+    "embeddings_total": 30553,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 422
+    "qwen_pending_24h": 424
   },
   "mobilization": {
     "yes": 0,
@@ -23,10 +23,10 @@
   "countries": {
     "ES": 100,
     "DE": 124,
+    "OTHER": 147,
+    "IT": 3,
     "FR": 48,
-    "OTHER": 145,
-    "MULTI": 2,
-    "IT": 3
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -664,6 +664,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "published_at": "2026-11-08T19:35:36+00:00",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705885652625198358",
       "username": "basha.derzweite",
       "url": "https://www.tiktok.com/@basha.derzweite/video/7705885652625198358",
@@ -936,12 +953,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -953,12 +970,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1418,6 +1435,23 @@
       "published_at": "2026-11-08T17:55:34+00:00",
       "description": "🇩🇪 ALMANYA’DA GÜNLERDİR ARANAN 13 YAŞINDAKİ LISA NE YAZIK Kİ ÖLÜ BULUNDU! AĞIR YARALI BİR ERKEK GÖZALTINA ALINDI! Almanya, 13 yaşındaki Lisa T.‘nin ölüm haberiyle sarsıldı. Berlin’de günlerdir aranan küçük kızın cansız bedeni Brandenburg eyaletinde bulundu. 📍 LISA 3 KASIM’DA KAYBOLDU 13 yaşındaki Lisa, 3 Kasım Salı sabahı Berlin-Marzahn’daki evinden okuluna gitmek üzere ayrıldı. Saat 07.30 civarında otobüse binmesi bekleniyordu ancak okuluna ulaşmadı. Ailesi kendisinden haber alamayınca polise kayıp ihbarında bulundu. 🔎 GÜNLERCE ARANDI Polis geniş çaplı arama başlattı. 200’den fazla polis memuru, iz takip köpekleri ve helikopterlerle arama çalışmalarına katıldı. Çevredeki evler ve yeşil alanlar da araştırıldı. 💔 8 KASIM’DA ACI HABER GELDİ Brandenburg eyaletinin Altglietzen yerleşimindeki bir çiftlik arazisinde bulunan cansız bedenin Lisa’ya ait olduğu doğrulandı. 🚨 AĞIR YARALI BİR ERKEK GÖZALTINDA Lisa’nın bulunduğu yerde ağır yaralı bir erkek de tespit edildi. Hastaneye kaldırılan şüphelinin hayati tehlikesinin bulunduğu bildirildi. Erkek gözaltına alındı. Şüphelinin Lisa ile ilişkisi, olayın nasıl gerçekleştiği ve ölüm nedeni henüz netleşmedi. Soruşturma devam ediyor. 📌 Kaynak: ZDF, Berlin polisi ve Alman basını. #Almanya #Berlin #Avrupa #Gündem #SonDakika",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705860750975225121",
+      "username": "unions.rn",
+      "url": "https://www.tiktok.com/@unions.rn/video/7705860750975225121",
+      "published_at": "2026-11-08T17:55:23+00:00",
+      "description": "Quand un journaliste parle d’un autre journaliste de Mediapart face à Marine Le Pen, plutôt que de parler du quotidien des Français. #marinelepen #rassemblementnational #viral #Politique #fyp",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4064,12 +4098,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4081,12 +4115,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4965,11 +4999,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4982,11 +5016,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

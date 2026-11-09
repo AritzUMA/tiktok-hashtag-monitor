@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T03:20:37.805422+00:00",
+  "generated_at": "2026-11-09T03:24:03.040984+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30652,
-    "published_24h": 449,
-    "published_48h": 1288,
-    "discovered_24h": 1046,
-    "discovered_48h": 2227
+    "total_unique_videos": 30654,
+    "published_24h": 450,
+    "published_48h": 1289,
+    "discovered_24h": 1042,
+    "discovered_48h": 2226
   },
   "analysis": {
-    "embeddings_total": 30652,
+    "embeddings_total": 30654,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 449
+    "qwen_pending_24h": 450
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 167,
-    "DE": 128,
     "ES": 94,
-    "MULTI": 3,
+    "OTHER": 168,
     "FR": 53,
+    "DE": 128,
     "IT": 3,
+    "MULTI": 3,
     "BE": 1
   },
   "links": {
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705955997042347285",
+      "username": "onicecampanitahn",
+      "url": "https://www.tiktok.com/@onicecampanitahn/video/7705955997042347285",
+      "published_at": "2026-11-09T00:05:02+00:00",
+      "description": "🤐",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705954327101279520",
       "username": "vaan_anhh6",
@@ -1124,11 +1141,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1141,11 +1158,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T23:39:59.142593+00:00",
+  "generated_at": "2026-11-09T23:43:42.463707+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31432,
-    "published_24h": 391,
-    "published_48h": 1019,
-    "discovered_24h": 909,
-    "discovered_48h": 2011
+    "total_unique_videos": 31433,
+    "published_24h": 392,
+    "published_48h": 1015,
+    "discovered_24h": 902,
+    "discovered_48h": 2009
   },
   "analysis": {
-    "embeddings_total": 31432,
+    "embeddings_total": 31433,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 391
+    "qwen_pending_24h": 392
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "FR": 54,
     "OTHER": 180,
+    "ES": 50,
     "DE": 99,
-    "ES": 49,
+    "FR": 54,
     "IT": 5,
-    "MULTI": 3,
-    "BE": 1
+    "BE": 1,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -806,7 +806,7 @@
       "url": "https://www.tiktok.com/@elespanolcom/video/7706221547945495830",
       "published_at": "2026-11-09T17:40:00+00:00",
       "description": "✊ 🪧 Me niego a hacer la huelga general. Y tú tampoco deberías sumarte si no quieres quedar como un súbdito a merced a esos sindicatos que, mientras tú pierdes poder adquisitivo, ponen el cazo para que el Gobierno les riegue con millones. En 8 años, las subvenciones estatales han pasado de 8,8 a 32 millones de euros que han ido a parar principalmente para CCOO y UGT. Y, mientras sus ingresos aumentan un 263%, ¿qué ocurre con tu sueldo? Estos sindicatos, más ricos que nunca, celebran que el salario mínimo haya subido en este tiempo un 66%. Está muy bien, pero debajo se cuenta una realidad horrísona: y es que quienes han pasado a cobrar este sueldo representan más del 7% de la población. Es decir, que cada vez hay más gente en la parte baja de la pirámide salarial. Más gente cobrando poquito. ¿Es realmente un dato para celebrar? Y lo mismo ocurre con el salario medio: según Eurostat, un español cobra 6.000 euros menos al año que la media de los europeos, a los que también, por cierto, afectan la inflación y el precio de la vivienda. No somos excepcionales. La propia María Jesús Montero presentó esta huelga como una protesta ¡contra la oposición! No se ha visto nunca en otro país. Hasta el propio presidente, Pedro Sánchez, ha animado veladamente a acudir a ella y eso que, según los sindicatos, esta protesta se ha organizado para quejarse de que la vivienda se come los salarios. ¿Y qué ha hecho este Gobierno por este sector en todo este tiempo? Los sindicatos pueden presumir de estadísticas pero su estrategia ha pasado por enfrentar a los trabajadores con las PYMES y los autónomos, que son los que dan empleo a más del 65% de la población y que ellos, también, son víctimas de una asfixia impositiva y burocrática. Quienes deberían exigir responsabilidades al Gobierno han terminado por representarle ¡a él! y no a los trabajadores. Esto no tiene otro nombre que vasallaje político. Por eso ni tú ni nadie debería sumarse a esta huelga de pandereta. 🗣️ Te lo cuenta @ananunezmilara #huelga #11novimebre #españa #trabajadores",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3453,23 +3453,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706131895087615254",
-      "username": "france.inter",
-      "url": "https://www.tiktok.com/@france.inter/video/7706131895087615254",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7706140210651860246",
       "username": "a3noticias",
       "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
@@ -3493,6 +3476,23 @@
       "published_at": "2026-11-09T12:00:00+00:00",
       "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706131895087615254",
+      "username": "france.inter",
+      "url": "https://www.tiktok.com/@france.inter/video/7706131895087615254",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3946,12 +3946,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706105783976578326",
-      "username": "les.cartes.sur.ta",
-      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
+      "video_id": "7705947799543631126",
+      "username": "la.vdl.it",
+      "url": "https://www.tiktok.com/@la.vdl.it/video/7705947799543631126",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
-      "country": "OTHER",
+      "description": "Roma: liceo Socrate occupato! \"Le nostre forze e la nostra mobilitazione devono essere al fianco dei lavoratori e devono portare avanti le loro istanze e rafforzare le loro posizioni, che vadano oltre un ragionamento generazionale. Bisogna riportare la questione della rabbia di classe che le persone che stanno scendendo in piazza vivono gli studenti e le persone che stanno scendendo in piazza\". Continua la scia di occupazione delle scuole in tutta Italia. Questo mercoledì è stato occupato il liceo Socrate nel quartiere della Garbatella. L* student* denunciano i decreti sicurezza inutili e reazionari del governo Meloni, e proprio su questo hanno organizzato uno dei molti incontri di discussione e formazione di questi giorni. Centinaia di student* mantengono viva da giorni l'occupazione e ieri hanno partecipato, insieme a delegazioni da altre scuole, a un'assemblea scolastica cittadina che ha discusso la partecipazione alla giornata di lotta internazionale contro il riarmo, organizzata da correnti studentesche di tutta Europa, che in Italia vedrà anche lo sciopero generale indetto da CGIL, USB Scuola e Pubblico impiego, e diversi sindacati di base. #Scuola #Roma #Liceo #ScioperoGenerale #20Novembre",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3980,12 +3980,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705947799543631126",
-      "username": "la.vdl.it",
-      "url": "https://www.tiktok.com/@la.vdl.it/video/7705947799543631126",
+      "video_id": "7706105783976578326",
+      "username": "les.cartes.sur.ta",
+      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "Roma: liceo Socrate occupato! \"Le nostre forze e la nostra mobilitazione devono essere al fianco dei lavoratori e devono portare avanti le loro istanze e rafforzare le loro posizioni, che vadano oltre un ragionamento generazionale. Bisogna riportare la questione della rabbia di classe che le persone che stanno scendendo in piazza vivono gli studenti e le persone che stanno scendendo in piazza\". Continua la scia di occupazione delle scuole in tutta Italia. Questo mercoledì è stato occupato il liceo Socrate nel quartiere della Garbatella. L* student* denunciano i decreti sicurezza inutili e reazionari del governo Meloni, e proprio su questo hanno organizzato uno dei molti incontri di discussione e formazione di questi giorni. Centinaia di student* mantengono viva da giorni l'occupazione e ieri hanno partecipato, insieme a delegazioni da altre scuole, a un'assemblea scolastica cittadina che ha discusso la partecipazione alla giornata di lotta internazionale contro il riarmo, organizzata da correnti studentesche di tutta Europa, che in Italia vedrà anche lo sciopero generale indetto da CGIL, USB Scuola e Pubblico impiego, e diversi sindacati di base. #Scuola #Roma #Liceo #ScioperoGenerale #20Novembre",
-      "country": "IT",
+      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5119,6 +5119,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706087277138677014",
+      "username": "user23614271848828",
+      "url": "https://www.tiktok.com/@user23614271848828/video/7706087277138677014",
+      "published_at": "2026-11-09T08:38:10+00:00",
+      "description": "PROTESTE:\" Gen Z regelt das\" - \"Nein, tut sie nicht!\" - Teil 2 #viral #fyp #trending #PROTESTE #GenZ #regelt #das #Nein #tut #sie #nicht",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706086208350276897",
       "username": "rapidows8",
       "url": "https://www.tiktok.com/@rapidows8/video/7706086208350276897",
@@ -6037,12 +6054,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706039382544862496",
-      "username": "dampfpolitik",
-      "url": "https://www.tiktok.com/@dampfpolitik/video/7706039382544862496",
+      "video_id": "7706039474526014738",
+      "username": "potternattt",
+      "url": "https://www.tiktok.com/@potternattt/video/7706039474526014738",
       "published_at": "2026-11-09T05:29:02+00:00",
-      "description": "#flagge #polizei #parlament #deutschland #bundestag",
-      "country": "DE",
+      "description": "พอได้มุ้ยย  🥴 #เพลงgenz #เด็กgenz #geny #แนทอนิพรณ์ #ลิปซิงค์",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6054,12 +6071,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706039474526014738",
-      "username": "potternattt",
-      "url": "https://www.tiktok.com/@potternattt/video/7706039474526014738",
+      "video_id": "7706039382544862496",
+      "username": "dampfpolitik",
+      "url": "https://www.tiktok.com/@dampfpolitik/video/7706039382544862496",
       "published_at": "2026-11-09T05:29:02+00:00",
-      "description": "พอได้มุ้ยย  🥴 #เพลงgenz #เด็กgenz #geny #แนทอนิพรณ์ #ลิปซิงค์",
-      "country": "OTHER",
+      "description": "#flagge #polizei #parlament #deutschland #bundestag",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

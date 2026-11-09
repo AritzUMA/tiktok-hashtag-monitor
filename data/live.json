@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T03:24:03.040984+00:00",
+  "generated_at": "2026-11-09T03:27:53.294650+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30654,
-    "published_24h": 450,
-    "published_48h": 1289,
-    "discovered_24h": 1042,
+    "total_unique_videos": 30656,
+    "published_24h": 452,
+    "published_48h": 1290,
+    "discovered_24h": 1039,
     "discovered_48h": 2226
   },
   "analysis": {
-    "embeddings_total": 30654,
+    "embeddings_total": 30656,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 450
+    "qwen_pending_24h": 452
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 94,
-    "OTHER": 168,
+    "OTHER": 170,
     "FR": 53,
     "DE": 128,
-    "IT": 3,
+    "ES": 94,
+    "BE": 1,
     "MULTI": 3,
-    "BE": 1
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705970508126326049",
+      "username": "info.gaucho",
+      "url": "https://www.tiktok.com/@info.gaucho/video/7705970508126326049",
+      "published_at": "2026-11-09T01:01:34+00:00",
+      "description": "Face au rassemblement \" Y en a marre !\" du maire  d'Orléans ce vendredi 6 novembre, des orléanais qui se mobilisent depuis des semaines pour un meilleur avenir sont venus exprimer leur opposition à la criminalisation du mouvement sociale réalisée par Serge Grouard.  L'occasion de rappeler les propos discriminatoires du maire à l'idéologie d'extrême droite, qui ne prête aucune attention aux revendications et aux violences policières. Un maire qui a notamment affrété des bus publics de l'agglomération d'Orléans pour transporter des militants d'extrême droite au congrès du RN les 24 et 25 octobre 2026 alors qu'il avait mis la ville en état de siège pour le rassemblement antifasciste. #orleans #grouard #politique #manifestation #pourtoi",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705955997042347285",
       "username": "onicecampanitahn",
@@ -109,6 +126,23 @@
       "url": "https://www.tiktok.com/@mabelle031/video/7705942319148633365",
       "published_at": "2026-11-08T23:11:57+00:00",
       "description": "#Recuerdos",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705941512718257440",
+      "username": "taragumedia",
+      "url": "https://www.tiktok.com/@taragumedia/video/7705941512718257440",
+      "published_at": "2026-11-08T23:08:48+00:00",
+      "description": "Rassemblement ce dimanche sur le parvis de l'hôtel de ville de Saint Denis en soutien aux élèves du lycée Paul Eluard.  Prise de parole du maire @Bally Bagayoko @Revolution Permanente @Le Poing Levé Paris 1 @lepoingleve  @Momo Lemalin  pour @taragumedia  #7novembre #lyceens #actu #foryoupage❤️❤️ #saintdenis",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4966,12 +5000,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4983,12 +5017,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

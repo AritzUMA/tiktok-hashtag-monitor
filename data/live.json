@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T06:35:27.190817+00:00",
+  "generated_at": "2026-11-09T06:38:39.738367+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30746,
+    "total_unique_videos": 30749,
     "published_24h": 484,
     "published_48h": 1323,
     "discovered_24h": 955,
-    "discovered_48h": 2193
+    "discovered_48h": 2196
   },
   "analysis": {
-    "embeddings_total": 30746,
+    "embeddings_total": 30749,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 484
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 97,
-    "FR": 58,
-    "OTHER": 177,
     "DE": 146,
-    "MULTI": 3,
+    "OTHER": 178,
+    "FR": 57,
+    "ES": 97,
     "BE": 1,
-    "IT": 2
+    "IT": 2,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -399,6 +399,23 @@
       "published_at": "2026-11-08T23:06:22+00:00",
       "description": "#oufits #parati #valencia #marina #viral",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705940518898814214",
+      "username": "eden.3110",
+      "url": "https://www.tiktok.com/@eden.3110/video/7705940518898814214",
+      "published_at": "2026-11-08T23:05:03+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6836,11 +6853,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6853,11 +6870,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -8236,23 +8253,6 @@
       "published_at": "2026-11-08T06:50:04+00:00",
       "description": "#silvestredangond#valencia#fyp",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705686054539431170",
-      "username": "france3paca",
-      "url": "https://www.tiktok.com/@france3paca/video/7705686054539431170",
-      "published_at": "2026-11-08T06:37:22+00:00",
-      "description": "Après la mobilisation de ce samedi 7 novembre, la soirée a une nouvelle fois dégénéré à la Plaine. Manifestants et forces de l’ordre se sont affrontés. #marseille",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T07:55:47.677589+00:00",
+  "generated_at": "2026-11-09T07:58:42.698648+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 30785,
-    "published_24h": 483,
-    "published_48h": 1324,
-    "discovered_24h": 953,
-    "discovered_48h": 2197
+    "published_24h": 481,
+    "published_48h": 1322,
+    "discovered_24h": 950,
+    "discovered_48h": 2195
   },
   "analysis": {
     "embeddings_total": 30785,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 483
+    "qwen_pending_24h": 481
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 146,
-    "OTHER": 185,
-    "FR": 56,
     "ES": 89,
-    "IT": 2,
+    "OTHER": 182,
+    "FR": 56,
+    "DE": 147,
     "MULTI": 3,
+    "IT": 2,
     "BE": 2
   },
   "links": {
@@ -2319,7 +2319,7 @@
       "url": "https://www.tiktok.com/@andrea247855/video/7705878092471913750",
       "published_at": "2026-11-08T19:02:44+00:00",
       "description": "in front of the Bundestag in Berlin! #protest #berlin #freepalestine @𝔼𝕪𝕖 @Ep10Gaza",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2382,12 +2382,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2399,12 +2399,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8202,40 +8202,6 @@
       "published_at": "2026-11-08T08:00:03+00:00",
       "description": "Protests across France continued for a fourth consecutive weekend on Saturday. In Paris, clashes broke out between police and some demonstrators. #FranceProtests #ParisProtests",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705706301996813581",
-      "username": "ax_pixel",
-      "url": "https://www.tiktok.com/@ax_pixel/video/7705706301996813581",
-      "published_at": "2026-11-08T07:57:00+00:00",
-      "description": "Best sounding car no doubt #cgt #porsche #cars #viral #fyp",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705706374151408897",
-      "username": "liam.jones019",
-      "url": "https://www.tiktok.com/@liam.jones019/video/7705706374151408897",
-      "published_at": "2026-11-08T07:56:22+00:00",
-      "description": "",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

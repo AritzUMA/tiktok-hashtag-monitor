@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T11:21:12.126020+00:00",
+  "generated_at": "2026-11-09T11:24:31.746670+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30915,
+    "total_unique_videos": 30917,
     "published_24h": 477,
-    "published_48h": 1305,
-    "discovered_24h": 984,
-    "discovered_48h": 2229
+    "published_48h": 1306,
+    "discovered_24h": 983,
+    "discovered_48h": 2225
   },
   "analysis": {
-    "embeddings_total": 30915,
+    "embeddings_total": 30917,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 477
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 185,
-    "ES": 81,
-    "DE": 155,
+    "DE": 154,
+    "ES": 80,
+    "OTHER": 187,
+    "MULTI": 2,
     "FR": 50,
-    "BE": 2,
     "IT": 2,
-    "MULTI": 2
+    "BE": 2
   },
   "links": {
     "qr_videos": 0,
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706113017934597398",
+      "username": "dossiercero",
+      "url": "https://www.tiktok.com/@dossiercero/video/7706113017934597398",
+      "published_at": "2026-11-09T10:14:30+00:00",
+      "description": "Expediente 195 | La caja negra del Iryo revela 4 avisos sin respuesta | ¿Qué pasó en Urda? La maquinista del Iryo intentó contactar hasta cuatro veces con Atocha antes del accidente de Urda, según los registros publicados. Y en Adamuz, dos registradores adicionales del Alvia siguen sin localizarse. ¿Qué está pasando con las investigaciones ferroviarias? #Urda #Adamuz #Adif #Iryo #Renfe #Trenes #CajaNegra #AccidenteFerroviario #Noticias #ActualidadEspaña #Investigacion #DossierCero",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706107585572654369",
       "username": "_in.love.lou_",
@@ -619,6 +636,23 @@
       "url": "https://www.tiktok.com/@shemschaden/video/7706070393504681248",
       "published_at": "2026-11-09T07:29:02+00:00",
       "description": "Für was demonstrieren wir eigentlich? #footlocker #genz #demo #fyp #viral @BATSCHESCH",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706068168816528672",
+      "username": "views.fyr",
+      "url": "https://www.tiktok.com/@views.fyr/video/7706068168816528672",
+      "published_at": "2026-11-09T07:20:26+00:00",
+      "description": "Absolute Eilmeldung. Palästina-Fahne am Reichstag, mitten in Berlin, direkt vor dem Bundestag! Sonntag, kurz nach 11 Uhr: Ein Mann klettert den Fahnenmast hoch, holt oben die Deutschlandfahne runter und hisst die Palästinenser-Fahne. Zwei Männer filmen mit. Polizei sperrt ab, Feuerwehr rückt mit Drehleiter an. Die Fahne weht über eine Stunde. Alle drei festgenommen. Nicht das erste Mal: Auch aufs Brandenburger Tor kletterten Aktivisten. Wie kann das passieren? Härtere Strafen? Eure Meinung! #Eilmeldung #Berlin #Reichstag #Nachrichten #Deutschland",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3096,11 +3130,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3113,11 +3147,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8100,40 +8134,6 @@
       "published_at": "2026-11-08T11:32:06+00:00",
       "description": "😡 Cañizares se pilla un buen enfado con Hugo Ballester en Tiempo de Juego de la COPE por culpa de la actitud de Maffeo contra el Real Madrid #maffeo #realmadridcf #valenciacf #cañizares #futbol",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705759843860188448",
-      "username": "kelliediao",
-      "url": "https://www.tiktok.com/@kelliediao/video/7705759843860188448",
-      "published_at": "2026-11-08T11:23:50+00:00",
-      "description": "26 FOULS! VALENCIA VERLOR GEGEN REAL MADRID DIE KONTROLLE!#RealMadrid #ValenciaCF #Mbappe #LaLiga #FussballTikTok",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705759614649830688",
-      "username": "frankfurtammain33",
-      "url": "https://www.tiktok.com/@frankfurtammain33/video/7705759614649830688",
-      "published_at": "2026-11-08T11:22:59+00:00",
-      "description": "Frankfurt am Main #frankfurtammain33 #FrankfurtNews #UmweltFrankfurt #Demonstration #Frankfurt",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

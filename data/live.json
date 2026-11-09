@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T04:42:00.681005+00:00",
+  "generated_at": "2026-11-09T04:45:14.486723+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 30682,
     "published_24h": 463,
     "published_48h": 1303,
-    "discovered_24h": 977,
-    "discovered_48h": 2198
+    "discovered_24h": 975,
+    "discovered_48h": 2197
   },
   "analysis": {
-    "embeddings_total": 30681,
+    "embeddings_total": 30682,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 463
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 97,
-    "FR": 54,
     "OTHER": 171,
+    "ES": 97,
     "DE": 134,
+    "FR": 54,
     "IT": 3,
     "MULTI": 3,
     "BE": 1
@@ -1362,11 +1362,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1379,11 +1379,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6258,11 +6258,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6275,11 +6275,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

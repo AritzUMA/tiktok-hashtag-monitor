@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T07:19:44.287210+00:00",
+  "generated_at": "2026-11-09T07:24:06.796695+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 30773,
-    "published_24h": 486,
-    "published_48h": 1326,
-    "discovered_24h": 954,
-    "discovered_48h": 2203
+    "published_24h": 485,
+    "published_48h": 1325,
+    "discovered_24h": 951,
+    "discovered_48h": 2202
   },
   "analysis": {
     "embeddings_total": 30773,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 486
+    "qwen_pending_24h": 485
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 57,
-    "OTHER": 185,
-    "DE": 147,
+    "DE": 148,
+    "OTHER": 184,
     "ES": 90,
-    "IT": 2,
+    "FR": 56,
     "MULTI": 3,
+    "IT": 2,
     "BE": 2
   },
   "links": {
@@ -228,7 +228,7 @@
       "url": "https://www.tiktok.com/@lamecha900/video/7705963145960885537",
       "published_at": "2026-11-09T00:32:55+00:00",
       "description": "Activista retira la bandera alemana frente al Parlamento y coloca la palestina. La policía intervino y se han abierto investigaciones. 🇩🇪🇵🇸 Berlín, 8 de noviembre de 2026. Apoyar una causa es legítimo, pero ¿justifica retirar los símbolos nacionales de otro país? ¿Para ti es una protesta legítima o se ha cruzado una línea? #Alemania #Palestina #Berlin #Actualidad #Actualidad",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2892,12 +2892,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2909,12 +2909,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7074,11 +7074,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7091,11 +7091,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -8270,23 +8270,6 @@
       "published_at": "2026-11-08T07:26:31+00:00",
       "description": "#silvestredangond #valencia #vallenato",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705697160246971681",
-      "username": "franceafriquemedia",
-      "url": "https://www.tiktok.com/@franceafriquemedia/video/7705697160246971681",
-      "published_at": "2026-11-08T07:20:47+00:00",
-      "description": "🔴🇫🇷 7-novembre : Des manifestants moins nombreux mais une colère toujours intacte. Un quatrième week-end consécutif de manifestations et une mobilisation en recul. Un total de 146 000 personnes ont manifesté, samedi 7 novembre, en France, dont 46 000 à Paris, lors de la mobilisation « pour la jeunesse et contre la vie chère », selon un comptage définitif du ministère de l’Intérieur communiqué à l’AFP.",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

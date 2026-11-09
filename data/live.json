@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T19:26:09.267936+00:00",
+  "generated_at": "2026-11-09T19:29:38.773660+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31259,
-    "published_24h": 399,
+    "total_unique_videos": 31261,
+    "published_24h": 401,
     "published_48h": 1182,
     "discovered_24h": 933,
-    "discovered_48h": 2137
+    "discovered_48h": 2134
   },
   "analysis": {
-    "embeddings_total": 31259,
+    "embeddings_total": 31261,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 399
+    "qwen_pending_24h": 401
   },
   "mobilization": {
     "yes": 0,
@@ -22,12 +22,12 @@
   "roles": {},
   "countries": {
     "DE": 122,
-    "OTHER": 168,
-    "FR": 47,
+    "OTHER": 170,
     "ES": 55,
-    "MULTI": 2,
+    "FR": 47,
     "BE": 1,
-    "IT": 4
+    "IT": 4,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -773,6 +773,23 @@
       "published_at": "2026-11-09T14:47:03+00:00",
       "description": "Fall Lisa: Was der Staatsanwalt sagt – und neue Details. Was glaubt ihr: Kannte er Lisa? #lisa #berlin #brandenburg #eilmeldung #news",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706182708753435936",
+      "username": "mmn.kante5",
+      "url": "https://www.tiktok.com/@mmn.kante5/video/7706182708753435936",
+      "published_at": "2026-11-09T14:44:45+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1872,12 +1889,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706140210651860246",
-      "username": "a3noticias",
-      "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
+      "video_id": "7706109461609450759",
+      "username": "kitsarang",
+      "url": "https://www.tiktok.com/@kitsarang/video/7706109461609450759",
       "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "🛤️ Se espera una semana muy complicada en Rodalies con huelga de maquinistas y la huelga general  👉🏼 Se recomienda a los viajeros que busquen alternativas  🗣️ Marta Rams   📲 Consulta toda la #actualidad en antena3noticias.com #Noticias #News #Antena3Noticias",
-      "country": "OTHER",
+      "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1889,12 +1906,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706109461609450759",
-      "username": "kitsarang",
-      "url": "https://www.tiktok.com/@kitsarang/video/7706109461609450759",
+      "video_id": "7706140210651860246",
+      "username": "a3noticias",
+      "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
       "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
-      "country": "DE",
+      "description": "🛤️ Se espera una semana muy complicada en Rodalies con huelga de maquinistas y la huelga general  👉🏼 Se recomienda a los viajeros que busquen alternativas  🗣️ Marta Rams   📲 Consulta toda la #actualidad en antena3noticias.com #Noticias #News #Antena3Noticias",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3487,6 +3504,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706083229870148896",
+      "username": "guardiacivica.it",
+      "url": "https://www.tiktok.com/@guardiacivica.it/video/7706083229870148896",
+      "published_at": "2026-11-09T08:18:49+00:00",
+      "description": "#scioperi #tpl #milano #venezia #autobus",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706082980472556822",
       "username": "bfmtv",
       "url": "https://www.tiktok.com/@bfmtv/video/7706082980472556822",
@@ -4269,12 +4303,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706039474526014738",
-      "username": "potternattt",
-      "url": "https://www.tiktok.com/@potternattt/video/7706039474526014738",
+      "video_id": "7706039382544862496",
+      "username": "dampfpolitik",
+      "url": "https://www.tiktok.com/@dampfpolitik/video/7706039382544862496",
       "published_at": "2026-11-09T05:29:02+00:00",
-      "description": "พอได้มุ้ยย  🥴 #เพลงgenz #เด็กgenz #geny #แนทอนิพรณ์ #ลิปซิงค์",
-      "country": "OTHER",
+      "description": "#flagge #polizei #parlament #deutschland #bundestag",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4286,12 +4320,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706039382544862496",
-      "username": "dampfpolitik",
-      "url": "https://www.tiktok.com/@dampfpolitik/video/7706039382544862496",
+      "video_id": "7706039474526014738",
+      "username": "potternattt",
+      "url": "https://www.tiktok.com/@potternattt/video/7706039474526014738",
       "published_at": "2026-11-09T05:29:02+00:00",
-      "description": "#flagge #polizei #parlament #deutschland #bundestag",
-      "country": "DE",
+      "description": "พอได้มุ้ยย  🥴 #เพลงgenz #เด็กgenz #geny #แนทอนิพรณ์ #ลิปซิงค์",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

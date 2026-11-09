@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T04:52:12.668938+00:00",
+  "generated_at": "2026-11-09T04:55:38.511105+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30684,
-    "published_24h": 464,
+    "total_unique_videos": 30685,
+    "published_24h": 465,
     "published_48h": 1303,
-    "discovered_24h": 972,
+    "discovered_24h": 969,
     "discovered_48h": 2189
   },
   "analysis": {
-    "embeddings_total": 30684,
+    "embeddings_total": 30685,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 464
+    "qwen_pending_24h": 465
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 172,
-    "IT": 3,
-    "FR": 54,
-    "DE": 134,
-    "ES": 97,
+    "OTHER": 171,
+    "ES": 98,
     "MULTI": 3,
+    "FR": 54,
+    "DE": 135,
+    "IT": 3,
     "BE": 1
   },
   "links": {
@@ -415,7 +415,7 @@
       "url": "https://www.tiktok.com/@brasil.de/video/7705929573384359200",
       "published_at": "2026-11-08T22:22:30+00:00",
       "description": "🚨 DREI FESTNAHMEN AM REICHSTAG IN BERLIN! Ein Vorfall, der für massive Empörung sorgt: Am Reichstagsgebäude wurde offenbar die deutsche Flagge durch eine palästinensische Flagge ersetzt. Drei Tatverdächtige wurden festgenommen. Die Polizei ermittelt. Wie konnte es zu diesem Vorfall an einem der wichtigsten politischen Orte Deutschlands kommen? #Deutschland #Berlin #Reichstag #Polizei #Nachrichten",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -671,6 +671,23 @@
       "published_at": "2026-11-08T21:24:07+00:00",
       "description": "Traurige Entwicklung im Fall Lisa: Was Polizei und Staatsanwaltschaft bisher mitteilen. #Berlin #Brandenburg #Lisa #Nachrichten #GuckMalNews",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705913907541495060",
+      "username": "massielguevaraa",
+      "url": "https://www.tiktok.com/@massielguevaraa/video/7705913907541495060",
+      "published_at": "2026-11-08T21:21:46+00:00",
+      "description": "Mi amor eres tú🫶🏻 ig:massielguevaraa #silvestredangond #venezuela #conciertosilvestredangond #valencia #vallenato",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5340,12 +5357,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5357,12 +5374,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6275,11 +6292,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6292,11 +6309,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

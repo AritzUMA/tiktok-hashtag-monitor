@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T12:48:56.441717+00:00",
+  "generated_at": "2026-11-09T12:55:25.396896+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30978,
+    "total_unique_videos": 30979,
     "published_24h": 469,
-    "published_48h": 1311,
+    "published_48h": 1307,
     "discovered_24h": 993,
-    "discovered_48h": 2234
+    "discovered_48h": 2233
   },
   "analysis": {
-    "embeddings_total": 30978,
+    "embeddings_total": 30979,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 469
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 180,
     "DE": 154,
     "ES": 78,
-    "OTHER": 180,
     "FR": 51,
     "BE": 2,
-    "MULTI": 2,
-    "IT": 2
+    "IT": 2,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -3708,11 +3708,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3725,11 +3725,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5544,12 +5544,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705482612936051990",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705482612936051990",
+      "video_id": "7705781045832027414",
+      "username": "debate.perspectives",
+      "url": "https://www.tiktok.com/@debate.perspectives/video/7705781045832027414",
       "published_at": "2026-11-08T17:00:00+00:00",
-      "description": "Böller fliegen, Steine werden geworfen und die Polizei setzt Pfefferspray ein: In Berlin eskalieren die Jugendproteste am Halloweenabend. Was am Nachmittag mit einer friedlichen Demonstration am Brandenburger Tor beginnt, endet wenige Stunden später in heftigen Auseinandersetzungen zwischen Demonstrierenden und der Polizei. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "Gen Z regelt geht wieder auf die Straße. Am 20. November sind Demos in vielen Städten angekündigt. Die Jungen fordern bezahlbares Leben und mehr Mitsprache. Viele Ältere sagen, nach den Krawallen vom 31. Oktober fehlt das Vertrauen. Berechtigt oder übertrieben? Link zur Beta in der Bio. #genzregelt #genz #demo #politik #jungvsalt",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5561,12 +5561,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705781045832027414",
-      "username": "debate.perspectives",
-      "url": "https://www.tiktok.com/@debate.perspectives/video/7705781045832027414",
+      "video_id": "7705482612936051990",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705482612936051990",
       "published_at": "2026-11-08T17:00:00+00:00",
-      "description": "Gen Z regelt geht wieder auf die Straße. Am 20. November sind Demos in vielen Städten angekündigt. Die Jungen fordern bezahlbares Leben und mehr Mitsprache. Viele Ältere sagen, nach den Krawallen vom 31. Oktober fehlt das Vertrauen. Berechtigt oder übertrieben? Link zur Beta in der Bio. #genzregelt #genz #demo #politik #jungvsalt",
-      "country": "OTHER",
+      "description": "Böller fliegen, Steine werden geworfen und die Polizei setzt Pfefferspray ein: In Berlin eskalieren die Jugendproteste am Halloweenabend. Was am Nachmittag mit einer friedlichen Demonstration am Brandenburger Tor beginnt, endet wenige Stunden später in heftigen Auseinandersetzungen zwischen Demonstrierenden und der Polizei. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

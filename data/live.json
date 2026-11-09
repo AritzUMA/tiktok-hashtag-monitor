@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T05:00:01.866043+00:00",
+  "generated_at": "2026-11-09T05:03:28.088571+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30687,
-    "published_24h": 465,
-    "published_48h": 1303,
-    "discovered_24h": 971,
-    "discovered_48h": 2191
+    "total_unique_videos": 30691,
+    "published_24h": 467,
+    "published_48h": 1305,
+    "discovered_24h": 972,
+    "discovered_48h": 2195
   },
   "analysis": {
-    "embeddings_total": 30687,
+    "embeddings_total": 30691,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 465
+    "qwen_pending_24h": 467
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 172,
     "DE": 135,
-    "FR": 54,
+    "OTHER": 173,
+    "FR": 55,
     "ES": 97,
-    "MULTI": 3,
     "IT": 3,
-    "BE": 1
+    "BE": 1,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -977,6 +977,23 @@
       "published_at": "2026-11-08T20:34:31+00:00",
       "description": "#duet with @BlitzTicker Germany #berlin",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705901584848342294",
+      "username": "lucho.gatica",
+      "url": "https://www.tiktok.com/@lucho.gatica/video/7705901584848342294",
+      "published_at": "2026-11-08T20:33:53+00:00",
+      "description": "#muertos #renfe #gobiernodeespaña #ultimahora🚨",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2331,12 +2348,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2348,12 +2365,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2676,7 +2693,7 @@
       "url": "https://www.tiktok.com/@lecinephileoff0/video/7705852071655836960",
       "published_at": "2026-11-08T17:21:44+00:00",
       "description": "#bally#saintdenis#france#actu#maire @Bally Bagayoko",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3866,6 +3883,23 @@
       "url": "https://www.tiktok.com/@dutchbreakingnews/video/7705818857591606551",
       "published_at": "2026-11-08T15:12:49+00:00",
       "description": "At least 200,000 people took part in a major pro-Palestinian demonstration in Amsterdam on Sunday, according to the organisers. The fourth Red Line protest began at Museumplein, with demonstrators marching around Vondelpark. The protesters are demanding stronger action from the Dutch government against Israel, including economic sanctions and an end to military cooperation. The demonstration was organised by 13 organisations, including Amnesty International, Oxfam Novib and Save the Children. The previous Amsterdam edition, held in October 2025, attracted an estimated 250,000 participants. #Amsterdam #netherlands #holland #europe #rodelijn",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705818144580865313",
+      "username": "ddrgenosse",
+      "url": "https://www.tiktok.com/@ddrgenosse/video/7705818144580865313",
+      "published_at": "2026-11-08T15:10:02+00:00",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6309,11 +6343,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6326,11 +6360,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

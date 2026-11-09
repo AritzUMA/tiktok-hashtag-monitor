@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T02:37:01.948073+00:00",
+  "generated_at": "2026-11-09T02:40:49.646441+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30627,
+    "total_unique_videos": 30628,
     "published_24h": 440,
     "published_48h": 1274,
-    "discovered_24h": 1038,
+    "discovered_24h": 1039,
     "discovered_48h": 2220
   },
   "analysis": {
-    "embeddings_total": 30627,
+    "embeddings_total": 30628,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 440
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 95,
+    "OTHER": 162,
     "DE": 126,
-    "OTHER": 161,
+    "ES": 94,
     "FR": 51,
     "IT": 3,
-    "BE": 1,
-    "MULTI": 3
+    "MULTI": 3,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -35,6 +35,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7705954327101279520",
+      "username": "vaan_anhh6",
+      "url": "https://www.tiktok.com/@vaan_anhh6/video/7705954327101279520",
+      "published_at": "2026-11-08T23:58:47+00:00",
+      "description": "#frankfurt #halloween #demo",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7705943596947623190",
       "username": "daznfutbol",
@@ -988,11 +1005,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1005,11 +1022,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1362,12 +1379,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1379,12 +1396,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5629,11 +5646,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5646,11 +5663,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7487,23 +7504,6 @@
       "url": "https://www.tiktok.com/@football_by_ak13/video/7705626491081510174",
       "published_at": "2026-11-08T02:46:27+00:00",
       "description": "real madrid vs valancia highlights  #realmadrid #halamadrid #valencia #valenciacf #laliga #footballtiktok #football #goals #matchhighlights #fyp",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705624876920458516",
-      "username": "alfonsolasoa",
-      "url": "https://www.tiktok.com/@alfonsolasoa/video/7705624876920458516",
-      "published_at": "2026-11-08T02:40:14+00:00",
-      "description": "🔥💪🏾🦸🏾‍♂️⚽️🇪🇨 Qué alegría grande verle a nuestro Enner Valencia celebrando el título en 🇦🇷. Y además marcando el épico gol del campeonato para Boca Juniors .  La locura desatada por este gol y la vuelta olímpica tendrá una repercusión incomparable en el mundo del fútbol. Se lo merece Enner, por todas las alegrías que nos ha entregado y por todo el carácter que siempre ha demostrado.  ¡Salud chivo, salud campeón!  🎉🐐💛💙❤️",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

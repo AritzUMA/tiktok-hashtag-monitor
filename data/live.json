@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T17:45:40.394751+00:00",
+  "generated_at": "2026-11-09T17:48:57.929164+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31184,
+    "total_unique_videos": 31185,
     "published_24h": 416,
-    "published_48h": 1211,
-    "discovered_24h": 956,
-    "discovered_48h": 2176
+    "published_48h": 1208,
+    "discovered_24h": 950,
+    "discovered_48h": 2172
   },
   "analysis": {
     "embeddings_total": 31184,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 62,
     "OTHER": 162,
-    "DE": 133,
+    "ES": 62,
     "FR": 51,
+    "DE": 133,
+    "IT": 3,
     "BE": 2,
-    "MULTI": 3,
-    "IT": 3
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -1243,6 +1243,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706109461609450759",
+      "username": "kitsarang",
+      "url": "https://www.tiktok.com/@kitsarang/video/7706109461609450759",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706140210651860246",
       "username": "a3noticias",
       "url": "https://www.tiktok.com/@a3noticias/video/7706140210651860246",
@@ -1266,23 +1283,6 @@
       "published_at": "2026-11-09T12:00:00+00:00",
       "description": "Une conférence sociale à Matignon sans les représentants des fonctionnaires ? \"C’est un crachat à la figure des agents de la fonction publique\" pour Sophie Binet, secrétaire générale de la CGT. ➡️ Pour en savoir plus, écoutez \"La Grande matinale\" sur l'application Radio France #smic #economie #salaires #inflation #servicepublic",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706109461609450759",
-      "username": "kitsarang",
-      "url": "https://www.tiktok.com/@kitsarang/video/7706109461609450759",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "description": "Gen Z Protests เมื่อคนรุ่นใหม่ออกมาสั่งสอนผู้มีอำนาจ EP.3 #เรื่องเล่า #เล่าเรื่อง #สาระคดี",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1651,12 +1651,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706105783976578326",
-      "username": "les.cartes.sur.ta",
-      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
+      "video_id": "7706107889965862166",
+      "username": "cronica_global",
+      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
-      "country": "OTHER",
+      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1668,12 +1668,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706107889965862166",
-      "username": "cronica_global",
-      "url": "https://www.tiktok.com/@cronica_global/video/7706107889965862166",
+      "video_id": "7706105783976578326",
+      "username": "les.cartes.sur.ta",
+      "url": "https://www.tiktok.com/@les.cartes.sur.ta/video/7706105783976578326",
       "published_at": "2026-11-09T11:00:00+00:00",
-      "description": "🚆 Rodalies arranca la semana con retrasos generalizados y cortes en varias líneas debido a la falta de maquinistas. Las incidencias afectan especialmente a la R2, R2 Sud, R4 y RL4, en una jornada marcada por las alteraciones del servicio ferroviario y las retenciones de hasta seis kilómetros en los accesos a Barcelona. ⚠️ El origen de las afectaciones está en un conflicto laboral entre Renfe y el sindicato de maquinistas Semaf. La implantación unilateral de nuevos cuadrantes horarios, tras la ruptura de un acuerdo previo, ha generado discrepancias sobre los turnos, los descansos y la duración de las jornadas laborales. Rodalies atribuye las alteraciones a una «incidencia operativa». 📅 La situación se produce a las puertas de tres jornadas consecutivas de huelga, previstas para los días 10, 11 y 12 de noviembre. Semaf ha convocado paros para el martes y el jueves, mientras que el miércoles tendrá lugar una huelga general, con servicios mínimos y nuevas afectaciones previstas en la movilidad ferroviaria. *Imágenes de recurso  #Rodalies #Renfe #Barcelona #Huelga #CronicaGlobal",
-      "country": "ES",
+      "description": "Sophie Binet face à Emmanuel de Villiers aux Grandes Gueules : la CGT, « mauvais esprit » ou contre-pouvoir indispensable ? Qui a raison ? #cgt #syndicats #patrons #grandesgueules #debat",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6360,12 +6360,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6377,12 +6377,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T03:39:19.296343+00:00",
+  "generated_at": "2026-11-09T03:43:05.786922+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30659,
-    "published_24h": 452,
-    "published_48h": 1292,
-    "discovered_24h": 1028,
-    "discovered_48h": 2215
+    "total_unique_videos": 30660,
+    "published_24h": 453,
+    "published_48h": 1293,
+    "discovered_24h": 1026,
+    "discovered_48h": 2211
   },
   "analysis": {
-    "embeddings_total": 30659,
+    "embeddings_total": 30660,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 452
+    "qwen_pending_24h": 453
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 169,
     "ES": 94,
     "DE": 129,
-    "OTHER": 168,
     "FR": 54,
-    "MULTI": 3,
+    "BE": 1,
     "IT": 3,
-    "BE": 1
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -1175,11 +1175,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1192,11 +1192,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2076,12 +2076,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861580570758433",
-      "username": "cgtchv59",
-      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
+      "video_id": "7705861578901523745",
+      "username": "flowers.blooom0",
+      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#cgt #pourtoiii #fy",
-      "country": "OTHER",
+      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2093,12 +2093,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705861578901523745",
-      "username": "flowers.blooom0",
-      "url": "https://www.tiktok.com/@flowers.blooom0/video/7705861578901523745",
+      "video_id": "7705861580570758433",
+      "username": "cgtchv59",
+      "url": "https://www.tiktok.com/@cgtchv59/video/7705861580570758433",
       "published_at": "2026-11-08T17:58:35+00:00",
-      "description": "#demo #berlin #freepalestine🇵🇸 #palestineفلسطين #🇵🇸✌️",
-      "country": "DE",
+      "description": "#cgt #pourtoiii #fy",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2710,6 +2710,23 @@
       "url": "https://www.tiktok.com/@maschio758/video/7705845625748868385",
       "published_at": "2026-11-08T16:56:42+00:00",
       "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705845066899672342",
+      "username": "mais.tabaco",
+      "url": "https://www.tiktok.com/@mais.tabaco/video/7705845066899672342",
+      "published_at": "2026-11-08T16:54:31+00:00",
+      "description": "GOVERNO PORTUGUÊS EM GREVE GERAL 😂😂😂 #governo #portugues #greve #geral #impostos",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5952,11 +5969,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5969,11 +5986,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

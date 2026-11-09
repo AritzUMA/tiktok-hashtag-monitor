@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T02:40:49.646441+00:00",
+  "generated_at": "2026-11-09T02:44:48.389325+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30628,
-    "published_24h": 440,
-    "published_48h": 1274,
-    "discovered_24h": 1039,
-    "discovered_48h": 2220
+    "total_unique_videos": 30631,
+    "published_24h": 442,
+    "published_48h": 1275,
+    "discovered_24h": 1042,
+    "discovered_48h": 2221
   },
   "analysis": {
-    "embeddings_total": 30628,
+    "embeddings_total": 30631,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 440
+    "qwen_pending_24h": 442
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 162,
-    "DE": 126,
     "ES": 94,
-    "FR": 51,
+    "BE": 1,
     "IT": 3,
-    "MULTI": 3,
-    "BE": 1
+    "OTHER": 162,
+    "DE": 127,
+    "FR": 52,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -41,7 +41,7 @@
       "url": "https://www.tiktok.com/@vaan_anhh6/video/7705954327101279520",
       "published_at": "2026-11-08T23:58:47+00:00",
       "description": "#frankfurt #halloween #demo",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -59,6 +59,23 @@
       "published_at": "2026-11-08T23:17:03+00:00",
       "description": "El gesto de Bellingham al banquillo del Valencia CF tras el 0-2 del Real Madrid #ElPost #deportesentiktok #tiktokfootballacademy #LALIGA",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705942934318746913",
+      "username": "steeve_2k2",
+      "url": "https://www.tiktok.com/@steeve_2k2/video/7705942934318746913",
+      "published_at": "2026-11-08T23:14:20+00:00",
+      "description": "#Paris #Manifestation #5novembre2026 #fyp",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1379,12 +1396,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1396,12 +1413,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5646,11 +5663,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5663,11 +5680,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6332,6 +6349,23 @@
       "published_at": "2026-11-08T08:54:06+00:00",
       "description": "Wo ist Lisa? Die Angst ist allgegenwärtig im Berliner Bezirk Marzahn. Seitdem die Schülerin Lisa Tạ (13) am Dienstagmorgen auf dem Weg zur Schule spurlos verschwand, bangen die Anwohner mit Lisas Familie und hoffen, dass die Schülerin unverletzt gefunden wird. Doch die Polizei befürchtet nach aktuellen Ermittlungen ein Verbrechen, eine Mordkommission ermittelt. Eine Überwachungskamera in der Wohnung zeichnet Lisas letzte Minuten vor ihrem Verschwinden auf. Quelle: dpaVideo, BILD #berlin #lisata #vermisst #polizei #marzahn",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705720003936439585",
+      "username": "lesilencedesfoyers",
+      "url": "https://www.tiktok.com/@lesilencedesfoyers/video/7705720003936439585",
+      "published_at": "2026-11-08T08:49:17+00:00",
+      "description": "🚨 DANS LE SILENCE DES FOYERS — LES PROFESSIONNELS SE MOBILISENT ! 🎥 À Vinay, le 5 novembre, des éducatrices spécialisées et une enseignante prennent la parole pour faire entendre leur mobilisation. ⚠️ COMMENT PROTÉGER ET ACCOMPAGNER LES ENFANTS SANS DONNER AUX PROFESSIONNELS LES MOYENS D’AGIR ? 💔 Manque de moyens, difficultés sur le terrain, besoin de reconnaissance et d’écoute : la situation du secteur éducatif mérite toute notre attention. ✊ DÉNONCER LES DÉFAILLANCES DE LA PROTECTION DE L’ENFANCE, C’EST AUSSI SOUTENIR LES PROFESSIONNELS QUI S’ENGAGENT POUR LES ENFANTS ! 🎥 Écoutez leur parole. 📢 PARTAGEZ POUR BRISER LE SILENCE ! 🎙️ DANS LE SILENCE DES FOYERS 📩 danslesilencedesfoyers@gmail.com #DansLeSilenceDesFoyers #ASE #ProtectionEnfance #EducateursSpecialises #Vinay",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

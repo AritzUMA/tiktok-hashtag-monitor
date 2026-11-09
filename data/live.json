@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T01:50:40.665635+00:00",
+  "generated_at": "2026-11-09T01:53:26.959897+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30607,
-    "published_24h": 435,
-    "published_48h": 1268,
+    "total_unique_videos": 30609,
+    "published_24h": 436,
+    "published_48h": 1270,
     "discovered_24h": 1058,
-    "discovered_48h": 2223
+    "discovered_48h": 2224
   },
   "analysis": {
-    "embeddings_total": 30607,
+    "embeddings_total": 30609,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 435
+    "qwen_pending_24h": 436
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 159,
     "DE": 125,
-    "ES": 94,
+    "OTHER": 159,
     "FR": 51,
-    "MULTI": 3,
-    "IT": 3
+    "ES": 95,
+    "IT": 3,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -579,6 +579,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7705478750997105942",
+      "username": "micro.canap",
+      "url": "https://www.tiktok.com/@micro.canap/video/7705478750997105942",
+      "published_at": "2026-11-08T20:30:00+00:00",
+      "description": "Manifestation du 5 novembre à Poitiers : syndicats, lycéen·nes et mouvements contre la vie chère unissent leurs colères. Mais pour obtenir quoi ? Depuis plusieurs semaines, je suis les mobilisations lycéennes et les manifestations contre la vie chère à Poitiers. Ce jeudi 5 novembre, je voulais comprendre comment ces mouvements allaient se retrouver dans la rue, à l'appel de l'intersyndicale. Alors je suis retournée sur le terrain pour écouter leurs revendications et te faire vivre cette journée de grève de l'intérieur. 4 600 manifestant·es selon la préfecture, 10 000 selon les syndicats. Lycéen·nes, étudiant·es, salarié·es et habitant·es ont défilé dans les rues de Poitiers. Derrière les slogans, des préoccupations communes : moyens pour l'Éducation nationale et les services publics, pouvoir d'achat, salaires, conditions de travail, répartition des richesses, climat et violences policières. Mais cette convergence des luttes peut-elle pousser le gouvernement à faire des concessions ? C'est ce que j'ai voulu comprendre en donnant la parole aux personnes présentes. La manifestation s'est globalement déroulée dans le calme. En revanche, en fin de journée, des tensions sont apparues entre un groupe d'environ 150 personnes et les forces de l'ordre. Malgré les tentatives d'apaisement des syndicats, puis des sommations, des grenades lacrymogènes et assourdissantes ont été utilisées pour disperser le groupe. Je vais continuer à suivre ces mobilisations, les réponses du gouvernement et surtout ce qui change concrètement… ou non. Si tu veux suivre la suite avec moi, partage cette vidéo et abonne-toi à Micro Canap’. #actualité #Poitiers #Manifestation #genz #MicroCanap",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7705899487251713313",
       "username": "ddbz_91",
       "url": "https://www.tiktok.com/@ddbz_91/video/7705899487251713313",
@@ -771,7 +788,7 @@
       "url": "https://www.tiktok.com/@___cj33/video/7705889880290725150",
       "published_at": "2026-11-08T19:48:35+00:00",
       "description": "Valencia 0-3 Real Madrid la liga full highlights #realmadrid #futbol #valencia #laliga #mbappe",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -868,11 +885,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
-      "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "video_id": "7705887685717593376",
+      "username": "blocus.be",
+      "url": "https://www.tiktok.com/@blocus.be/video/7705887685717593376",
+      "published_at": "2026-11-08T19:39:55+00:00",
+      "description": "Appel au blocus des demain dans toute la Belgique! Mobilisation d’étudiants et enseignants devant les écoles des 7h20. Un blocus structuré et organisé. Pour plus d’info blocus.be sur instagram  avec l’aide de @spiderman2lg #manifestation #blocus #liege #bx #lg",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -890,6 +907,23 @@
       "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
       "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "published_at": "2026-11-08T19:35:36+00:00",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1502,7 +1536,7 @@
       "url": "https://www.tiktok.com/@jellygina/video/7705865315845999905",
       "published_at": "2026-11-08T18:13:05+00:00",
       "description": "This is what Valencia will look like next month 🎅🏼🎄🦌✨ #valencia #valenciaspain #christmastime #christmasdecorations #mustvisit",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5458,11 +5492,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5475,11 +5509,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7402,23 +7436,6 @@
       "published_at": "2026-11-08T01:57:19+00:00",
       "description": "An orchestra plays as protesters gather in a Paris square. Hours later, police are firing tear gas and stun grenades. Fox News' Stephanie Bennett reports on @thebigweekendshow that demonstrations over living costs and education conditions once again descend into clashes, with protesters throwing objects at officers. Police arrest more than 300 people and conduct 40,000 stops and searches as France deploys tens of thousands of security personnel nationwide. It's the fourth consecutive Saturday of protests, and demonstrators say weeks of unrest won't stop them.",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705612197187095839",
-      "username": "gycblaze",
-      "url": "https://www.tiktok.com/@gycblaze/video/7705612197187095839",
-      "published_at": "2026-11-08T01:51:04+00:00",
-      "description": "Gol de FEDERICO VALVERDE al Valencia #deportesentiktok #realmadrid",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

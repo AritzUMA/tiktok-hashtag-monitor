@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T04:34:53.477854+00:00",
+  "generated_at": "2026-11-09T04:38:42.772939+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30680,
+    "total_unique_videos": 30681,
     "published_24h": 463,
-    "published_48h": 1305,
-    "discovered_24h": 984,
+    "published_48h": 1303,
+    "discovered_24h": 979,
     "discovered_48h": 2201
   },
   "analysis": {
-    "embeddings_total": 30680,
+    "embeddings_total": 30681,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 463
@@ -22,8 +22,8 @@
   "roles": {},
   "countries": {
     "OTHER": 171,
-    "DE": 134,
     "ES": 97,
+    "DE": 134,
     "FR": 54,
     "IT": 3,
     "MULTI": 3,
@@ -1362,11 +1362,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1379,11 +1379,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

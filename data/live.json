@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T07:09:41.671740+00:00",
+  "generated_at": "2026-11-09T07:12:43.805135+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 30767,
+    "total_unique_videos": 30768,
     "published_24h": 487,
-    "published_48h": 1325,
-    "discovered_24h": 960,
-    "discovered_48h": 2199
+    "published_48h": 1324,
+    "discovered_24h": 953,
+    "discovered_48h": 2200
   },
   "analysis": {
-    "embeddings_total": 30767,
+    "embeddings_total": 30768,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 487
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "DE": 147,
     "OTHER": 184,
     "ES": 93,
+    "DE": 147,
+    "IT": 2,
     "FR": 56,
-    "MULTI": 3,
     "BE": 2,
-    "IT": 2
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -1821,11 +1821,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886573706939681",
-      "username": "duettator",
-      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
+      "video_id": "7705886572289314080",
+      "username": "tonyrenucci",
+      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
+      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1838,11 +1838,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705886572289314080",
-      "username": "tonyrenucci",
-      "url": "https://www.tiktok.com/@tonyrenucci/video/7705886572289314080",
+      "video_id": "7705886573706939681",
+      "username": "duettator",
+      "url": "https://www.tiktok.com/@duettator/video/7705886573706939681",
       "published_at": "2026-11-08T19:35:36+00:00",
-      "description": "A quand un rassemblement sur le parvis de la mairie de Joinville-le-Pont en hommage aux victimes des attentats racistes de Trappes et de la Verrière ? #racisme",
+      "description": "sciopero generale il 20 novembre, poliziotti in piazza",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2280,12 +2280,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705483916437736707",
-      "username": "sterntv",
-      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
+      "video_id": "7705823097215012118",
+      "username": "c.politique",
+      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
-      "country": "DE",
+      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2297,12 +2297,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705823097215012118",
-      "username": "c.politique",
-      "url": "https://www.tiktok.com/@c.politique/video/7705823097215012118",
+      "video_id": "7705483916437736707",
+      "username": "sterntv",
+      "url": "https://www.tiktok.com/@sterntv/video/7705483916437736707",
       "published_at": "2026-11-08T19:00:00+00:00",
-      "description": "575 000 selon le ministère de l'Intérieur, 1 500 000 selon les syndicats. C'est le nombre de personnes qui étaient dans la rue ce jeudi 5 novembre pour protester contre la vie chère et rejoindre les revendications lycéennes qui secouent le pays depuis plusieurs semaines. Nous avons suivi des syndicalistes à Dunkerque dans cette journée inédite. Un extrait du reportage de Samuel Bernard et François Benessiano, à retrouver en intégralité dans C Politique du 8 novembre sur France 5. #sinformersurtiktok #5novembre #grève #manif #politique",
-      "country": "FR",
+      "description": "Wasserwerfer, Böller und heftige Zusammenstöße: Bei den Gen-Z-Protesten in Berlin und Köln eskaliert die Situation zwischen Demonstrierenden und der Polizei. Was zunächst als friedlicher Protest gegen die Politik beginnt, endet in teils gewaltsamen Auseinandersetzungen. #GenZ #Polizei #Proteste #sternTV",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3068,6 +3068,23 @@
       "published_at": "2026-11-08T17:37:26+00:00",
       "description": "",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7705855955921145109",
+      "username": "crimede",
+      "url": "https://www.tiktok.com/@crimede/video/7705855955921145109",
+      "published_at": "2026-11-08T17:36:53+00:00",
+      "description": "Traurige Nachrichten aus Berlin. Die seit Tagen vermisste 13-jährige Lisa soll tot aufgefunden worden sein. Das berichtet die BILD am Sonntagabend. Lisa verschwand am Dienstagmorgen auf dem Weg zur Schule in Berlin-Marzahn. Sie verließ ihr Zuhause, kam aber niemals in der Schule an. Laut dem aktuellen BILD-Bericht handelt es sich um die vermisste Lisa. Eine unabhängige offizielle Bestätigung liegt mir bislang nicht vor. Wie das Mädchen ums Leben kam, ist noch unklar. Die Ermittlungen dauern an. #crime #foryou #fy #crimetok #truecrime",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6054,12 +6071,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774426461097238",
-      "username": "weidelalice00",
-      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
+      "video_id": "7705774432488295713",
+      "username": "gelan_lastreetpelo",
+      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
-      "country": "DE",
+      "description": "#prtoiシ #ilsontechouer #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6071,12 +6088,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705774432488295713",
-      "username": "gelan_lastreetpelo",
-      "url": "https://www.tiktok.com/@gelan_lastreetpelo/video/7705774432488295713",
+      "video_id": "7705774426461097238",
+      "username": "weidelalice00",
+      "url": "https://www.tiktok.com/@weidelalice00/video/7705774426461097238",
       "published_at": "2026-11-08T12:20:27+00:00",
-      "description": "#prtoiシ #ilsontechouer #genz",
-      "country": "OTHER",
+      "description": "CDU-Kollegen, seht hin! Merz geht!“ #bundestag #weidel #merzticker #politik #deutschland",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7006,11 +7023,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747768542760214",
+      "video_id": "7705747760280128790",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
+      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7023,11 +7040,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705747760280128790",
+      "video_id": "7705747768542760214",
       "username": "gvgni3",
-      "url": "https://www.tiktok.com/@gvgni3/video/7705747760280128790",
+      "url": "https://www.tiktok.com/@gvgni3/video/7705747768542760214",
       "published_at": "2026-11-08T10:37:00+00:00",
-      "description": "Am 31. Oktober sind weltweite Gen-Z-Proteste geplant – einige Geschäfte schließen bereits früher!#GenZProtest #WeltweiteProteste #31Oktober",
+      "description": "In Köln, Dortmund und weiteren Städten sind die Demos bereits vorbei – in Berlin und Hamburg gibt es noch vereinzelte Aktionen!#Köln #Berlin #Proteste",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -8287,23 +8304,6 @@
       "published_at": "2026-11-08T07:12:54+00:00",
       "description": "🚨Al menos 158 muertos por tormentas en área de Valencia, España",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7705695124549815584",
-      "username": "ward.app",
-      "url": "https://www.tiktok.com/@ward.app/video/7705695124549815584",
-      "published_at": "2026-11-08T07:12:31+00:00",
-      "description": "Receive notifications for police alerts near you and explore them worldwide. Link in bio #berlin #app #police #news #android 1. Cut injuries to hands and one leg (Nr. 1479) Treptow-Köpenick / Niederschöneweide – ~19 hours ago A violent confrontation involving a knife. A person suffered cut wounds to the hands and one leg and was taken to hospital. Police responded to the scene. 2. Suspected capital crime in the Lisa Ta case (Nr. 1483) Marzahn-Hellersdorf – ~14 hours ago (when you shared it) 13-year-old Lisa Ta has been missing since 3 November on her way to school. Police and prosecutors are investigating on suspicion of a serious crime (kidnapping or worse). Large searches with hundreds of officers, dogs, and a helicopter are ongoing. No indication she left voluntarily. 3. Armed robbery at gas station (Nr. 1473) Mitte / Wedding – 1 day ago A masked man with a firearm robbed a gas station on Kapweg around 17:25. He threatened a 27-year-old employee and took the cash. No one was injured. Police are investigating for aggravated robbery. 4. Firefighting in Moabit Moabit (Friedrich-Krause-Ufer) – 2 days ago Major fire at the Heizkraftwerk Moabit. A conveyor system carrying wood/biomass caught fire at over 20 metres height and spread into the boiler house. About 100 firefighters fought it with ladders and hoses. No injuries; the plant was not operating at the time.",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

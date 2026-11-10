@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T15:37:51.200999+00:00",
+  "generated_at": "2026-11-10T15:42:19.576739+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31938,
-    "published_24h": 421,
-    "published_48h": 1031,
-    "discovered_24h": 849,
-    "discovered_48h": 1825
+    "total_unique_videos": 31939,
+    "published_24h": 422,
+    "published_48h": 1025,
+    "discovered_24h": 848,
+    "discovered_48h": 1822
   },
   "analysis": {
-    "embeddings_total": 31938,
+    "embeddings_total": 31939,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 421
+    "qwen_pending_24h": 422
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "FR": 57,
     "OTHER": 197,
     "DE": 71,
-    "ES": 87,
-    "FR": 57,
-    "MULTI": 6,
-    "IT": 3
+    "ES": 88,
+    "IT": 3,
+    "MULTI": 6
   },
   "links": {
     "qr_videos": 0,
@@ -176,7 +176,7 @@
       "url": "https://www.tiktok.com/@pilarlavadox/video/7706536377218878742",
       "published_at": "2026-11-10T13:37:17+00:00",
       "description": "C2 de catalán obligatorio en las oposiciones de educación… #valencia #catala #c2 #valenciano #eoi",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -347,6 +347,23 @@
       "published_at": "2026-11-10T12:22:02+00:00",
       "description": "🚨 FLASH INFO : Une cinquantaine d’élèves blessés en une semaine lors des mobilisations lycéennes, notamment par des tirs de mortiers, selon le ministre de l’Éducation nationale. #Actualité #france #pourtoi",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706515189654506784",
+      "username": "laprovence_",
+      "url": "https://www.tiktok.com/@laprovence_/video/7706515189654506784",
+      "published_at": "2026-11-10T12:15:01+00:00",
+      "description": "🔴 La manifestation prend fin à Marseille #marseille #manifestation #mobilisation #lycee #sinformersurktiktok",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -834,12 +851,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -851,12 +868,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5067,12 +5084,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706243373312576790",
-      "username": "rtvenoticias",
-      "url": "https://www.tiktok.com/@rtvenoticias/video/7706243373312576790",
+      "video_id": "7706241399972220182",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7706241399972220182",
       "published_at": "2026-11-09T19:00:00+00:00",
-      "description": "🔸Nueva jornada de retrasos e incidencias en Rodalies y los trenes regionales de Cataluña. Renfe atribuye los problemas a una incidencia operativa con los maquinistas. Para mañana se prevé una jornada complicada en toda la red ferroviaria por la huelga convocada por el sindicato de maquinistas SEMAF. #Noticias #Rodalies #retrasos #huelga",
-      "country": "ES",
+      "description": "🚨🇫🇷 GRÈVE DU 10 NOVEMBRE  LES PROFESSEURS REJOIGNENT LES LYCÉENS… ÇA RISQUE DE CHAUFFER ! 😳🔥 ⚠️ Demain, mardi 10 novembre, une nouvelle journée de grève et de manifestations est annoncée en France. 🏫 Cette fois, les lycéens, les étudiants et les personnels de l’Éducation nationale sont appelés à se mobiliser ensemble. 👨‍🏫 Professeurs, personnels scolaires et universitaires pourraient rejoindre les cortèges pour réclamer davantage de moyens, de meilleurs salaires et des réponses sur Parcoursup. 🚨 Après la mobilisation du 5 novembre, la pression monte encore sur le gouvernement. 🔥 Les écoles, les lycées et les universités vont-ils être fortement perturbés ? L’ampleur réelle de la grève dépendra de la participation de demain. 📢 Abonne-toi pour plus d’infos ! 💬 Dis-le en commentaire : tu penses que cette mobilisation va être massive ? #Greve10Novembre #EducationNationale #Lycée #Manifestation #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5084,12 +5101,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706241399972220182",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7706241399972220182",
+      "video_id": "7706243373312576790",
+      "username": "rtvenoticias",
+      "url": "https://www.tiktok.com/@rtvenoticias/video/7706243373312576790",
       "published_at": "2026-11-09T19:00:00+00:00",
-      "description": "🚨🇫🇷 GRÈVE DU 10 NOVEMBRE  LES PROFESSEURS REJOIGNENT LES LYCÉENS… ÇA RISQUE DE CHAUFFER ! 😳🔥 ⚠️ Demain, mardi 10 novembre, une nouvelle journée de grève et de manifestations est annoncée en France. 🏫 Cette fois, les lycéens, les étudiants et les personnels de l’Éducation nationale sont appelés à se mobiliser ensemble. 👨‍🏫 Professeurs, personnels scolaires et universitaires pourraient rejoindre les cortèges pour réclamer davantage de moyens, de meilleurs salaires et des réponses sur Parcoursup. 🚨 Après la mobilisation du 5 novembre, la pression monte encore sur le gouvernement. 🔥 Les écoles, les lycées et les universités vont-ils être fortement perturbés ? L’ampleur réelle de la grève dépendra de la participation de demain. 📢 Abonne-toi pour plus d’infos ! 💬 Dis-le en commentaire : tu penses que cette mobilisation va être massive ? #Greve10Novembre #EducationNationale #Lycée #Manifestation #France",
-      "country": "FR",
+      "description": "🔸Nueva jornada de retrasos e incidencias en Rodalies y los trenes regionales de Cataluña. Renfe atribuye los problemas a una incidencia operativa con los maquinistas. Para mañana se prevé una jornada complicada en toda la red ferroviaria por la huelga convocada por el sindicato de maquinistas SEMAF. #Noticias #Rodalies #retrasos #huelga",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T23:12:04.819476+00:00",
+  "generated_at": "2026-11-10T23:15:48.615504+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32308,
+    "total_unique_videos": 32309,
     "published_24h": 445,
-    "published_48h": 1028,
+    "published_48h": 1027,
     "discovered_24h": 883,
-    "discovered_48h": 1802
+    "discovered_48h": 1803
   },
   "analysis": {
-    "embeddings_total": 32308,
+    "embeddings_total": 32309,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 445
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 79,
-    "DE": 45,
-    "OTHER": 206,
     "ES": 101,
-    "IT": 2,
-    "MULTI": 12
+    "OTHER": 203,
+    "DE": 45,
+    "FR": 82,
+    "MULTI": 12,
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -448,7 +448,7 @@
       "url": "https://www.tiktok.com/@flashpolitik/video/7706621325212749078",
       "published_at": "2026-11-10T19:08:30+00:00",
       "description": "Jean-Philippe TANGUY donne son avis sur Sophie BINET, secretaire général de la CGT à la suite de sa volonté de ne pas répondre à CNEWS. #pourtoi #info #Actualite #France #français #actu #fyp #viral #Politique",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -754,7 +754,7 @@
       "url": "https://www.tiktok.com/@cgtconseildetat/video/7706605956427238688",
       "published_at": "2026-11-10T18:07:10+00:00",
       "description": "Mobilisation historique : nous avons continué d’amplifier le rapport de force ce 10 novembre ! ✊ Après une journée d'action le 5 novembre ayant rassemblé plus de 1,6 million de manifestant·e·s en France pour les salaires et les services publics, le gouvernement tente de diviser le mouvement. L'exclusion des fonctionnaires et de la jeunesse des discussions de Matignon sur le pouvoir d'achat est inacceptable. La CGT et l'intersyndicale appellent à poursuivre la lutte : 📉 Arrêt du déclassement salarial : dégel immédiat du point d'indice. 📚 Moyens pour l'Éducation nationale, l'enseignement supérieur et la recherche (annulation des suppressions de postes au budget 2027, postes de titulaires). ⚖️ Reconnaissance des AESH (catégorie B) et des AED. Face à la répression et aux entraves au droit de manifester, restons uni·e·s. 📍 Toustes en grève générale et en manifestation ! #Grève #10Novembre #ÉducationNationale #FonctionPublique #CGT",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1859,7 +1859,7 @@
       "url": "https://www.tiktok.com/@pedri_247/video/7706566466794982688",
       "published_at": "2026-11-10T15:33:57+00:00",
       "description": "La CGT et les étudiants tournent le dos à CNeWs #CGT #boycott #pourtoi #france #manifestation",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

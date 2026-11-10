@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T23:00:44.195415+00:00",
+  "generated_at": "2026-11-10T23:03:59.066914+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32300,
-    "published_24h": 441,
-    "published_48h": 1027,
-    "discovered_24h": 882,
+    "total_unique_videos": 32302,
+    "published_24h": 442,
+    "published_48h": 1028,
+    "discovered_24h": 883,
     "discovered_48h": 1809
   },
   "analysis": {
-    "embeddings_total": 32300,
+    "embeddings_total": 32302,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 441
+    "qwen_pending_24h": 442
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 204,
     "FR": 79,
-    "OTHER": 203,
-    "ES": 101,
-    "MULTI": 12,
     "DE": 44,
+    "MULTI": 12,
+    "ES": 101,
     "IT": 2
   },
   "links": {
@@ -74,6 +74,23 @@
       "url": "https://www.tiktok.com/@bfmtv/video/7706668596835011862",
       "published_at": "2026-11-10T22:10:20+00:00",
       "description": "\"L'État sera pro-police\": Jordan Bardella annonce une \"présomption de légitime défense\" pour les forces de l'ordre si le RN arrive au pouvoir #sinformersurtiktok #police #rn #rassemblementnational #politique #jordanbardella",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706667670699052311",
+      "username": "eperviersdutogo",
+      "url": "https://www.tiktok.com/@eperviersdutogo/video/7706667670699052311",
+      "published_at": "2026-11-10T22:06:43+00:00",
+      "description": "Lilian Brassier raconte ses premiers pas avec les Éperviers 🇹 🇬 À Tabarka, en Tunisie, Lilian Brassier participe à son premier rassemblement avec la sélection togolaise. Le défenseur revient sur son arrivée et partage ses premières impressions au sein du groupe, qui prépare sa double confrontation face à l’Algérie dans les éliminatoires de la CAN 2027",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T13:12:55.774403+00:00",
+  "generated_at": "2026-11-10T13:16:43.574462+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31833,
-    "published_24h": 423,
-    "published_48h": 1050,
-    "discovered_24h": 842,
-    "discovered_48h": 1834
+    "total_unique_videos": 31836,
+    "published_24h": 425,
+    "published_48h": 1048,
+    "discovered_24h": 840,
+    "discovered_48h": 1835
   },
   "analysis": {
-    "embeddings_total": 31833,
+    "embeddings_total": 31836,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 423
+    "qwen_pending_24h": 425
   },
   "mobilization": {
     "yes": 0,
@@ -22,12 +22,12 @@
   "roles": {},
   "countries": {
     "ES": 74,
+    "OTHER": 192,
     "FR": 62,
     "DE": 85,
-    "OTHER": 190,
     "MULTI": 7,
-    "IT": 4,
-    "BE": 1
+    "BE": 1,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -155,6 +155,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706500332087545110",
+      "username": "informativost5",
+      "url": "https://www.tiktok.com/@informativost5/video/7706500332087545110",
+      "published_at": "2026-11-10T11:17:25+00:00",
+      "description": "Desahucian a un hombre pese a tener un informe de vulnerabilidad en Valencia: tiene dos hijas menores de edad y una madre enferma a su encargo #noticias #news #noticiastiktok",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706498220813323553",
       "username": "informacion.es",
       "url": "https://www.tiktok.com/@informacion.es/video/7706498220813323553",
@@ -189,6 +206,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706497758630333718",
+      "username": "ksen.zotova",
+      "url": "https://www.tiktok.com/@ksen.zotova/video/7706497758630333718",
+      "published_at": "2026-11-10T11:07:24+00:00",
+      "description": "#valencia #valenciaspain #beautifuldestinations #valenciafood",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706497035616128278",
       "username": "nice_matin",
       "url": "https://www.tiktok.com/@nice_matin/video/7706497035616128278",
@@ -206,12 +240,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -223,12 +257,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -535,6 +569,23 @@
       "published_at": "2026-11-10T09:50:14+00:00",
       "description": "Hablamos con una afectada por la huelga de maquinistas: \"No nos dan respuestas. Mental y físicamente nos está afectando\". #Huelga #Maquinistas #Directo",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706477059094088982",
+      "username": "newsworm.de",
+      "url": "https://www.tiktok.com/@newsworm.de/video/7706477059094088982",
+      "published_at": "2026-11-10T09:47:04+00:00",
+      "description": "Lisa case: New details on the suspect 🗞️ Lisa, 13, left home for school on Tuesday morning and never arrived. On Sunday, she was found dead in an empty house in Bad Freienwalde, Brandenburg. A 22-year-old man from Berlin was found in the same house with serious injuries. He remains in intensive care. 🏥 According to Berlin prosecutors, there is no sign that the two knew each other. The suspect has no criminal record, but he had already been investigated over suspected child pornography, including more than 900 files seized during a search. 📂 The autopsy did not reveal a clear cause of death, and further tests are underway. Police seized possible evidence at his Berlin flat. 🔍 👉 Read the full article via the link in our bio. 🔔 Follow us for the latest updates. #Berlin #Germany #Deutschland #Brandenburg #BadFreienwalde #BerlinCrime #CrimeNews #MarzahnHellersdorf #ChildProtection",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2467,12 +2518,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706264864129338630",
-      "username": "radio.canada.ottgat",
-      "url": "https://www.tiktok.com/@radio.canada.ottgat/video/7706264864129338630",
+      "video_id": "7706288403691605300",
+      "username": "iladmediaclips",
+      "url": "https://www.tiktok.com/@iladmediaclips/video/7706288403691605300",
       "published_at": "2026-11-09T22:00:00+00:00",
-      "description": "Les professeurs contractuels de l'Université d'Ottawa sont en grève depuis minuit. Cette interruption de travail entraîne l'annulation immédiate de plusieurs cours et stages, plongeant la communauté étudiante dans l'incertitude en pleins examens de mi-session. #uOttawa #Éducation #Ottawa #Grève #Université",
-      "country": "OTHER",
+      "description": "💪🏻 ABAJO EL COMUNISMO | Hoy se cumplen 37 años de la caída del muro de Berlín 🇩🇪  Un día como hoy en 1989, se celebró la caída del muro de Berlín, aquel muro que fue construído por la izquierda para encerrar a los alemanes en un régimen dictatorial que cobró la vida de toda aquella persona que quisiera escapar hacia la libertad. El comunismo no es progreso, ni desarrollo. Es hambre, pobreza y opresión. ¡Viva la libertad! 👏🏻 #berlín #alemania #comunismo",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2484,12 +2535,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706288403691605300",
-      "username": "iladmediaclips",
-      "url": "https://www.tiktok.com/@iladmediaclips/video/7706288403691605300",
+      "video_id": "7706264864129338630",
+      "username": "radio.canada.ottgat",
+      "url": "https://www.tiktok.com/@radio.canada.ottgat/video/7706264864129338630",
       "published_at": "2026-11-09T22:00:00+00:00",
-      "description": "💪🏻 ABAJO EL COMUNISMO | Hoy se cumplen 37 años de la caída del muro de Berlín 🇩🇪  Un día como hoy en 1989, se celebró la caída del muro de Berlín, aquel muro que fue construído por la izquierda para encerrar a los alemanes en un régimen dictatorial que cobró la vida de toda aquella persona que quisiera escapar hacia la libertad. El comunismo no es progreso, ni desarrollo. Es hambre, pobreza y opresión. ¡Viva la libertad! 👏🏻 #berlín #alemania #comunismo",
-      "country": "DE",
+      "description": "Les professeurs contractuels de l'Université d'Ottawa sont en grève depuis minuit. Cette interruption de travail entraîne l'annulation immédiate de plusieurs cours et stages, plongeant la communauté étudiante dans l'incertitude en pleins examens de mi-session. #uOttawa #Éducation #Ottawa #Grève #Université",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6326,11 +6377,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705080362120039702",
-      "username": "liberaiphoneimei",
-      "url": "https://www.tiktok.com/@liberaiphoneimei/video/7705080362120039702",
+      "video_id": "7706169032910621974",
+      "username": "liiktv",
+      "url": "https://www.tiktok.com/@liiktv/video/7706169032910621974",
       "published_at": "2026-11-09T15:00:00+00:00",
-      "description": "¿Tienes un iPhone 15 Pro con bloqueo MDM y bypass, pero quieres saber si se puede desbloquear de raíz? Lo primero es entender que el bloqueo MDM y el bloqueo de iCloud son completamente diferentes. Carlos me comenta que su iPhone tiene bypass y funciona con normalidad. Esto es perfectamente posible si hablamos de un bypass MDM. El MDM, también conocido como administración remota, es un sistema que utilizan empresas y organizaciones para gestionar sus dispositivos. Cuando un iPhone está vinculado a una organización mediante este sistema, puede aparecer una pantalla de administración remota durante la configuración. Un bypass MDM permite omitir esa pantalla en determinadas condiciones, pero no significa que el dispositivo haya dejado de estar asociado a la organización. ¿Y qué diferencia tiene con un bypass de iCloud? El bypass de iCloud actúa sobre el bloqueo de activación de Apple y puede tener limitaciones importantes, como no permitir llamadas o datos móviles, dependiendo del método utilizado. En cambio, un iPhone con bypass MDM puede seguir realizando llamadas y utilizando sus funciones habituales. ¿Se puede eliminar el MDM de raíz? La eliminación definitiva depende de que la organización responsable retire correctamente el dispositivo de su sistema de gestión y, cuando corresponda, de Apple Business Manager o Apple School Manager. Si únicamente se ha omitido la pantalla de administración remota, el bloqueo puede volver a aparecer después de borrar o restaurar el iPhone. Por eso, no confundas un bypass MDM con un desbloqueo de iCloud ni con una eliminación definitiva de la administración remota. Si tienes un iPhone con MDM, lo importante es comprobar cómo está gestionado y qué opciones legítimas existen para tu dispositivo. #BloqueoMDM #BypassMDM #iPhoneBloqueado",
+      "description": "🇹🇳 Un incroyable élan de solidarité en Tunisie ! ❤️ À Kasserine, dans le centre-ouest de la Tunisie, le créateur de contenu Jawher Timoumi découvre une famille vivant dans des conditions très précaires. Touché par leur histoire et par le rêve de ce père d’offrir un toit à son fils, il décide de se mobiliser.  Grâce à la générosité de nombreux donateurs, 40 000 dinars tunisiens, soit environ 12 000 euros, sont récoltés pour aider cette famille à avoir enfin sa propre maison. 🏠❤️ #tunisie",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6343,11 +6394,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706169032910621974",
-      "username": "liiktv",
-      "url": "https://www.tiktok.com/@liiktv/video/7706169032910621974",
+      "video_id": "7705080362120039702",
+      "username": "liberaiphoneimei",
+      "url": "https://www.tiktok.com/@liberaiphoneimei/video/7705080362120039702",
       "published_at": "2026-11-09T15:00:00+00:00",
-      "description": "🇹🇳 Un incroyable élan de solidarité en Tunisie ! ❤️ À Kasserine, dans le centre-ouest de la Tunisie, le créateur de contenu Jawher Timoumi découvre une famille vivant dans des conditions très précaires. Touché par leur histoire et par le rêve de ce père d’offrir un toit à son fils, il décide de se mobiliser.  Grâce à la générosité de nombreux donateurs, 40 000 dinars tunisiens, soit environ 12 000 euros, sont récoltés pour aider cette famille à avoir enfin sa propre maison. 🏠❤️ #tunisie",
+      "description": "¿Tienes un iPhone 15 Pro con bloqueo MDM y bypass, pero quieres saber si se puede desbloquear de raíz? Lo primero es entender que el bloqueo MDM y el bloqueo de iCloud son completamente diferentes. Carlos me comenta que su iPhone tiene bypass y funciona con normalidad. Esto es perfectamente posible si hablamos de un bypass MDM. El MDM, también conocido como administración remota, es un sistema que utilizan empresas y organizaciones para gestionar sus dispositivos. Cuando un iPhone está vinculado a una organización mediante este sistema, puede aparecer una pantalla de administración remota durante la configuración. Un bypass MDM permite omitir esa pantalla en determinadas condiciones, pero no significa que el dispositivo haya dejado de estar asociado a la organización. ¿Y qué diferencia tiene con un bypass de iCloud? El bypass de iCloud actúa sobre el bloqueo de activación de Apple y puede tener limitaciones importantes, como no permitir llamadas o datos móviles, dependiendo del método utilizado. En cambio, un iPhone con bypass MDM puede seguir realizando llamadas y utilizando sus funciones habituales. ¿Se puede eliminar el MDM de raíz? La eliminación definitiva depende de que la organización responsable retire correctamente el dispositivo de su sistema de gestión y, cuando corresponda, de Apple Business Manager o Apple School Manager. Si únicamente se ha omitido la pantalla de administración remota, el bloqueo puede volver a aparecer después de borrar o restaurar el iPhone. Por eso, no confundas un bypass MDM con un desbloqueo de iCloud ni con una eliminación definitiva de la administración remota. Si tienes un iPhone con MDM, lo importante es comprobar cómo está gestionado y qué opciones legítimas existen para tu dispositivo. #BloqueoMDM #BypassMDM #iPhoneBloqueado",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7199,23 +7250,6 @@
       "published_at": "2026-11-09T13:21:18+00:00",
       "description": "rassemblement et discussion à la fac de montesquieu à Bordeaux #bordeaux #montesquieu #etudiant #ahbonmedia",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706159576441195798",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706159576441195798",
-      "published_at": "2026-11-09T13:15:01+00:00",
-      "description": "Fall Lisa: Neue Details – die 13-Jährige soll gefesselt gewesen sein. Polizisten fragen in Altglietzen: Kennen Sie diesen Mann? Unsere Gedanken sind bei ihrer Familie. #lisa #berlin #brandenburg #eilmeldung #nachrichten",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T21:12:40.784306+00:00",
+  "generated_at": "2026-11-10T21:15:20.245375+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32230,
-    "published_24h": 429,
+    "total_unique_videos": 32232,
+    "published_24h": 428,
     "published_48h": 1020,
-    "discovered_24h": 885,
-    "discovered_48h": 1822
+    "discovered_24h": 887,
+    "discovered_48h": 1824
   },
   "analysis": {
-    "embeddings_total": 32230,
+    "embeddings_total": 32232,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 429
+    "qwen_pending_24h": 428
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 69,
-    "OTHER": 197,
-    "DE": 49,
     "ES": 100,
     "MULTI": 12,
+    "OTHER": 196,
+    "FR": 69,
+    "DE": 49,
     "IT": 2
   },
   "links": {
@@ -7300,23 +7300,6 @@
       "published_at": "2026-11-09T21:17:54+00:00",
       "description": "Lors de l’avant-première de son album, SDM a pris position contre l’extrême droite et appelé son public à voter pour La France insoumise à l’élection présidentielle de 2027. 🗣️ « J’ai un rôle à jouer avec mon exposition. Continuer à se battre contre l’extrême droite, bien évidemment, parce que c’est tout simplement pas dans nos codes. Je soutiens mon public à voter LFI en 2027. »",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706282953315323168",
-      "username": "abi27_gsg",
-      "url": "https://www.tiktok.com/@abi27_gsg/video/7706282953315323168",
-      "published_at": "2026-11-09T21:13:44+00:00",
-      "description": "#freeabi27 #fyp #dielinke  #161",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

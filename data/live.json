@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T19:44:54.981409+00:00",
+  "generated_at": "2026-11-10T19:48:02.386105+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32174,
-    "published_24h": 438,
+    "total_unique_videos": 32177,
+    "published_24h": 439,
     "published_48h": 1026,
     "discovered_24h": 899,
-    "discovered_48h": 1841
+    "discovered_48h": 1836
   },
   "analysis": {
-    "embeddings_total": 32174,
+    "embeddings_total": 32176,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 438
+    "qwen_pending_24h": 439
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 202,
-    "FR": 66,
-    "DE": 58,
+    "OTHER": 203,
     "ES": 99,
+    "DE": 58,
+    "FR": 66,
     "MULTI": 11,
     "IT": 2
   },
@@ -1129,6 +1129,23 @@
       "published_at": "2026-11-10T14:48:22+00:00",
       "description": "Plusieurs milliers d'étudiants, lycéens et enseignants manifestent à Paris en direction de la Place d'Italie.",
       "country": "MULTI",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706554326306622753",
+      "username": "momoj_",
+      "url": "https://www.tiktok.com/@momoj_/video/7706554326306622753",
+      "published_at": "2026-11-10T14:46:49+00:00",
+      "description": "Ich war auf 3400 Demonstrationen in meinem Leben!🚨🗣️ #deutschememes #lustigesvideo",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2993,12 +3010,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3010,12 +3027,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

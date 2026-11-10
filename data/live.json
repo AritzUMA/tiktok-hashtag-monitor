@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T23:51:09.024947+00:00",
+  "generated_at": "2026-11-10T23:54:52.577104+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32331,
-    "published_24h": 452,
-    "published_48h": 1033,
-    "discovered_24h": 892,
-    "discovered_48h": 1798
+    "total_unique_videos": 32336,
+    "published_24h": 454,
+    "published_48h": 1035,
+    "discovered_24h": 894,
+    "discovered_48h": 1800
   },
   "analysis": {
-    "embeddings_total": 32331,
+    "embeddings_total": 32334,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 452
+    "qwen_pending_24h": 454
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "DE": 46,
-    "ES": 102,
+    "ES": 104,
     "OTHER": 204,
     "FR": 86,
+    "DE": 46,
     "MULTI": 12,
     "IT": 2
   },
@@ -34,6 +34,40 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706681747693489430",
+      "username": "brutafrique",
+      "url": "https://www.tiktok.com/@brutafrique/video/7706681747693489430",
+      "published_at": "2026-11-10T23:01:02+00:00",
+      "description": "🇨🇩 Quelques images des Léopards présents au rassemblement en vue d’affronter la Sierra Leone, dans le cadre des éliminatoires de la CAN 2027. 📍 Rendez-vous ce jeudi 12 novembre à 17h, au stade des Martyrs de Kinshasa. 📸 : Fédération Congolaise de Football Association",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706680142461963542",
+      "username": "bfmtv",
+      "url": "https://www.tiktok.com/@bfmtv/video/7706680142461963542",
+      "published_at": "2026-11-10T22:55:09+00:00",
+      "description": "Fonction publique: Jordan Bardella, président du Rassemblement national, prévoit le non-remplacement de 223.000 postes #sinformersurtiktok #rassemblementnational #jordanbardella #politique #rn",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706677288032619798",
       "username": "elnoviofifas",
@@ -176,7 +210,7 @@
       "url": "https://www.tiktok.com/@valenciacf/video/7706656258748599574",
       "published_at": "2026-11-10T21:22:23+00:00",
       "description": "Así ha celebrado Harvey Elliott su primer gol con el Valencia CF  #TavernesValencia #tiktokfootball #DeportesTikTok #CopaDelRey",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -210,7 +244,7 @@
       "url": "https://www.tiktok.com/@catimamadetomi/video/7706653669323771157",
       "published_at": "2026-11-10T21:12:24+00:00",
       "description": "#valencia #ciudaddelasartesylasciencias #españa🇪🇸 #valenciaespaña #foryoupage",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4693,12 +4727,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4710,12 +4744,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

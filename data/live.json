@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T20:51:57.440096+00:00",
+  "generated_at": "2026-11-10T20:55:34.091562+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32216,
-    "published_24h": 423,
-    "published_48h": 1019,
-    "discovered_24h": 883,
-    "discovered_48h": 1823
+    "total_unique_videos": 32218,
+    "published_24h": 425,
+    "published_48h": 1020,
+    "discovered_24h": 885,
+    "discovered_48h": 1822
   },
   "analysis": {
-    "embeddings_total": 32216,
+    "embeddings_total": 32218,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 423
+    "qwen_pending_24h": 425
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 197,
-    "FR": 65,
-    "DE": 47,
-    "ES": 100,
     "MULTI": 12,
+    "OTHER": 196,
+    "ES": 100,
+    "FR": 67,
+    "DE": 48,
     "IT": 2
   },
   "links": {
@@ -533,7 +533,7 @@
       "url": "https://www.tiktok.com/@raxsox/video/7706590995118329121",
       "published_at": "2026-11-10T17:09:07+00:00",
       "description": "Findet jetzt am 14. November der Protest in Frankfurt statt oder nicht? Genz regelt ? #genz #ffm #protest #raxsotells #?",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2262,6 +2262,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706529464498310432",
+      "username": "kml.76k",
+      "url": "https://www.tiktok.com/@kml.76k/video/7706529464498310432",
+      "published_at": "2026-11-10T13:10:22+00:00",
+      "description": "#sembat #blocus",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706529282679377184",
       "username": "studio.declin",
       "url": "https://www.tiktok.com/@studio.declin/video/7706529282679377184",
@@ -2370,6 +2387,23 @@
       "published_at": "2026-11-10T12:55:00+00:00",
       "description": "Huelga 11 Noviembre ✊🏼 #raulzumba #huelganacional #huelgageneral",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706524903683427617",
+      "username": "dream_7742",
+      "url": "https://www.tiktok.com/@dream_7742/video/7706524903683427617",
+      "published_at": "2026-11-10T12:52:39+00:00",
+      "description": "",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3384,12 +3418,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3401,12 +3435,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6750,12 +6784,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706264864129338630",
-      "username": "radio.canada.ottgat",
-      "url": "https://www.tiktok.com/@radio.canada.ottgat/video/7706264864129338630",
+      "video_id": "7706288403691605300",
+      "username": "iladmediaclips",
+      "url": "https://www.tiktok.com/@iladmediaclips/video/7706288403691605300",
       "published_at": "2026-11-09T22:00:00+00:00",
-      "description": "Les professeurs contractuels de l'Université d'Ottawa sont en grève depuis minuit. Cette interruption de travail entraîne l'annulation immédiate de plusieurs cours et stages, plongeant la communauté étudiante dans l'incertitude en pleins examens de mi-session. #uOttawa #Éducation #Ottawa #Grève #Université",
-      "country": "OTHER",
+      "description": "💪🏻 ABAJO EL COMUNISMO | Hoy se cumplen 37 años de la caída del muro de Berlín 🇩🇪  Un día como hoy en 1989, se celebró la caída del muro de Berlín, aquel muro que fue construído por la izquierda para encerrar a los alemanes en un régimen dictatorial que cobró la vida de toda aquella persona que quisiera escapar hacia la libertad. El comunismo no es progreso, ni desarrollo. Es hambre, pobreza y opresión. ¡Viva la libertad! 👏🏻 #berlín #alemania #comunismo",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6767,12 +6801,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706288403691605300",
-      "username": "iladmediaclips",
-      "url": "https://www.tiktok.com/@iladmediaclips/video/7706288403691605300",
+      "video_id": "7706264864129338630",
+      "username": "radio.canada.ottgat",
+      "url": "https://www.tiktok.com/@radio.canada.ottgat/video/7706264864129338630",
       "published_at": "2026-11-09T22:00:00+00:00",
-      "description": "💪🏻 ABAJO EL COMUNISMO | Hoy se cumplen 37 años de la caída del muro de Berlín 🇩🇪  Un día como hoy en 1989, se celebró la caída del muro de Berlín, aquel muro que fue construído por la izquierda para encerrar a los alemanes en un régimen dictatorial que cobró la vida de toda aquella persona que quisiera escapar hacia la libertad. El comunismo no es progreso, ni desarrollo. Es hambre, pobreza y opresión. ¡Viva la libertad! 👏🏻 #berlín #alemania #comunismo",
-      "country": "DE",
+      "description": "Les professeurs contractuels de l'Université d'Ottawa sont en grève depuis minuit. Cette interruption de travail entraîne l'annulation immédiate de plusieurs cours et stages, plongeant la communauté étudiante dans l'incertitude en pleins examens de mi-session. #uOttawa #Éducation #Ottawa #Grève #Université",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

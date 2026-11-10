@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T23:15:48.615504+00:00",
+  "generated_at": "2026-11-10T23:19:15.608921+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32309,
+    "total_unique_videos": 32312,
     "published_24h": 445,
     "published_48h": 1027,
-    "discovered_24h": 883,
-    "discovered_48h": 1803
+    "discovered_24h": 886,
+    "discovered_48h": 1804
   },
   "analysis": {
-    "embeddings_total": 32309,
+    "embeddings_total": 32312,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 445
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 101,
     "OTHER": 203,
-    "DE": 45,
+    "ES": 101,
     "FR": 82,
+    "DE": 45,
     "MULTI": 12,
     "IT": 2
   },
@@ -296,6 +296,23 @@
       "published_at": "2026-11-10T19:52:02+00:00",
       "description": "RENFE APLAZA UNA JORNADA DE HUELGA, PERO EL CONFLICTO FERROVIARIO CONTINÚA. El Sindicato Español de Maquinistas Ferroviarios (Semaf) ha anunciado que traslada del 12 al 23 de noviembre la jornada de huelga prevista en Renfe. La decisión llega después de que el Gobierno aprobase nuevas medidas para reforzar la seguridad ferroviaria y mejorar la protección de los trabajadores. Sin embargo, el sindicato mantiene la convocatoria de huelga del próximo 17 de noviembre en todo el sector. La jornada de este martes ha provocado importantes incidencias en la circulación ferroviaria. Según los datos difundidos por Renfe y recogidos por El Español, más de 653.000 viajeros se han visto afectados por las supresiones e incumplimientos de servicios mínimos. Los maquinistas reclaman que los compromisos sobre seguridad ferroviaria se traduzcan en medidas efectivas. #Renfe #HuelgaRenfe #Maquinistas #TransporteFerroviario #España",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706632763557825825",
+      "username": "iamnooraaaoff",
+      "url": "https://www.tiktok.com/@iamnooraaaoff/video/7706632763557825825",
+      "published_at": "2026-11-10T19:51:11+00:00",
+      "description": "🚨 C’est ca la GenZ la vraie ! Pas celle qu’ont dépeint dans les medias MAINSTREAM ! Mais cette vidéo ne percera pas pcq cest pas ce que vous voulez voir ✊🏽🚨 #lycee #blocus #manifestation #avengers #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7571,23 +7588,6 @@
       "url": "https://www.tiktok.com/@user230511090911/video/7706315473767370005",
       "published_at": "2026-11-09T23:20:00+00:00",
       "description": "#vaiprafycaramba #relate #foryou",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706314501569793312",
-      "username": "taorminanews24",
-      "url": "https://www.tiktok.com/@taorminanews24/video/7706314501569793312",
-      "published_at": "2026-11-09T23:16:21+00:00",
-      "description": "Toni durissimi nello scontro tra il sindaco di Taormina e il personale del Comune. De Luca replica sui social alla mobilitazione dei lavoratori, contesta la produttività degli uffici nonostante l’aumento delle ore lavorative e respinge le accuse rivolte all’amministrazione. “Quello che si faceva in 24 ore, adesso lo si fa in 36”, dichiara, prima di rivolgersi direttamente ai dipendenti: “Vi dovreste vergognare voi, ciascuno di voi”.",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

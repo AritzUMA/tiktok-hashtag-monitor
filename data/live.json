@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T21:25:27.402080+00:00",
+  "generated_at": "2026-11-10T21:28:45.252311+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32241,
+    "total_unique_videos": 32242,
     "published_24h": 433,
-    "published_48h": 1018,
+    "published_48h": 1016,
     "discovered_24h": 890,
-    "discovered_48h": 1821
+    "discovered_48h": 1819
   },
   "analysis": {
-    "embeddings_total": 32241,
+    "embeddings_total": 32242,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 433
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 201,
-    "ES": 99,
     "FR": 70,
+    "OTHER": 201,
+    "ES": 98,
+    "DE": 50,
     "MULTI": 12,
-    "DE": 49,
     "IT": 2
   },
   "links": {
@@ -2574,6 +2574,23 @@
       "published_at": "2026-11-10T13:01:08+00:00",
       "description": "🔴 ÚLTIMA HORA | EL GOBIERNO REFUERZA LA SEGURIDAD FERROVIARIA Y PERMITE A LOS MAQUINISTAS DETENER TRENES ANTE RIESGOS GRAVES. El Consejo de Ministros ha aprobado un Real Decreto-ley que introduce nuevas medidas para reforzar la seguridad ferroviaria en España. La reforma reconoce el derecho de los maquinistas a detener un tren o impedir su salida cuando detecten un peligro grave e inminente, además de protegerlos frente a posibles represalias laborales por denunciar fallos de seguridad. También refuerza las inspecciones, amplía las garantías para comunicar irregularidades y endurece las normas sobre los tiempos de conducción. Además, se crea la figura del Defensor de las Víctimas de Accidentes de Transporte Colectivo, con el objetivo de mejorar la protección y asistencia a los afectados y sus familiares. La aprobación llega tras el accidente ferroviario de Urda (Toledo). 📲 Sigue toda la actualidad en RADAR24. #RADAR24 #ÚltimaHora #Trenes #SeguridadFerroviaria #España",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706527063955508502",
+      "username": "jemand.h_1038",
+      "url": "https://www.tiktok.com/@jemand.h_1038/video/7706527063955508502",
+      "published_at": "2026-11-10T13:01:06+00:00",
+      "description": "Bilder von:siehe link unten  GenZ Demo Leipzig 31.10.2026 🚩   https://linktr.ee/carlsschwarz?utm_source=linktree_profile_share&ltsid=6d15e9dc-168a-422c-91a2-af0ae7ad9f17",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7367,23 +7384,6 @@
       "url": "https://www.tiktok.com/@dianaolachea/video/7706286906039946517",
       "published_at": "2026-11-09T21:29:14+00:00",
       "description": "Estoy enamorada de Valencia💘",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706286551877045537",
-      "username": "movistarplusdeportes",
-      "url": "https://www.tiktok.com/@movistarplusdeportes/video/7706286551877045537",
-      "published_at": "2026-11-09T21:27:45+00:00",
-      "description": "\"𝐀 𝐦𝐢 𝐧𝐨 𝐦𝐞 𝐢𝐦𝐩𝐨𝐫𝐭𝐚 𝐞𝐥 𝐁𝐚𝐥𝐨́𝐧 𝐝𝐞 𝐎𝐫𝐨\" 🌟 Jude Bellingham, contra el Valencia. #ElDíaDespués #LALIGAEASPORTS #LaCasaDelFútbol",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

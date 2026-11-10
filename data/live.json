@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T23:19:15.608921+00:00",
+  "generated_at": "2026-11-10T23:23:20.329852+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32312,
-    "published_24h": 445,
-    "published_48h": 1027,
-    "discovered_24h": 886,
-    "discovered_48h": 1804
+    "total_unique_videos": 32315,
+    "published_24h": 446,
+    "published_48h": 1028,
+    "discovered_24h": 889,
+    "discovered_48h": 1805
   },
   "analysis": {
-    "embeddings_total": 32312,
+    "embeddings_total": 32315,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 445
+    "qwen_pending_24h": 446
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "FR": 83,
     "OTHER": 203,
-    "ES": 101,
-    "FR": 82,
-    "DE": 45,
     "MULTI": 12,
+    "ES": 101,
+    "DE": 45,
     "IT": 2
   },
   "links": {
@@ -109,6 +109,23 @@
       "published_at": "2026-11-10T21:37:58+00:00",
       "description": "Jordan Bardella: le président du Rassemblement national assure qu'\"il n'y a pas de racisme systémique en France\" #sinformersurktiktok #jordanbardella",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706657604453338400",
+      "username": "genz.regelt.ulm",
+      "url": "https://www.tiktok.com/@genz.regelt.ulm/video/7706657604453338400",
+      "published_at": "2026-11-10T21:27:35+00:00",
+      "description": "Am 14.11. Banner und Grafitti malen und am 20.11. auf die Straße! #genzregelt #genzregeltdas #genz #genzprotest #ulm",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -312,7 +329,7 @@
       "url": "https://www.tiktok.com/@iamnooraaaoff/video/7706632763557825825",
       "published_at": "2026-11-10T19:51:11+00:00",
       "description": "🚨 C’est ca la GenZ la vraie ! Pas celle qu’ont dépeint dans les medias MAINSTREAM ! Mais cette vidéo ne percera pas pcq cest pas ce que vous voulez voir ✊🏽🚨 #lycee #blocus #manifestation #avengers #genz",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2840,6 +2857,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706540719275511072",
+      "username": "diekronik",
+      "url": "https://www.tiktok.com/@diekronik/video/7706540719275511072",
+      "published_at": "2026-11-10T13:54:04+00:00",
+      "description": "Neue erschreckende Enthüllungen im Fall Lisa: Was wir wissen Was die Ermittler jetzt über den Tod der 13-Jährigen aus Berlin-Marzahn herausgefunden haben. #truecrime #kriminalfall #berlin #nachrichten",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706540413854747906",
       "username": "khemisset14",
       "url": "https://www.tiktok.com/@khemisset14/video/7706540413854747906",
@@ -4455,12 +4489,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4472,12 +4506,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7571,23 +7605,6 @@
       "url": "https://www.tiktok.com/@taorminanews24/video/7706316597387857185",
       "published_at": "2026-11-09T23:24:28+00:00",
       "description": "🔴 Dopo la protesta dei dipendenti del Comune di Taormina, scesi in piazza per contestare il previsto trasferimento alle partecipate, il sindaco Cateno De Luca interviene in diretta social e ribadisce la posizione dell’Amministrazione. 🗣️ “Volete fare il muro contro muro? Accomodatevi. Dal 2 gennaio voi siete trasferiti alle Partecipate. Su questo non c’è dubbio”. ‼️ Il primo cittadino esclude passi indietro e dichiara conclusa ogni ulteriore possibilità di confronto.",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706315473767370005",
-      "username": "user230511090911",
-      "url": "https://www.tiktok.com/@user230511090911/video/7706315473767370005",
-      "published_at": "2026-11-09T23:20:00+00:00",
-      "description": "#vaiprafycaramba #relate #foryou",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

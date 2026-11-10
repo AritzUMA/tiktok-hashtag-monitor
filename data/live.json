@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T22:12:14.822066+00:00",
+  "generated_at": "2026-11-10T22:15:23.828199+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32273,
-    "published_24h": 433,
-    "published_48h": 1020,
-    "discovered_24h": 881,
-    "discovered_48h": 1816
+    "total_unique_videos": 32275,
+    "published_24h": 435,
+    "published_48h": 1022,
+    "discovered_24h": 883,
+    "discovered_48h": 1812
   },
   "analysis": {
-    "embeddings_total": 32273,
+    "embeddings_total": 32275,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 433
+    "qwen_pending_24h": 435
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 74,
     "OTHER": 203,
-    "DE": 46,
-    "ES": 97,
+    "FR": 74,
+    "DE": 47,
+    "ES": 98,
     "MULTI": 11,
     "IT": 2
   },
@@ -171,6 +171,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706628884254493985",
+      "username": "deutsche_nachrichten_",
+      "url": "https://www.tiktok.com/@deutsche_nachrichten_/video/7706628884254493985",
+      "published_at": "2026-11-10T19:36:08+00:00",
+      "description": "❗️💥 Alice Weidel warnt vor „Bürgerkrieg gegen Deutschland“ Linksextremisten und gewaltbereite Migrantenstrukturen würden sich verbünden, um gegen Deutschland und seine Sicherheitskräfte vorzugehen, sagte die AfD-Chefin bei einer Pressekonferenz. Die Ausschreitungen bei den Protesten am Wochenende seien eine direkte Folge der Migrationspolitik seit 2015, erklärte sie. Weidel warf der Bundesregierung Schönreden und Verharmlosung vor. Allein in Frankfurt seien mehr als 100 Polizeibeamte verletzt worden. Ohne eine grundlegende Wende in der Migrationspolitik und die Korrektur der Entscheidungen der vergangenen elf Jahre lasse sich die Gewalt nicht eindämmen, so die AfD-Chefin. #deutschland #nachrichten #afd #aliceweidel #chefin",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706626445950455072",
       "username": "genzregelt21",
       "url": "https://www.tiktok.com/@genzregelt21/video/7706626445950455072",
@@ -210,7 +227,7 @@
       "url": "https://www.tiktok.com/@claro_y_corto/video/7706623489305873686",
       "published_at": "2026-11-10T19:15:14+00:00",
       "description": "Hoy paran los maquinistas, mañana hay huelga general y el jueves vuelven los paros de tren 🚆 ¿Qué día te pilla a ti? 👇 📍 Martes 10: huelga de maquinistas (Semaf), 24 h. Esta mañana, en Madrid, las líneas C2, C3, C4, C5 y C8 de Cercanías no tenían trenes. 📍 Miércoles 11: huelga general de CCOO y UGT, 24 h. En Cercanías funcionará el 75 % de los trenes en hora punta y el 50 % el resto del día. 📍 Jueves 12: paros de maquinistas por franjas horarias. 🎫 Si tienes billete de Renfe para el 10 o el 12, puedes cambiarlo o anularlo gratis. Datos de Renfe y del Ministerio de Transportes, revisados el 10 nov a las 20:00. Pueden cambiar. #huelga #huelgageneral #renfe #11N",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3475,6 +3492,23 @@
       "published_at": "2026-11-10T12:07:07+00:00",
       "description": "La huelga de maquinistas provoca nuevas incidencias en Rodalies La huelga de maquinistas convocada por el sindicato SEMAF está provocando importantes alteraciones en el servicio ferroviario este martes, 10 de noviembre, con especial incidencia en Cataluña. La estación de Barcelona-Sants registra aglomeraciones de viajeros, que denuncian las dificultades para desplazarse, la falta de información y la ausencia de alternativas eficaces de transporte. #HuelgaDeMaquinistas #HuelgaFerroviaria #Renfe #Rodalies #Barcelona #Sants #TransportePúblico",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706511955514756370",
+      "username": "radioadn",
+      "url": "https://www.tiktok.com/@radioadn/video/7706511955514756370",
+      "published_at": "2026-11-10T12:02:24+00:00",
+      "description": "🚨 Al menos una decena de buses interurbanos se plegó al paro nacional de transportistas y bloqueó completamente la Ruta 5 Sur, en San Bernardo, interrumpiendo el tránsito en el sector. La movilización se suma a los cortes y concentraciones de camioneros registrados durante la jornada en distintos puntos del país. #parocamionero #noticias #combustibles #chile #camioneros #nacional #gobierno",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

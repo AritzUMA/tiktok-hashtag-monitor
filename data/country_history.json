@@ -1,22 +1,6 @@
 {
   "FR": [
     {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "france": 13,
-        "manifestation": 11,
-        "blocus": 8,
-        "mobilisation": 6,
-        "fyp": 5,
-        "grève": 4,
-        "genz": 4,
-        "actu": 4,
-        "saintdenis": 4,
-        "5novembre": 4
-      }
-    },
-    {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
       "hashtags": {
@@ -3199,25 +3183,25 @@
         "fyp": 3,
         "lycee": 3
       }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "france": 20,
+        "manifestation": 9,
+        "blocus": 9,
+        "paris": 6,
+        "actu": 4,
+        "greve": 4,
+        "montesquieu": 3,
+        "lycee": 3,
+        "lycée": 3,
+        "actualité": 3
+      }
     }
   ],
   "DE": [
-    {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "berlin": 73,
-        "nachrichten": 40,
-        "deutschland": 29,
-        "lisa": 19,
-        "bundestag": 17,
-        "politik": 14,
-        "news": 12,
-        "demonstration": 12,
-        "polizei": 11,
-        "genz": 10
-      }
-    },
     {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
@@ -6401,25 +6385,25 @@
         "germany": 11,
         "news": 10
       }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "berlin": 60,
+        "nachrichten": 28,
+        "lisa": 23,
+        "deutschland": 22,
+        "politik": 15,
+        "bundestag": 14,
+        "genz": 12,
+        "eilmeldung": 11,
+        "germany": 11,
+        "news": 10
+      }
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "valencia": 39,
-        "españa": 8,
-        "viral": 7,
-        "parati": 6,
-        "realmadrid": 5,
-        "futbol": 4,
-        "laliga": 4,
-        "noticias": 4,
-        "huelgageneral": 4,
-        "fyp": 3
-      }
-    },
     {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
@@ -9603,25 +9587,25 @@
         "viral": 4,
         "rodalies": 3
       }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "valencia": 32,
+        "españa": 11,
+        "realmadrid": 6,
+        "huelgageneral": 6,
+        "noticias": 5,
+        "huelga": 5,
+        "renfe": 4,
+        "viral": 4,
+        "futbol": 4,
+        "rodalies": 3
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "toscana": 1,
-        "a11": 1,
-        "incidente": 1,
-        "tgr": 1,
-        "كرامة": 1,
-        "غلاء_المعيشة": 1,
-        "11نونبر": 1,
-        "اضراب_عام": 1,
-        "سكن_كريم": 1,
-        "napoli": 1
-      }
-    },
     {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
@@ -12805,20 +12789,25 @@
         "equipedefrance": 1,
         "italiefrance": 1
       }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "italia": 3,
+        "venezia": 2,
+        "غلاء_المعيشة": 1,
+        "كرامة": 1,
+        "سكن_كريم": 1,
+        "اضراب_عام": 1,
+        "11نونبر": 1,
+        "notizie": 1,
+        "carburante": 1,
+        "suditalia": 1
+      }
     }
   ],
   "BE": [
-    {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "lg": 1,
-        "liege": 1,
-        "blocus": 1,
-        "bx": 1,
-        "manifestation": 1
-      }
-    },
     {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
@@ -14917,25 +14906,20 @@
         "blocus": 1,
         "manifestation": 1
       }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "manifestation": 1,
+        "valerieglatigny": 1,
+        "ecoles": 1,
+        "belgique": 1,
+        "blocus": 1
+      }
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-11-09T18:17:44+01:00",
-      "round_id": "20261109_181505",
-      "hashtags": {
-        "genz": 16,
-        "fyp": 11,
-        "cgt": 10,
-        "pourtoi": 8,
-        "viral": 8,
-        "manifestation": 7,
-        "renfe": 6,
-        "politique": 6,
-        "5novembre": 5,
-        "demo": 5
-      }
-    },
     {
       "updated_at": "2026-11-09T18:21:28+01:00",
       "round_id": "20261109_182042",
@@ -18116,6 +18100,22 @@
         "foryoupage": 6,
         "cnews": 6,
         "viral": 6,
+        "renfe": 5,
+        "politique": 5
+      }
+    },
+    {
+      "updated_at": "2026-11-10T06:13:58+01:00",
+      "round_id": "20261110_061235",
+      "hashtags": {
+        "genz": 17,
+        "cgt": 15,
+        "fyp": 14,
+        "grève": 7,
+        "demo": 7,
+        "foryoupage": 6,
+        "viral": 6,
+        "cnews": 6,
         "renfe": 5,
         "politique": 5
       }

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T23:39:22.135043+00:00",
+  "generated_at": "2026-11-10T23:43:38.418034+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32327,
-    "published_24h": 450,
-    "published_48h": 1031,
+    "total_unique_videos": 32328,
+    "published_24h": 451,
+    "published_48h": 1032,
     "discovered_24h": 895,
-    "discovered_48h": 1805
+    "discovered_48h": 1797
   },
   "analysis": {
-    "embeddings_total": 32327,
+    "embeddings_total": 32328,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 450
+    "qwen_pending_24h": 451
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 86,
-    "OTHER": 201,
     "DE": 46,
+    "OTHER": 202,
     "ES": 103,
-    "IT": 2,
-    "MULTI": 12
+    "FR": 86,
+    "MULTI": 12,
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -109,6 +109,23 @@
       "published_at": "2026-11-10T21:54:20+00:00",
       "description": "𝐇𝐮𝐠𝐨 𝐃𝐮𝐫𝐨 🤗 𝐑𝐚𝐛𝐚 El cariñoso agradecimiento del delantero a su compañero tras volver a marcar con el @Valencia CF. #LaCopaMola #LaCasaDelFútbol",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706663885599821076",
+      "username": "espanholminuto",
+      "url": "https://www.tiktok.com/@espanholminuto/video/7706663885599821076",
+      "published_at": "2026-11-10T21:52:02+00:00",
+      "description": "HUELGA GENERAL el 11 de noviembre. ¿Qué hacer?",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4642,12 +4659,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4659,12 +4676,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

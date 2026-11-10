@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T22:38:12.240897+00:00",
+  "generated_at": "2026-11-10T22:41:21.611238+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 32293,
-    "published_24h": 443,
-    "published_48h": 1028,
+    "published_24h": 442,
+    "published_48h": 1027,
     "discovered_24h": 885,
-    "discovered_48h": 1819
+    "discovered_48h": 1818
   },
   "analysis": {
     "embeddings_total": 32293,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 443
+    "qwen_pending_24h": 442
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 98,
-    "OTHER": 209,
-    "FR": 76,
-    "DE": 46,
+    "OTHER": 205,
+    "ES": 99,
     "MULTI": 12,
+    "FR": 78,
+    "DE": 46,
     "IT": 2
   },
   "links": {
@@ -74,7 +74,7 @@
       "url": "https://www.tiktok.com/@bfmtv/video/7706660272437464342",
       "published_at": "2026-11-10T21:37:58+00:00",
       "description": "Jordan Bardella: le président du Rassemblement national assure qu'\"il n'y a pas de racisme systémique en France\" #sinformersurktiktok #jordanbardella",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -244,7 +244,7 @@
       "url": "https://www.tiktok.com/@ondacapitalfm/video/7706632980113984790",
       "published_at": "2026-11-10T19:52:02+00:00",
       "description": "RENFE APLAZA UNA JORNADA DE HUELGA, PERO EL CONFLICTO FERROVIARIO CONTINÚA. El Sindicato Español de Maquinistas Ferroviarios (Semaf) ha anunciado que traslada del 12 al 23 de noviembre la jornada de huelga prevista en Renfe. La decisión llega después de que el Gobierno aprobase nuevas medidas para reforzar la seguridad ferroviaria y mejorar la protección de los trabajadores. Sin embargo, el sindicato mantiene la convocatoria de huelga del próximo 17 de noviembre en todo el sector. La jornada de este martes ha provocado importantes incidencias en la circulación ferroviaria. Según los datos difundidos por Renfe y recogidos por El Español, más de 653.000 viajeros se han visto afectados por las supresiones e incumplimientos de servicios mínimos. Los maquinistas reclaman que los compromisos sobre seguridad ferroviaria se traduzcan en medidas efectivas. #Renfe #HuelgaRenfe #Maquinistas #TransporteFerroviario #España",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -312,7 +312,7 @@
       "url": "https://www.tiktok.com/@valentina.semina0/video/7706627383264120097",
       "published_at": "2026-11-10T19:30:18+00:00",
       "description": "[ACTU]🔴 Le cortège massif ne s'arrête plus 📢 et progrèsse  sur les boulevards de la capitale ce 10 novembre !🇫🇷  La mobilisation reste totale !📳👇 #Paris #Manifestation #10Novembre #Mobilisation #Actu",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4302,12 +4302,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4319,12 +4319,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7537,23 +7537,6 @@
       "url": "https://www.tiktok.com/@sustick0/video/7706306147963260181",
       "published_at": "2026-11-09T22:43:50+00:00",
       "description": "#волга #3110 #лес #вайб #осень",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706305075139988766",
-      "username": "michaelpavano",
-      "url": "https://www.tiktok.com/@michaelpavano/video/7706305075139988766",
-      "published_at": "2026-11-09T22:39:52+00:00",
-      "description": "Brooke isn’t really feeling her new job #satire #parody #genz #pov #comedyvideo",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

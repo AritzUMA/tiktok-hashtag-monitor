@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T22:31:09.360183+00:00",
+  "generated_at": "2026-11-10T22:34:15.214538+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32284,
-    "published_24h": 435,
-    "published_48h": 1021,
+    "total_unique_videos": 32286,
+    "published_24h": 437,
+    "published_48h": 1023,
     "discovered_24h": 882,
     "discovered_48h": 1814
   },
   "analysis": {
-    "embeddings_total": 32284,
+    "embeddings_total": 32286,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 435
+    "qwen_pending_24h": 437
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 97,
+    "ES": 98,
     "OTHER": 205,
-    "MULTI": 11,
-    "DE": 46,
     "FR": 74,
+    "MULTI": 12,
+    "DE": 46,
     "IT": 2
   },
   "links": {
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@movistarplusdeportes/video/7706655129923095841",
       "published_at": "2026-11-10T21:17:58+00:00",
       "description": "🙏 𝐄𝐥 𝐩𝐞𝐫𝐝𝐨́𝐧 𝐝𝐞 𝐇𝐚𝐫𝐯𝐞𝐲 𝐄𝐥𝐥𝐢𝐨𝐭𝐭. El británico marcó su primer gol con el @Valencia CF y no dudó en 𝐝𝐢𝐬𝐜𝐮𝐥𝐩𝐚𝐫𝐬𝐞 𝐚𝐧𝐭𝐞 𝐬𝐮 𝐚𝐟𝐢𝐜𝐢𝐨́𝐧. #LaCopaMola #LaCasaDelFútbol",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -307,6 +307,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706618171385548084",
+      "username": "kariminternational223",
+      "url": "https://www.tiktok.com/@kariminternational223/video/7706618171385548084",
+      "published_at": "2026-11-10T18:55:06+00:00",
+      "description": "Mobilisation des lycéens en France de ce 10 novembre",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706616058995641632",
       "username": "abdurohman_official_1",
       "url": "https://www.tiktok.com/@abdurohman_official_1/video/7706616058995641632",
@@ -431,6 +448,23 @@
       "url": "https://www.tiktok.com/@elconfidencial/video/7706610657809943830",
       "published_at": "2026-11-10T18:25:26+00:00",
       "description": "🚄⚠️ Nueve meses después de Adamuz: el 90% de las promesas de seguridad en las vías sigue en el aire. Antes de dejar su cargo, el propio Óscar Puente reconoció en el Congreso lo que maquinistas y sindicatos llevan meses denunciando: las medidas estrella anunciadas tras el accidente no han llegado a las vías. Una información de Ana Sánchez y Javier Jorrín.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706610334294887702",
+      "username": "france3hautsdefrance",
+      "url": "https://www.tiktok.com/@france3hautsdefrance/video/7706610334294887702",
+      "published_at": "2026-11-10T18:24:10+00:00",
+      "description": "En cette journée de mobilisation nationale lycéenne et étudiante du 10 novembre, rencontre avec trois étudiants de l'UPJV d'Amiens. Où en est la mobilisation et quelles sont leurs inquiétudes ? #mobilisation #étudiants #universite",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2998,7 +3032,7 @@
       "url": "https://www.tiktok.com/@tutajsamul/video/7706526765027560718",
       "published_at": "2026-11-10T13:00:26+00:00",
       "description": "Governments are facing challenges from young protesters as Gen Z advocates for change. Recent protests across countries like Italy and France highlight their impact on political movements. What are your thoughts on the power of youth activism? #protests #genz #activism #youthvoice #socialchange",
-      "country": "OTHER",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T15:21:27.759000+00:00",
+  "generated_at": "2026-11-10T15:25:45.423501+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 31926,
-    "published_24h": 427,
-    "published_48h": 1037,
-    "discovered_24h": 844,
-    "discovered_48h": 1821
+    "total_unique_videos": 31930,
+    "published_24h": 424,
+    "published_48h": 1033,
+    "discovered_24h": 847,
+    "discovered_48h": 1820
   },
   "analysis": {
-    "embeddings_total": 31926,
+    "embeddings_total": 31930,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 427
+    "qwen_pending_24h": 424
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "IT": 3,
     "OTHER": 197,
-    "DE": 73,
+    "MULTI": 6,
     "FR": 59,
-    "ES": 88,
-    "MULTI": 7,
-    "IT": 3
+    "DE": 72,
+    "ES": 87
   },
   "links": {
     "qr_videos": 0,
@@ -817,12 +817,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -834,12 +834,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7232,57 +7232,6 @@
       "published_at": "2026-11-09T15:31:57+00:00",
       "description": "Lisa‘s Mutmaßlicher Täter 🪦💐 #Lisa #BerlinMarzahn #GerechtigkeitFürLisa #Nachrichten #Deutschland",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706193149311454497",
-      "username": "curlysarahberlin",
-      "url": "https://www.tiktok.com/@curlysarahberlin/video/7706193149311454497",
-      "published_at": "2026-11-09T15:25:23+00:00",
-      "description": "Berlin. Was ist den hier los ja #berlin #fürdich #schöneberg #ekel #berlinernews",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706193159751093536",
-      "username": "ludelprincipe",
-      "url": "https://www.tiktok.com/@ludelprincipe/video/7706193159751093536",
-      "published_at": "2026-11-09T15:25:18+00:00",
-      "description": "3 COSE CHE MI HANNO SCONVOLTA QUA A VALENCIA🇪🇸🇮🇹 italiani in spagna anche voi li avete sentiti? #spain #espana #valencia #italia",
-      "country": "MULTI",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706193047008087318",
-      "username": "daznfutbol",
-      "url": "https://www.tiktok.com/@daznfutbol/video/7706193047008087318",
-      "published_at": "2026-11-09T15:24:54+00:00",
-      "description": "🔊 \"Mis jugadores son mejor que los tuyos\" El mensaje de José Mourinho a Javier Aguirre tras el triunfo por 0-3 del Real Madrid en Valencia  #TRENDING",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

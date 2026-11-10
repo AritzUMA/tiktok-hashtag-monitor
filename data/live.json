@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T22:08:27.622860+00:00",
+  "generated_at": "2026-11-10T22:12:14.822066+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32272,
+    "total_unique_videos": 32273,
     "published_24h": 433,
     "published_48h": 1020,
     "discovered_24h": 881,
-    "discovered_48h": 1815
+    "discovered_48h": 1816
   },
   "analysis": {
-    "embeddings_total": 32272,
+    "embeddings_total": 32273,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 433
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 97,
-    "OTHER": 202,
+    "FR": 74,
+    "OTHER": 203,
     "DE": 46,
-    "FR": 75,
+    "ES": 97,
     "MULTI": 11,
     "IT": 2
   },
@@ -193,6 +193,23 @@
       "url": "https://www.tiktok.com/@realangi0/video/7706623830566915360",
       "published_at": "2026-11-10T19:16:32+00:00",
       "description": "#momlife #genz #humor #realtable",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706623489305873686",
+      "username": "claro_y_corto",
+      "url": "https://www.tiktok.com/@claro_y_corto/video/7706623489305873686",
+      "published_at": "2026-11-10T19:15:14+00:00",
+      "description": "Hoy paran los maquinistas, mañana hay huelga general y el jueves vuelven los paros de tren 🚆 ¿Qué día te pilla a ti? 👇 📍 Martes 10: huelga de maquinistas (Semaf), 24 h. Esta mañana, en Madrid, las líneas C2, C3, C4, C5 y C8 de Cercanías no tenían trenes. 📍 Miércoles 11: huelga general de CCOO y UGT, 24 h. En Cercanías funcionará el 75 % de los trenes en hora punta y el 50 % el resto del día. 📍 Jueves 12: paros de maquinistas por franjas horarias. 🎫 Si tienes billete de Renfe para el 10 o el 12, puedes cambiarlo o anularlo gratis. Datos de Renfe y del Ministerio de Transportes, revisados el 10 nov a las 20:00. Pueden cambiar. #huelga #huelgageneral #renfe #11N",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7368,23 +7385,6 @@
       "published_at": "2026-11-09T22:17:05+00:00",
       "description": "Mann hisst Flagge vor dem Reichstag #gaza #palestine #foryoupage❤️❤️ #viralvideos #fyp",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706297685766130977",
-      "username": "mia_zaid",
-      "url": "https://www.tiktok.com/@mia_zaid/video/7706297685766130977",
-      "published_at": "2026-11-09T22:10:56+00:00",
-      "description": "« Nous ne parlons toujours pas à CNews. » Ce lundi 9 novembre, devant Matignon à Paris, Ryad Rani, président de l’Union syndicale lycéenne, et les représentants des lycéens et étudiants mobilisés exigent le départ du journaliste de CNews. Refusant de s’exprimer devant une chaîne qu’ils accusent de relayer les idées d’extrême droite, ils annulent leur conférence de presse après le refus du journaliste de quitter les lieux.",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

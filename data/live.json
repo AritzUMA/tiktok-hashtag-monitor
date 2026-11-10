@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T23:47:22.445746+00:00",
+  "generated_at": "2026-11-10T23:51:09.024947+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32329,
-    "published_24h": 450,
-    "published_48h": 1031,
-    "discovered_24h": 896,
-    "discovered_48h": 1797
+    "total_unique_videos": 32331,
+    "published_24h": 452,
+    "published_48h": 1033,
+    "discovered_24h": 892,
+    "discovered_48h": 1798
   },
   "analysis": {
-    "embeddings_total": 32329,
+    "embeddings_total": 32331,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 450
+    "qwen_pending_24h": 452
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 86,
-    "ES": 102,
     "DE": 46,
-    "OTHER": 202,
-    "IT": 2,
-    "MULTI": 12
+    "ES": 102,
+    "OTHER": 204,
+    "FR": 86,
+    "MULTI": 12,
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -171,12 +171,46 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706656258748599574",
+      "username": "valenciacf",
+      "url": "https://www.tiktok.com/@valenciacf/video/7706656258748599574",
+      "published_at": "2026-11-10T21:22:23+00:00",
+      "description": "Así ha celebrado Harvey Elliott su primer gol con el Valencia CF  #TavernesValencia #tiktokfootball #DeportesTikTok #CopaDelRey",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706655129923095841",
       "username": "movistarplusdeportes",
       "url": "https://www.tiktok.com/@movistarplusdeportes/video/7706655129923095841",
       "published_at": "2026-11-10T21:17:58+00:00",
       "description": "🙏 𝐄𝐥 𝐩𝐞𝐫𝐝𝐨́𝐧 𝐝𝐞 𝐇𝐚𝐫𝐯𝐞𝐲 𝐄𝐥𝐥𝐢𝐨𝐭𝐭. El británico marcó su primer gol con el @Valencia CF y no dudó en 𝐝𝐢𝐬𝐜𝐮𝐥𝐩𝐚𝐫𝐬𝐞 𝐚𝐧𝐭𝐞 𝐬𝐮 𝐚𝐟𝐢𝐜𝐢𝐨́𝐧. #LaCopaMola #LaCasaDelFútbol",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706653669323771157",
+      "username": "catimamadetomi",
+      "url": "https://www.tiktok.com/@catimamadetomi/video/7706653669323771157",
+      "published_at": "2026-11-10T21:12:24+00:00",
+      "description": "#valencia #ciudaddelasartesylasciencias #españa🇪🇸 #valenciaespaña #foryoupage",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

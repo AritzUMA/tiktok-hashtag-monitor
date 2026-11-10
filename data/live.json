@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T20:55:34.091562+00:00",
+  "generated_at": "2026-11-10T20:58:24.246812+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 32218,
-    "published_24h": 425,
-    "published_48h": 1020,
-    "discovered_24h": 885,
-    "discovered_48h": 1822
+    "published_24h": 424,
+    "published_48h": 1016,
+    "discovered_24h": 881,
+    "discovered_48h": 1820
   },
   "analysis": {
     "embeddings_total": 32218,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 425
+    "qwen_pending_24h": 424
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "MULTI": 12,
-    "OTHER": 196,
+    "OTHER": 195,
     "ES": 100,
-    "FR": 67,
     "DE": 48,
-    "IT": 2
+    "FR": 67,
+    "IT": 2,
+    "MULTI": 12
   },
   "links": {
     "qr_videos": 0,
@@ -3418,12 +3418,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3435,12 +3435,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7231,23 +7231,6 @@
       "url": "https://www.tiktok.com/@primus266/video/7706279186402528544",
       "published_at": "2026-11-09T20:59:09+00:00",
       "description": "#demo #erfurt auch Erfurt zeigt heute wieder Flagge für Frieden Freiheit am 09.11.26",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706278688932777249",
-      "username": "paula.ac10012",
-      "url": "https://www.tiktok.com/@paula.ac10012/video/7706278688932777249",
-      "published_at": "2026-11-09T20:57:11+00:00",
-      "description": "#genz #feminismo #mujeres #xbcyza #factos",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

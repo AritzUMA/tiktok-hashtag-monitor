@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T18:39:01.653614+00:00",
+  "generated_at": "2026-11-10T18:41:51.989649+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32098,
-    "published_24h": 425,
-    "published_48h": 1021,
-    "discovered_24h": 883,
-    "discovered_48h": 1807
+    "total_unique_videos": 32102,
+    "published_24h": 426,
+    "published_48h": 1019,
+    "discovered_24h": 885,
+    "discovered_48h": 1810
   },
   "analysis": {
-    "embeddings_total": 32098,
+    "embeddings_total": 32102,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 425
+    "qwen_pending_24h": 426
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "MULTI": 10,
+    "OTHER": 199,
+    "DE": 60,
     "FR": 66,
-    "OTHER": 198,
-    "ES": 90,
-    "IT": 2,
-    "DE": 59,
-    "MULTI": 10
+    "ES": 89,
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -619,6 +619,23 @@
       "published_at": "2026-11-10T14:48:22+00:00",
       "description": "Plusieurs milliers d'étudiants, lycéens et enseignants manifestent à Paris en direction de la Place d'Italie.",
       "country": "MULTI",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706554094969818375",
+      "username": "azrul.2083",
+      "url": "https://www.tiktok.com/@azrul.2083/video/7706554094969818375",
+      "published_at": "2026-11-10T14:45:58+00:00",
+      "description": "Bayangan napoleon part 2 | #genzz #animasi #animasiindonesia #berandamu #fyp",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1735,6 +1752,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706513313546374423",
+      "username": "welt",
+      "url": "https://www.tiktok.com/@welt/video/7706513313546374423",
+      "published_at": "2026-11-10T12:07:43+00:00",
+      "description": "Der Fall der getöteten 13-jährigen Lisa aus Berlin-Marzahn gibt weiterhin Rätsel auf. Am Sonntag wurde ihre Leiche in einem leerstehenden Einfamilienhaus in Altglietzen bei Bad Freienwalde entdeckt – mehr als 50 Kilometer von ihrem Zuhause entfernt.⁠ ⁠ Neben dem Mädchen fanden Polizisten einen schwerverletzten 22-jährigen Mann. Er steht unter dringendem Tatverdacht und befindet sich weiterhin in kritischem Zustand. Die Ermittler gehen davon aus, dass er sich seine Verletzungen selbst zugefügt hat.⁠ #lisa #berlin #polizei",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706513151470144790",
       "username": "europapress",
       "url": "https://www.tiktok.com/@europapress/video/7706513151470144790",
@@ -2279,12 +2313,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2296,12 +2330,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7232,23 +7266,6 @@
       "published_at": "2026-11-09T18:42:57+00:00",
       "description": "Fall Lisa: Gegen den Verdächtigen (22) wurde schon seit Januar 2025 ermittelt. Hätte man ihn stoppen können? Unsere Gedanken sind bei Lisas Familie. #lisa #berlin #marzahn #eilmeldung #nachrichten",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706243402974743841",
-      "username": "sarittaaa_18",
-      "url": "https://www.tiktok.com/@sarittaaa_18/video/7706243402974743841",
-      "published_at": "2026-11-09T18:40:17+00:00",
-      "description": "Buffet de sushi más impresionante de Valencia 🍣🌴 @Moon Sushi Xàtiva  📍Ronda de la Séquia de la Vila 14, Xàtiva Este buffet te transporta a un resort de lujo asiático, con una decoración espectacular entre agua, humo y rincones que sorprenden✨🌴 🍱 ¿Qué te espera? ✨ Más de 2.500 m² de restaurante 🍣 150 platos para disfrutar sin límite 🥢 Sushi preparado al momento 🌊 Decoración con agua y humo 🚗 Parking con 100 plazas 🤩 Platos únicos y diferentes a los de otros buffets 🎁 ¡Gira la ruleta de la suerte! Después de consumir, tu mesa puede probar suerte y llevarse una sorpresa. Disponible de lunes a viernes, excepto festivos. Los premios son válidos para tu próxima visita, sin caducidad y también en festivos. 🍀 🍱 BUFFET LIBRE • Lunes a viernes al mediodía: 17,95 € • Lunes a jueves por la noche: 24,95 € • Fines de semana: 26,95 € 🥢 MENÚ DEL DÍA POR 14,50 € Incluye bebida, 4 platos y café o vasito de helado. De lunes a viernes, de 13:00h a 16:00h, excepto festivos. #sushi #buffet #buffetsushi #buffetlibre #sushivalencia",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

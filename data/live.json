@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T07:28:06.939983+00:00",
+  "generated_at": "2026-11-11T07:31:53.081432+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32592,
-    "published_24h": 542,
-    "published_48h": 1136,
-    "discovered_24h": 934,
-    "discovered_48h": 1818
+    "total_unique_videos": 32598,
+    "published_24h": 544,
+    "published_48h": 1137,
+    "discovered_24h": 936,
+    "discovered_48h": 1823
   },
   "analysis": {
-    "embeddings_total": 32592,
+    "embeddings_total": 32598,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 542
+    "qwen_pending_24h": 544
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 102,
-    "OTHER": 235,
-    "ES": 142,
+    "OTHER": 236,
+    "ES": 143,
+    "IT": 4,
     "DE": 48,
-    "MULTI": 11,
-    "IT": 4
+    "FR": 102,
+    "MULTI": 11
   },
   "links": {
     "qr_videos": 0,
@@ -41,6 +41,23 @@
       "published_at": "2026-11-11T07:00:01+00:00",
       "description": "Les gardiens de l’équipe de France en feu en ce début de rassemblement ! 🔥",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706795740818869536",
+      "username": "cnt_valencia",
+      "url": "https://www.tiktok.com/@cnt_valencia/video/7706795740818869536",
+      "published_at": "2026-11-11T06:23:48+00:00",
+      "description": "Cap desnonament sense resposta ✊ @Sindicat Habitatge de València @Sindicat Llogateres València  #vagageneral11n #HuelgaGeneral11N #VagaGeneral #HuelgaGeneral",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1089,6 +1106,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706670372132752673",
+      "username": "alonsofilmsanti",
+      "url": "https://www.tiktok.com/@alonsofilmsanti/video/7706670372132752673",
+      "published_at": "2026-11-10T22:17:11+00:00",
+      "description": "Mañana, huelga general... y una borrasca de alto impacto ! La AEMET ha emitido un aviso especial por lluvias fuertes y persistentes, rachas muy fuertes y temporal marítimo de martes a jueves. Hoy martes hay aviso rojo (peligro extraordinario) en el norte de Cáceres y el sur de Ávila: hasta 120 l/m2 en 12 horas. Mañana miércoles, la borrasca Charles entra por Canarias, con rachas de 80-100 km/h que podrían superar los 130 km/h en La Palma y Tenerife. En la Península, rachas de 90-100 km/h incluso en zonas bajas de Andalucía, Extremadura y el oeste de Castilla-La Mancha, y olas de hasta 5 metros en el golfo de Cádiz. En el oeste del Sistema Central podrían acumularse localmente más de 300 l/m2 en todo el episodio, con riesgo de deslizamientos en zonas que se quemaron este verano. El jueves la lluvia irá a menos, con chubascos fuertes en el norte. La AEMET avisa de que la posición final de Charles es incierta: consulta los avisos de tu zona en aemet.es y sigue a Protección Civil y al 112 de tu comunidad. Datos a la hora de publicar. ¿A ti te pilla? Dime desde dónde me ves Y mándaselo a quien tenga que salir manana. #borrascacharles #aemet #tiempo #ultimahora #españa",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706670308735962401",
       "username": "julian.is.free0",
       "url": "https://www.tiktok.com/@julian.is.free0/video/7706670308735962401",
@@ -1582,23 +1616,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706632150941961494",
-      "username": "leclipzap",
-      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
-      "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7706550689664666902",
       "username": "larazon.es",
       "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
@@ -1621,6 +1638,23 @@
       "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
       "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706632150941961494",
+      "username": "leclipzap",
+      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6988,11 +7022,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501176228924705",
-      "username": "benny.louder.than.bosses",
-      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
+      "video_id": "7706501178728762646",
+      "username": "kraqula666",
+      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7005,11 +7039,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501178728762646",
-      "username": "kraqula666",
-      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
+      "video_id": "7706501176228924705",
+      "username": "benny.louder.than.bosses",
+      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "",
+      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7260,12 +7294,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7277,12 +7311,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

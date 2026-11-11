@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T02:44:46.973595+00:00",
+  "generated_at": "2026-11-11T02:48:39.117025+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32418,
-    "published_24h": 490,
-    "published_48h": 1073,
-    "discovered_24h": 885,
-    "discovered_48h": 1787
+    "total_unique_videos": 32423,
+    "published_24h": 493,
+    "published_48h": 1077,
+    "discovered_24h": 889,
+    "discovered_48h": 1785
   },
   "analysis": {
-    "embeddings_total": 32418,
+    "embeddings_total": 32423,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 490
+    "qwen_pending_24h": 493
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 92,
-    "OTHER": 209,
-    "DE": 49,
     "ES": 124,
-    "MULTI": 12,
-    "IT": 4
+    "OTHER": 211,
+    "FR": 93,
+    "DE": 49,
+    "IT": 4,
+    "MULTI": 12
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706711193104305440",
+      "username": "bordeauxbynightfever",
+      "url": "https://www.tiktok.com/@bordeauxbynightfever/video/7706711193104305440",
+      "published_at": "2026-11-11T00:55:48+00:00",
+      "description": "Recap de cette nouvelle journée de mobilisation ! #paris #10novembre #manifestations #manifestation #giletsjaunes",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706704696894934304",
       "username": "francois_piquemal",
@@ -210,6 +227,23 @@
       "url": "https://www.tiktok.com/@bfmtv/video/7706680142461963542",
       "published_at": "2026-11-10T22:55:09+00:00",
       "description": "Fonction publique: Jordan Bardella, président du Rassemblement national, prévoit le non-remplacement de 223.000 postes #sinformersurtiktok #rassemblementnational #jordanbardella #politique #rn",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706677347784740128",
+      "username": "xorftbl",
+      "url": "https://www.tiktok.com/@xorftbl/video/7706677347784740128",
+      "published_at": "2026-11-10T22:44:17+00:00",
+      "description": "Touché à l’ischio droit, Marcus Thuram est forfait pour ce rassemblement c’est donc Kroupi qui va le remplacer pour sa première selection! #kroupi #bournemouth #france #edit #viral",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -613,11 +647,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706639025150463254",
-      "username": "orain_noticias",
-      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -630,11 +664,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1497,6 +1531,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706606555440958753",
+      "username": "reportage.action93",
+      "url": "https://www.tiktok.com/@reportage.action93/video/7706606555440958753",
+      "published_at": "2026-11-10T18:09:33+00:00",
+      "description": "Imaginez une fête où les codes sociaux sont totalement différents… Chez les gitans, la séparation des hommes et des femmes lors des rassemblements n'est pas une contrainte, mais une vraie marque de respect. Entre grillades, feux de camp et traditions bien ancrées, chacun trouve sa place. Une coutume fascinante qui interroge sur nos propres habitudes. Vous en pensez quoi de cette organisation ? #tradition #gitans #culture #société #fête",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706606513124658454",
       "username": "101tvandalucia",
       "url": "https://www.tiktok.com/@101tvandalucia/video/7706606513124658454",
@@ -1599,11 +1650,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1616,11 +1667,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

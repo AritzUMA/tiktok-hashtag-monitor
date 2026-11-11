@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T05:21:17.870838+00:00",
+  "generated_at": "2026-11-11T05:24:22.722210+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32522,
-    "published_24h": 538,
-    "published_48h": 1127,
-    "discovered_24h": 914,
-    "discovered_48h": 1820
+    "total_unique_videos": 32526,
+    "published_24h": 541,
+    "published_48h": 1130,
+    "discovered_24h": 918,
+    "discovered_48h": 1821
   },
   "analysis": {
-    "embeddings_total": 32522,
+    "embeddings_total": 32526,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 538
+    "qwen_pending_24h": 541
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 235,
+    "FR": 98,
+    "OTHER": 238,
     "DE": 49,
     "ES": 138,
-    "FR": 99,
-    "IT": 4,
-    "MULTI": 13
+    "MULTI": 14,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,40 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "published_at": "2026-11-11T05:00:22+00:00",
+      "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706763475472616724",
+      "username": "los.winchester",
+      "url": "https://www.tiktok.com/@los.winchester/video/7706763475472616724",
+      "published_at": "2026-11-11T04:18:29+00:00",
+      "description": "Lo que grabaron en los cielos de Argentina en una tormenta no tiene explicación 😱  ¿Qué crees que pudo ser? #paranormal #misterio #horror #miedo #sobrenatural",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706750470143986975",
       "username": "_nvldo_",
@@ -143,6 +177,23 @@
       "published_at": "2026-11-11T00:30:31+00:00",
       "description": "La mobilisation a déjà débutée en Espagne, et des centaines de madrilènes sont déjà dans les rues. Nous suivrons la mobilisation heure par heure !",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706704268031462688",
+      "username": "lagoulette1",
+      "url": "https://www.tiktok.com/@lagoulette1/video/7706704268031462688",
+      "published_at": "2026-11-11T00:28:48+00:00",
+      "description": "#manifestation #france #paris #CapCut #mobilisation2026",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1157,11 +1208,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706639025150463254",
-      "username": "orain_noticias",
-      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1191,11 +1242,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1485,7 +1536,7 @@
       "url": "https://www.tiktok.com/@iamnooraaaoff/video/7706632763557825825",
       "published_at": "2026-11-10T19:51:11+00:00",
       "description": "🚨 C’est ca la GenZ la vraie ! Pas celle qu’ont dépeint dans les medias MAINSTREAM ! Mais cette vidéo ne percera pas pcq cest pas ce que vous voulez voir ✊🏽🚨 #lycee #blocus #manifestation #avengers #genz",
-      "country": "FR",
+      "country": "MULTI",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2347,11 +2398,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2364,11 +2415,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6359,11 +6410,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501178728762646",
-      "username": "kraqula666",
-      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
+      "video_id": "7706501176228924705",
+      "username": "benny.louder.than.bosses",
+      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "",
+      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6376,11 +6427,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501176228924705",
-      "username": "benny.louder.than.bosses",
-      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
+      "video_id": "7706501178728762646",
+      "username": "kraqula666",
+      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

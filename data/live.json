@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T13:14:54.815032+00:00",
+  "generated_at": "2026-11-11T13:18:31.016606+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32883,
+    "total_unique_videos": 32884,
     "published_24h": 564,
     "published_48h": 1180,
-    "discovered_24h": 1049,
-    "discovered_48h": 1891
+    "discovered_24h": 1048,
+    "discovered_48h": 1887
   },
   "analysis": {
-    "embeddings_total": 32883,
+    "embeddings_total": 32884,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 564
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 85,
     "ES": 193,
-    "OTHER": 208,
     "DE": 64,
-    "IT": 4,
-    "MULTI": 10
+    "FR": 85,
+    "OTHER": 208,
+    "MULTI": 10,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -92,6 +92,23 @@
       "published_at": "2026-11-11T12:05:20+00:00",
       "description": "✊ Ce matin, nous étions aux côtés des travailleurs mobilisés sur leur piquet de grève, en cette journée historique de mobilisation pour le droit au logement en Espagne ! Nous y avons rencontré Emilio Delgado, figure montante de la gauche de rupture en Espagne.",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706879512855727392",
+      "username": "vivalavidaenfres",
+      "url": "https://www.tiktok.com/@vivalavidaenfres/video/7706879512855727392",
+      "published_at": "2026-11-11T11:48:43+00:00",
+      "description": "#nostalgie #genz #enfance #2000s #dessinanime",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -953,12 +970,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706589211989658886",
-      "username": "oneforme112",
-      "url": "https://www.tiktok.com/@oneforme112/video/7706589211989658886",
+      "video_id": "7706573145251024160",
+      "username": "albane.dbunk",
+      "url": "https://www.tiktok.com/@albane.dbunk/video/7706573145251024160",
       "published_at": "2026-11-11T09:00:00+00:00",
-      "description": "Tidak ada kata di PR kan 😏 kerjaan di sekolah sampe selesai 😌 #gurugenz #gurusd #genalpha #genzvsgenalpha #fyp",
-      "country": "OTHER",
+      "description": "🔴 Et vous, que diriez-vous à quelqu’un qui hésite à voter RN ? Épisode 4, spécial manifestation du 31 octobre, porte de Charenton.",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -970,12 +987,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706573145251024160",
-      "username": "albane.dbunk",
-      "url": "https://www.tiktok.com/@albane.dbunk/video/7706573145251024160",
+      "video_id": "7706589211989658886",
+      "username": "oneforme112",
+      "url": "https://www.tiktok.com/@oneforme112/video/7706589211989658886",
       "published_at": "2026-11-11T09:00:00+00:00",
-      "description": "🔴 Et vous, que diriez-vous à quelqu’un qui hésite à voter RN ? Épisode 4, spécial manifestation du 31 octobre, porte de Charenton.",
-      "country": "FR",
+      "description": "Tidak ada kata di PR kan 😏 kerjaan di sekolah sampe selesai 😌 #gurugenz #gurusd #genalpha #genzvsgenalpha #fyp",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6444,11 +6461,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6461,11 +6478,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9594,23 +9611,6 @@
       "url": "https://www.tiktok.com/@systheme_underground/video/7706532168784416032",
       "published_at": "2026-11-10T13:20:52+00:00",
       "description": "une augmentation du SMIC qui semble insuffisante pour le peuple français, un appel à poursuivre la grève et les manifestations semble être une évidence. #smic #mobilisation",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706530775507799317",
-      "username": "dhamdanofficial",
-      "url": "https://www.tiktok.com/@dhamdanofficial/video/7706530775507799317",
-      "published_at": "2026-11-10T13:15:30+00:00",
-      "description": "#fypシ #genz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

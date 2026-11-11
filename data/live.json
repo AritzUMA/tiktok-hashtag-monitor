@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:25:56.554176+00:00",
+  "generated_at": "2026-11-11T00:28:59.529325+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 32348,
-    "published_24h": 455,
+    "published_24h": 453,
     "published_48h": 1039,
-    "discovered_24h": 881,
-    "discovered_48h": 1793
+    "discovered_24h": 879,
+    "discovered_48h": 1792
   },
   "analysis": {
     "embeddings_total": 32348,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 455
+    "qwen_pending_24h": 453
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 86,
-    "OTHER": 202,
     "ES": 108,
+    "OTHER": 200,
     "DE": 44,
+    "FR": 86,
     "MULTI": 12,
     "IT": 3
   },
@@ -7725,40 +7725,6 @@
       "published_at": "2026-11-10T00:47:18+00:00",
       "description": "On continue ? ✊ 1,6 million de manifestantes et manifestants ce 5 novembre : la mobilisation sociale franchit un nouveau cap historique ! La huitième journée de grève interprofessionnelle marque un niveau inédit depuis 2023. De la Fonction publique aux transports, en passant par l'industrie, le commerce et les médias, la colère gronde face aux reculs sociaux. Points clés de la mobilisation du 5 novembre : - 1,57 million de personnes recensées par la CGT dans plus de 200 villes (dont 350 000 à Paris, 150 000 à Marseille, 120 000 à Bordeaux...). - Forte mobilisation sectorielle : cheminots, métallurgie, agro-alimentaire, services, postes et télécoms, et médias. - Soutien à la jeunesse et aux lycéens mobilisés, malgré les signalements de répressions et d'obstructions préfectorales condamnées par le syndicat. La lutte se poursuivra tant que le gouvernement et le patronat ne répondront pas aux urgences sur les salaires, les services publics, la protection sociale et les conditions de vie. #5novembre #10Novembre #Greve #Manif #Paris",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706333045929872661",
-      "username": "liputan6",
-      "url": "https://www.tiktok.com/@liputan6/video/7706333045929872661",
-      "published_at": "2026-11-10T00:28:11+00:00",
-      "description": "Polisi menyiapkan rekayasa lalu lintas guna mengantisipasi kepadatan saat aksi penyampaian aspirasi di kawasan Gedung DPR/MPR RI, Jakarta, Selasa pagi. Pengendara diimbau menghindari kawasan tersebut serta menyesuaikan waktu perjalanan. #liputan6sctv #newssctv #emtekmedianews #demo #jakarta",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706332887422946581",
-      "username": "redmasnoticias",
-      "url": "https://www.tiktok.com/@redmasnoticias/video/7706332887422946581",
-      "published_at": "2026-11-10T00:27:36+00:00",
-      "description": "#ATENCIÓN | #Ejércitos de #EEUU y #Colombia participan en demostración de operaciones con drones durante ejercicios de cooperación en Tolemaida.",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

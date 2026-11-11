@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T04:12:24.491220+00:00",
+  "generated_at": "2026-11-11T04:16:53.923315+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32476,
-    "published_24h": 515,
-    "published_48h": 1105,
+    "total_unique_videos": 32477,
+    "published_24h": 516,
+    "published_48h": 1106,
     "discovered_24h": 891,
-    "discovered_48h": 1804
+    "discovered_48h": 1803
   },
   "analysis": {
-    "embeddings_total": 32476,
+    "embeddings_total": 32477,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 515
+    "qwen_pending_24h": 516
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "MULTI": 13,
-    "DE": 49,
-    "ES": 131,
-    "OTHER": 220,
     "FR": 98,
+    "OTHER": 221,
+    "ES": 131,
+    "DE": 49,
+    "MULTI": 13,
     "IT": 4
   },
   "links": {
@@ -40,6 +40,23 @@
       "url": "https://www.tiktok.com/@_nvldo_/video/7706750470143986975",
       "published_at": "2026-11-11T03:28:09+00:00",
       "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706719838634249493",
+      "username": "metropolitan.id",
+      "url": "https://www.tiktok.com/@metropolitan.id/video/7706719838634249493",
+      "published_at": "2026-11-11T01:29:08+00:00",
+      "description": "Aksi demonstrasi peringatan Hari Pahlawan di Yogyakarta, Selasa (10/11/2026), berakhir ricuh.  Kerusuhan pecah setelah sejumlah massa membakar barang dan berupaya mendobrak gerbang Gedung DPRD DIY. Situasi semakin memanas sekitar pukul 20.00 WIB. Massa yang diduga berjumlah sekitar 200 orang juga melempar petasan dan kembang api ke arah gedung DPRD. Merespons aksi tersebut, aparat kepolisian kemudian mengerahkan kendaraan taktis water cannon dan menembakkan gas air mata untuk membubarkan massa sekitar pukul 20.40 WIB. Bentrok pun meluas hingga kawasan Malioboro dan bergeser ke Bundaran UGM. Kapolresta Yogyakarta Kombes Pol Ihsan menyebut tindakan tegas terpaksa dilakukan lantaran massa mulai bertindak anarkis. Video: @keliling_jogjayuk @setapol.indonesia #chaosdemoyogya #demojogyakarta #demoricuh #haripahlawannasional #mahasiswadikepungaparat",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -919,11 +936,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -936,11 +953,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706639025150463254",
-      "username": "orain_noticias",
-      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6189,12 +6206,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6206,12 +6223,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

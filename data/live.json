@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T02:37:53.207070+00:00",
+  "generated_at": "2026-11-11T02:41:32.434706+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32412,
-    "published_24h": 487,
+    "total_unique_videos": 32413,
+    "published_24h": 488,
     "published_48h": 1070,
-    "discovered_24h": 883,
-    "discovered_48h": 1785
+    "discovered_24h": 881,
+    "discovered_48h": 1782
   },
   "analysis": {
-    "embeddings_total": 32412,
+    "embeddings_total": 32413,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 487
+    "qwen_pending_24h": 488
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 207,
-    "FR": 92,
-    "ES": 123,
-    "DE": 49,
     "MULTI": 12,
+    "FR": 92,
+    "OTHER": 208,
+    "DE": 49,
+    "ES": 123,
     "IT": 4
   },
   "links": {
@@ -4359,6 +4359,23 @@
       "published_at": "2026-11-10T12:57:29+00:00",
       "description": "Le meeting insoumis du Bourget ce samedi 7 novembre, 5 mois, jour pour jour, après l’extraordinaire rassemblement de Saint-Denis a été un moment d’anthologie pour la légende de la gauche.  #melenchon2027",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706525633903447329",
+      "username": "dr.bea.kinderaerztin",
+      "url": "https://www.tiktok.com/@dr.bea.kinderaerztin/video/7706525633903447329",
+      "published_at": "2026-11-10T12:55:35+00:00",
+      "description": "Menschen werden sterben aufgrund des GKV-Spargesetzes. Auch Kinder und Babys.  Ist das allen so klar und wollen wir das hinnehmen?  Wenn nicht, demonstriere mit mir und @vonwutzumut : Oldenburg am Samstag 14.11. um 14 Uhr auf dem Schlossplatz.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

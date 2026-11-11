@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T06:32:24.034508+00:00",
+  "generated_at": "2026-11-11T06:35:24.229698+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32562,
-    "published_24h": 547,
-    "published_48h": 1138,
-    "discovered_24h": 930,
-    "discovered_48h": 1816
+    "total_unique_videos": 32563,
+    "published_24h": 548,
+    "published_48h": 1139,
+    "discovered_24h": 931,
+    "discovered_48h": 1817
   },
   "analysis": {
-    "embeddings_total": 32561,
+    "embeddings_total": 32563,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 547
+    "qwen_pending_24h": 548
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 238,
+    "OTHER": 239,
     "ES": 140,
     "FR": 103,
     "DE": 50,
-    "MULTI": 12,
-    "IT": 4
+    "IT": 4,
+    "MULTI": 12
   },
   "links": {
     "qr_videos": 0,
@@ -35,9 +35,9 @@
   },
   "videos": [
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -52,9 +52,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -1412,6 +1412,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706632150941961494",
+      "username": "leclipzap",
+      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706550689664666902",
       "username": "larazon.es",
       "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
@@ -1434,23 +1451,6 @@
       "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
       "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706632150941961494",
-      "username": "leclipzap",
-      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
-      "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5463,6 +5463,23 @@
       "url": "https://www.tiktok.com/@gean_phifi/video/7706537220844293408",
       "published_at": "2026-11-10T13:40:30+00:00",
       "description": "@martinluminet #lfi #manifestation #2k26 #lycée",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706537105001958688",
+      "username": "jonatanpalaciosnews",
+      "url": "https://www.tiktok.com/@jonatanpalaciosnews/video/7706537105001958688",
+      "published_at": "2026-11-10T13:40:03+00:00",
+      "description": "🚨 ATAQUE EN ESPAÑA: EXPLOSIÓN EN OVIEDO DEJA DOS POLICÍAS MUERTOS Y UN PERRO ANTEXPLOSIVOS FALLECIDO ¡Tragedia en España! Un hombre habría disparado contra una adolescente de 17 años y abandonado una mochila con explosivos que detonó durante la intervención policial. Dos agentes y un perro especializado en explosivos perdieron la vida, según los reportes difundidos. La búsqueda del presunto responsable mantiene en alerta a Oviedo.     🔴 EN VIVO 7:00 a. m. y 7:00 p. m. (hora Venezuela) en YouTube: youtube.com/@jonatanpalacioss 🌐 jonatanpalaciosnews.com ❤️ Ayúdanos a sostener este proyecto comunicacional. Tu aporte nos permite seguir adelante. #España #ÚltimaHora #JonatanPalaciosNews #paraelcartelcarcelocementerio #Venezuela  @SIPA @JP NEWS Investigaciones @justiciaxlibertad @Jonatan Palacios",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

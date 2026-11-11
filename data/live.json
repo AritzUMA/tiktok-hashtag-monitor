@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T02:24:26.284010+00:00",
+  "generated_at": "2026-11-11T02:31:13.634654+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32399,
-    "published_24h": 481,
-    "published_48h": 1065,
-    "discovered_24h": 872,
-    "discovered_48h": 1779
+    "total_unique_videos": 32404,
+    "published_24h": 485,
+    "published_48h": 1069,
+    "discovered_24h": 876,
+    "discovered_48h": 1780
   },
   "analysis": {
-    "embeddings_total": 32399,
+    "embeddings_total": 32404,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 481
+    "qwen_pending_24h": 485
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "FR": 92,
     "OTHER": 205,
-    "ES": 122,
+    "ES": 123,
     "DE": 49,
-    "IT": 4,
-    "FR": 89,
-    "MULTI": 12
+    "MULTI": 12,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -545,6 +545,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706651771162168598",
+      "username": "enclave360",
+      "url": "https://www.tiktok.com/@enclave360/video/7706651771162168598",
+      "published_at": "2026-11-10T21:04:58+00:00",
+      "description": "Huelga de maquinistas, en el día del funeral de Urda | EnClave360, 10 de noviembre Los maquinistas de Renfe, convocados por Semaf para exigir un cambio estructural en la seguridad, paran veinticuatro horas. En Madrid se han suprimido seis de cada diez trenes de los servicios mínimos y las líneas C-1, C-2, C-3, C-4, C-5 y C-8 no circulan; en Cataluña no han salido catorce de los veinticinco trenes previstos. Renfe acusa al sindicato de incumplir los mínimos; Semaf responde que el seguimiento es del cien por cien y que el fallo es de gestión. El paro llega en el día más delicado: la catedral de Toledo ha acogido a las 19:00 el funeral por las víctimas del accidente de Urda, con los reyes y los principales líderes políticos. El Gobierno aprueba un decreto urgente de seguridad ferroviaria y crea un defensor de las víctimas de accidentes de transporte colectivo. Mañana, huelga general: 75% de Cercanías en hora punta y 50% el resto del día. El jueves, segunda jornada de maquinistas. ¿Qué parte del conflicto ferroviario quieres que sigamos? #España #Renfe #Huelga #Cercanias #Actualidad",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706651675892665633",
       "username": "movistarplusdeportes",
       "url": "https://www.tiktok.com/@movistarplusdeportes/video/7706651675892665633",
@@ -584,6 +601,23 @@
       "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
       "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1514,11 +1548,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1531,11 +1565,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1638,7 +1672,7 @@
       "url": "https://www.tiktok.com/@ledauphinelibere/video/7706599762870455574",
       "published_at": "2026-11-10T17:42:44+00:00",
       "description": "\"Ce ne sont que des miettes !\" 💶 Les manifestants dénoncent un \"mépris\" du gouvernement, suite à la revalorisation du SMIC. De nouveau mobilisés, étudiants, lycéens et professionnels de l'éducation ont défilé dans les rues de Grenoble, mardi 10 novembre 2026. 🎥 Maureen Dufournet #SinformerSurTikTok",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2811,7 +2845,7 @@
       "url": "https://www.tiktok.com/@interfac.idf/video/7706562277322886433",
       "published_at": "2026-11-10T15:17:50+00:00",
       "description": "Cortège Étudiant, lycéen et travailleur pour cette nouvelle journée de grève et de manifestation !  Le mouvement ne s’arrêtera pas tant que le gouvernement n’aura pas cédé à toutes nos revendications.  Macron, tes miettes on en veut pas!!  👉 RDV à 18h en assemblée générale interfac au 190bis avenue de Clichy pour discuter des suites de la mobilisation!  Et toutes et tous dans la rue le 17 novembre pour une nouvelle journée de grève!",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3730,6 +3764,23 @@
       "published_at": "2026-11-10T13:58:58+00:00",
       "description": "#blocusdulycee #abonnetoi #38 #pourtoi",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706541914312461588",
+      "username": "lajoyie",
+      "url": "https://www.tiktok.com/@lajoyie/video/7706541914312461588",
+      "published_at": "2026-11-10T13:58:39+00:00",
+      "description": "aksi surabaya hari ini! <3 @Perunggu 🥉 #1312 #indonesiasadar #longmarch #surabaya #unair",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5186,6 +5237,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706501178728762646",
+      "username": "kraqula666",
+      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
+      "published_at": "2026-11-10T11:20:42+00:00",
+      "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706501176228924705",
       "username": "benny.louder.than.bosses",
       "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
@@ -5973,7 +6041,7 @@
       "url": "https://www.tiktok.com/@laprovence_/video/7706483481181818144",
       "published_at": "2026-11-10T10:12:00+00:00",
       "description": "🔴 La mobilisation du 10 novembre démarre à Marseille #marseille#lycee #mobilisation #manifestation #sinformersurktiktok",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

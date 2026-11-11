@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T08:23:57.363089+00:00",
+  "generated_at": "2026-11-11T08:28:01.324513+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32623,
-    "published_24h": 543,
-    "published_48h": 1132,
+    "total_unique_videos": 32627,
+    "published_24h": 546,
+    "published_48h": 1133,
     "discovered_24h": 941,
-    "discovered_48h": 1822
+    "discovered_48h": 1826
   },
   "analysis": {
-    "embeddings_total": 32623,
+    "embeddings_total": 32627,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 543
+    "qwen_pending_24h": 546
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 233,
     "FR": 102,
-    "ES": 141,
-    "MULTI": 11,
+    "OTHER": 234,
+    "ES": 143,
     "DE": 52,
-    "IT": 4
+    "IT": 4,
+    "MULTI": 11
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,40 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7706811715857517846",
+      "username": "will_hem11",
+      "url": "https://www.tiktok.com/@will_hem11/video/7706811715857517846",
+      "published_at": "2026-11-11T07:25:40+00:00",
+      "description": "7:30 h Piquetes de Zona Franca de Barcelona intentan convencer a un grupo de empleados que querían acceder al recinto para trabajar durante la Huelga General por la Vivienda.  @CCOO @UGT de Catalunya @CGT Catalunya  #huelgageneral #11n",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706810005277740310",
+      "username": "diariosur",
+      "url": "https://www.tiktok.com/@diariosur/video/7706810005277740310",
+      "published_at": "2026-11-11T07:19:03+00:00",
+      "description": "Tras recorrer el centro desde las 00 horas, los piquetes del #11N hicieron escala en la sede de CGT, en Ortega y Gasset, 196, donde pudieron tomar un café y comer algo. Una vez repuestas las fuerzas desde ahí, diseminarían por otros puntos neurálgicos de la capital. En primera instancia, acudieron a #Mercamálaga, donde confluyeron de nuevo el movimiento por la vivienda con Comisiones Obreras y UGT. El secretario general de UGT, Antonio González, declaró a SUR: «Nos encontramos casi a las cuatro de la madrugada a las puertas de Mercamálaga para informar a todos los camioneros que se desplazan a este centro de trabajo las razones que justifican esta #huelgageneral: mejores salarios, el derecho a una vivienda digna y la reducción de la jornada laboral y la defensa de los servicios públicos». ✍️ Cristina Vallejo 📣 más en SUR.es",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7706809409476791585",
       "username": "christophe.raibaut",
@@ -75,6 +109,23 @@
       "published_at": "2026-11-11T07:00:01+00:00",
       "description": "Les gardiens de l’équipe de France en feu en ce début de rassemblement ! 🔥",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706801915199311126",
+      "username": "cgtcatalunya",
+      "url": "https://www.tiktok.com/@cgtcatalunya/video/7706801915199311126",
+      "published_at": "2026-11-11T06:47:40+00:00",
+      "description": "La Catalunya Central s’atura!!",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1769,6 +1820,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706632150941961494",
+      "username": "leclipzap",
+      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706550689664666902",
       "username": "larazon.es",
       "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
@@ -1791,23 +1859,6 @@
       "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
       "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706632150941961494",
-      "username": "leclipzap",
-      "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
-      "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

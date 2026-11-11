@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:48:51.821732+00:00",
+  "generated_at": "2026-11-11T00:52:33.045376+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32355,
-    "published_24h": 458,
-    "published_48h": 1043,
-    "discovered_24h": 878,
+    "total_unique_videos": 32356,
+    "published_24h": 459,
+    "published_48h": 1044,
+    "discovered_24h": 879,
     "discovered_48h": 1790
   },
   "analysis": {
-    "embeddings_total": 32355,
+    "embeddings_total": 32356,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 458
+    "qwen_pending_24h": 459
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 86,
-    "OTHER": 203,
+    "OTHER": 204,
     "ES": 109,
-    "MULTI": 12,
+    "FR": 86,
     "DE": 44,
+    "MULTI": 12,
     "IT": 4
   },
   "links": {
@@ -630,6 +630,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706628012590124321",
+      "username": "rachad.mn",
+      "url": "https://www.tiktok.com/@rachad.mn/video/7706628012590124321",
+      "published_at": "2026-11-10T19:32:46+00:00",
+      "description": "A bold statement in Berlin. On Sunday, November 8, 2026, a pro-Palestinian activist scaled a 30-meter (nearly 100-foot) flagpole outside the historic Reichstag building—home of the German parliament. Using climbing gear, the demonstrator lowered the German flag and raised the Palestinian flag in its place to protest the ongoing conflict and call for international solidarity. The high-altitude demonstration drew a crowd in front of the building before emergency crews arrived to remove the flag",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706627958055750934",
       "username": "france3hautsdefrance",
       "url": "https://www.tiktok.com/@france3hautsdefrance/video/7706627958055750934",
@@ -1157,11 +1174,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1174,11 +1191,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

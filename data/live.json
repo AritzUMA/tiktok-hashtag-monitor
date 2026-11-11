@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T03:03:49.158461+00:00",
+  "generated_at": "2026-11-11T03:07:34.926109+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 32429,
     "published_24h": 497,
     "published_48h": 1081,
-    "discovered_24h": 880,
-    "discovered_48h": 1784
+    "discovered_24h": 878,
+    "discovered_48h": 1782
   },
   "analysis": {
     "embeddings_total": 32429,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 124,
-    "FR": 94,
+    "OTHER": 212,
+    "FR": 95,
+    "ES": 125,
     "DE": 49,
-    "OTHER": 214,
     "MULTI": 12,
     "IT": 4
   },
@@ -2148,7 +2148,7 @@
       "url": "https://www.tiktok.com/@npa_revo_caen/video/7705735851870817558",
       "published_at": "2026-11-10T17:00:00+00:00",
       "description": "Même si Macron le veut pas la mobilisation ne faiblit pas ! Face aux revendications des lycéen-nes la police répond par la répression et l'humiliation, ne les laissons pas faire. #Caen #Grève #NPAR #manifestation #blocage #Lycée",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2505,7 +2505,7 @@
       "url": "https://www.tiktok.com/@nereamorais/video/7706579106338557206",
       "published_at": "2026-11-10T16:23:04+00:00",
       "description": "Un descanso siempre es bueno✌🏻 #huelgageneral #11N #españa",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

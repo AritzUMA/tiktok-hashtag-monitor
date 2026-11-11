@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T21:18:31.005803+00:00",
+  "generated_at": "2026-11-11T21:21:44.014576+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33296,
+    "total_unique_videos": 33308,
     "published_24h": 539,
-    "published_48h": 1163,
-    "discovered_24h": 1059,
-    "discovered_48h": 1951
+    "published_48h": 1165,
+    "discovered_24h": 1069,
+    "discovered_48h": 1960
   },
   "analysis": {
-    "embeddings_total": 33296,
+    "embeddings_total": 33308,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 539
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 187,
     "ES": 236,
     "FR": 40,
-    "OTHER": 187,
-    "IT": 6,
     "DE": 65,
-    "MULTI": 5
+    "MULTI": 5,
+    "IT": 6
   },
   "links": {
     "qr_videos": 0,
@@ -261,7 +261,7 @@
       "url": "https://www.tiktok.com/@thequeenespagnole/video/7706972003160345889",
       "published_at": "2026-11-11T17:47:36+00:00",
       "description": "Les Gilets Jaunes dans la rue! Les Gilets Jaunes appellent à la majorité de la population à venir dans la rue sur 2 grands rendez-vous du mouvement à venir. Le 14 et le Samedi 21 Novembre 2026, pour le moment plus de 229 lieux d'actions seront prévus, dont 219 manifestations partout en France le 14 Novembre: https://www.mobilisationgiletsjaunes.fr/ Tout les rendez-vous ne sont pas encore recensés sur la cartographie, donc possible que d'ici le 14 et le 21 le nombre augmente.  Attention!!!! Le 17 c'est l'anniversaire du mouvement, des rendez-vous du mouvement seront prévus, en plus des rendez-vous pour la grève. Le 21 pareil ainsi que le Samedi 28 Novembre avec un appel Nationale à venir le 28 dans la Capitale pour faire les 8 ans du mouvement. https://manifestationgiletsjaunesparis.fr/ #France #ActualiteFrance #Manifestation #viechere #Actualités",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -551,6 +551,23 @@
       "published_at": "2026-11-11T16:36:00+00:00",
       "description": "Schüsse mitten in Berlin-Schöneberg! Mann schwer verletzt – Täter auf der Flucht! 11. November 2026 #BerlinSchöneberg #Steinmetzstraße #Schüsse #Polizeieinsatz #Nachrichten",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706952846792592672",
+      "username": "lfi_37",
+      "url": "https://www.tiktok.com/@lfi_37/video/7706952846792592672",
+      "published_at": "2026-11-11T16:33:16+00:00",
+      "description": "🕊️ 11 novembre à Tours : prise de parole de La France insoumise 37 au rassemblement pacifiste de la Libre Pensée. En 2022, Bastien Lachaud proposait de réhabiliter les fusillés pour l'exemple. Ce combat continue, comme celui pour la laïcité et la paix, contre l'économie de guerre. #11novembre #Tours #IndreEtLoire #LFI37",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4693,11 +4710,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839206038899990",
-      "username": "loquepasa.es",
-      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
+      "video_id": "7706839213789990152",
+      "username": "another.putri",
+      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
+      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4710,11 +4727,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839213789990152",
-      "username": "another.putri",
-      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
+      "video_id": "7706839206038899990",
+      "username": "loquepasa.es",
+      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
+      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6070,6 +6087,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706817699418000673",
+      "username": "lemondefr",
+      "url": "https://www.tiktok.com/@lemondefr/video/7706817699418000673",
+      "published_at": "2026-11-11T07:48:30+00:00",
+      "description": "Les nouveaux députés, qui doivent bientôt élire le président du Parlement, ont eu de vifs débats pendant le discours du premier ministre sortant, Benyamin Nétanyahou. Plusieurs organisations d’extrême droite avaient appelé à manifester devant le Parlement.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706817453782797590",
       "username": "cronica_global",
       "url": "https://www.tiktok.com/@cronica_global/video/7706817453782797590",
@@ -7141,9 +7175,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -7158,9 +7192,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -9153,40 +9187,6 @@
       "published_at": "2026-11-10T21:21:49+00:00",
       "description": "Die 13-jährige Lisa ist wahrscheinlich ein Zufallsopfer eines Pädophilen. Gegen den Verdächtigen laufen schon Ermittlungsverfahren wegen Erwerb und Besitzes von kinderpornografischen Schriften. Mehr News gibt's täglich bei RTL Aktuell - um 18:45 Uhr bei RTL oder jederzeit streamen auf RTL+ #fyp #truecrime #berlin #vermisst #news",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706656029026635040",
-      "username": "beniaminomarciano",
-      "url": "https://www.tiktok.com/@beniaminomarciano/video/7706656029026635040",
-      "published_at": "2026-11-10T21:21:29+00:00",
-      "description": "",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706655538997644576",
-      "username": "rsoorganisation",
-      "url": "https://www.tiktok.com/@rsoorganisation/video/7706655538997644576",
-      "published_at": "2026-11-10T21:19:33+00:00",
-      "description": "Bericht aus Paris 🇫🇷 Die Bewegung geht weiter und breitet sich aus😈 #revolution #streik #genzprotest #sozialismus",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

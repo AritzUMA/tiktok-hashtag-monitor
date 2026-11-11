@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T01:34:29.993704+00:00",
+  "generated_at": "2026-11-11T01:38:15.308568+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32377,
-    "published_24h": 469,
-    "published_48h": 1050,
-    "discovered_24h": 871,
-    "discovered_48h": 1781
+    "total_unique_videos": 32381,
+    "published_24h": 473,
+    "published_48h": 1054,
+    "discovered_24h": 875,
+    "discovered_48h": 1782
   },
   "analysis": {
-    "embeddings_total": 32377,
+    "embeddings_total": 32381,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 469
+    "qwen_pending_24h": 473
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "FR": 87,
-    "OTHER": 203,
     "ES": 116,
+    "OTHER": 205,
+    "FR": 89,
     "DE": 47,
     "MULTI": 12,
     "IT": 4
@@ -511,6 +511,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706650370247839008",
+      "username": "confidence_by_assa",
+      "url": "https://www.tiktok.com/@confidence_by_assa/video/7706650370247839008",
+      "published_at": "2026-11-10T20:59:31+00:00",
+      "description": "Prenez soin de votre santé, au vu de l’actualité c’est indispensable! Il va nous en falloir du courage et de la résilience pour survivre à tout ça! Force à nous 💪🏾  #sport #fitnessroutine #morphologiea #outfit",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706648148982172950",
       "username": "mendozagre",
       "url": "https://www.tiktok.com/@mendozagre/video/7706648148982172950",
@@ -908,6 +925,23 @@
       "published_at": "2026-11-10T19:10:17+00:00",
       "description": "#blocuslycee #manifestation #france #10novembre #paris",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706622079499586838",
+      "username": "josepmariafrancas",
+      "url": "https://www.tiktok.com/@josepmariafrancas/video/7706622079499586838",
+      "published_at": "2026-11-10T19:09:45+00:00",
+      "description": "HUELGA DE MAQUINISTAS,  CIUDADANO QUE TE ZURZAN #huelga #renfe #espana",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3520,6 +3554,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706541981320760596",
+      "username": "chemse38",
+      "url": "https://www.tiktok.com/@chemse38/video/7706541981320760596",
+      "published_at": "2026-11-10T13:58:58+00:00",
+      "description": "#blocusdulycee #abonnetoi #38 #pourtoi",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706541258830810400",
       "username": "parisreportage",
       "url": "https://www.tiktok.com/@parisreportage/video/7706541258830810400",
@@ -6109,6 +6160,23 @@
       "url": "https://www.tiktok.com/@clpress/video/7706471551427710240",
       "published_at": "2026-11-10T09:25:43+00:00",
       "description": "Marseille : une enquête de l’IGPN ouverte après les violences commises sur Rémi Aubert, 39 ans, roué de coups par des CRS en marge d'une manifestation le 31 octobre. Ses blessures sont importantes : sept dents arrachées, le nez cassé, trois points de suture à la lèvre et deux au niveau du bas du crâne.",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706470771840830752",
+      "username": "matryoshka72",
+      "url": "https://www.tiktok.com/@matryoshka72/video/7706470771840830752",
+      "published_at": "2026-11-10T09:22:36+00:00",
+      "description": "#blocuslycee #colere #jeunesse #manifestations #france",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

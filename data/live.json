@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T01:17:42.606044+00:00",
+  "generated_at": "2026-11-11T01:21:30.230650+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 32360,
-    "published_24h": 458,
+    "published_24h": 457,
     "published_48h": 1042,
-    "discovered_24h": 869,
-    "discovered_48h": 1778
+    "discovered_24h": 868,
+    "discovered_48h": 1775
   },
   "analysis": {
     "embeddings_total": 32360,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 458
+    "qwen_pending_24h": 457
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 200,
     "FR": 86,
-    "OTHER": 201,
-    "ES": 108,
     "MULTI": 12,
+    "ES": 108,
     "DE": 47,
     "IT": 4
   },
@@ -5033,12 +5033,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5050,12 +5050,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7793,23 +7793,6 @@
       "published_at": "2026-11-10T01:42:37+00:00",
       "description": "Faites vous entendre!! #manifestations #jeunes #genz #france #noahlunsi (Extrait live twitch:Noahlunsi)",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706346560120048928",
-      "username": "yadeo_yadebat",
-      "url": "https://www.tiktok.com/@yadeo_yadebat/video/7706346560120048928",
-      "published_at": "2026-11-10T01:21:04+00:00",
-      "description": "\"On ne parle pas à des journalistes qui font de l'opinion, on parle à celles et ceux qui font du vrai journalisme. On ne parlera pas tant que vous n'enlèverez pas votre micro\", a expliqué le syndicat étudiant. Le journaliste de CNews a refusé de partir et a expliqué qu'il était dans ses droits en étant là. Les syndicats étudiants n'ont finalement pas tenu de point presse et sont partis. Ce matin, c'était Sophie Binet, secrétaire générale de la CGT qui refusait de parler à CNews.",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

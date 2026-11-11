@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:38:27.378357+00:00",
+  "generated_at": "2026-11-11T00:45:13.783958+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32351,
-    "published_24h": 455,
-    "published_48h": 1039,
-    "discovered_24h": 879,
-    "discovered_48h": 1789
+    "total_unique_videos": 32353,
+    "published_24h": 457,
+    "published_48h": 1041,
+    "discovered_24h": 878,
+    "discovered_48h": 1790
   },
   "analysis": {
-    "embeddings_total": 32351,
+    "embeddings_total": 32353,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 455
+    "qwen_pending_24h": 457
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 200,
     "ES": 109,
-    "FR": 86,
+    "OTHER": 201,
+    "FR": 87,
     "DE": 44,
     "MULTI": 12,
     "IT": 4
@@ -392,6 +392,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706644660302695713",
+      "username": "cristina.soler606",
+      "url": "https://www.tiktok.com/@cristina.soler606/video/7706644660302695713",
+      "published_at": "2026-11-10T20:37:21+00:00",
+      "description": "#solterayfeliz🖤 #española #empoderada #profe",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706643538938760481",
       "username": "histoireboyjimmy",
       "url": "https://www.tiktok.com/@histoireboyjimmy/video/7706643538938760481",
@@ -687,6 +704,23 @@
       "published_at": "2026-11-10T19:13:26+00:00",
       "description": "grève générale intersyndicale 17 novembre",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706622207711071520",
+      "username": "hasanakcay47",
+      "url": "https://www.tiktok.com/@hasanakcay47/video/7706622207711071520",
+      "published_at": "2026-11-10T19:10:17+00:00",
+      "description": "#blocuslycee #manifestation #france #10novembre #paris",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1106,11 +1140,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1123,11 +1157,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

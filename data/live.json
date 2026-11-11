@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T15:35:11.052737+00:00",
+  "generated_at": "2026-11-11T15:40:05.288705+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33011,
+    "total_unique_videos": 33015,
     "published_24h": 552,
-    "published_48h": 1192,
-    "discovered_24h": 1075,
-    "discovered_48h": 1923
+    "published_48h": 1193,
+    "discovered_24h": 1076,
+    "discovered_48h": 1925
   },
   "analysis": {
-    "embeddings_total": 33011,
+    "embeddings_total": 33015,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 552
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "DE": 65,
+    "OTHER": 201,
+    "FR": 65,
     "ES": 211,
-    "OTHER": 200,
-    "FR": 66,
-    "MULTI": 5,
-    "IT": 5
+    "IT": 5,
+    "MULTI": 5
   },
   "links": {
     "qr_videos": 0,
@@ -74,6 +74,23 @@
       "url": "https://www.tiktok.com/@nathan_dsl/video/7706914376292322563",
       "published_at": "2026-11-11T14:04:00+00:00",
       "description": "On doit apprendre aux espagnols à faire grève car là ça va pas du tout, une grève à la française c’est mieux réalisée quand même 🤣 Dites moi ce que vous en pensez en commentaire ‼️ #huelgageneral #etudierenespagne #greve",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706904021151386902",
+      "username": "artefr",
+      "url": "https://www.tiktok.com/@artefr/video/7706904021151386902",
+      "published_at": "2026-11-11T14:00:00+00:00",
+      "description": "POV : Arlo Parks a sold-out trois soirées de suite à la Gaîté Lyrique. POV : même sans billets, vous pouvez découvrir sa performance néo-soul complète sur arte.tv 🫴 (c’est cadeau) #TiktokMusic #GenZ #GenZMusic #ArloParks",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3350,11 +3367,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706809038918470934",
-      "username": "jarvy070",
-      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
+      "video_id": "7706808889773280542",
+      "username": "kbarcelona_1",
+      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "#bloqueo #paronacional #valencia",
+      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -3367,11 +3384,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706808889773280542",
-      "username": "kbarcelona_1",
-      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
+      "video_id": "7706809038918470934",
+      "username": "jarvy070",
+      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
+      "description": "#bloqueo #paronacional #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -4081,9 +4098,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -4098,9 +4115,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -6155,11 +6172,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706639025150463254",
-      "username": "orain_noticias",
-      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6172,11 +6189,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9391,23 +9408,6 @@
       "published_at": "2026-11-10T15:40:50+00:00",
       "description": "Berlin Germany 8 November 2026 Activists raised the Palestinian flag outside Germany’s #parliament in #Berlin, protesting the German government’s complicity in Israel’s ongoing genocide in #Gaza.",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706567580252785952",
-      "username": "histoires_crepues",
-      "url": "https://www.tiktok.com/@histoires_crepues/video/7706567580252785952",
-      "published_at": "2026-11-10T15:37:51+00:00",
-      "description": "Le 16 juillet 2020, Kéziah Nuissier, militant anti-chlordécone, est violemment interpellé à Fort-de-France, en Martinique, lors d’un rassemblement de soutien à des militants anti-chlordécone. Plus de six ans après, alors qu’il a lui-même porté plainte pour les violences subies, c’est lui qui se retrouve sur le banc des accusés. Le verdit sera rendu dans les heures qui viennent. Le député Marcellin Nadeau explique l'importance d'être aux côté de Keziah aujourd'hui.",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

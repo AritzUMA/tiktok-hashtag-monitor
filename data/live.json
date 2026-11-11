@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:35:11.194402+00:00",
+  "generated_at": "2026-11-11T00:38:27.378357+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32350,
-    "published_24h": 454,
-    "published_48h": 1038,
-    "discovered_24h": 880,
-    "discovered_48h": 1790
+    "total_unique_videos": 32351,
+    "published_24h": 455,
+    "published_48h": 1039,
+    "discovered_24h": 879,
+    "discovered_48h": 1789
   },
   "analysis": {
-    "embeddings_total": 32350,
+    "embeddings_total": 32351,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 454
+    "qwen_pending_24h": 455
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "OTHER": 200,
-    "DE": 44,
     "ES": 109,
     "FR": 86,
+    "DE": 44,
     "MULTI": 12,
-    "IT": 3
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -126,6 +126,23 @@
       "published_at": "2026-11-10T22:24:09+00:00",
       "description": "Los maquinistas aplazan la protesta del próximo jueves al 23 de noviembre  #noticias #news #noticiastiktok",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706671353578966304",
+      "username": "dsmf.nd.yessal.gu",
+      "url": "https://www.tiktok.com/@dsmf.nd.yessal.gu/video/7706671353578966304",
+      "published_at": "2026-11-10T22:20:58+00:00",
+      "description": "ITALIA/PIACENZA  SOKHNA AIDA SALIOU THIOUNE  IL 5 NOVEMBRE 2026",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

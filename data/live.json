@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T07:56:38.152126+00:00",
+  "generated_at": "2026-11-11T07:59:54.455274+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32610,
-    "published_24h": 539,
+    "total_unique_videos": 32614,
+    "published_24h": 542,
     "published_48h": 1135,
-    "discovered_24h": 944,
-    "discovered_48h": 1825
+    "discovered_24h": 948,
+    "discovered_48h": 1828
   },
   "analysis": {
-    "embeddings_total": 32610,
+    "embeddings_total": 32614,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 539
+    "qwen_pending_24h": 542
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 102,
-    "ES": 139,
-    "OTHER": 235,
-    "DE": 48,
+    "ES": 140,
     "MULTI": 11,
-    "IT": 4
+    "OTHER": 235,
+    "IT": 4,
+    "FR": 102,
+    "DE": 50
   },
   "links": {
     "qr_videos": 0,
@@ -188,9 +188,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -205,9 +205,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -1701,11 +1701,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706639025150463254",
-      "username": "orain_noticias",
-      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1735,11 +1735,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "video_id": "7706639025150463254",
+      "username": "orain_noticias",
+      "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
       "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "description": "La huelga convocada por el sindicato de maquinistas de Renfe ha cogido por sorpresa a muchos viajeros. Algunos de ellos han tenido que esperar largo rato para poder hacer uso de los servicios mínimos establecidos para la jornada de este martes. #orainnoticias",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3112,6 +3112,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706602430766533921",
+      "username": "mauca06",
+      "url": "https://www.tiktok.com/@mauca06/video/7706602430766533921",
+      "published_at": "2026-11-10T17:53:29+00:00",
+      "description": "C’est l’affaire survenue à Berlin (Allemagne) le dimanche 8 novembre 2026.​ Timesofisrael Un homme de 22 ans a escaladé le mât d’environ 30 mètres situé devant le Reichstag (siège du Bundestag, le Parlement allemand), sur la place de la République. Il a décroché le grand drapeau allemand (appelé « drapeau de l’Unité », symbole de la réunification de 1990), l’a jeté au sol, et l’a remplacé par un drapeau palestinien. Deux complices (20 et 32 ans) l’aidaient depuis le sol et filmaient la scène. L’homme est resté en haut environ une heure (équipé d’un harnais d’escalade) avant de redescendre de lui-même vers 12 h 30. Les pompiers et la police ont ensuite retiré le drapeau palestinien.​ Notizie Les trois hommes (tous de nationalité allemande selon les premières infos) ont été interpellés. Une enquête a été ouverte pour notamment atteinte à l’État et à ses symboles, dégradations, violation de la loi sur les rassemblements et intrusion. Le grimpeur a été placé en détention ; les autres ont été pour la plupart relâchés avec des interdictions de séjour sur place.​ israj.media-j L’action a été revendiquée par le groupe allemand « Peacefully Against Genocide » (« Paisiblement contre le génocide »), qui la présente comme un acte de solidarité non violente avec les Palestiniens et une critique du soutien allemand à Israël. L’ambassade d’Israël à Berlin a fermement condamné le geste. L’incident a provoqué une forte indignation en Allemagne, d’autant plus qu’il s’est produit la veille de l’anniversaire de la Nuit de Cristal.​",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706601491968085270",
       "username": "99cheesecake",
       "url": "https://www.tiktok.com/@99cheesecake/video/7706601491968085270",
@@ -3288,6 +3305,23 @@
       "published_at": "2026-11-10T17:35:07+00:00",
       "description": "Un tren queda detenido en mitad de las vías en Parla a las 00:00 de la noche, obligando a los pasajeros a bajarse y caminar por las vías hasta la siguiente estación debido a la huelga de maquinistas. ¿Hasta cuándo tendremos que soportar situaciones como esta? #viralvideos #parati #actualidad #politica #españa",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706597697855311137",
+      "username": "unignorierbarwide",
+      "url": "https://www.tiktok.com/@unignorierbarwide/video/7706597697855311137",
+      "published_at": "2026-11-10T17:34:51+00:00",
+      "description": "gen Z verschönert Straßenbahn GenZ.B311026 #protest #berlin #polizei #genzregelt",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4750,6 +4784,23 @@
       "published_at": "2026-11-10T15:10:50+00:00",
       "description": "UNE IMMENSE MANIFESTATION D’ÉTUDIANTS, DE LYCÉENS ET D’ENSEIGNANTS DÉFILE DANS LES RUES DE PARIS ! Une importante mobilisation se déroule ce mardi 10 novembre dans la capitale. Des milliers de manifestants défilent actuellement en direction de la place d’Italie. Les images montrent un cortège impressionnant, s’étendant sur une grande partie du boulevard, avec de nombreux drapeaux et pancartes. #Paris #france #manifestation #rassemblement #revolution",
       "country": "MULTI",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706560153276960022",
+      "username": "alex_.fnl",
+      "url": "https://www.tiktok.com/@alex_.fnl/video/7706560153276960022",
+      "published_at": "2026-11-10T15:09:29+00:00",
+      "description": "#elcasar #madrid #ultimahora #parati #huelga",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7430,12 +7481,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7705766980938108182",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
+      "video_id": "7706490903795469590",
+      "username": "el_periodico",
+      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
-      "country": "OTHER",
+      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7447,12 +7498,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706490903795469590",
-      "username": "el_periodico",
-      "url": "https://www.tiktok.com/@el_periodico/video/7706490903795469590",
+      "video_id": "7705766980938108182",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7705766980938108182",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "description": "Montse Sánchez (CGT): \"La imagen del gran tenedor no debería existir\" La secretaria general de CGT de Catalunya aboga por un salario mínimo de 1.500 euros y la exclusión de los fondos de inversión del mercado de la vivienda. ✍️ Gabriel Ubieto 📹 Manu Mitru y Patricio Ortiz",
-      "country": "ES",
+      "description": "Laut, präsent und respektvoll -  So geht Protest.  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:13:02.982649+00:00",
+  "generated_at": "2026-11-11T00:17:52.074469+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32346,
-    "published_24h": 454,
-    "published_48h": 1038,
-    "discovered_24h": 889,
-    "discovered_48h": 1800
+    "total_unique_videos": 32348,
+    "published_24h": 456,
+    "published_48h": 1040,
+    "discovered_24h": 885,
+    "discovered_48h": 1797
   },
   "analysis": {
-    "embeddings_total": 32346,
+    "embeddings_total": 32348,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 454
+    "qwen_pending_24h": 456
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 202,
-    "ES": 107,
-    "FR": 86,
     "DE": 44,
+    "ES": 107,
+    "OTHER": 204,
+    "FR": 86,
     "MULTI": 12,
     "IT": 3
   },
@@ -431,6 +431,23 @@
       "url": "https://www.tiktok.com/@itseverythingabby/video/7706637720055008545",
       "published_at": "2026-11-10T20:10:26+00:00",
       "description": "N’oublions pas le contexte actuel qui touche notre pays, ouvrons les yeux, mobilisons nous comme d’habitude et bloquer l’extrême droite",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706637625683201312",
+      "username": "goodnewsdaily8",
+      "url": "https://www.tiktok.com/@goodnewsdaily8/video/7706637625683201312",
+      "published_at": "2026-11-10T20:10:05+00:00",
+      "description": "Neue Erkenntnisse im Fall Lisa T. aus Berlin-Marzahn: Ermittler haben ein mögliches Tatfahrzeug sichergestellt. Der Verdächtige war bereits verurteilt, aber das stand noch nicht im Register. Stand: 10.11.2026, 21 Uhr. Unsere Gedanken sind bei Lisas Familie. Quellen: Staatsanwaltschaft Berlin (PM 203 und 204), dpa, Tagesspiegel, t-online. Fotos (Wikimedia Commons): Singlespeedfahrer (CC0), Hans G. Oberlack (CC BY-SA 4.0). Satellitenbild: Sentinel-2 cloudless – s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017), CC BY 4.0. Grenzen: Natural Earth. Grafiken: eigene, symbolisch. #nachrichten #news #berlin #marzahn #brandenburg",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1055,6 +1072,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "published_at": "2026-11-10T18:00:00+00:00",
+      "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706278424653925654",
       "username": "waswrewenn54",
       "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
@@ -1072,11 +1106,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
-      "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "video_id": "7706603558145133846",
+      "username": "dali_foodtravel",
+      "url": "https://www.tiktok.com/@dali_foodtravel/video/7706603558145133846",
+      "published_at": "2026-11-10T17:57:52+00:00",
+      "description": "🔥 ¡ESTE BOCATA ASPIRA AL GRAN CACAU D’OR Y NO ES PARA MENOS! 🏆🥖 En Mesón Canela se montan unas colas los sábados que ya te puedes imaginar… Y cuando ves lo que sale de su cocina, entiendes por qué. Hoy venimos a probar EL BRASKEITOR, un bocata cargadito de entrecot, jamón a la plancha, queso fundido, huevos fritos y cebolla pochada. ¡Una auténtica locura! 🤤 Y ojo, que su Kanela Fried Chicken tampoco se queda atrás. Además, empezamos con pulpo frito y terminamos como manda la tradición: con un buen cremaet. ☕ ¿Tú con cuál te quedas? ¿BRASKEITOR o Kanela Fried Chicken? 👇 📍 Mesón Canela @meson_canela  📌 Dirección: Carrer de Conchita Piquer, 9, Campanar, 46015 Valencia, Valencia #AlmuerzoValenciano #CacauDOr #DaliFoodTravel #BocatasValencia",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

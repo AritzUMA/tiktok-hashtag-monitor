@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T07:45:53.927371+00:00",
+  "generated_at": "2026-11-11T07:49:03.223350+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32605,
-    "published_24h": 542,
-    "published_48h": 1135,
-    "discovered_24h": 940,
+    "total_unique_videos": 32607,
+    "published_24h": 540,
+    "published_48h": 1134,
+    "discovered_24h": 942,
     "discovered_48h": 1823
   },
   "analysis": {
-    "embeddings_total": 32605,
+    "embeddings_total": 32607,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 542
+    "qwen_pending_24h": 540
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 236,
-    "FR": 102,
-    "ES": 141,
+    "ES": 140,
+    "OTHER": 235,
+    "IT": 4,
     "DE": 48,
-    "MULTI": 11,
-    "IT": 4
+    "FR": 102,
+    "MULTI": 11
   },
   "links": {
     "qr_videos": 0,
@@ -154,9 +154,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -171,9 +171,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -1667,6 +1667,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706550689664666902",
+      "username": "larazon.es",
+      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706639025150463254",
       "username": "orain_noticias",
       "url": "https://www.tiktok.com/@orain_noticias/video/7706639025150463254",
@@ -1689,23 +1706,6 @@
       "url": "https://www.tiktok.com/@leclipzap/video/7706632150941961494",
       "published_at": "2026-11-10T21:00:00+00:00",
       "description": "QUELQUES EUROS POUR VOUS… 24 H DE GARDE À VUE SI VOUS MANIFESTEZ Smic à 1 502 euros, un coup de pouce de 5 euros par mois selon la CGT. Le 7 novembre, des figures des Gilets jaunes passent 24 h en garde à vue. Le 9 novembre s'ouvre, six ans après les faits, le procès de trois policiers dans l'affaire Michel Zecler, présumés innocents. 👉 Le Zap complet sur la chaîne. 📌 #smic #giletsjaunes #zecler #lecornu #clipzap #violencespolicieres",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706550689664666902",
-      "username": "larazon.es",
-      "url": "https://www.tiktok.com/@larazon.es/video/7706550689664666902",
-      "published_at": "2026-11-10T21:00:00+00:00",
-      "description": "🚆 El Gobierno aprueba un decreto para reforzar la seguridad ferroviaria tras el accidente de Urda, en el que murieron 69 personas. 🛤️ La nueva norma busca proteger a los profesionales del sector y mejorar las garantías ante posibles riesgos en las vías. ➡️ La principal novedad es que los maquinistas tendrán en exclusiva la decisión de detener un tren cuando detecten un riesgo grave e inminente. #Trenes #Urda #Renfe #SeguridadFerroviaria #Gobierno",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2993,11 +2993,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3010,11 +3010,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7124,11 +7124,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501178728762646",
-      "username": "kraqula666",
-      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
+      "video_id": "7706501176228924705",
+      "username": "benny.louder.than.bosses",
+      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "",
+      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7141,11 +7141,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706501176228924705",
-      "username": "benny.louder.than.bosses",
-      "url": "https://www.tiktok.com/@benny.louder.than.bosses/video/7706501176228924705",
+      "video_id": "7706501178728762646",
+      "username": "kraqula666",
+      "url": "https://www.tiktok.com/@kraqula666/video/7706501178728762646",
       "published_at": "2026-11-10T11:20:42+00:00",
-      "description": "✊ MEHR LOHN GIBT ES NICHT GESCHENKT – DAFÜR MÜSSEN WIR GEMEINSAM KÄMPFEN! Was mich bei diesem Warnstreik besonders freut: Zu sehen, wie Kollegen zusammenkommen, ihre Meinung sagen und gemeinsam für bessere Arbeitsbedingungen einstehen. ❤️ Denn bei Tarifverhandlungen geht es nicht darum, möglichst viel zu verlangen, sondern darum, dass unsere Arbeit fair bezahlt wird und wir auch in Zukunft von unserem Einkommen leben können. Und gerade wenn die Lebenshaltungskosten steigen, ist es wichtig, dass Beschäftigte ihre Interessen selbstbewusst vertreten. Aber eines dürfen wir dabei nicht vergessen: Eine starke Gewerkschaft ist immer nur so stark wie die Menschen, die mitmachen! Deshalb reicht es nicht, auf ein gutes Tarifergebnis zu hoffen und darauf zu vertrauen, dass die anderen das schon regeln. Wer bessere Löhne und faire Tarifverträge möchte, sollte auch bereit sein, gemeinsam mit seinen Kollegen dafür einzustehen. Denn Solidarität beginnt dort, wo wir nicht nur an uns selbst denken, sondern gemeinsam Verantwortung übernehmen. 💪 💬 Wie erlebst du die Stimmung bei euch im Betrieb? Sind deine Kollegen bereit, beim Warnstreik mitzumachen, oder verlassen sich noch zu viele auf die anderen? Schreib deine Erfahrungen in die Kommentare und teile diesen Beitrag, damit wir noch mehr Beschäftigte erreichen! No Tarifkampf, No Glory! 🔥 #zeitenwender #louderthanbosses #warnstreik #igmetall #tarifrunde2026",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9204,40 +9204,6 @@
       "published_at": "2026-11-10T07:49:38+00:00",
       "description": "🚆 Comienza la huelga de maquinistas en España ➡️ En la Región, los trenes de Cercanías que tenían previsto salir en la mañana de este martes desde Murcia y Cartagena, no lo están haciendo 🔗 Ampliamos información en la7tv.es y #La7Noticias",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706446569897315617",
-      "username": "enplata.tv",
-      "url": "https://www.tiktok.com/@enplata.tv/video/7706446569897315617",
-      "published_at": "2026-11-10T07:48:23+00:00",
-      "description": "El miércoles 11 llega la borrasca Charles, el mismo día de la huelga general 🌧️ Meteorología avisa de un temporal muy adverso el miércoles, y algo menos el jueves. Lo peor, en el sur, el oeste y Canarias. Y con la huelga, Cercanías va al 75 % en hora punta y al 50 % el resto del día; el AVE, al 73 %. Pásaselo a quien el miércoles tenga que ir a trabajar en coche 👇 Fuentes: AEMET (borrasca Charles, 9 nov); Diario de Huelva (aviso naranja: hasta 80 l/m² en 12 horas y rachas de 90 km/h en la Sierra de Aracena); COPE Málaga (AEMET Andalucía: más intensa que Bruna); Meteovigo; La Voz de Lanzarote; Renfe y elDiario.es (servicios mínimos del 11N); El Español (vuelos, del 18 al 85 % según la ruta). #borrascacharles #huelgageneral #enplata",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706446401420446997",
-      "username": "mairienewscongo",
-      "url": "https://www.tiktok.com/@mairienewscongo/video/7706446401420446997",
-      "published_at": "2026-11-10T07:48:04+00:00",
-      "description": "#universite",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

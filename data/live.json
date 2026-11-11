@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T01:03:15.216435+00:00",
+  "generated_at": "2026-11-11T01:06:47.295715+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32358,
-    "published_24h": 457,
-    "published_48h": 1043,
-    "discovered_24h": 877,
-    "discovered_48h": 1785
+    "total_unique_videos": 32359,
+    "published_24h": 458,
+    "published_48h": 1044,
+    "discovered_24h": 875,
+    "discovered_48h": 1784
   },
   "analysis": {
-    "embeddings_total": 32358,
+    "embeddings_total": 32359,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 457
+    "qwen_pending_24h": 458
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 202,
-    "ES": 108,
-    "DE": 45,
     "FR": 86,
+    "ES": 108,
+    "OTHER": 202,
+    "DE": 46,
     "MULTI": 12,
     "IT": 4
   },
@@ -205,6 +205,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706627187826396418",
+      "username": "fokusheute",
+      "url": "https://www.tiktok.com/@fokusheute/video/7706627187826396418",
+      "published_at": "2026-11-10T22:00:00+00:00",
+      "description": "Großrazzia in Berlin: Rund 300 Polizisten durchsuchten neun Wohnungen und ein Vereinsheim der Hells Angels. Die Beweise werden ausgewertet. Stand 10.11. Quellen: X polizeiberlin, n-tv, dpa, Wikimedia Commons (Alex Schmitt, Maxdorf (Pfalz, CC BY-SA 2.0), X welt, Tagesspiegel #berlin #razzia #hellsangels #spezialeinsatzkommando #gsg9 #vereinsheim #news #nachrichten #deepdive #deutschland #aktuell #newsdeutsch",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706664497963863328",
       "username": "movistarplusdeportes",
       "url": "https://www.tiktok.com/@movistarplusdeportes/video/7706664497963863328",
@@ -278,7 +295,7 @@
       "url": "https://www.tiktok.com/@baranyapmas.clips/video/7706660024415718689",
       "published_at": "2026-11-10T21:37:00+00:00",
       "description": "Ganzes Video auf YouTube ❤️😱 YT:Baranyapmas #luffy #köln #genz #demo #viral",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1191,11 +1208,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1208,11 +1225,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

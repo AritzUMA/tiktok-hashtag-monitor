@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-11T00:02:47.236669+00:00",
+  "generated_at": "2026-11-11T00:06:41.302778+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32337,
-    "published_24h": 449,
+    "total_unique_videos": 32340,
+    "published_24h": 450,
     "published_48h": 1033,
-    "discovered_24h": 892,
-    "discovered_48h": 1798
+    "discovered_24h": 893,
+    "discovered_48h": 1800
   },
   "analysis": {
-    "embeddings_total": 32337,
+    "embeddings_total": 32340,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 449
+    "qwen_pending_24h": 450
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "OTHER": 202,
-    "DE": 44,
     "FR": 86,
+    "IT": 3,
     "ES": 103,
-    "MULTI": 12,
-    "IT": 2
+    "DE": 44,
+    "MULTI": 12
   },
   "links": {
     "qr_videos": 0,
@@ -2013,6 +2013,23 @@
       "published_at": "2026-11-10T15:50:28+00:00",
       "description": "🚨 Huelgas ferroviarias en España y servicios mínimos en el Metro de Málaga: tres jornadas marcadas por las movilizaciones. 🚆 Renfe denuncia cancelaciones, retrasos e incumplimientos de los servicios mínimos durante la huelga de maquinistas de este martes. ⚠️ Según publica Diario SUR, la operadora reconoce importantes alteraciones en diferentes puntos del país y recomienda buscar alternativas de transporte. 📉 Los servicios mínimos de Cercanías estaban fijados en el 75 % durante las horas punta y el 50 % durante el resto del día. 🚇 En Málaga, Metro de Málaga ha anunciado servicios mínimos del 60 % para este miércoles 11 de noviembre, coincidiendo con la huelga general. 📅 El jueves 12 está prevista otra jornada de huelga de maquinistas, por lo que se recomienda comprobar los horarios antes de viajar. 📺 Más información disponible en #PTVNoticias a partir de las 20:30h en YouTube, TDT y Zapi. ℹ️ @diariosur | @renfe | @metrodemalaga #PTVMálaga #Renfe #Huelgageneral #cercaniasrenfe",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706570625493519649",
+      "username": "gold_genova",
+      "url": "https://www.tiktok.com/@gold_genova/video/7706570625493519649",
+      "published_at": "2026-11-10T15:50:05+00:00",
+      "description": "NEXT PARTY 07.12 @ LIDO LA CARAVELLA - Genova  #genova #interviste #carda #gold #party",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

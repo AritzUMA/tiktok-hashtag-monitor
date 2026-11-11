@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T03:42:18.237606+00:00",
+  "generated_at": "2026-11-11T03:46:04.283105+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 32460,
+    "total_unique_videos": 32461,
     "published_24h": 511,
     "published_48h": 1099,
     "discovered_24h": 893,
-    "discovered_48h": 1800
+    "discovered_48h": 1801
   },
   "analysis": {
-    "embeddings_total": 32460,
+    "embeddings_total": 32461,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 511
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
+    "FR": 97,
     "DE": 49,
+    "OTHER": 217,
     "ES": 131,
-    "OTHER": 219,
-    "FR": 95,
     "MULTI": 13,
     "IT": 4
   },
@@ -57,7 +57,7 @@
       "url": "https://www.tiktok.com/@parisbynightfever/video/7706710939650903328",
       "published_at": "2026-11-11T00:54:49+00:00",
       "description": "Recap de cette nouvelle journée de mobilisation ! #paris #10novembre #manifestations #manifestation #giletsjaunes",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1922,11 +1922,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706278424653925654",
-      "username": "waswrewenn54",
-      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
+      "video_id": "7706504121381031189",
+      "username": "laligaarab",
+      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
+      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1939,11 +1939,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706504121381031189",
-      "username": "laligaarab",
-      "url": "https://www.tiktok.com/@laligaarab/video/7706504121381031189",
+      "video_id": "7706278424653925654",
+      "username": "waswrewenn54",
+      "url": "https://www.tiktok.com/@waswrewenn54/video/7706278424653925654",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "description": "",
+      "description": "Bringt Demonstrieren überhaupt was? Am 31.10. waren laut Veranstaltern 120.000 Junge auf der Straße, die Polizei zählte viel weniger. A: Team Straße. B: Team Politik. Schreib A oder B + dein Alter in die Kommentare 👇 #waswärewenn #fyp #genz #demo #politik",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3457,7 +3457,7 @@
       "url": "https://www.tiktok.com/@parismatch/video/7706561029123083553",
       "published_at": "2026-11-10T15:12:53+00:00",
       "description": "Alors que la mobilisation lycéenne semble s’essouffler, Elwan Benoit et Seydou Ba, deux figures de la mobilisation, se disent déterminés à poursuivre le mouvement jusqu’à obtenir les 10 milliards d’euros demandés au gouvernement.  Crédit : @Tom Becques",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

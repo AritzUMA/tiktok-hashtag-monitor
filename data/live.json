@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T18:41:25.165306+00:00",
+  "generated_at": "2026-11-12T18:44:45.010541+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34151,
+    "total_unique_videos": 34155,
     "published_24h": 370,
-    "published_48h": 1160,
-    "discovered_24h": 996,
-    "discovered_48h": 2049
+    "published_48h": 1159,
+    "discovered_24h": 1000,
+    "discovered_48h": 2039
   },
   "analysis": {
-    "embeddings_total": 34151,
+    "embeddings_total": 34155,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 370
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "DE": 51,
+    "ES": 153,
     "OTHER": 132,
-    "ES": 154,
     "FR": 28,
     "IT": 4,
-    "DE": 50,
     "MULTI": 2
   },
   "links": {
@@ -57,7 +57,7 @@
       "url": "https://www.tiktok.com/@genzregelt.stgt/video/7707341271353838870",
       "published_at": "2026-11-12T17:40:34+00:00",
       "description": "GenZ regelt✊#genzregeltstuttgart #genzregelt #161 #fyp #protest",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -670,6 +670,23 @@
       "published_at": "2026-11-12T13:21:16+00:00",
       "description": "😤 En réaction au blocus, ce jeudi 12 novembre, du lycée Blaise-Pascal, à Clermont-Ferrand, les chefs d'établissement du Puy-de-Dôme expriment leur ras-le-bol.",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707274285596888353",
+      "username": "frankfurtred3",
+      "url": "https://www.tiktok.com/@frankfurtred3/video/7707274285596888353",
+      "published_at": "2026-11-12T13:20:37+00:00",
+      "description": "#Frankfurt #GenZ #Halloween2026 #demo #fyp",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6297,23 +6314,6 @@
       "published_at": "2026-11-11T18:45:00+00:00",
       "description": "Darf DIE LINKE in BERLIN REGIEREN? #politik #jörges #dielinke #regierung #berlin",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706986249231289607",
-      "username": "snyder_059",
-      "url": "https://www.tiktok.com/@snyder_059/video/7706986249231289607",
-      "published_at": "2026-11-11T18:42:55+00:00",
-      "description": "Huelga hoy centro de Valencia",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

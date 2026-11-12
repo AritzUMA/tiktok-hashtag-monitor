@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T21:52:37.241242+00:00",
+  "generated_at": "2026-11-12T21:57:57.925249+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34294,
+    "total_unique_videos": 34297,
     "published_24h": 290,
-    "published_48h": 1127,
-    "discovered_24h": 938,
-    "discovered_48h": 2032
+    "published_48h": 1126,
+    "discovered_24h": 937,
+    "discovered_48h": 2034
   },
   "analysis": {
-    "embeddings_total": 34294,
+    "embeddings_total": 34297,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 290
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 107,
     "ES": 106,
+    "OTHER": 108,
+    "DE": 46,
     "FR": 27,
-    "DE": 47,
-    "MULTI": 2,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -499,6 +499,23 @@
       "url": "https://www.tiktok.com/@jacques5928/photo/7707327530554150176",
       "published_at": "2026-11-12T16:47:14+00:00",
       "description": "LA CGT REFUSE DE DEFENDRE 98% DES SALARIES",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707326804150848801",
+      "username": "revo.permanente57",
+      "url": "https://www.tiktok.com/@revo.permanente57/video/7707326804150848801",
+      "published_at": "2026-11-12T16:44:25+00:00",
+      "description": "🟡 URGENT: Lisa, militante à Révolution Permanente et le Poing Levé ciblée et interpelée par la police ! RDV 18H au rassemblement contre la répression à l'HEAR",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2449,11 +2466,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706492246765407510",
-      "username": "diestefanraabshow.rtl",
-      "url": "https://www.tiktok.com/@diestefanraabshow.rtl/video/7706492246765407510",
+      "video_id": "7707212746353298710",
+      "username": "tag24_byunicusano",
+      "url": "https://www.tiktok.com/@tag24_byunicusano/video/7707212746353298710",
       "published_at": "2026-11-12T10:00:00+00:00",
-      "description": "Für 2 Euro bekommt man offenbar nicht nur eine Teigrolle 😂 Der Mann stellt sein Schnäppchen kurzerhand als Schlagstock vor – vielseitig einsetzbar, sagen wir mal so 👀 ➡️ „Die Stefan Raab Show“ – dienstags exklusiv auf RTL+ und donnerstags eine weitere Folge bei RTL! #StefanRaab #DieStefanRaabShow #Teigrolle  #GenZ 📺 DSRS; DieStefanRaabShow;",
+      "description": "Per la prima volta in 14 anni la Spagna ha vissuto uno sciopero generale sostenuto da CCOO e UGT, e al centro c’è la casa. Mercoledì 11 novembre, a 18 giorni dalle elezioni anticipate del 29 novembre, i sindacati hanno chiesto affitti più bassi, salari più alti e servizi pubblici.  La scintilla è Maricarmen Abascal, 87 anni, sfrattata dalla casa in cui viveva da settant’anni e morta poco dopo. Il Pp parla di uno sciopero preventivo dei socialisti contro il centrodestra. Il Sindacato degli Inquilini dice di protestare contro tutti i governi, di ogni colore. Per il ministero dell’Interno gli arresti sono più di 50. Sull’adesione i dati restano divisi tra sindacati e imprese.",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2466,11 +2483,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707212746353298710",
-      "username": "tag24_byunicusano",
-      "url": "https://www.tiktok.com/@tag24_byunicusano/video/7707212746353298710",
+      "video_id": "7706492246765407510",
+      "username": "diestefanraabshow.rtl",
+      "url": "https://www.tiktok.com/@diestefanraabshow.rtl/video/7706492246765407510",
       "published_at": "2026-11-12T10:00:00+00:00",
-      "description": "Per la prima volta in 14 anni la Spagna ha vissuto uno sciopero generale sostenuto da CCOO e UGT, e al centro c’è la casa. Mercoledì 11 novembre, a 18 giorni dalle elezioni anticipate del 29 novembre, i sindacati hanno chiesto affitti più bassi, salari più alti e servizi pubblici.  La scintilla è Maricarmen Abascal, 87 anni, sfrattata dalla casa in cui viveva da settant’anni e morta poco dopo. Il Pp parla di uno sciopero preventivo dei socialisti contro il centrodestra. Il Sindacato degli Inquilini dice di protestare contro tutti i governi, di ogni colore. Per il ministero dell’Interno gli arresti sono più di 50. Sull’adesione i dati restano divisi tra sindacati e imprese.",
+      "description": "Für 2 Euro bekommt man offenbar nicht nur eine Teigrolle 😂 Der Mann stellt sein Schnäppchen kurzerhand als Schlagstock vor – vielseitig einsetzbar, sagen wir mal so 👀 ➡️ „Die Stefan Raab Show“ – dienstags exklusiv auf RTL+ und donnerstags eine weitere Folge bei RTL! #StefanRaab #DieStefanRaabShow #Teigrolle  #GenZ 📺 DSRS; DieStefanRaabShow;",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4937,23 +4954,6 @@
       "published_at": "2026-11-11T21:58:20+00:00",
       "description": "Millones de personas se han movilizado este 11N en la primera huelga general en España en 14 años. La primera huelga general convocada por el derecho a una vivienda digna ha llegado después del desalojo, y posterior fallecimiento, de Maricarmen Abascal, una jubilada de 87 años que fue desahuciada por la fuerza de su vivienda en Madrid en septiembre. La huelga fue impulsada inicialmente por el sindicato de Inquilinas y ha sido apoyada por sindicatos como UGT y Comisiones Obreras para reivindicar mejores salarios y medidas para facilitar el acceso a una vivienda digna. 🔗 Lee la última hora sobre la huelga general en el link 💬 Te leemos   🔄 Compártelo #HuelgaGeneral #11N #vivienda",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707035536673819936",
-      "username": "das_ist_berlin",
-      "url": "https://www.tiktok.com/@das_ist_berlin/video/7707035536673819936",
-      "published_at": "2026-11-11T21:54:09+00:00",
-      "description": "ist das das Fahrzeug mit dem Lisa entführt wurde? #berlin #lisa #dasistberlin #lisata #berlinnews",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

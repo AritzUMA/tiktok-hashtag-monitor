@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T21:27:05.846261+00:00",
+  "generated_at": "2026-11-12T21:31:03.626718+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34282,
-    "published_24h": 293,
-    "published_48h": 1134,
-    "discovered_24h": 972,
-    "discovered_48h": 2040
+    "total_unique_videos": 34283,
+    "published_24h": 292,
+    "published_48h": 1132,
+    "discovered_24h": 965,
+    "discovered_48h": 2038
   },
   "analysis": {
-    "embeddings_total": 34282,
+    "embeddings_total": 34283,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 293
+    "qwen_pending_24h": 292
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 107,
-    "FR": 27,
     "ES": 107,
-    "DE": 49,
+    "OTHER": 107,
     "MULTI": 2,
+    "DE": 48,
+    "FR": 27,
     "IT": 1
   },
   "links": {
@@ -4988,23 +4988,6 @@
       "published_at": "2026-11-11T21:33:33+00:00",
       "description": "Huelga en Valencia #huelga #11november #valencia #españa #policia",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706942868325223702",
-      "username": "anna.geschichtenzeit",
-      "url": "https://www.tiktok.com/@anna.geschichtenzeit/video/7706942868325223702",
-      "published_at": "2026-11-11T21:30:00+00:00",
-      "description": "#LisaTa #Berlin #BadFreienwalde #Germany #BreakingNews #TrueCrime #CrimeNews #fyp #viral",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

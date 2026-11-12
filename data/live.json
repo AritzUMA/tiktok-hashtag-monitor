@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T23:15:09.056053+00:00",
+  "generated_at": "2026-11-12T23:18:37.936820+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34330,
-    "published_24h": 282,
-    "published_48h": 1112,
-    "discovered_24h": 895,
-    "discovered_48h": 2021
+    "total_unique_videos": 34332,
+    "published_24h": 283,
+    "published_48h": 1113,
+    "discovered_24h": 894,
+    "discovered_48h": 2020
   },
   "analysis": {
-    "embeddings_total": 34330,
+    "embeddings_total": 34332,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 282
+    "qwen_pending_24h": 283
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 98,
+    "OTHER": 107,
     "DE": 47,
-    "OTHER": 106,
+    "ES": 98,
     "FR": 28,
-    "MULTI": 2,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -545,6 +545,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707334623390453014",
+      "username": "muhammad.khalid8390",
+      "url": "https://www.tiktok.com/@muhammad.khalid8390/video/7707334623390453014",
+      "published_at": "2026-11-12T17:14:46+00:00",
+      "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707334228911852832",
       "username": "diariodeburgos",
       "url": "https://www.tiktok.com/@diariodeburgos/video/7707334228911852832",
@@ -840,6 +857,23 @@
       "published_at": "2026-11-12T15:50:16+00:00",
       "description": "Reléguée aux portes de Paris, la manifestation du 31 octobre a tenu ses promesses, entre clowns, requins roses et monstres acab. Mais que veulent ces gens qui font qui font peur, pillent et mangent les enfants ? @Bally Bagayoko @Cemil  #halloween #humour #france #reportage #manifestation",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707312066956299543",
+      "username": "elespanol_valencia",
+      "url": "https://www.tiktok.com/@elespanol_valencia/video/7707312066956299543",
+      "published_at": "2026-11-12T15:47:14+00:00",
+      "description": "⛺️ Los acampados por la vivienda en Valencia abandonan la plaza del Ayuntamiento tras 40 días. Tras anunciar este lunes que se produciría una desescalada progresiva, este jueves se retirarán definitivamente del centro de la ciudad. Según el comunicado al que ha tenido acceso EL ESPAÑOL, la organización asegura que desmonta la acampada pero que no cesa en las reivindicaciones por la vivienda. 🪧🏠 ✍🏼 Luis Villanueva #acampada #vivienda #valencia",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4801,23 +4835,6 @@
       "published_at": "2026-11-11T23:22:21+00:00",
       "description": "Todos los derechos  que tenemos hoy se han conquistados a base de luchas. Nada nos han regalado.  Hasta la victoria final!!!   #HuelgaGeneral #11N #madrid   #NoAlFascismo #sindicatos",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707056879221968148",
-      "username": "jovempannews",
-      "url": "https://www.tiktok.com/@jovempannews/video/7707056879221968148",
-      "published_at": "2026-11-11T23:16:37+00:00",
-      "description": "A Espanha enfrenta uma greve geral histórica e protestos massivos devido à crise de moradia e ao alto custo de vida. Em Madri, mais de 120 mil pessoas foram às ruas frente ao déficit habitacional, que deve atingir um milhão até o fim da década. A crescente efervescência social pressiona o governo, resultando em 53 prisões e eleições antecipadas para dia 29 de novembro. ▶️ Assista ao #3em1 na íntegra no canal da Jovem Pan News no YouTube 📺 Confira na JP News 📌 Siga o nosso perfil @jovempannews #JovemPanNews #GreveGeral #CriseHabitacional #ProtestosEspanha #DireitoAMoradia",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

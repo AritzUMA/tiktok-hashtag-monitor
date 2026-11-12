@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T15:05:29.213893+00:00",
+  "generated_at": "2026-11-12T15:09:23.241456+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33976,
-    "published_24h": 402,
-    "published_48h": 1192,
+    "total_unique_videos": 33977,
+    "published_24h": 400,
+    "published_48h": 1190,
     "discovered_24h": 999,
-    "discovered_48h": 2061
+    "discovered_48h": 2060
   },
   "analysis": {
-    "embeddings_total": 33976,
+    "embeddings_total": 33977,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 402
+    "qwen_pending_24h": 400
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 142,
-    "ES": 172,
+    "OTHER": 138,
+    "ES": 174,
     "DE": 56,
+    "MULTI": 2,
     "FR": 23,
-    "IT": 7,
-    "MULTI": 2
+    "IT": 7
   },
   "links": {
     "qr_videos": 0,
@@ -1536,7 +1536,7 @@
       "url": "https://www.tiktok.com/@mrbtc25/video/7707134173361753376",
       "published_at": "2026-11-12T04:17:25+00:00",
       "description": "#DailyDropBot 1ère grève générale en Espagne depuis 14 ans : pourquoi ? Grève générale en Espagne : des millions de personnes dans les rues contre la crise du logement, 14 ans après la dernière mobilisation nationale. Le mouvement, lancé par des associations de locataires et soutenu par les syndicats, intervient à quelques semaines d'élections. Source : The Guardian. #Espagne #GrèveGénérale #CriseduLogement #Loyers",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3304,7 +3304,7 @@
       "url": "https://www.tiktok.com/@arbolinvertido/video/7707011838034119969",
       "published_at": "2026-11-11T20:21:49+00:00",
       "description": "🔴 Presiones para cerrar negocios, gritos contra quienes quieren trabajar y hostigamiento a clientes marcaron varios incidentes durante la huelga general de este 11 de noviembre de 2026 en España. En Barcelona un quiosquero denunció que manifestantes, varios con el rostro cubierto, intentaban obligarlo a cerrar. La escena terminó con intervención policial. En otra secuencia, un anciano que desayunaba y leía el periódico abandonó una cafetería con su andador después de que participantes en un piquete hicieran sonar silbatos y golpearan sillas junto a su mesa. Una “huelga preventiva” contra la posibilidad de que la derecha gane las próximas elecciones del 29 de noviembre de 2026, promovida por el propio gobierno de Pedro Sánchez “contra la oposición”, algo sin lógica y nunca visto en una huelga obrera real, pero que se convierte en un acto de campaña, y como se ve en estas imágenes, coacción violenta. #ArbolInvertido #España #HuelgaGeneral #Piquetes #PedroSanchez",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5968,12 +5968,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956062049504534",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
+      "video_id": "7706956068789734689",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
-      "country": "DE",
+      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5985,12 +5985,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956068789734689",
-      "username": "sat1bayern",
-      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
+      "video_id": "7706956062049504534",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
-      "country": "OTHER",
+      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6823,40 +6823,6 @@
       "url": "https://www.tiktok.com/@corporateconnectgmbh/video/7706931248228338976",
       "published_at": "2026-11-11T15:09:28+00:00",
       "description": "Corporate in your twenties be like…  #corporate #yoga #work #office #genz",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706930953393884438",
-      "username": "cnews",
-      "url": "https://www.tiktok.com/@cnews/video/7706930953393884438",
-      "published_at": "2026-11-11T15:08:19+00:00",
-      "description": "En Pologne, des dizaines de milliers de personnes se sont rassemblées ce mercredi 11 novembre dans le centre de Varsovie pour la Marche de l’Indépendance, un grand rassemblement nationaliste organisé chaque année pour la fête nationale. Les organisateurs attendent une affluence record de plus d’un demi-million de participants. La marche se déroule quelques jours après la tuerie de Cracovie, qui a fait neuf morts. (AFP, Reuters)  #Pologne #Varsovie #indépendance #11Novembre #Manifestation",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706930704482831638",
-      "username": "ig.metall.muenster",
-      "url": "https://www.tiktok.com/@ig.metall.muenster/video/7706930704482831638",
-      "published_at": "2026-11-11T15:07:02+00:00",
-      "description": "Tarifrunde Metall und Elektro: 21,75 Stunden kostenlose Arbeit im Monat – das fordern die Arbeitgeber laut Rede. Bei weniger Aufträgen. Wie soll länger arbeiten für mehr Aufträge sorgen? #IGMetall #Tarifrunde #Warnstreik #Münster",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

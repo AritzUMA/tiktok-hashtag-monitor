@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T22:30:30.605495+00:00",
+  "generated_at": "2026-11-12T22:34:29.075531+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34314,
+    "total_unique_videos": 34317,
     "published_24h": 283,
-    "published_48h": 1119,
-    "discovered_24h": 923,
-    "discovered_48h": 2030
+    "published_48h": 1120,
+    "discovered_24h": 919,
+    "discovered_48h": 2031
   },
   "analysis": {
-    "embeddings_total": 34314,
+    "embeddings_total": 34317,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 283
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 106,
+    "FR": 27,
     "DE": 45,
     "ES": 102,
-    "OTHER": 106,
     "MULTI": 2,
-    "FR": 27,
     "IT": 1
   },
   "links": {
@@ -2029,6 +2029,23 @@
       "url": "https://www.tiktok.com/@csu_bt/video/7707257107896192288",
       "published_at": "2026-11-12T12:13:58+00:00",
       "description": "Die Palästina-Flagge wird auf den Straßen Berlins längst als Symbol des Judenhasses verwendet. Das ist auch das Motiv hinter dem Flaggentausch vor dem Reichstag. Dass unser Parlamentsgebäude als Bühne für Antisemitismus herhalten soll, werden wir nicht akzeptieren!",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707256258922958101",
+      "username": "greggjeanphilippe",
+      "url": "https://www.tiktok.com/@greggjeanphilippe/video/7707256258922958101",
+      "published_at": "2026-11-12T12:10:41+00:00",
+      "description": "Kerby Nanm Vodou a: Atis la te fè demonstrasyon talan li ak anpil enèji nan okazyon Foire de la Diaspora.",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4818,23 +4835,6 @@
       "published_at": "2026-11-11T22:35:05+00:00",
       "description": "🇪🇸🎶 ¡La protesta también se convirtió en canto! Un grupo de músicos interpretó ‘Bella Ciao’ durante la jornada de huelga general en Barcelona, España. Poco a poco, los manifestantes que se encontraban alrededor se sumaron para entonar juntos esta canción, reconocida internacionalmente como un símbolo de la resistencia antifascista. La movilización de este miércoles 11 de noviembre reunió a miles de personas que salieron a las calles para exigir medidas frente a la crisis de vivienda, el aumento de los alquileres y las dificultades para acceder a un hogar. La huelga general fue convocada por organizaciones sindicales y colectivos sociales. ‘Bella Ciao’ se popularizó como canto de resistencia de los partisanos italianos durante la lucha contra el fascismo y la ocupación nazi en la Segunda Guerra Mundial. Décadas después, sigue presente en manifestaciones y movilizaciones sociales en distintas partes del mundo. 📹 REUTERS #España #Barcelona #BellaCiao #HuelgaGeneral #MilenioInforma #Milenio",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707045184474746134",
-      "username": "al.liotv",
-      "url": "https://www.tiktok.com/@al.liotv/video/7707045184474746134",
-      "published_at": "2026-11-11T22:31:42+00:00",
-      "description": "🔊Julio Chana, bombero forestal y compañero de CGT sobre la Huelga General 11N. Afíliate y lucha‼️",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

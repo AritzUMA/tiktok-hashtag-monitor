@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T05:50:48.474535+00:00",
+  "generated_at": "2026-11-12T05:54:37.052977+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33663,
-    "published_24h": 629,
+    "total_unique_videos": 33665,
+    "published_24h": 631,
     "published_48h": 1310,
-    "discovered_24h": 1122,
-    "discovered_48h": 2046
+    "discovered_24h": 1123,
+    "discovered_48h": 2047
   },
   "analysis": {
-    "embeddings_total": 33663,
+    "embeddings_total": 33665,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 629
+    "qwen_pending_24h": 631
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 218,
     "DE": 82,
+    "OTHER": 219,
     "ES": 282,
     "FR": 36,
-    "IT": 8,
+    "IT": 9,
     "MULTI": 3
   },
   "links": {
@@ -584,6 +584,23 @@
       "url": "https://www.tiktok.com/@anapologyx/video/7707027796824050966",
       "published_at": "2026-11-11T21:24:10+00:00",
       "description": "¿A qué se dedica la gente que hace huelga? 🤔 #11N #huelga #huelgageneral #vivienda #manifestacion",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707026313147632918",
+      "username": "grancanariatv.com",
+      "url": "https://www.tiktok.com/@grancanariatv.com/video/7707026313147632918",
+      "published_at": "2026-11-11T21:18:23+00:00",
+      "description": "@Alicia Alvarado Manifestación por la Huelga General en Las Palmas de Gran Canaria #grancanaria #huelga #11N #huelgageneral",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3622,6 +3639,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706942230619082016",
+      "username": "parismatch",
+      "url": "https://www.tiktok.com/@parismatch/video/7706942230619082016",
+      "published_at": "2026-11-11T15:52:05+00:00",
+      "description": "Des alertes à la bombe envoyées par e-mail entraînent l’évacuation d’au moins 300 écoles en Italie.  Au moins 300 établissements scolaires ont été évacués mercredi 11 novembre après avoir reçu des menaces par e-mail, a annoncé le gouvernement italien. Le ministre de l’Éducation, Giuseppe Valditara, estime qu’il s’agit vraisemblablement de fausses alertes. Il a toutefois indiqué que le nombre d’établissements concernés pourrait encore augmenter. Credit : AFP #onregardequoi #sinformersurtiktok #police #school #italia",
+      "country": "IT",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706942111819599137",
       "username": "noahdecrypte",
       "url": "https://www.tiktok.com/@noahdecrypte/video/7706942111819599137",
@@ -5662,12 +5696,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706887978530049302",
-      "username": "jaranor.films",
-      "url": "https://www.tiktok.com/@jaranor.films/video/7706887978530049302",
+      "video_id": "7706887982078414102",
+      "username": "rfi",
+      "url": "https://www.tiktok.com/@rfi/photo/7706887982078414102",
       "published_at": "2026-11-11T12:21:34+00:00",
-      "description": "Manifestantes en huelga general",
-      "country": "OTHER",
+      "description": "🇪🇸 Ce mercredi a lieu une grève générale de 24 heures dans toute l'Espagne. Quatorze ans après la dernière mobilisation de cette ampleur, elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. 👉 C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place. Des manifestations sont prévues, notamment en soirée à Madrid et Barcelone. #GrèveGénérale #Espagne #CriseDuLogement #Madrid #Barcelone",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5679,12 +5713,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706887982078414102",
-      "username": "rfi",
-      "url": "https://www.tiktok.com/@rfi/photo/7706887982078414102",
+      "video_id": "7706887978530049302",
+      "username": "jaranor.films",
+      "url": "https://www.tiktok.com/@jaranor.films/video/7706887978530049302",
       "published_at": "2026-11-11T12:21:34+00:00",
-      "description": "🇪🇸 Ce mercredi a lieu une grève générale de 24 heures dans toute l'Espagne. Quatorze ans après la dernière mobilisation de cette ampleur, elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. 👉 C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place. Des manifestations sont prévues, notamment en soirée à Madrid et Barcelone. #GrèveGénérale #Espagne #CriseDuLogement #Madrid #Barcelone",
-      "country": "ES",
+      "description": "Manifestantes en huelga general",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8348,11 +8382,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839206038899990",
-      "username": "loquepasa.es",
-      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
+      "video_id": "7706839213789990152",
+      "username": "another.putri",
+      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
+      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -8365,11 +8399,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839213789990152",
-      "username": "another.putri",
-      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
+      "video_id": "7706839206038899990",
+      "username": "loquepasa.es",
+      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
+      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9555,12 +9589,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706820422104354070",
-      "username": "wokeup.news",
-      "url": "https://www.tiktok.com/@wokeup.news/video/7706820422104354070",
+      "video_id": "7706820249932369174",
+      "username": "user3418739281214",
+      "url": "https://www.tiktok.com/@user3418739281214/video/7706820249932369174",
       "published_at": "2026-11-11T07:59:26+00:00",
-      "description": "🔴 Així ha començat la vaga general a Catalunya: talls de carreteres, piquets a Mercabarna i la Zona Franca i aturades del torn de nit a grans fàbriques com Seat, segons els sindicats. Des de la matinada, les mobilitzacions han afectat una trentena de punts de la xarxa viària, amb talls a l’AP-7, l’A-2, la C-58 i les rondes de Barcelona. Els piquets també han bloquejat accessos a polígons industrials i a l’estació de Sants. L’11N, parem per un habitatge assequible i salaris dignes. ✊🏽 #WokeUpNews #VagaGeneral #11N #Barcelona #Catalunya 🎤 @eltitodanito 📹 @sexapril",
-      "country": "ES",
+      "description": "Neukölln: Dritter Ampelausfall in einer Woche – drei Autos krachen auf Kreuzung ineinander #berlin #neukoelln #verkehrsunfall #ampelausfall #nachrichten",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9572,12 +9606,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706820249932369174",
-      "username": "user3418739281214",
-      "url": "https://www.tiktok.com/@user3418739281214/video/7706820249932369174",
+      "video_id": "7706820422104354070",
+      "username": "wokeup.news",
+      "url": "https://www.tiktok.com/@wokeup.news/video/7706820422104354070",
       "published_at": "2026-11-11T07:59:26+00:00",
-      "description": "Neukölln: Dritter Ampelausfall in einer Woche – drei Autos krachen auf Kreuzung ineinander #berlin #neukoelln #verkehrsunfall #ampelausfall #nachrichten",
-      "country": "DE",
+      "description": "🔴 Així ha començat la vaga general a Catalunya: talls de carreteres, piquets a Mercabarna i la Zona Franca i aturades del torn de nit a grans fàbriques com Seat, segons els sindicats. Des de la matinada, les mobilitzacions han afectat una trentena de punts de la xarxa viària, amb talls a l’AP-7, l’A-2, la C-58 i les rondes de Barcelona. Els piquets també han bloquejat accessos a polígons industrials i a l’estació de Sants. L’11N, parem per un habitatge assequible i salaris dignes. ✊🏽 #WokeUpNews #VagaGeneral #11N #Barcelona #Catalunya 🎤 @eltitodanito 📹 @sexapril",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -10116,11 +10150,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706808889773280542",
-      "username": "kbarcelona_1",
-      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
+      "video_id": "7706809038918470934",
+      "username": "jarvy070",
+      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
+      "description": "#bloqueo #paronacional #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -10133,11 +10167,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706809038918470934",
-      "username": "jarvy070",
-      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
+      "video_id": "7706808889773280542",
+      "username": "kbarcelona_1",
+      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "#bloqueo #paronacional #valencia",
+      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

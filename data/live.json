@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T13:44:56.078482+00:00",
+  "generated_at": "2026-11-12T13:48:49.450503+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33931,
-    "published_24h": 418,
-    "published_48h": 1224,
-    "discovered_24h": 1036,
-    "discovered_48h": 2079
+    "total_unique_videos": 33934,
+    "published_24h": 417,
+    "published_48h": 1221,
+    "discovered_24h": 1037,
+    "discovered_48h": 2075
   },
   "analysis": {
-    "embeddings_total": 33931,
+    "embeddings_total": 33934,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 418
+    "qwen_pending_24h": 417
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 176,
-    "OTHER": 150,
-    "FR": 23,
     "DE": 60,
+    "ES": 176,
+    "OTHER": 149,
     "IT": 5,
+    "FR": 23,
     "MULTI": 4
   },
   "links": {
@@ -7113,23 +7113,6 @@
       "published_at": "2026-11-11T13:49:20+00:00",
       "description": "13-Jährige aus Berlin getötet: Tatverdächtiger im Krankenhaus gestorben. Fall der getöteten 13-jährigen Lisa aus Berlin: Der Tatverdächtige ist tot. Der 22-Jährige starb heute Morgen im Krankenhaus. #berlin #marzahn #badfreienwalde #brandenburg #staatsanwaltschaft #polizei #nachrichten #deutschland",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706909909886962966",
-      "username": "joseigs_",
-      "url": "https://www.tiktok.com/@joseigs_/video/7706909909886962966",
-      "published_at": "2026-11-11T13:46:41+00:00",
-      "description": "📣 Un mensaje desde la Huelga General.",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T23:32:09.535132+00:00",
+  "generated_at": "2026-11-12T23:36:06.367592+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34336,
+    "total_unique_videos": 34338,
     "published_24h": 281,
-    "published_48h": 1109,
-    "discovered_24h": 885,
-    "discovered_48h": 2009
+    "published_48h": 1106,
+    "discovered_24h": 883,
+    "discovered_48h": 2011
   },
   "analysis": {
-    "embeddings_total": 34336,
+    "embeddings_total": 34338,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 281
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 98,
-    "MULTI": 2,
-    "DE": 47,
-    "FR": 28,
+    "DE": 48,
+    "ES": 97,
     "OTHER": 105,
-    "IT": 1
+    "FR": 28,
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -517,6 +517,23 @@
       "published_at": "2026-11-12T17:21:45+00:00",
       "description": "Com’è la situazione a Barcellona il giorni dopo lo sciopero dell’11 novembre. #barcellona #italianiabarcellona #vivereabarcellona #italianiinspagna #vivereinspagna",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707336247827582241",
+      "username": "guterkanal",
+      "url": "https://www.tiktok.com/@guterkanal/video/7707336247827582241",
+      "published_at": "2026-11-12T17:21:03+00:00",
+      "description": "Gen Z Proteste Berlin: Was ist am 31.10. am Brandenburger Tor wirklich passiert? Wir waren bei „Gen Z regelt\" mittendrin - Bildung, bezahlbares Leben, Wehrpflicht.  Die ganze Reportage gibt's auf YouTube bei „Guter Kanal\".  Wart ihr dabei? #genz #genzregelt #berlin #demo #reportage",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4783,23 +4800,6 @@
       "url": "https://www.tiktok.com/@arleteeem_/video/7707063837874212118",
       "published_at": "2026-11-11T23:44:12+00:00",
       "description": "#29N #huelga #fyp #manifestacion #valencia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707061719666904353",
-      "username": "seenby.kiki",
-      "url": "https://www.tiktok.com/@seenby.kiki/video/7707061719666904353",
-      "published_at": "2026-11-11T23:35:49+00:00",
-      "description": "Gen Z protests hitting Spain again. Barcelona 11.11.2026. Originally protesting against rising living and housing costs, but it is yet another example for the worldwide public discontent of this generation.   #genzprotest #barcelonaprotests #spainprotest #genz #acab",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

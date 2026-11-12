@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T15:58:28.923065+00:00",
+  "generated_at": "2026-11-12T16:02:53.302393+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34010,
-    "published_24h": 397,
-    "published_48h": 1184,
+    "total_unique_videos": 34011,
+    "published_24h": 394,
+    "published_48h": 1180,
     "discovered_24h": 983,
-    "discovered_48h": 2053
+    "discovered_48h": 2049
   },
   "analysis": {
-    "embeddings_total": 34010,
+    "embeddings_total": 34011,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 397
+    "qwen_pending_24h": 394
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 170,
-    "OTHER": 134,
-    "IT": 6,
+    "ES": 169,
+    "OTHER": 133,
+    "DE": 55,
     "FR": 29,
-    "DE": 56,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 6
   },
   "links": {
     "qr_videos": 0,
@@ -6722,57 +6722,6 @@
       "published_at": "2026-11-11T16:03:15+00:00",
       "description": "SDM : \"Votez LFI en 2027 ! (..) on ne supporte pas l'extrême droite\". #SDM #LFI #Melenchon #France #pourtoi",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706944382267559201",
-      "username": "seheichanders",
-      "url": "https://www.tiktok.com/@seheichanders/video/7706944382267559201",
-      "published_at": "2026-11-11T16:00:25+00:00",
-      "description": "Bruder hat seine eigene Gefährlichkeitsstufe erfunden. #fyp #seheichanders #frankfurt #3110 #deutschland",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706944025642814741",
-      "username": "grooum_magazine",
-      "url": "https://www.tiktok.com/@grooum_magazine/video/7706944025642814741",
-      "published_at": "2026-11-11T15:59:04+00:00",
-      "description": "🚨 CAOS EN MADRID POR LA HUELGA GENERAL Este miércoles 11 de noviembre, España vive su primera huelga general de 24 horas convocada por los sindicatos. Una movilización nacional que reclama soluciones a la crisis de la vivienda, salarios dignos y mejores condiciones laborales. En Madrid, la Gran Vía ha sido uno de los principales escenarios de las protestas, donde cientos de manifestantes han llegado a cortar la circulación. A las movilizaciones también se han sumado profesores, trabajadores del sector hotelero y colectivos en defensa del derecho a la vivienda. La jornada ha estado marcada por cortes puntuales de calles, desvíos de autobuses y concentraciones en diferentes puntos de la capital. Además, está prevista una gran manifestación con un recorrido desde Atocha hasta Plaza de España. 💬 ¿Qué opinas de esta huelga general? ¿Te has visto afectado? #huelga #caos #madrid #transporte #noticia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706943961239293217",
-      "username": "union.etudiante.cyu",
-      "url": "https://www.tiktok.com/@union.etudiante.cyu/video/7706943961239293217",
-      "published_at": "2026-11-11T15:58:45+00:00",
-      "description": "‼️LA LUTTE ÉTUDIANTE PASSE PAR NOUS TOUTES ET NOUS TOUS‼️ Cergy se mobilise jeudi 12/11✊ #mouvement #cergyparisuniversite #mobilisation #unionetudiants #droitsetudiants",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

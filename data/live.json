@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T10:23:13.992995+00:00",
+  "generated_at": "2026-11-12T10:26:42.716487+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33811,
-    "published_24h": 503,
-    "published_48h": 1269,
-    "discovered_24h": 1080,
-    "discovered_48h": 2079
+    "total_unique_videos": 33815,
+    "published_24h": 502,
+    "published_48h": 1270,
+    "discovered_24h": 1078,
+    "discovered_48h": 2083
   },
   "analysis": {
-    "embeddings_total": 33811,
+    "embeddings_total": 33815,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 503
+    "qwen_pending_24h": 502
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 179,
-    "ES": 221,
-    "FR": 27,
-    "DE": 65,
+    "OTHER": 181,
+    "ES": 218,
     "IT": 8,
+    "DE": 65,
+    "FR": 27,
     "MULTI": 3
   },
   "links": {
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7707227471686438177",
+      "username": "aurepatriote",
+      "url": "https://www.tiktok.com/@aurepatriote/video/7707227471686438177",
+      "published_at": "2026-11-12T10:18:59+00:00",
+      "description": "Nouveau blocus en cours au lycée Sophie Germain à Paris.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7707221941920369943",
       "username": "bcnmetropoli",
@@ -177,6 +194,23 @@
       "published_at": "2026-11-12T07:31:20+00:00",
       "description": "A València, amagats en la part més vella de la ciutat, hi ha tres carrerons que, tots combinats, conten la història de la ciutat. . . . Què més històries te'n saps, dels carrers de la teua ciutat? Conta'ns, que hi anirem a investigar :)",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707181178176015648",
+      "username": "ayoubtreize015",
+      "url": "https://www.tiktok.com/@ayoubtreize015/video/7707181178176015648",
+      "published_at": "2026-11-12T07:19:30+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -8523,57 +8557,6 @@
       "url": "https://www.tiktok.com/@lasprovincias.lp/video/7706858559845289238",
       "published_at": "2026-11-11T10:27:28+00:00",
       "description": "Piquetes informativos en Valencia durante la huelga general  #11n #huelgageneral #noticias #actualidad #valencia",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706858046710123798",
-      "username": "elmundo.es",
-      "url": "https://www.tiktok.com/@elmundo.es/video/7706858046710123798",
-      "published_at": "2026-11-11T10:25:28+00:00",
-      "description": "Máxima tensión en Barcelona en el arranque de la huelga general Varios motoristas han intentado retirar un piquete informativo en la autopista B-10, lanzando neumáticos al aire y encarándose con los manifestantes. Los Mossos d'Esquadra han movilizado a 9.000 agentes ante el riesgo de altercados en una jornada que comenzaba con piquetes en varios puntos de Cataluña.",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706857622082833686",
-      "username": "diariosur",
-      "url": "https://www.tiktok.com/@diariosur/video/7706857622082833686",
-      "published_at": "2026-11-11T10:23:50+00:00",
-      "description": "La gran mayoría de las tiendas del Centro de #Málaga han abierto con normalidad este #11N, aunque la falta de clientes es evidente esta jornada de #huelgageneral. Muchos de los dependientes aprovecha para ordenar, limpiar o incluso hablar entre ellos. Mientras tanto, se acercan algunos piquetes al grito de «hasta que cierres no nos vamos». Comienzan a bajar las persianas. ✍️ @jjosotot 🎥 @migue_fernandez 📣 más en SUR.es",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706857572980018454",
-      "username": "ondacapitalfm",
-      "url": "https://www.tiktok.com/@ondacapitalfm/video/7706857572980018454",
-      "published_at": "2026-11-11T10:23:38+00:00",
-      "description": "La huelga general del 11 de noviembre también deja movilizaciones en l'Horta Sud, en Valencia. La organización Izquierda Revolucionaria ha difundido imágenes de manifestantes que reclaman recursos económicos para la reconstrucción de las zonas afectadas por la DANA. «El dinero de los fondos buitre para la reconstrucción. ¡Viva la huelga general!», proclaman en su publicación en X. Los participantes vinculan las reivindicaciones laborales de la jornada con la necesidad de impulsar la recuperación de los municipios afectados. #HuelgaGeneral11N #Valencia #HortaSud #DANA #IzquierdaRevolucionaria",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T03:03:10.914432+00:00",
+  "generated_at": "2026-11-12T03:07:13.627136+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33578,
-    "published_24h": 606,
-    "published_48h": 1276,
-    "discovered_24h": 1149,
-    "discovered_48h": 2029
+    "total_unique_videos": 33584,
+    "published_24h": 609,
+    "published_48h": 1279,
+    "discovered_24h": 1155,
+    "discovered_48h": 2035
   },
   "analysis": {
-    "embeddings_total": 33578,
+    "embeddings_total": 33584,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 606
+    "qwen_pending_24h": 609
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 209,
+    "OTHER": 212,
     "ES": 271,
-    "DE": 76,
     "FR": 38,
-    "MULTI": 3,
-    "IT": 9
+    "IT": 9,
+    "DE": 76,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -75,6 +75,23 @@
       "published_at": "2026-11-11T22:49:35+00:00",
       "description": "In Spagna si è svolto il primo sciopero generale degli ultimi 14 anni a causa della crisi abitativa, dell’aumento dei prezzi e del calo del potere d’acquisto. «I due principali sindacati spagnoli — CCOO e UGT — hanno indetto uno sciopero generale a causa della crisi abitativa, dell’aumento dei prezzi e del calo del potere d’acquisto della popolazione», riporta il quotidiano El País. Lo sciopero è iniziato a mezzanotte dell’11 novembre. I sindacati hanno invitato i lavoratori a interrompere l’attività lavorativa e a partecipare alle manifestazioni. L’ultima volta che queste organizzazioni hanno indetto congiuntamente uno sciopero generale risale al 2012. Di conseguenza, in diverse città sono state fermate almeno 42 persone.  A causa dello sciopero, diverse strade principali a Madrid, Barcellona e Valencia sono state bloccate e parte dei treni è stata soppressa.  ✅ Fonte Soloviev - Telegram: https://t.me/SolovievLive 👉 Per altre notizie segui Bannati Dai Social su Telegram: https://t.me/bannati_dai_social #in #spagna #si #è #svolto #il #primo #sciopero #generale #degli #ultimi #14 #anni #a #causa #della #crisi #abitativa #dell #aumento #dei #prezzi #e #del #calo #del #potere #d'acquisto #i #due #principali #sindacati #spagnoli #ccoo #e #ugt #hanno #indetto #sciopero #generale #elpais #madrid #barcellona #valencia",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707047791058554135",
+      "username": "disfrutalavia",
+      "url": "https://www.tiktok.com/@disfrutalavia/video/7707047791058554135",
+      "published_at": "2026-11-11T22:41:50+00:00",
+      "description": "gooooo!! #maquinista #tren",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4115,6 +4132,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7706904722363469078",
+      "username": "alberbs69",
+      "url": "https://www.tiktok.com/@alberbs69/video/7706904722363469078",
+      "published_at": "2026-11-11T13:26:33+00:00",
+      "description": "Hoy me sume a la Huelga General 11N Manifestación masiva en Alcalá de Henares Por una vivienda digna Por unos salarios dignos Por unas pensiones dignas Sigue la lucha Máxima movilización progresista el 29N Ni un progresista en casa sin votar #huelga  #huelgageneral  #11N #29N",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7706903344698133782",
       "username": "equinoxespagne",
       "url": "https://www.tiktok.com/@equinoxespagne/video/7706903344698133782",
@@ -4897,12 +4931,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706887978530049302",
-      "username": "jaranor.films",
-      "url": "https://www.tiktok.com/@jaranor.films/video/7706887978530049302",
+      "video_id": "7706887982078414102",
+      "username": "rfi",
+      "url": "https://www.tiktok.com/@rfi/photo/7706887982078414102",
       "published_at": "2026-11-11T12:21:34+00:00",
-      "description": "Manifestantes en huelga general",
-      "country": "OTHER",
+      "description": "🇪🇸 Ce mercredi a lieu une grève générale de 24 heures dans toute l'Espagne. Quatorze ans après la dernière mobilisation de cette ampleur, elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. 👉 C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place. Des manifestations sont prévues, notamment en soirée à Madrid et Barcelone. #GrèveGénérale #Espagne #CriseDuLogement #Madrid #Barcelone",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4914,12 +4948,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706887982078414102",
-      "username": "rfi",
-      "url": "https://www.tiktok.com/@rfi/photo/7706887982078414102",
+      "video_id": "7706887978530049302",
+      "username": "jaranor.films",
+      "url": "https://www.tiktok.com/@jaranor.films/video/7706887978530049302",
       "published_at": "2026-11-11T12:21:34+00:00",
-      "description": "🇪🇸 Ce mercredi a lieu une grève générale de 24 heures dans toute l'Espagne. Quatorze ans après la dernière mobilisation de cette ampleur, elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. 👉 C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place. Des manifestations sont prévues, notamment en soirée à Madrid et Barcelone. #GrèveGénérale #Espagne #CriseDuLogement #Madrid #Barcelone",
-      "country": "ES",
+      "description": "Manifestantes en huelga general",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5481,6 +5515,23 @@
       "published_at": "2026-11-11T11:31:48+00:00",
       "description": "In Berlin hat Boris Pistorius (SPD) erste Ergebnisse einer Studie zu sexueller Belästigung in der Bundeswehr präsentiert. Das Ausmaß des sexualisierten Fehlverhaltens übersteige die bekannten Meldezahlen deutlich, so der Bundesverteidigungsminister. Im Rahmen der Studie wurden rund 45.000 Soldatinnen und Soldaten angeschrieben, 18 Prozent haben geantwortet, die Daten sind repräsentativ. Es sei von Anfang an klar gewesen, dass die Analyse unerfreuliche Wahrheiten zutage fördern würde. „Und es gab nicht wenige Stimmen, die gesagt haben: Lasst das lieber, ihr schädigt das Ansehen der Bundeswehr“, so Pistorius. #bundeswehr #zdfheute #pistorius",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706875094487911702",
+      "username": "cronicavasca",
+      "url": "https://www.tiktok.com/@cronicavasca/video/7706875094487911702",
+      "published_at": "2026-11-11T11:31:35+00:00",
+      "description": "📍 Vitoria-Gasteiz registra movilizaciones de CCOO, UGT, ELA y LAB durante la jornada de huelga general de este miércoles. 📢 Las organizaciones sindicales participan en distintas manifestaciones celebradas en la capital alavesa en el marco de la convocatoria de huelga. 🎥 Las imágenes recogen las movilizaciones de los cuatro sindicatos por las calles de Vitoria-Gasteiz. #HuelgaGeneral #VitoriaGasteiz #CCOO #UGT #CronicaVasca",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7515,11 +7566,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839213789990152",
-      "username": "another.putri",
-      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
+      "video_id": "7706839206038899990",
+      "username": "loquepasa.es",
+      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
+      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7532,11 +7583,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706839206038899990",
-      "username": "loquepasa.es",
-      "url": "https://www.tiktok.com/@loquepasa.es/video/7706839206038899990",
+      "video_id": "7706839213789990152",
+      "username": "another.putri",
+      "url": "https://www.tiktok.com/@another.putri/video/7706839213789990152",
       "published_at": "2026-11-11T09:12:21+00:00",
-      "description": "Huelga general a 18 días de las elecciones… y la coordinadora de campaña del PSOE lo dijo claro: «se convoca contra la oposición». La vicepresidenta, gritando «¡Viva la huelga general!». Los sindicatos, con 32 millones en subvenciones récord. ¿Huelga obrera o acto de campaña? 👇 #huelgageneral #11N #huelga #sindicatos #ccoo",
+      "description": "Kisah darderdor 2 mingguan lalu… We don’t talk a lot about our spiritual journey, but here’s one ❤️✨ ‼️do not use this video for your testimony #lifeaftermarriage #genz #pasutri #storytime #fyp",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -9283,11 +9334,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706808889773280542",
-      "username": "kbarcelona_1",
-      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
+      "video_id": "7706809038918470934",
+      "username": "jarvy070",
+      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
+      "description": "#bloqueo #paronacional #valencia",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -9300,11 +9351,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706809038918470934",
-      "username": "jarvy070",
-      "url": "https://www.tiktok.com/@jarvy070/video/7706809038918470934",
+      "video_id": "7706808889773280542",
+      "username": "kbarcelona_1",
+      "url": "https://www.tiktok.com/@kbarcelona_1/video/7706808889773280542",
       "published_at": "2026-11-11T07:15:19+00:00",
-      "description": "#bloqueo #paronacional #valencia",
+      "description": "Una manifestación muy, muy intensa que se está llevando a cabo en directo en la ciudad de Barcelona. Coches o autobuses que salen y entran #barcelona #demonstration #spain",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -10065,9 +10116,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -10082,9 +10133,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",

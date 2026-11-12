@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T18:09:01.139478+00:00",
+  "generated_at": "2026-11-12T18:12:48.204695+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34130,
-    "published_24h": 386,
-    "published_48h": 1166,
+    "total_unique_videos": 34132,
+    "published_24h": 383,
+    "published_48h": 1163,
     "discovered_24h": 996,
-    "discovered_48h": 2057
+    "discovered_48h": 2058
   },
   "analysis": {
-    "embeddings_total": 34130,
+    "embeddings_total": 34132,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 386
+    "qwen_pending_24h": 383
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 160,
-    "OTHER": 138,
-    "FR": 28,
+    "OTHER": 136,
+    "ES": 159,
+    "FR": 29,
     "DE": 53,
-    "IT": 5,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -278,7 +278,7 @@
       "url": "https://www.tiktok.com/@impactmediafrance/video/7707298439024938272",
       "published_at": "2026-11-12T14:54:22+00:00",
       "description": "FLASH | Des étudiants se mobilisent devant le siège de CNews à Paris contre le racisme et réclament justice pour Pengo, victime de l'attaque raciste des Yvelines ✊🏾 Images : @humanite_fr #cnews #pengo #racisme #manifestation #actu",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6535,57 +6535,6 @@
       "published_at": "2026-11-11T18:13:22+00:00",
       "description": "11N ✊🏽💚 #huelgageneral #educacionpublica",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706978391257402646",
-      "username": "walking.city.view",
-      "url": "https://www.tiktok.com/@walking.city.view/video/7706978391257402646",
-      "published_at": "2026-11-11T18:12:25+00:00",
-      "description": "Valencia sigue en las calles: miles de personas continúan manifestándose. 🇪🇸 #Protesta #Valencia #ProtestaValencia #España #WalkingCityViews",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706977663977524486",
-      "username": "ricochetmedia",
-      "url": "https://www.tiktok.com/@ricochetmedia/video/7706977663977524486",
-      "published_at": "2026-11-11T18:09:47+00:00",
-      "description": "Post-secondary students across Ontario staged province-wide walkouts and demonstrations last week to protest cuts to student assistance programs.   “Hands Off Our Education!” and “Hands Off Our OSAP!” protests were organized after the province lifted a seven-year tuition freeze earlier in the year, which allowed universities and colleges to increase fees by up to two per cent each year over the next three years.   Students are also facing a 60 per cent decrease in grant funding, and they say more support from MPPs is needed to reverse the cuts. #publicjournalism #OSAP #studentprotest #dougford",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706977610634415382",
-      "username": "chiara_appendino",
-      "url": "https://www.tiktok.com/@chiara_appendino/video/7706977610634415382",
-      "published_at": "2026-11-11T18:09:22+00:00",
-      "description": "Oggi i lavoratori dei call center non rispondono alle telefonate perchè scioperano, ma a non rispondere colpevolmente alle loro richieste è il governo Meloni. Decine di migliaia di lavoratori a rischio e un tavolo al Ministero atteso da due anni: una vergogna. Stamattina eravamo con loro nelle piazze a Roma e in giro per l’Italia perchè lo Stato non può lasciare i lavoratori soli ad affrontare una rivoluzione tecnologica che, se non governata, si trasformerà in una macelleria sociale.",
-      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

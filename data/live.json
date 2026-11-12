@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T09:25:48.702257+00:00",
+  "generated_at": "2026-11-12T09:29:21.737802+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33791,
-    "published_24h": 542,
-    "published_48h": 1284,
-    "discovered_24h": 1112,
+    "total_unique_videos": 33794,
+    "published_24h": 541,
+    "published_48h": 1285,
+    "discovered_24h": 1115,
     "discovered_48h": 2080
   },
   "analysis": {
-    "embeddings_total": 33791,
+    "embeddings_total": 33794,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 542
+    "qwen_pending_24h": 541
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "DE": 74,
-    "ES": 234,
+    "FR": 30,
     "OTHER": 193,
-    "FR": 29,
+    "ES": 232,
     "IT": 9,
+    "DE": 74,
     "MULTI": 3
   },
   "links": {
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7707194154496838944",
+      "username": "lapressedelamanche",
+      "url": "https://www.tiktok.com/@lapressedelamanche/video/7707194154496838944",
+      "published_at": "2026-11-12T08:09:46+00:00",
+      "description": "Ce jeudi 12 novembre, des élèves ont tenté de bloquer l'accès au lycée Millet de #Cherbourg . Un filtrage des entrées a finalement été mis en place. À 8 h, plusieurs centaines de lycéens étaient rassemblés devant l'établissement, sous la surveillance de la direction #Cotentin #lycée",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7707186574093536545",
       "username": "dossierx88",
@@ -9203,40 +9220,6 @@
       "url": "https://www.tiktok.com/@la7tele/video/7706843732200426785",
       "published_at": "2026-11-11T09:29:32+00:00",
       "description": "❌ Algunos manifestantes tratan de impedir que abran comercios en la Gran Vía de Murcia mediante amenazas 🚓 La Policía ha identificado a uno de ellos",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706843171728280865",
-      "username": "lavozdegalicia",
-      "url": "https://www.tiktok.com/@lavozdegalicia/video/7706843171728280865",
-      "published_at": "2026-11-11T09:27:25+00:00",
-      "description": "🪧 España vive este miércoles 11 de noviembre la primera huelga general en 14 años. A solo 24 horas del pistoletazo de salida de la campaña electoral, sindicatos y organizaciones sociales intentan movilizar este miércoles a la ciudadanía en la segunda convocatoria de paro laboral que se celebra en España en plena temporada de precampaña, tras la histórica movilización feminista celebrada antes de los comicios del 2019. 📹 César Quián / Sandra Alonso / Xoán Carlos Gil / María Guntín",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706842986646211862",
-      "username": "davichoblog",
-      "url": "https://www.tiktok.com/@davichoblog/video/7706842986646211862",
-      "published_at": "2026-11-11T09:27:03+00:00",
-      "description": "Última hora con la huelga general, Madrid #huelga #general #última",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

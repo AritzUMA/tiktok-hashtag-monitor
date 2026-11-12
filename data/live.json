@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T23:18:37.936820+00:00",
+  "generated_at": "2026-11-12T23:22:27.026683+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34332,
-    "published_24h": 283,
-    "published_48h": 1113,
+    "total_unique_videos": 34335,
+    "published_24h": 282,
+    "published_48h": 1112,
     "discovered_24h": 894,
-    "discovered_48h": 2020
+    "discovered_48h": 2022
   },
   "analysis": {
-    "embeddings_total": 34332,
+    "embeddings_total": 34335,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 283
+    "qwen_pending_24h": 282
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 107,
-    "DE": 47,
     "ES": 98,
+    "DE": 47,
+    "OTHER": 106,
     "FR": 28,
-    "IT": 1,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -873,7 +873,7 @@
       "url": "https://www.tiktok.com/@elespanol_valencia/video/7707312066956299543",
       "published_at": "2026-11-12T15:47:14+00:00",
       "description": "⛺️ Los acampados por la vivienda en Valencia abandonan la plaza del Ayuntamiento tras 40 días. Tras anunciar este lunes que se produciría una desescalada progresiva, este jueves se retirarán definitivamente del centro de la ciudad. Según el comunicado al que ha tenido acceso EL ESPAÑOL, la organización asegura que desmonta la acampada pero que no cesa en las reivindicaciones por la vivienda. 🪧🏠 ✍🏼 Luis Villanueva #acampada #vivienda #valencia",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4818,23 +4818,6 @@
       "published_at": "2026-11-11T23:27:20+00:00",
       "description": "YES U ARE 😭#f1content #f1 #GEORGERUSSELL",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707058220849777942",
-      "username": "nilton_valverde_sanchez",
-      "url": "https://www.tiktok.com/@nilton_valverde_sanchez/video/7707058220849777942",
-      "published_at": "2026-11-11T23:22:21+00:00",
-      "description": "Todos los derechos  que tenemos hoy se han conquistados a base de luchas. Nada nos han regalado.  Hasta la victoria final!!!   #HuelgaGeneral #11N #madrid   #NoAlFascismo #sindicatos",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

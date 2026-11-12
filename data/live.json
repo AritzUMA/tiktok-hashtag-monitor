@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T12:17:35.812637+00:00",
+  "generated_at": "2026-11-12T12:21:02.710357+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33876,
+    "total_unique_videos": 33878,
     "published_24h": 455,
-    "published_48h": 1238,
+    "published_48h": 1239,
     "discovered_24h": 1032,
-    "discovered_48h": 2088
+    "discovered_48h": 2089
   },
   "analysis": {
-    "embeddings_total": 33876,
+    "embeddings_total": 33878,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 455
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 169,
+    "OTHER": 168,
     "ES": 195,
-    "DE": 58,
-    "FR": 22,
+    "DE": 59,
     "IT": 7,
-    "MULTI": 4
+    "MULTI": 4,
+    "FR": 22
   },
   "links": {
     "qr_videos": 0,
@@ -177,6 +177,23 @@
       "published_at": "2026-11-12T09:41:17+00:00",
       "description": "À Madrid et Barcelone, des heurts entre manifestants et policiers après une journée de mobilisation massive pour le droit au logement #espagne #madrid #barcelone #greve #manifestation #police",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707217077932805398",
+      "username": "lehavredesluttes",
+      "url": "https://www.tiktok.com/@lehavredesluttes/video/7707217077932805398",
+      "published_at": "2026-11-12T09:38:43+00:00",
+      "description": "Le lycée Jules Lecesne du Havre, se mobilise aujourd’hui. les lyceens manifestent leurs revendications ce jeudi 12 novembre. #lycées #blocus #lehavre",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -363,7 +380,7 @@
       "url": "https://www.tiktok.com/@uetkk4/video/7707206757038230806",
       "published_at": "2026-11-12T08:58:36+00:00",
       "description": "Null Prozent Wachstum und diesmal ist Putin nicht schuld #Deutschland#Wirtschaft#Putin#Stagnation",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7742,23 +7759,6 @@
       "published_at": "2026-11-11T12:21:34+00:00",
       "description": "🇪🇸 Ce mercredi a lieu une grève générale de 24 heures dans toute l'Espagne. Quatorze ans après la dernière mobilisation de cette ampleur, elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. 👉 C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place. Des manifestations sont prévues, notamment en soirée à Madrid et Barcelone. #GrèveGénérale #Espagne #CriseDuLogement #Madrid #Barcelone",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706887419789921569",
-      "username": "lagacetadesalamanca",
-      "url": "https://www.tiktok.com/@lagacetadesalamanca/video/7706887419789921569",
-      "published_at": "2026-11-11T12:19:03+00:00",
-      "description": "La huelga general continúa en la Plaza Mayor de Salamanca, donde se han concentrado sindicatos, piquetes y más de un millar de manifestantes, entre ellos estudiantes y otros ciudadanos que se han ido sumando a la movilización. Tras la concentración, la marcha ha recorrido las calles del centro hasta llegar a la plaza del Mercado, al grito de «Luchar hasta vencer». Sigue toda la información en nuestra web o APP. Link en la bio",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

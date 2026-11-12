@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T17:55:31.925646+00:00",
+  "generated_at": "2026-11-12T17:58:53.117388+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34119,
+    "total_unique_videos": 34120,
     "published_24h": 385,
-    "published_48h": 1169,
+    "published_48h": 1167,
     "discovered_24h": 997,
     "discovered_48h": 2066
   },
   "analysis": {
-    "embeddings_total": 34117,
+    "embeddings_total": 34120,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 385
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "ES": 162,
     "OTHER": 137,
-    "ES": 163,
-    "DE": 51,
     "FR": 27,
-    "MULTI": 2,
-    "IT": 5
+    "DE": 52,
+    "IT": 5,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@deutschlandimfokus2/video/7707340259029273888",
       "published_at": "2026-11-12T17:36:37+00:00",
       "description": "#düsseldorf #31october #deutschland #genzprotest",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -92,6 +92,23 @@
       "published_at": "2026-11-12T16:27:22+00:00",
       "description": "La Spagna si ferma con il primo sciopero generale di 24 ore dopo 14 anni. A pochi giorni dalle elezioni anticipate del 29 novembre, milioni di cittadini sono scesi nelle piazze di Madrid, Barcellona e Siviglia per protestare contro la crisi abitativa, il caro affitti e l’aumento del costo della vita. Una mobilitazione massiccia, ribattezzata “11N”, che ha paralizzato trasporti e arterie stradali principali, tra picchetti, tensioni con le forze dell’ordine e decine di fermi. Cosa ne pensate di questa protesta? Il problema del caro affitti e degli stipendi ormai è diventato insostenibile anche da noi? #Spagna #Sciopero #11N #notizie #proteste",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707318068904496406",
+      "username": "bfmtv",
+      "url": "https://www.tiktok.com/@bfmtv/video/7707318068904496406",
+      "published_at": "2026-11-12T16:10:30+00:00",
+      "description": "La scène s'est déroulée le 5 novembre à Farfield, dans l'Ohio, à la suite d’un accident de voiture. La femme est restée coincée dans une voiture en feu. Les policiers ont réussi à l'extraire quelques instants avant que les flammes n’envahissent l’habitacle. #route #flammes #sauvetage",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6552,23 +6569,6 @@
       "published_at": "2026-11-11T18:01:08+00:00",
       "description": "#11november #huelga #canarias #tecuentosantacruz #santacruzdetenerife",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706974795807591702",
-      "username": "mariovillu",
-      "url": "https://www.tiktok.com/@mariovillu/video/7706974795807591702",
-      "published_at": "2026-11-11T17:58:28+00:00",
-      "description": "11N Vaga general por el derecho a una vivienda digna y sueldos dignos  Barcelona durante la manifestación de la vaga general del 11 de Noviembre por el derecho a la vivienda, reclamar salarios dignos y mejores condiciones laborales #barcelona #vagageneral #11n #huelgageneral #explorepage",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

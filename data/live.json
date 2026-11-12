@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T16:33:44.473367+00:00",
+  "generated_at": "2026-11-12T16:36:47.452434+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34031,
-    "published_24h": 389,
-    "published_48h": 1168,
-    "discovered_24h": 980,
-    "discovered_48h": 2040
+    "total_unique_videos": 34040,
+    "published_24h": 391,
+    "published_48h": 1169,
+    "discovered_24h": 987,
+    "discovered_48h": 2049
   },
   "analysis": {
-    "embeddings_total": 34031,
+    "embeddings_total": 34040,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 389
+    "qwen_pending_24h": 391
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 54,
-    "FR": 25,
-    "OTHER": 138,
     "ES": 165,
-    "MULTI": 2,
-    "IT": 5
+    "FR": 25,
+    "OTHER": 141,
+    "DE": 53,
+    "IT": 5,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -296,6 +296,23 @@
       "published_at": "2026-11-12T12:55:08+00:00",
       "description": "🇪🇸 Des centaines de milliers de personnes ont défilé mercredi en Espagne, notamment à Madrid et Barcelone, à l'issue d'une journée de grève générale pour le droit au logement et le pouvoir d'achat, illustration du mécontentement social à moins de trois semaines des législatives. 🎥 Jaime Aleko, Aurelia Moussly, Anahi Aradas 📸 Manaure Quintero / AFP 🖥️ Maëlle Lions-Geollot #sinformersurtiktok #espagne #logement",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707265051769457953",
+      "username": "keno_b75",
+      "url": "https://www.tiktok.com/@keno_b75/video/7707265051769457953",
+      "published_at": "2026-11-12T12:44:47+00:00",
+      "description": "Agglomérer les colères et bloquer le pays jusqu'à la victoire ! Le 05 novembre, plus de 1,6 millions de personnes dans le pays et plus de 350.000 à Paris. La jeunesse est la flamme de la révolution ! Grèves, blocages, manifestations sauvages ! Multiplions les foyers de révoltes et de résistance ! #manifestation #5novembre  #OnBloqueTout #Macrondemission #Nunezdemission",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -664,11 +681,45 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707235433213742369",
+      "username": "anticobalon",
+      "url": "https://www.tiktok.com/@anticobalon/video/7707235433213742369",
+      "published_at": "2026-11-12T10:49:53+00:00",
+      "description": "🧄 È TEMPO DI BAGNA CAUDA! 🔥 Da oggi 5 novembre si accendono i fojot! E se non sapete cosa sono, ci pensa Paolo: “scaldino della bagna cauda!” 😂 Non siamo bravi con le definizioni, ma a tavola sappiamo il fatto nostro! 🤤 Raduna gli amici e prenota il tuo tavolo! La bagna cauda vi aspetta! 🍷.   #cibotorino #quadrilaterotorino #cibopiemontese #torinocentro #anticobalon",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707234766218743062",
       "username": "eugen_schmidt_ru",
       "url": "https://www.tiktok.com/@eugen_schmidt_ru/video/7707234766218743062",
       "published_at": "2026-11-12T10:47:21+00:00",
       "description": "Гибель школьницы в Берлине: подозреваемый почти два года был под следствием и на свободе. 13-летняя школьница Лиза из Берлина-Марцана не дошла до школы, через пять дней её нашли мёртвой. Подозреваемый почти два года был известен прокуратуре Берлина, но ареста никто не просил. Разбираю, как ведомства Германии упустили человека, которого в Баварии считали опасным для общества. #новости #политика #германия #фрг #шмидт",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707234664745897249",
+      "username": "letribunaldunet",
+      "url": "https://www.tiktok.com/@letribunaldunet/video/7707234664745897249",
+      "published_at": "2026-11-12T10:46:31+00:00",
+      "description": "🔴 La maison de la mannequin Kari Ann Peniche ravagée par l’explosion d’une batterie de vélo électrique ! (Crédit : @kariannpeniche / IG)",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6620,23 +6671,6 @@
       "published_at": "2026-11-11T16:42:04+00:00",
       "description": "Lors de la manif de Rouen du 5 novembre !",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706953547895655712",
-      "username": "quran.suno14",
-      "url": "https://www.tiktok.com/@quran.suno14/video/7706953547895655712",
-      "published_at": "2026-11-11T16:36:00+00:00",
-      "description": "Schüsse mitten in Berlin-Schöneberg! Mann schwer verletzt – Täter auf der Flucht! 11. November 2026 #BerlinSchöneberg #Steinmetzstraße #Schüsse #Polizeieinsatz #Nachrichten",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

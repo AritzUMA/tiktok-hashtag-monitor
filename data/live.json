@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T18:05:31.059241+00:00",
+  "generated_at": "2026-11-12T18:09:01.139478+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34124,
-    "published_24h": 383,
+    "total_unique_videos": 34130,
+    "published_24h": 386,
     "published_48h": 1166,
-    "discovered_24h": 998,
-    "discovered_48h": 2056
+    "discovered_24h": 996,
+    "discovered_48h": 2057
   },
   "analysis": {
-    "embeddings_total": 34124,
+    "embeddings_total": 34130,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 383
+    "qwen_pending_24h": 386
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 27,
+    "ES": 160,
+    "OTHER": 138,
+    "FR": 28,
     "DE": 53,
-    "ES": 159,
-    "OTHER": 137,
     "IT": 5,
     "MULTI": 2
   },
@@ -57,7 +57,7 @@
       "url": "https://www.tiktok.com/@claudio_manja/video/7707335355405471008",
       "published_at": "2026-11-12T17:17:35+00:00",
       "description": "SITUAZIONE PROTESTE A VALENCIA🇪🇸 #valencia #vlc #spagna #ayuntamiento",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -273,11 +273,45 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707298439024938272",
+      "username": "impactmediafrance",
+      "url": "https://www.tiktok.com/@impactmediafrance/video/7707298439024938272",
+      "published_at": "2026-11-12T14:54:22+00:00",
+      "description": "FLASH | Des étudiants se mobilisent devant le siège de CNews à Paris contre le racisme et réclament justice pour Pengo, victime de l'attaque raciste des Yvelines ✊🏾 Images : @humanite_fr #cnews #pengo #racisme #manifestation #actu",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707290278180244769",
       "username": "bassemm_13",
       "url": "https://www.tiktok.com/@bassemm_13/video/7707290278180244769",
       "published_at": "2026-11-12T14:22:41+00:00",
       "description": "Extrait du live du #31octobre à marseille #manifestation #17octobre #blocus #reportage",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707290100694011169",
+      "username": "le.poing.leve",
+      "url": "https://www.tiktok.com/@le.poing.leve/video/7707290100694011169",
+      "published_at": "2026-11-12T14:21:32+00:00",
+      "description": "🔴 Lycéen·nes, étudiant·es, organisez vous au quotidien, rejoignez la jeunesse communiste et révolutionnaire, rejoignez le Poing Levé ! Ces dernières semaines, suite à l'étincelle lancée par les mobilisations lycéennes, le mouvement étudiant a montré qu’il pouvait lui aussi jouer un rôle important dans la lutte contre la répression et le gouvernement. Avec le Poing Levé, nous défendons une stratégie qui mise sur l'auto-organisation des jeunes mobilisés dans les lycées et dans les facs, la jonction avec le mouvement ouvrier mais aussi la construction d'une organisation révolutionnaire implantée dans les lieux d'études et de travail pour préparer la révolution ! Pour en discuter, rendez-vous le 21 novembre à 18h, à l’espace Charenton à Paris, avec Anasse Kazib, Elsa Marcel et Alexis Durey. Prends ta place !",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -516,6 +550,23 @@
       "url": "https://www.tiktok.com/@crazypeperonika/video/7707273928347077920",
       "published_at": "2026-11-12T13:19:16+00:00",
       "description": "#GenZ #Cansin Köktürk #Gaza #ZDF #Markus Lanz",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707273595814169889",
+      "username": "jim.nejman",
+      "url": "https://www.tiktok.com/@jim.nejman/video/7707273595814169889",
+      "published_at": "2026-11-12T13:17:56+00:00",
+      "description": "« Je ne veux pas que les responsables du RN soient plus écolos. » Le Rassemblement national pourrait-il accéder à la présidence française en 2027 ? Et dans ce cas, faudrait-il essayer de convaincre ses dirigeants d’agir pour le climat ? Dans mon podcast Quel Monde, j’ai interrogé @Camille Étienne sur la polémique autour d’Hugo Clément, qui avait défendu l’idée de discuter d’écologie avec l’extrême droite. La militante écologiste est en profond désaccord. Et elle explique pourquoi. 🎙️ Retrouvez notre entretien complet sur RTL Play et RTL Info, consacré notamment à son livre-enquête Facteur X et aux dangers de la pollution chimique. #CamilleEtienne #HugoClement #Ecologie #ExtremeDroite",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

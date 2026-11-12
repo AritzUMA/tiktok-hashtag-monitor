@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T11:23:20.194728+00:00",
+  "generated_at": "2026-11-12T11:26:36.278502+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 33843,
-    "published_24h": 478,
-    "published_48h": 1246,
-    "discovered_24h": 1058,
+    "published_24h": 475,
+    "published_48h": 1245,
+    "discovered_24h": 1051,
     "discovered_48h": 2083
   },
   "analysis": {
     "embeddings_total": 33843,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 478
+    "qwen_pending_24h": 475
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "ES": 208,
     "DE": 63,
-    "ES": 209,
+    "OTHER": 168,
     "FR": 26,
-    "OTHER": 170,
-    "MULTI": 3,
-    "IT": 7
+    "IT": 7,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -8099,57 +8099,6 @@
       "published_at": "2026-11-11T11:27:24+00:00",
       "description": "🔥 Los sindicalistas han quemado neumáticos y contenedores en la Ronda Urbana Norte de Sevilla, a la altura de Pino Montano, como forma de protesta durante la huelga general del 11-N.  Un grupo de personas encapuchadas ha cortado el tráfico en la SE-20, colocando contenedores en la calzada y prendiéndoles fuego, lo que ha provocado llamas muy altas y obligado a habilitar un desvío por uno de los carriles. #sevilla #huelga #11n #sindicatos #vaga",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706873731720809780",
-      "username": "assahifaespanol",
-      "url": "https://www.tiktok.com/@assahifaespanol/video/7706873731720809780",
-      "published_at": "2026-11-11T11:26:30+00:00",
-      "description": "Vídeo de la huelga general en Barcelona hoy, 11 de noviembre: colas de vehículos parados en el acceso norte y decenas de carreteras cortadas por piquetes en Cataluña. Vídeo: @maqroll_1967 #HuelgaGeneral #Barcelona #Cataluña  #noticias #AssahifaEnEspañol",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706873052776156424",
-      "username": "zir.zacarias",
-      "url": "https://www.tiktok.com/@zir.zacarias/video/7706873052776156424",
-      "published_at": "2026-11-11T11:23:41+00:00",
-      "description": "Alzireños alzaron su voz, en una jornada de protesta convocada per CCOO, UGT y la Intersindical. Una manifestación totalmente pacífica que sale desde plaza mayor exigen que mejore la calidad de los servicios públicos, alojamiento digno, entre otras peticiones. #alzira 11/11/27",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706873012456328470",
-      "username": "gandul_ro",
-      "url": "https://www.tiktok.com/@gandul_ro/video/7706873012456328470",
-      "published_at": "2026-11-11T11:23:30+00:00",
-      "description": "Greva generală din Spania: Blocaje rutiere și intervenții ale forțelor de ordine în mai multe orașe #spania #greva #protest #news #gandul",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

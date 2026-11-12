@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T17:49:03.870070+00:00",
+  "generated_at": "2026-11-12T17:52:42.206633+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34110,
-    "published_24h": 385,
-    "published_48h": 1170,
-    "discovered_24h": 991,
+    "total_unique_videos": 34112,
+    "published_24h": 384,
+    "published_48h": 1168,
+    "discovered_24h": 992,
     "discovered_48h": 2063
   },
   "analysis": {
-    "embeddings_total": 34110,
+    "embeddings_total": 34112,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 385
+    "qwen_pending_24h": 384
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 135,
     "ES": 163,
     "FR": 27,
-    "OTHER": 136,
     "DE": 52,
     "IT": 5,
     "MULTI": 2
@@ -6551,23 +6551,6 @@
       "url": "https://www.tiktok.com/@moritz.wimmer2/video/7706973533779365153",
       "published_at": "2026-11-11T17:53:34+00:00",
       "description": "Die Linken ist die Clan-Lobby!",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706973061228039456",
-      "username": "boyscout753",
-      "url": "https://www.tiktok.com/@boyscout753/video/7706973061228039456",
-      "published_at": "2026-11-11T17:51:41+00:00",
-      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

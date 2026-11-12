@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T23:03:32.758190+00:00",
+  "generated_at": "2026-11-12T23:07:02.164373+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34327,
+    "total_unique_videos": 34328,
     "published_24h": 283,
-    "published_48h": 1114,
+    "published_48h": 1113,
     "discovered_24h": 904,
     "discovered_48h": 2025
   },
   "analysis": {
-    "embeddings_total": 34327,
+    "embeddings_total": 34328,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 283
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 106,
     "ES": 100,
-    "DE": 47,
+    "OTHER": 106,
     "FR": 27,
-    "MULTI": 2,
-    "IT": 1
+    "DE": 47,
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -92,6 +92,23 @@
       "published_at": "2026-11-12T20:55:04+00:00",
       "description": "#españa #teruel #valencia",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707388050661231905",
+      "username": "delion84thomaskolb",
+      "url": "https://www.tiktok.com/@delion84thomaskolb/video/7707388050661231905",
+      "published_at": "2026-11-12T20:42:04+00:00",
+      "description": "🎤🔥 IHR HABT UNS BELOGEN! 🇩🇪 Vor der Wahl große Versprechen, nach der Wahl die Kehrtwende! 💥 Schuldenbremse, Strompreise, Steuerentlastungen – was ist aus den Versprechen geworden? Mein neuer Protest-Rap spricht die Enttäuschung vieler Menschen an! 🎶✊ Wir wollen keine leeren Worte, sondern Ehrlichkeit und Verantwortung! 🎧 DeLion84 – Ihr habt uns belogen #DeLion84 #IhrHabtUnsBelogen #PolitikDeutschland #ProtestRap #merzmussweg",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -873,7 +890,7 @@
       "url": "https://www.tiktok.com/@nguyenstreamer273/video/7707309407369039118",
       "published_at": "2026-11-12T15:37:01+00:00",
       "description": "Discussion on the recent events in Germany reveals tensions surrounding Islamist actions and government responses. In Hamburg, protests called for a caliphate. A significant attack near Berlin raises concerns about security and actions taken against recognized threats. #Germany #Islamism #Terrorism #PublicSafety #SecurityConcerns",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4818,23 +4835,6 @@
       "published_at": "2026-11-11T23:09:03+00:00",
       "description": "✊🏼🔑🏚️ #11novembre #valencia #vagageneral #huelga",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706941822353935630",
-      "username": "mt272803",
-      "url": "https://www.tiktok.com/@mt272803/video/7706941822353935630",
-      "published_at": "2026-11-11T23:05:00+00:00",
-      "description": "#LisaTa #Berlin #BadFreienwalde #Brandenburg #BreakingNews #TrueCrime #NewsUpdate #fyp #viral",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

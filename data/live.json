@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T23:47:03.851871+00:00",
+  "generated_at": "2026-11-12T23:52:40.505625+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34341,
-    "published_24h": 281,
-    "published_48h": 1103,
-    "discovered_24h": 877,
-    "discovered_48h": 2012
+    "total_unique_videos": 34343,
+    "published_24h": 283,
+    "published_48h": 1105,
+    "discovered_24h": 879,
+    "discovered_48h": 2009
   },
   "analysis": {
-    "embeddings_total": 34341,
+    "embeddings_total": 34343,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 281
+    "qwen_pending_24h": 283
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "ES": 98,
     "OTHER": 106,
-    "ES": 96,
-    "DE": 48,
-    "FR": 28,
     "MULTI": 2,
+    "FR": 28,
+    "DE": 48,
     "IT": 1
   },
   "links": {
@@ -2466,6 +2466,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707243334217092384",
+      "username": "rumbo144oficial",
+      "url": "https://www.tiktok.com/@rumbo144oficial/video/7707243334217092384",
+      "published_at": "2026-11-12T11:20:32+00:00",
+      "description": "lo más loco que habéis hecho por amor? ❤️💔 #valencia #rumbo144 #party #nightclub #nightlife",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707242770372562198",
       "username": "gxtrust.spain",
       "url": "https://www.tiktok.com/@gxtrust.spain/video/7707242770372562198",
@@ -3270,6 +3287,23 @@
       "url": "https://www.tiktok.com/@euronewses/video/7707211871346101527",
       "published_at": "2026-11-12T09:18:06+00:00",
       "description": "La huelga general en España deja un balance dispar. Mientras CC.OO. y UGT hablan de éxito histórico por la crisis de la vivienda y la CEOE cifra el seguimiento en el 5%, las manifestaciones del 11N llenan las principales ciudades de España #HuelgaGeneral #España",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707211455908678934",
+      "username": "albamarinval",
+      "url": "https://www.tiktok.com/@albamarinval/video/7707211455908678934",
+      "published_at": "2026-11-12T09:16:54+00:00",
+      "description": "not me ☀️ #valencia #tiempovalencia #calor",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T15:33:46.950627+00:00",
+  "generated_at": "2026-11-12T15:41:40.667413+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33994,
-    "published_24h": 399,
-    "published_48h": 1186,
-    "discovered_24h": 984,
-    "discovered_48h": 2059
+    "total_unique_videos": 33996,
+    "published_24h": 398,
+    "published_48h": 1183,
+    "discovered_24h": 981,
+    "discovered_48h": 2057
   },
   "analysis": {
-    "embeddings_total": 33994,
+    "embeddings_total": 33996,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 399
+    "qwen_pending_24h": 398
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "ES": 172,
+    "ES": 173,
+    "OTHER": 135,
     "DE": 56,
-    "OTHER": 137,
     "FR": 25,
     "MULTI": 2,
     "IT": 7
@@ -1282,6 +1282,23 @@
       "published_at": "2026-11-12T07:40:28+00:00",
       "description": "Du jamais-vu depuis 14 ans : l'Espagne à l'arrêt contre la flambée des loyers. 🇪🇸 Première grève générale en Espagne depuis 2012, pour le logement et les salaires. À Barcelone : 400 000 manifestants selon les organisateurs, 55 000 selon la police. Les loyers ont grimpé d'environ 80 % en dix ans. Succès pour les syndicats, échec pour le patronat. Et en France, ça pourrait arriver ? 👇 #espagne #barcelone #logement #grèvegénérale #dossierx",
       "country": "MULTI",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707186325820050706",
+      "username": "tomigagna6",
+      "url": "https://www.tiktok.com/@tomigagna6/video/7707186325820050706",
+      "published_at": "2026-11-12T07:39:21+00:00",
+      "description": "Así se vivió la jornada de huelga general del 11N en Vigo. Pero… ¿por qué se convocó esta huelga y qué piensa realmente la gente sobre la situación actual? Salimos a la calle para conocer diferentes opiniones y escuchar lo que tienen para decir. 🎤 En los próximos vídeos voy a compartir las entrevistas que hicimos durante la jornada. Si querés conocer las respuestas, pasate por mi perfil y estate atento a los próximos vídeos. 📍 Vigo | 11 de noviembre. . . . . #vigo #españa #galicia #opinion #huelgageneral",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6773,40 +6790,6 @@
       "published_at": "2026-11-11T15:43:52+00:00",
       "description": "Schwarz-Rot-Gold vor dem Reichstag. 🇩🇪 Wolfgang Kubicki über die Flagge, die an die deutsche Einheit erinnert. #LiberalGermany #fyp #kubicki #deutschland #flagge",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706938730233285921",
-      "username": "canalreus",
-      "url": "https://www.tiktok.com/@canalreus/video/7706938730233285921",
-      "published_at": "2026-11-11T15:38:31+00:00",
-      "description": "❗️Després dels piquets de primera hora, les diverses mobilitzacions s’han concentrat a les 12 al centre de Reus.   👉🏻A la plaça del Mercadal s'ha llegit el manifest de la convocatòria de vaga i enumerant peticions enfocades a millores laborals i l’accés a l’habitatge. Diversos col·lectius participants també han fet la seva aportació com el sindicat CGT i col·lectius de treballadores com les del SAD, o professionals de l’àmbit social i sanitari   🔗Informa't de tota l'actualitat a 𝐜𝐚𝐧𝐚𝐥𝐫𝐞𝐮𝐬.𝐜𝐚𝐭",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706938680597810462",
-      "username": "jennalynnale",
-      "url": "https://www.tiktok.com/@jennalynnale/video/7706938680597810462",
-      "published_at": "2026-11-11T15:38:21+00:00",
-      "description": "Is it really a house?! #genx #genz #genxvsgenz #viral #fyp",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

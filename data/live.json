@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T20:51:27.510244+00:00",
+  "generated_at": "2026-11-12T20:55:53.250219+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34260,
-    "published_24h": 305,
-    "published_48h": 1145,
-    "discovered_24h": 980,
-    "discovered_48h": 2043
+    "published_24h": 302,
+    "published_48h": 1142,
+    "discovered_24h": 976,
+    "discovered_48h": 2042
   },
   "analysis": {
     "embeddings_total": 34260,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 305
+    "qwen_pending_24h": 302
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 115,
+    "DE": 48,
     "ES": 111,
+    "OTHER": 113,
     "FR": 27,
-    "DE": 49,
-    "IT": 1,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -5157,57 +5157,6 @@
       "url": "https://www.tiktok.com/@ingridinthecity/video/7707022073540939030",
       "published_at": "2026-11-11T21:01:55+00:00",
       "description": "11N , assim foi a Greve Geral na Espanha 🇪🇸 #huelgageneral",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707020341389905184",
-      "username": "alfredbermes",
-      "url": "https://www.tiktok.com/@alfredbermes/video/7707020341389905184",
-      "published_at": "2026-11-11T20:55:09+00:00",
-      "description": "",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707020315167100182",
-      "username": "perspektiveonline",
-      "url": "https://www.tiktok.com/@perspektiveonline/video/7707020315167100182",
-      "published_at": "2026-11-11T20:54:47+00:00",
-      "description": "Nach ihrem Verschwinden wurde die 13-jährige Lisa T. aus Berlin am Sonntag tot aufgefunden. Der mutmaßliche Täter ist mittlerweile verstorben, seit 2025 ermittelte die Polizei gegen ihn wegen „Kinderpornografie“. In Berlin besuchten etwa 400 Personen eine Gedenkdemonstration unter dem Motto „Gerechtigkeit für Lisa, Gerechtigkeit für alle!“ Weitere Videos und revolutionäre Kommentare, Nachrichten und Interviews findest du auf perspektive-online.net oder über den Link in der Bio. #lisat #lisa #lisaberlin #berlin #gewalt #frauen #mädchen",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707019828241911072",
-      "username": "deutschesmaedel84",
-      "url": "https://www.tiktok.com/@deutschesmaedel84/video/7707019828241911072",
-      "published_at": "2026-11-11T20:53:13+00:00",
-      "description": "",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

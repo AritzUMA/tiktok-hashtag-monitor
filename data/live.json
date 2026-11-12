@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T22:17:47.983338+00:00",
+  "generated_at": "2026-11-12T22:25:42.529259+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34307,
-    "published_24h": 285,
-    "published_48h": 1124,
-    "discovered_24h": 930,
-    "discovered_48h": 2032
+    "total_unique_videos": 34314,
+    "published_24h": 284,
+    "published_48h": 1121,
+    "discovered_24h": 925,
+    "discovered_48h": 2034
   },
   "analysis": {
-    "embeddings_total": 34306,
+    "embeddings_total": 34314,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 285
+    "qwen_pending_24h": 284
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 103,
-    "DE": 45,
     "OTHER": 108,
+    "ES": 102,
+    "DE": 45,
     "FR": 26,
-    "MULTI": 2,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7707410681552751904",
+      "username": "le.poing.lev.mont",
+      "url": "https://www.tiktok.com/@le.poing.lev.mont/video/7707410681552751904",
+      "published_at": "2026-11-12T22:09:19+00:00",
+      "description": "Avec de plus en plus de blocus dans les lycées pour échaper a la répréssion policiere, les directions des établissements se font complices de la répréssion. Le jeudi 1er Octobre le proviseur du lycée avais déja laissé rentrer les CRS dans l'établissement pour qu'ils gazent les lycens mobilisés depuis l'intérieur. #Lycée #Mermoz #Blocus #mtp",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7707404634582682902",
       "username": "cgtcatalunya",
@@ -91,7 +108,7 @@
       "url": "https://www.tiktok.com/@mjosecatala/video/7707385295708130582",
       "published_at": "2026-11-12T20:31:23+00:00",
       "description": "Hoy ha sido un día de mucho trabajo en la plaza de todos.  Bona nit, Valencia. ✨ #Valencia #Acampada #Vivienda #Limpieza",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -466,6 +483,23 @@
       "published_at": "2026-11-12T17:11:17+00:00",
       "description": "🇪🇸 ESPAGNE | LA COLÈRE DES LOCATAIRES S’INVITE DANS LES URNES Le 11 novembre, à Madrid, 120.000 personnes ont défilé sous la pluie, selon la délégation du gouvernement. En tête du cortège, le syndicat des locataires. À ses côtés, les syndicats de salariés. Ensemble, ils réclament des loyers abordables et des salaires plus élevés. C’est la première fois en quatorze ans que les deux principales organisations syndicales espagnoles appellent à une grève générale. À Madrid comme à Barcelone, une même question rassemble les manifestants : que reste-t-il du salaire une fois le loyer payé ? À dix-huit jours des élections législatives anticipées du 29 novembre, la grève place la crise du logement au cœur de la campagne. Les locataires interpellent aussi bien le gouvernement que l’opposition sur une question concrète : comment faire baisser la part du revenu que les ménages consacrent à se loger ? Images : Euronews. Sources : RTVE et Reuters. #Espagne #Madrid #Loyers #Vivienda #Huelga",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707332623428783393",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7707332623428783393",
+      "published_at": "2026-11-12T17:07:00+00:00",
+      "description": "Streit um mehr Lohn in der Metallindustrie: Die IG Metall fordert fünf Prozent mehr Geld, die Arbeitgeber bieten 1,3 Prozent. Jetzt stimmen Beschäftigte über 24-Stunden-Streiks ab.    #bayern #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4817,57 +4851,6 @@
       "url": "https://www.tiktok.com/@lejeuneengage/video/7707043699460558113",
       "published_at": "2026-11-11T22:25:51+00:00",
       "description": "Les Espagnols sont descendus dans la rue en réalisant l’une des plus grandes mobilisations des dernières années. Une grève général qui a touché tous les secteurs d’activité pour protester contre l’explosion des prix, notamment dans le logement avec une spéculation immobilière hors de contrôle Après le blocage de décrets en faveur du logement par la droite et l’extrême droite, le premier ministre a annoncé des élections législatives anticipées le 29 novembre prochain",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707042658656488737",
-      "username": "lasicilia.it",
-      "url": "https://www.tiktok.com/@lasicilia.it/video/7707042658656488737",
-      "published_at": "2026-11-11T22:21:28+00:00",
-      "description": "🇪🇸 La Spagna torna in piazza con il primo sciopero generale dopo 14 anni. La protesta sfocia in scontri e arresti. Migliaia di manifestanti hanno partecipato alle mobilitazioni contro la crisi abitativa, l'aumento degli affitti e il costo della vita. 🚨 Momenti di tensione a Madrid e Barcellona. Nella capitale la polizia ha utilizzato spray al peperoncino durante gli interventi contro alcuni picchetti.",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707038080548506902",
-      "username": "vistadelince_",
-      "url": "https://www.tiktok.com/@vistadelince_/video/7707038080548506902",
-      "published_at": "2026-11-11T22:20:00+00:00",
-      "description": "🚨Alrededor de 40.000 personas se han manifestado hoy, 11 de noviembre, por la huelga general convocada en toda España. La manifestación ha recorrido las calles de la capital del Turia en busca de mejores condiciones en materia de vivienda, salarios y servicios públicos. #manifestación #huelgageneral #valencia #parati #vistadelince",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707042185396489504",
-      "username": "ffm_unzensiert",
-      "url": "https://www.tiktok.com/@ffm_unzensiert/video/7707042185396489504",
-      "published_at": "2026-11-11T22:19:58+00:00",
-      "description": "#PaidPartnership #LIVEIncentiveProgram #LIVEFEST2026",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T22:34:29.075531+00:00",
+  "generated_at": "2026-11-12T22:39:08.291086+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34317,
-    "published_24h": 283,
-    "published_48h": 1120,
+    "published_24h": 282,
+    "published_48h": 1119,
     "discovered_24h": 919,
-    "discovered_48h": 2031
+    "discovered_48h": 2024
   },
   "analysis": {
     "embeddings_total": 34317,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 283
+    "qwen_pending_24h": 282
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 106,
-    "FR": 27,
     "DE": 45,
-    "ES": 102,
+    "ES": 101,
+    "FR": 27,
+    "OTHER": 106,
     "MULTI": 2,
     "IT": 1
   },
@@ -4818,23 +4818,6 @@
       "published_at": "2026-11-11T22:41:50+00:00",
       "description": "gooooo!! #maquinista #tren",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707046073109318930",
-      "username": "milenio",
-      "url": "https://www.tiktok.com/@milenio/video/7707046073109318930",
-      "published_at": "2026-11-11T22:35:05+00:00",
-      "description": "🇪🇸🎶 ¡La protesta también se convirtió en canto! Un grupo de músicos interpretó ‘Bella Ciao’ durante la jornada de huelga general en Barcelona, España. Poco a poco, los manifestantes que se encontraban alrededor se sumaron para entonar juntos esta canción, reconocida internacionalmente como un símbolo de la resistencia antifascista. La movilización de este miércoles 11 de noviembre reunió a miles de personas que salieron a las calles para exigir medidas frente a la crisis de vivienda, el aumento de los alquileres y las dificultades para acceder a un hogar. La huelga general fue convocada por organizaciones sindicales y colectivos sociales. ‘Bella Ciao’ se popularizó como canto de resistencia de los partisanos italianos durante la lucha contra el fascismo y la ocupación nazi en la Segunda Guerra Mundial. Décadas después, sigue presente en manifestaciones y movilizaciones sociales en distintas partes del mundo. 📹 REUTERS #España #Barcelona #BellaCiao #HuelgaGeneral #MilenioInforma #Milenio",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

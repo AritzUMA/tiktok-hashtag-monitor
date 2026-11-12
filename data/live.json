@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T18:27:38.101999+00:00",
+  "generated_at": "2026-11-12T18:31:50.581624+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34145,
-    "published_24h": 376,
-    "published_48h": 1161,
-    "discovered_24h": 1002,
-    "discovered_48h": 2060
+    "published_24h": 373,
+    "published_48h": 1159,
+    "discovered_24h": 995,
+    "discovered_48h": 2055
   },
   "analysis": {
     "embeddings_total": 34145,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 376
+    "qwen_pending_24h": 373
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 158,
-    "IT": 4,
     "OTHER": 131,
+    "ES": 157,
+    "DE": 50,
     "FR": 29,
-    "DE": 52,
+    "IT": 4,
     "MULTI": 2
   },
   "links": {
@@ -6365,57 +6365,6 @@
       "published_at": "2026-11-11T18:33:21+00:00",
       "description": "🔴 BARCELONE | Marée humaine pour la grève du 11 novembre ! Des dizaines de milliers de personnes s’élancent sur le Passeig de Gracia en cette journée de grève générale pour le logement",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706982954022620449",
-      "username": "nachrichtenjunge",
-      "url": "https://www.tiktok.com/@nachrichtenjunge/video/7706982954022620449",
-      "published_at": "2026-11-11T18:30:06+00:00",
-      "description": "Greta Thunberg und Fridays for Future: Eine überraschende Szene sorgt für Diskussionen! In einer Dokumentation von YouTuber Hubertus Koch reagiert die einstige Klimaaktivistin mit lautem Gelächter auf eine Fridays-for-Future-Demonstration in Berlin. Gleichzeitig erklärt sie, warum ihr politischer Schwerpunkt inzwischen stärker auf dem Kampf gegen das kapitalistische System und Fragen sozialer Gerechtigkeit liegt. #GretaThunberg #FridaysForFuture Greta Thunberg lacht über Fridays for Future! Was ist da los?",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706982627932163350",
-      "username": "naimm.07",
-      "url": "https://www.tiktok.com/@naimm.07/video/7706982627932163350",
-      "published_at": "2026-11-11T18:28:52+00:00",
-      "description": "que locura #huelga #barcelona #11n #huelgageneral",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706982424864951574",
-      "username": "the.reagan.era84",
-      "url": "https://www.tiktok.com/@the.reagan.era84/video/7706982424864951574",
-      "published_at": "2026-11-11T18:28:02+00:00",
-      "description": "The collapse of the Berlin Wall on November 9, 1989, happened almost overnight after months of growing protests across East Germany. When an East German official mistakenly announced during a live press conference that travel restrictions were lifted \"immediately,\" thousands of citizens rushed the heavily guarded checkpoints. Overwhelmed and without orders to use force, border guards finally opened the gates, allowing crowds from East and West Berlin to flood through. People climbed onto the wall, hugged strangers, and used hammers and chisels to chip away at the concrete, turning a 28-year symbol of Cold War division into a massive street party and sparking the reunification of Germany less than a year later. #BerlinWall #ronaldreagan #historytok #ColdWar #reagan",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

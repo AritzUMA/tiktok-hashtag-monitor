@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T21:06:34.086261+00:00",
+  "generated_at": "2026-11-12T21:10:42.820643+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34272,
-    "published_24h": 304,
+    "total_unique_videos": 34274,
+    "published_24h": 302,
     "published_48h": 1139,
-    "discovered_24h": 983,
-    "discovered_48h": 2049
+    "discovered_24h": 984,
+    "discovered_48h": 2048
   },
   "analysis": {
-    "embeddings_total": 34271,
+    "embeddings_total": 34273,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 304
+    "qwen_pending_24h": 302
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "ES": 110,
-    "FR": 27,
-    "OTHER": 116,
+    "OTHER": 114,
+    "IT": 1,
     "DE": 48,
     "MULTI": 2,
-    "IT": 1
+    "FR": 27
   },
   "links": {
     "qr_videos": 0,
@@ -1315,7 +1315,7 @@
       "url": "https://www.tiktok.com/@laopinionacoruna/video/7707270165477575958",
       "published_at": "2026-11-12T13:04:40+00:00",
       "description": "📢 Así ha sido la impresionante marea humana durante la salida de la manifestación de la Huelga General en A Coruña por la ronda de Nelle 👉 Vídeo cedido por @marimmu y @taniasantiuste",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2845,7 +2845,7 @@
       "url": "https://www.tiktok.com/@lamiradacritica/video/7707208983915810070",
       "published_at": "2026-11-12T09:07:16+00:00",
       "description": "Ayer en Barcelona, un grupo de manifestantes violentos intimidaron y presionaron a un trabajador para que cerrara su negocio durante la huelga general.  Hoy hemos podido hablar con José Luis Moráis, el quiosquero que sufrió este suceso.  #Huelga #11N #Violencia",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4268,6 +4268,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707059530848390433",
+      "username": "oscargoatastry",
+      "url": "https://www.tiktok.com/@oscargoatastry/video/7707059530848390433",
+      "published_at": "2026-11-11T23:27:20+00:00",
+      "description": "YES U ARE 😭#f1content #f1 #GEORGERUSSELL",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707058220849777942",
       "username": "nilton_valverde_sanchez",
       "url": "https://www.tiktok.com/@nilton_valverde_sanchez/video/7707058220849777942",
@@ -5141,57 +5158,6 @@
       "published_at": "2026-11-11T21:13:40+00:00",
       "description": "🟠 400,000 PEOPLE TAKE TO THE STREETS OF BARCELONA! Hundreds of thousands unite behind one powerful demand: WE WANT TO LIVE, NOT JUST SURVIVE. A powerful demonstration calling for dignity, affordable living conditions and a future where people can actually afford to live, not simply struggle to get by. 📍 Barcelona, Spain 🇪🇸 #Barcelona #Spain #Protest #HousingCrisis #CostOfLiving",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707024330487500054",
-      "username": "perefuset",
-      "url": "https://www.tiktok.com/@perefuset/video/7707024330487500054",
-      "published_at": "2026-11-11T21:10:42+00:00",
-      "description": "🏡 Ni la pluja ha pogut amb les ganes de dir PROU. Desenes de milers de valencians i valencianes han omplit els carrers de València este 11 de novembre, Dia de la Vaga per la Vivenda, en una manifestació històrica que, davant la multitud, ha tardat més d’una hora i mitja a arrancar. Una mobilització massiva per a dir que la vivenda és un dret, no un negoci. Que no volem veïnat expulsat pels preus impossibles, ni barris convertits en parcs temàtics, ni governs que miren cap a un altre costat. Hui València ha parlat clar. I no pensem callar. La vivenda és un dret.  Fem-lo realitat. #València #DretALHabitatge #Vivienda #11N #VLC",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707023891700616470",
-      "username": "sasa99sa_",
-      "url": "https://www.tiktok.com/@sasa99sa_/video/7707023891700616470",
-      "published_at": "2026-11-11T21:08:59+00:00",
-      "description": "انطلقت مظاهرات باعداد كبيره اليوم كانت باغلب الشوارع في وسط البلد #valencia #fyp  #manifestacion #huelgageneral #españa🇪🇸",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707023814621760790",
-      "username": "ccoodeextremadura",
-      "url": "https://www.tiktok.com/@ccoodeextremadura/video/7707023814621760790",
-      "published_at": "2026-11-11T21:08:42+00:00",
-      "description": "✊ Grandes manifestaciones culminan una jornada de éxito para la Huelga General Badajoz, Cáceres y Mérida reúnen en sus calles miles de voces exigiendo salarios justos, una vivienda digna y unos servicios públicos de calidad ✊ La importante repercusión de los paros se refuerza así con una gran movilización social  ¡La vivienda se come los salarios y la clase trabajadora exige soluciones ya!  #huelgageneral #derechos #trabajo #11N #ccoo",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

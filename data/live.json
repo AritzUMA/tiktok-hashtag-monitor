@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T15:41:40.667413+00:00",
+  "generated_at": "2026-11-12T15:45:49.033911+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33996,
-    "published_24h": 398,
-    "published_48h": 1183,
-    "discovered_24h": 981,
-    "discovered_48h": 2057
+    "total_unique_videos": 33997,
+    "published_24h": 397,
+    "published_48h": 1180,
+    "discovered_24h": 975,
+    "discovered_48h": 2051
   },
   "analysis": {
-    "embeddings_total": 33996,
+    "embeddings_total": 33997,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 398
+    "qwen_pending_24h": 397
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "ES": 173,
-    "OTHER": 135,
+    "IT": 7,
+    "OTHER": 134,
     "DE": 56,
     "FR": 25,
-    "MULTI": 2,
-    "IT": 7
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -891,6 +891,23 @@
       "published_at": "2026-11-12T09:32:41+00:00",
       "description": "‼️ Un tren AVE ha protagonizado este jueves una situación bastante atípica al pasarse la estación de #Zaragoza, pegar un frenazo y tener que retroceder para recoger a los pasajeros. ➡️ Por razones que todavía se desconocen y que ahora se investigan, el maquinista se ha ‘olvidado’ de la parada y cuando se ha dado cuenta ya estaba en el túnel de salida de Delicias. ➡️ Los pasajeros que aguardaban en el andén se han quedado “desconcertados” al ver cómo el convoy pasaba de largo y seguía su camino con destino a Madrid. Renfe ha confirmado que se ha producido lo que técnicamente se conoce como un “rebase”, pero descarta que haya sido un frenazo en seco y lo califica como un frenazo “más intenso de lo habitual”. 🔗 Más información en heraldo.es",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707215122573315360",
+      "username": "user8989993323",
+      "url": "https://www.tiktok.com/@user8989993323/video/7707215122573315360",
+      "published_at": "2026-11-12T09:31:04+00:00",
+      "description": "Bürgergeld bleibt, Stromsteuer kommt nicht – Eskalation um den Haushalt in Berlin! #politikmitkopf #News #Politik",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6155,12 +6172,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956062049504534",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
+      "video_id": "7706956068789734689",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
-      "country": "DE",
+      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6172,12 +6189,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956068789734689",
-      "username": "sat1bayern",
-      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
+      "video_id": "7706956062049504534",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
-      "country": "OTHER",
+      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6756,40 +6773,6 @@
       "published_at": "2026-11-11T15:47:20+00:00",
       "description": "Greve geral na #Espanha: salários e moradia no centro do debate eleitoral #grevegeral",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706940574636576033",
-      "username": "jeunessedu_monde",
-      "url": "https://www.tiktok.com/@jeunessedu_monde/video/7706940574636576033",
-      "published_at": "2026-11-11T15:45:22+00:00",
-      "description": "🔴 EXTRAIT VIDÉO | « IL NE LAISSE COMME POSSIBILITÉ QUE LA CONFRONTATION » Face à un pouvoir aussi radicalisé, même la direction de la CGT parle de généraliser la grève. 👉 Rendez-vous sur notre chaîne YouTube pour voir la vidéo complète (lien en bio). #CGT #GrèveGénérale #LutteDesClasses #Syndicalisme #JeunesseDuMonde",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706940114726915360",
-      "username": "liberal_ger",
-      "url": "https://www.tiktok.com/@liberal_ger/video/7706940114726915360",
-      "published_at": "2026-11-11T15:43:52+00:00",
-      "description": "Schwarz-Rot-Gold vor dem Reichstag. 🇩🇪 Wolfgang Kubicki über die Flagge, die an die deutsche Einheit erinnert. #LiberalGermany #fyp #kubicki #deutschland #flagge",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

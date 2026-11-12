@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T04:01:29.051186+00:00",
+  "generated_at": "2026-11-12T04:05:58.667705+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33603,
-    "published_24h": 609,
-    "published_48h": 1283,
-    "discovered_24h": 1133,
-    "discovered_48h": 2025
+    "total_unique_videos": 33611,
+    "published_24h": 612,
+    "published_48h": 1284,
+    "discovered_24h": 1139,
+    "discovered_48h": 2030
   },
   "analysis": {
-    "embeddings_total": 33603,
+    "embeddings_total": 33611,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 609
+    "qwen_pending_24h": 612
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 213,
-    "MULTI": 3,
-    "DE": 76,
+    "OTHER": 216,
     "ES": 270,
     "FR": 39,
-    "IT": 8
+    "DE": 76,
+    "IT": 8,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7707095078463933697",
+      "username": "alarabiya_eng",
+      "url": "https://www.tiktok.com/@alarabiya_eng/video/7707095078463933697",
+      "published_at": "2026-11-12T01:45:00+00:00",
+      "description": "Demonstrations over the cost of living draw tens of thousands across several Spanish cities, with organizers estimating turnout in Barcelona at 400,000.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7707052568215604513",
       "username": "meriah_vm",
@@ -533,6 +550,23 @@
       "url": "https://www.tiktok.com/@noticiasredetv/video/7707018679195667730",
       "published_at": "2026-11-11T20:48:47+00:00",
       "description": "Espanha tem primeira greve geral em 14 anos e pressiona governo por moradia Quer ver o programa completo? Acesse o Youtube do Notícias RedeTV! . . . #redetv #redetvnoticias #noticias #espanha #greve #manifestacao",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707018044119256353",
+      "username": "hochumstritten",
+      "url": "https://www.tiktok.com/@hochumstritten/video/7707018044119256353",
+      "published_at": "2026-11-11T20:46:16+00:00",
+      "description": "Hannover kocht – „ES REICHT!“-Aktivisten geben Vollgas. Für Frieden, freie Meinungsäußerung und ein bezahlbares Leben. Auf den Schildern: „Politikerhaftung“ und „GEZ muss weg!“. Und mittendrin: die „Omas und Opas gegen Links“ – einfach geil. #Demo #frieden",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1163,6 +1197,23 @@
       "published_at": "2026-11-11T19:25:19+00:00",
       "description": "Qué bonita está Valencia en días como hoy, muy orgullosas, gracias @bellidamen por contárnoslo 🫶🏻",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706996947273469216",
+      "username": "berndmalchin6",
+      "url": "https://www.tiktok.com/@berndmalchin6/video/7706996947273469216",
+      "published_at": "2026-11-11T19:24:23+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2636,12 +2687,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956068789734689",
-      "username": "sat1bayern",
-      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
+      "video_id": "7706956062049504534",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
-      "country": "OTHER",
+      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2653,12 +2704,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956062049504534",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
+      "video_id": "7706956068789734689",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
-      "country": "DE",
+      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9164,12 +9215,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706817453782797590",
-      "username": "cronica_global",
-      "url": "https://www.tiktok.com/@cronica_global/video/7706817453782797590",
+      "video_id": "7706817454843940103",
+      "username": "mja417",
+      "url": "https://www.tiktok.com/@mja417/video/7706817454843940103",
       "published_at": "2026-11-11T07:47:56+00:00",
-      "description": "🚨 Momentos de tensión en Guissona (Lleida) durante la huelga general de este miércoles, 11 de noviembre. Una excavadora ha intentado retirar por la fuerza uno de los piquetes informativos situados a la entrada de una empresa. 🚜 Según ha denunciado Comisiones Obreras (CCOO) a través de sus redes sociales, la máquina ha sido utilizada para apartar al grupo de personas que participaba en el piquete. ⚠️ El sindicato ha denunciado que esta actuación ha puesto en peligro la integridad de los participantes, que se encontraban en el acceso a la empresa en el marco de las movilizaciones de la jornada de huelga. #HuelgaGeneral #11N #Guissona #Lleida",
-      "country": "OTHER",
+      "description": "con cuidado chic@s porque esta feo esto😧🇭🇳🇪🇦#huelga #españa #valencia #fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9181,12 +9232,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706817454843940103",
-      "username": "mja417",
-      "url": "https://www.tiktok.com/@mja417/video/7706817454843940103",
+      "video_id": "7706817453782797590",
+      "username": "cronica_global",
+      "url": "https://www.tiktok.com/@cronica_global/video/7706817453782797590",
       "published_at": "2026-11-11T07:47:56+00:00",
-      "description": "con cuidado chic@s porque esta feo esto😧🇭🇳🇪🇦#huelga #españa #valencia #fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
-      "country": "ES",
+      "description": "🚨 Momentos de tensión en Guissona (Lleida) durante la huelga general de este miércoles, 11 de noviembre. Una excavadora ha intentado retirar por la fuerza uno de los piquetes informativos situados a la entrada de una empresa. 🚜 Según ha denunciado Comisiones Obreras (CCOO) a través de sus redes sociales, la máquina ha sido utilizada para apartar al grupo de personas que participaba en el piquete. ⚠️ El sindicato ha denunciado que esta actuación ha puesto en peligro la integridad de los participantes, que se encontraban en el acceso a la empresa en el marco de las movilizaciones de la jornada de huelga. #HuelgaGeneral #11N #Guissona #Lleida",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

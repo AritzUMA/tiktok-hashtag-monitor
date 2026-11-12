@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T20:33:17.663708+00:00",
+  "generated_at": "2026-11-12T20:37:04.371024+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34250,
-    "published_24h": 310,
-    "published_48h": 1145,
-    "discovered_24h": 981,
-    "discovered_48h": 2042
+    "total_unique_videos": 34251,
+    "published_24h": 308,
+    "published_48h": 1144,
+    "discovered_24h": 980,
+    "discovered_48h": 2043
   },
   "analysis": {
-    "embeddings_total": 34250,
+    "embeddings_total": 34251,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 310
+    "qwen_pending_24h": 308
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "DE": 49,
-    "ES": 111,
-    "OTHER": 120,
+    "OTHER": 119,
+    "ES": 110,
     "FR": 27,
-    "IT": 1,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -5260,40 +5260,6 @@
       "published_at": "2026-11-11T20:40:54+00:00",
       "description": "The energy in Barcelona tonight is unmatched 📍  Huge crowds gathered across the city center with banners advocating for housing access and migrant equality.   From tenant unions to labor movement groups, people of all ages came together to demand real solutions to Spain's housing crisis and social inequality. Anyone else join in the demonstrations today? 👇  #Barcelona #GeneralStrike #BarcelonaNews #vagageneral #11N",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707015515419528470",
-      "username": "jpeg.88_",
-      "url": "https://www.tiktok.com/@jpeg.88_/video/7707015515419528470",
-      "published_at": "2026-11-11T20:36:30+00:00",
-      "description": "La policía usa gas lacrimógeno contra manifestantes de la huelga general 11N #huelgageneral #huelga11n #policia #altercado #madrid",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707015181649399072",
-      "username": "fat.2926",
-      "url": "https://www.tiktok.com/@fat.2926/video/7707015181649399072",
-      "published_at": "2026-11-11T20:35:09+00:00",
-      "description": "",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

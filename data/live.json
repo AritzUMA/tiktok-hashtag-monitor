@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12T14:24:00.137946+00:00",
+  "generated_at": "2026-11-12T14:27:14.411942+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33952,
+    "total_unique_videos": 33954,
     "published_24h": 405,
-    "published_48h": 1203,
+    "published_48h": 1200,
     "discovered_24h": 1017,
-    "discovered_48h": 2067
+    "discovered_48h": 2068
   },
   "analysis": {
-    "embeddings_total": 33952,
+    "embeddings_total": 33954,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 405
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "ES": 170,
-    "OTHER": 146,
+    "OTHER": 145,
+    "FR": 24,
+    "MULTI": 3,
     "DE": 57,
-    "IT": 6,
-    "FR": 23,
-    "MULTI": 3
+    "IT": 6
   },
   "links": {
     "qr_videos": 0,
@@ -103,12 +103,29 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7707259887838973206",
+      "username": "rakete_ralle",
+      "url": "https://www.tiktok.com/@rakete_ralle/video/7707259887838973206",
+      "published_at": "2026-11-12T12:24:47+00:00",
+      "description": "Herrlich wie die Klima Gretel die Klima Lollos auslacht #klimawandel #klima",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707259272639286561",
       "username": "le_poing_leve_stras",
       "url": "https://www.tiktok.com/@le_poing_leve_stras/video/7707259272639286561",
       "published_at": "2026-11-12T12:22:22+00:00",
       "description": "🔴 STRASBOURG : Lycéens, étudiants, travailleurs, plus de 100 personnes sont venus en soutien au rassemblement devant le commissariat ! Liberté pour Lisa et tous les réprimés !",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5713,12 +5730,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956068789734689",
-      "username": "sat1bayern",
-      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
+      "video_id": "7706956062049504534",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
-      "country": "OTHER",
+      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5730,12 +5747,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956062049504534",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
+      "video_id": "7706956068789734689",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
-      "country": "DE",
+      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6892,23 +6909,6 @@
       "published_at": "2026-11-11T14:27:22+00:00",
       "description": "A protest in Berlin Alexander Square 10178 Berlin, Germany",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706920330618653955",
-      "username": "gegenpol_news",
-      "url": "https://www.tiktok.com/@gegenpol_news/video/7706920330618653955",
-      "published_at": "2026-11-11T14:27:06+00:00",
-      "description": "WÜTENDE PROTESTE GEGEN VON DER LEYEN IN BULGARIEN! #geopolitik #wirtschaft #eu #vdl #bulgarien #radev #news #fyp #demonstration",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

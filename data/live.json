@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T23:10:36.538752+00:00",
+  "generated_at": "2026-11-12T23:15:09.056053+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34328,
-    "published_24h": 280,
+    "total_unique_videos": 34330,
+    "published_24h": 282,
     "published_48h": 1112,
     "discovered_24h": 895,
-    "discovered_48h": 2020
+    "discovered_48h": 2021
   },
   "analysis": {
-    "embeddings_total": 34328,
+    "embeddings_total": 34330,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 280
+    "qwen_pending_24h": 282
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "DE": 47,
-    "OTHER": 105,
     "ES": 98,
-    "FR": 27,
+    "DE": 47,
+    "OTHER": 106,
+    "FR": 28,
     "MULTI": 2,
     "IT": 1
   },
@@ -75,6 +75,23 @@
       "published_at": "2026-11-12T21:45:15+00:00",
       "description": "#Valencia #VisitValencia #España #spain🇪🇸 #ValenciaSpain",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707402196719029534",
+      "username": "thekiddelectric",
+      "url": "https://www.tiktok.com/@thekiddelectric/video/7707402196719029534",
+      "published_at": "2026-11-12T21:37:05+00:00",
+      "description": "hey its been a while, lets answer a few of your questions! if you have any more please leave em in the comments! #singer #vocals #indie #genz #thekiddelectric",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -619,6 +636,23 @@
       "published_at": "2026-11-12T16:58:57+00:00",
       "description": "„Die machen das immer noch?“ Greta Thunberg sorgt mit ihrer Reaktion auf die deutschen Klimaproteste für Aufsehen. In einer Doku von Hubertus Koch bricht die einstige Ikone von Fridays for Future in Gelächter aus, als sie von einer aktuellen Klima-Demo in Berlin erfährt. ⁠ Luisa Neubauer reagiert gelassen: Man müsse sich weder bei Protestformen noch bei Narrativen in allem einig sein. Aufgeben komme für sie aber nicht infrage. ⁠  #gretathunberg #luisaneubauer #fridaysforfuturegermany #klimaschutz #aktivist",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707330467061599520",
+      "username": "leonie.dlthl",
+      "url": "https://www.tiktok.com/@leonie.dlthl/video/7707330467061599520",
+      "published_at": "2026-11-12T16:58:38+00:00",
+      "description": "manif du 5 novembre  #bordeaux #manifestation #photo",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

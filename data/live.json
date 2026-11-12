@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T02:27:16.516812+00:00",
+  "generated_at": "2026-11-12T02:31:15.851937+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 33559,
-    "published_24h": 596,
-    "published_48h": 1262,
-    "discovered_24h": 1157,
-    "discovered_48h": 2031
+    "total_unique_videos": 33562,
+    "published_24h": 598,
+    "published_48h": 1264,
+    "discovered_24h": 1158,
+    "discovered_48h": 2034
   },
   "analysis": {
-    "embeddings_total": 33559,
+    "embeddings_total": 33562,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 596
+    "qwen_pending_24h": 598
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 206,
     "DE": 74,
+    "OTHER": 207,
     "ES": 267,
+    "IT": 9,
     "FR": 38,
-    "MULTI": 3,
-    "IT": 8
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -2381,12 +2381,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956062049504534",
-      "username": "weltimblick24",
-      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
+      "video_id": "7706956068789734689",
+      "username": "sat1bayern",
+      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
-      "country": "DE",
+      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2398,12 +2398,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706956068789734689",
-      "username": "sat1bayern",
-      "url": "https://www.tiktok.com/@sat1bayern/video/7706956068789734689",
+      "video_id": "7706956062049504534",
+      "username": "weltimblick24",
+      "url": "https://www.tiktok.com/@weltimblick24/video/7706956062049504534",
       "published_at": "2026-11-11T16:45:46+00:00",
-      "description": "Arbeitskampf in Bayerns Metallindustrie spitzt sich zu: Die IG Metall hat 24-Stunden-Warnstreiks beantragt. Die Gewerkschaft fordert fünf Prozent mehr Lohn. Ist das realistisch?   #bayern #arbeitskampf #metallindustrie #igmetall #streik",
-      "country": "OTHER",
+      "description": "Berlin: Die Polizei sucht diesen silbernen Citroën C5 Kombi mit polnischem Kennzeichen FG 85027 – in ihm könnte die 13-jährige Lisa entführt worden sein. Wer hat den Wagen vor dem 8. November gesehen, vor allem rund um Bad Freienwalde und Altglietzen? Hinweise an die 5. Mordkommission: (030) 4664-911555. #lisa #berlin #marzahn #polizei #zeugengesucht #brandenburg #news #nachrichten #eilmeldung",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2540,6 +2540,23 @@
       "published_at": "2026-11-11T16:28:51+00:00",
       "description": "",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706951628775050528",
+      "username": "claudio.giudici7",
+      "url": "https://www.tiktok.com/@claudio.giudici7/video/7706951628775050528",
+      "published_at": "2026-11-11T16:28:33+00:00",
+      "description": "Intervento ai tassisti di Milano dopo incontro in Prefettura #taxi #sciopero",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3220,6 +3237,23 @@
       "published_at": "2026-11-11T14:36:05+00:00",
       "description": "À Paris, les mobilisations contre la vie chère et les appels des Gilets jaunes attirent l’attention. Entre revendications sociales et décisions préfectorales, une journée sous haute surveillance ! #France #Paris #VieChère #GiletsJaunes #Manifestation",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7706921625979063585",
+      "username": "ahbon76",
+      "url": "https://www.tiktok.com/@ahbon76/video/7706921625979063585",
+      "published_at": "2026-11-11T14:32:09+00:00",
+      "description": "Merci merci 1000 X #mai68 #Democratie #Citoyens #RéveilCitoyen #viral",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -9844,9 +9878,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774307380186390",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
+      "video_id": "7706774289101425942",
+      "username": "le_progres_",
+      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",
@@ -9861,9 +9895,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706774289101425942",
-      "username": "le_progres_",
-      "url": "https://www.tiktok.com/@le_progres_/video/7706774289101425942",
+      "video_id": "7706774307380186390",
+      "username": "lestrepublicain",
+      "url": "https://www.tiktok.com/@lestrepublicain/video/7706774307380186390",
       "published_at": "2026-11-11T05:00:22+00:00",
       "description": "Après une rencontre jugée comme un échec entre le gouvernement et les syndicats lycéens, 49 lycées ont été bloqués ce mardi 10 novembre, avec quelques tensions en marge des blocus à Aix-en-Provence et à Chelles, où une élue a été visée par une bouteille d’essence. #ebrainfo #sinformersurtiktok #tiktokfrance #mobilisation #lycées",
       "country": "FR",

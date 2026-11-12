@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T13:53:10.362967+00:00",
+  "generated_at": "2026-11-12T13:56:50.165234+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 33936,
-    "published_24h": 413,
-    "published_48h": 1216,
-    "discovered_24h": 1035,
-    "discovered_48h": 2076
+    "published_24h": 410,
+    "published_48h": 1213,
+    "discovered_24h": 1033,
+    "discovered_48h": 2071
   },
   "analysis": {
     "embeddings_total": 33936,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 413
+    "qwen_pending_24h": 410
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "MULTI": 4,
+    "OTHER": 148,
+    "ES": 171,
     "DE": 59,
-    "ES": 173,
-    "IT": 5,
-    "OTHER": 149,
     "FR": 23,
-    "MULTI": 4
+    "IT": 5
   },
   "links": {
     "qr_videos": 0,
@@ -6993,57 +6993,6 @@
       "url": "https://www.tiktok.com/@rtvdlatina/video/7706912502180891935",
       "published_at": "2026-11-11T13:56:56+00:00",
       "description": "🚨🇪🇸 ¡ESPAÑA EN HUELGA GENERAL! PROTESTAS, BLOQUEOS Y TENSIÓN EN LAS CALLES Miles de trabajadores se movilizan este miércoles 11 de noviembre para exigir mejores salarios, viviendas asequibles y soluciones frente al elevado costo de vida. 🚧 La jornada de protesta ha generado cortes de carreteras, interrupciones del transporte y paralizaciones en sectores industriales y portuarios. ⚠️ En distintas ciudades se reportan momentos de tensión entre manifestantes y fuerzas policiales. 🏠 Los sindicatos denuncian que el aumento de los alquileres y la pérdida del poder adquisitivo están afectando especialmente a los jóvenes y las familias trabajadoras. 📢 La movilización se desarrolla en medio de un intenso debate político y social sobre el futuro económico del país. ❓ ¿Crees que una huelga general puede impulsar soluciones a la crisis de vivienda y salarios? 📺 RTVD AL DÍA La noticia, clara y a tiempo. #RTVDAlDia #CuentavisionRTVD #España #HuelgaGeneral #NoticiasEspaña",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706912422312824097",
-      "username": "noticiastrabajo",
-      "url": "https://www.tiktok.com/@noticiastrabajo/video/7706912422312824097",
-      "published_at": "2026-11-11T13:55:55+00:00",
-      "description": "🔴 HUELGA GENERAL 11N | Las movilizaciones de esta mañana han sido la antesala de la manifestación general prevista para esta tarde. 🗞️ Desde NoticiasTrabajo hemos salido a la calle para hablar con algunas de las personas que han secundado la huelga en Almería y conocer por qué han decidido movilizarse y qué reivindican. ¿Qué opinas?",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706912279077555479",
-      "username": "areacostasol",
-      "url": "https://www.tiktok.com/@areacostasol/video/7706912279077555479",
-      "published_at": "2026-11-11T13:55:30+00:00",
-      "description": "🚨 Piquetes provocan el cierre de numerosos comercios en el centro de Málaga durante la huelga general de este 11N. La calle Larios y sus alrededores han vivido momentos de tensión después de que los manifestantes recorrieran los establecimientos pidiendo que se sumaran al paro. Mientras algunos negocios han bajado sus persianas, otros han decidido mantenerse abiertos, defendiendo su derecho a trabajar.",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7706911726645628182",
-      "username": "yosse.roque",
-      "url": "https://www.tiktok.com/@yosse.roque/video/7706911726645628182",
-      "published_at": "2026-11-11T13:53:44+00:00",
-      "description": "#Huelga#valencia#2026🏃🏻‍♀️😮‍💨",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,

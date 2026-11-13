@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T15:06:48.551975+00:00",
+  "generated_at": "2026-11-13T15:10:04.663253+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34648,
     "published_24h": 225,
-    "published_48h": 787,
+    "published_48h": 784,
     "discovered_24h": 671,
-    "discovered_48h": 1670
+    "discovered_48h": 1658
   },
   "analysis": {
     "embeddings_total": 34648,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 26,
-    "ES": 49,
     "OTHER": 96,
     "DE": 49,
+    "ES": 49,
+    "FR": 26,
     "MULTI": 4,
     "BE": 1
   },

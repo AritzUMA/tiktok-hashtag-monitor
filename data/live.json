@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T01:12:20.007885+00:00",
+  "generated_at": "2026-11-13T01:16:24.339105+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34364,
-    "published_24h": 285,
-    "published_48h": 1092,
-    "discovered_24h": 838,
-    "discovered_48h": 2004
+    "total_unique_videos": 34367,
+    "published_24h": 287,
+    "published_48h": 1094,
+    "discovered_24h": 841,
+    "discovered_48h": 2007
   },
   "analysis": {
-    "embeddings_total": 34364,
+    "embeddings_total": 34367,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 285
+    "qwen_pending_24h": 287
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 99,
-    "OTHER": 105,
+    "OTHER": 106,
     "DE": 48,
     "FR": 30,
-    "IT": 1,
-    "MULTI": 2
+    "ES": 100,
+    "MULTI": 2,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -1502,6 +1502,23 @@
       "url": "https://www.tiktok.com/@brit_alert_/video/7707290445621021985",
       "published_at": "2026-11-12T14:23:20+00:00",
       "description": "SPAIN PROTESTS #breakingnews #uknews #uk #protest  #spain",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707290424435543302",
+      "username": "espacopublico",
+      "url": "https://www.tiktok.com/@espacopublico/video/7707290424435543302",
+      "published_at": "2026-11-12T14:23:16+00:00",
+      "description": "Na última quarta-feira (11), a Espanha enfrenta uma greve geral de 24 horas, a primeira mobilização nacional dessa dimensão em 14 anos. Convocada pelas principais centrais sindicais do país, a paralisação reúne trabalhadores que cobram melhores salários, redução dos custos de moradia e medidas para conter a alta dos aluguéis. O movimento provocou impactos no transporte público, no comércio e em diferentes setores da economia, além de manifestações em várias cidades, como Madri e Barcelona. A mobilização também foi marcada por confrontos entre manifestantes e policiais, bloqueios de vias e detenções. #Espanha #GreveGeral #Protestos #CriseHabitacional #Mundo",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -4103,6 +4120,23 @@
       "url": "https://www.tiktok.com/@consiglia48/video/7707184170082077984",
       "published_at": "2026-11-12T07:31:07+00:00",
       "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707182831922924832",
+      "username": "unef_nanterre",
+      "url": "https://www.tiktok.com/@unef_nanterre/video/7707182831922924832",
+      "published_at": "2026-11-12T07:25:49+00:00",
+      "description": "🔥ASSEMBLÉE GÉNÉRALE AUJOURD’HUI À 11H ! DISCUTONS ENSEMBLE DES EXAMENS ! SE MOBILISER NE DOIT PAS NOUS PÉNALISER !  Nous n’accepterons pas de passer nos examens normalement ! S’il n’y a pas de cours, il ne doit pas y avoir d’examens, tout simplement.  📣 Nous appelons à une Assemblée générale ce jeudi à 11h pour discuter de modalités précises avant la réunion convoquée par la présidence !  Annulations, notes planchers, modalités adaptées .. c’est possible de les gagner si on se donne les moyens d’amplifier le mouvement social en cours !  👉🏼 Soyons nombreux à 11h en Assemblée générale - BÂTIMENT RÉMOND (A3) !  Toutes et tous en Grève le 17 novembre 🔥",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

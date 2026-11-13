@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T12:35:25.546049+00:00",
+  "generated_at": "2026-11-13T12:39:30.100667+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34552,
-    "published_24h": 223,
-    "published_48h": 830,
-    "discovered_24h": 664,
-    "discovered_48h": 1699
+    "total_unique_videos": 34555,
+    "published_24h": 224,
+    "published_48h": 826,
+    "discovered_24h": 666,
+    "discovered_48h": 1700
   },
   "analysis": {
-    "embeddings_total": 34552,
+    "embeddings_total": 34555,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 223
+    "qwen_pending_24h": 224
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "MULTI": 3,
-    "OTHER": 92,
-    "ES": 60,
-    "DE": 42,
+    "DE": 44,
+    "OTHER": 90,
+    "ES": 61,
     "FR": 25,
-    "BE": 1
+    "BE": 1,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -193,7 +193,7 @@
       "url": "https://www.tiktok.com/@anoukvanderzee/video/7707591328980340000",
       "published_at": "2026-11-13T09:51:04+00:00",
       "description": "10 keer de wave achter elkaar pakte ons wel 🙌 #valencia #mestalla #valenciacf",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -211,6 +211,23 @@
       "published_at": "2026-11-13T09:43:05+00:00",
       "description": "VALENCIA DAG 1🪩",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707587440441068822",
+      "username": "dsdjsjea2",
+      "url": "https://www.tiktok.com/@dsdjsjea2/video/7707587440441068822",
+      "published_at": "2026-11-13T09:35:54+00:00",
+      "description": "Trampling crops and defecating in farmers' fields Outrage erupts over chaotic scenes at a German protest rally! #GermanyNews #ProtestChaos #SocialCommentary",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -363,7 +380,7 @@
       "url": "https://www.tiktok.com/@profidemokrat/video/7707567807042456864",
       "published_at": "2026-11-13T08:19:42+00:00",
       "description": "Schockierende Nachrichten aus Berlin: Am Freitagmorgen wurde das Auto von NIUS-Chefredakteur Julian Reichelt angezündet. #JulianReichelt #NIUS #Berlin",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -392,12 +409,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707548108992859425",
-      "username": "fvabogada",
-      "url": "https://www.tiktok.com/@fvabogada/video/7707548108992859425",
+      "video_id": "7707547998846324000",
+      "username": "flcetht67",
+      "url": "https://www.tiktok.com/@flcetht67/video/7707547998846324000",
       "published_at": "2026-11-13T07:02:57+00:00",
-      "description": "⚖️ Si eres maquinista o trabajas en el tren en una empresa ferroviaria que no es el antiguo operador público, desde el 11 de noviembre de 2026 también puedes adelantar tu jubilación con coeficientes reductores. Comenta MAQUINISTA y te paso la checklist. Depende de tu categoría y del tiempo efectivamente trabajado: un maquinista de tracción eléctrica o diésel tiene un 0,10, un año menos por cada diez trabajados, y nunca antes de los 52. Pide ya tu vida laboral y guarda los certificados de empresa con tu categoría. #JubilacionAnticipada #Maquinistas #Ferrocarril #SeguridadSocial #DerechoLaboral Contenido informativo. No constituye asesoramiento legal.",
-      "country": "OTHER",
+      "description": "#lisa#berlin#truecrime#update",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -409,11 +426,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707547998846324000",
-      "username": "flcetht67",
-      "url": "https://www.tiktok.com/@flcetht67/video/7707547998846324000",
+      "video_id": "7707548108992859425",
+      "username": "fvabogada",
+      "url": "https://www.tiktok.com/@fvabogada/video/7707548108992859425",
       "published_at": "2026-11-13T07:02:57+00:00",
-      "description": "#lisa#berlin#truecrime#update",
+      "description": "⚖️ Si eres maquinista o trabajas en el tren en una empresa ferroviaria que no es el antiguo operador público, desde el 11 de noviembre de 2026 también puedes adelantar tu jubilación con coeficientes reductores. Comenta MAQUINISTA y te paso la checklist. Depende de tu categoría y del tiempo efectivamente trabajado: un maquinista de tracción eléctrica o diésel tiene un 0,10, un año menos por cada diez trabajados, y nunca antes de los 52. Pide ya tu vida laboral y guarda los certificados de empresa con tu categoría. #JubilacionAnticipada #Maquinistas #Ferrocarril #SeguridadSocial #DerechoLaboral Contenido informativo. No constituye asesoramiento legal.",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

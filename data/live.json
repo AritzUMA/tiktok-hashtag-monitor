@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-13T00:58:37.775536+00:00",
+  "generated_at": "2026-11-13T01:02:02.086691+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34363,
     "published_24h": 285,
     "published_48h": 1092,
-    "discovered_24h": 849,
-    "discovered_48h": 2007
+    "discovered_24h": 848,
+    "discovered_48h": 2005
   },
   "analysis": {
-    "embeddings_total": 34362,
+    "embeddings_total": 34363,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 285
@@ -22,9 +22,9 @@
   "roles": {},
   "countries": {
     "ES": 98,
-    "OTHER": 105,
-    "DE": 49,
     "FR": 30,
+    "DE": 49,
+    "OTHER": 105,
     "MULTI": 2,
     "IT": 1
   },

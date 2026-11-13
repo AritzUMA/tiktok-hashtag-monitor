@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T00:30:04.037816+00:00",
+  "generated_at": "2026-11-13T00:33:18.238025+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34355,
-    "published_24h": 282,
-    "published_48h": 1094,
-    "discovered_24h": 863,
+    "total_unique_videos": 34356,
+    "published_24h": 283,
+    "published_48h": 1093,
+    "discovered_24h": 864,
     "discovered_48h": 2006
   },
   "analysis": {
-    "embeddings_total": 34355,
+    "embeddings_total": 34356,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 282
+    "qwen_pending_24h": 283
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 29,
-    "ES": 96,
-    "OTHER": 105,
-    "IT": 1,
     "DE": 49,
+    "ES": 96,
+    "FR": 29,
+    "OTHER": 106,
+    "IT": 1,
     "MULTI": 2
   },
   "links": {
@@ -874,6 +874,23 @@
       "published_at": "2026-11-12T16:27:22+00:00",
       "description": "La Spagna si ferma con il primo sciopero generale di 24 ore dopo 14 anni. A pochi giorni dalle elezioni anticipate del 29 novembre, milioni di cittadini sono scesi nelle piazze di Madrid, Barcellona e Siviglia per protestare contro la crisi abitativa, il caro affitti e l’aumento del costo della vita. Una mobilitazione massiccia, ribattezzata “11N”, che ha paralizzato trasporti e arterie stradali principali, tra picchetti, tensioni con le forze dell’ordine e decine di fermi. Cosa ne pensate di questa protesta? Il problema del caro affitti e degli stipendi ormai è diventato insostenibile anche da noi? #Spagna #Sciopero #11N #notizie #proteste",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707320197002104077",
+      "username": "pbsnews",
+      "url": "https://www.tiktok.com/@pbsnews/video/7707320197002104077",
+      "published_at": "2026-11-12T16:18:55+00:00",
+      "description": "One person has been charged after pro-Palestinian protesters confronted former President Joe Biden as he left an event in Dublin, Ireland on Wednesday. Demonstrators shouted at Mr. Biden over his support of Israel and video showed several objects being thrown toward his vehicles. Police clashed with the protesters, though the crowd soon dispersed. Two other men who were arrested have since been released. The former president was attending a ceremony at Trinity College honoring his son, Hunter. #pbsnewshour #pbsnews #ireland #biden",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

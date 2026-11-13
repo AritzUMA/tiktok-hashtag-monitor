@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-13T00:13:03.006075+00:00",
+  "generated_at": "2026-11-13T00:16:58.042264+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34350,
     "published_24h": 282,
-    "published_48h": 1101,
-    "discovered_24h": 867,
-    "discovered_48h": 2004
+    "published_48h": 1097,
+    "discovered_24h": 865,
+    "discovered_48h": 2002
   },
   "analysis": {
-    "embeddings_total": 34347,
+    "embeddings_total": 34350,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 282
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 97,
-    "OTHER": 105,
+    "OTHER": 103,
+    "FR": 29,
+    "ES": 98,
     "DE": 49,
-    "FR": 28,
-    "MULTI": 2,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -431,7 +431,7 @@
       "url": "https://www.tiktok.com/@baptiste.anglade4/video/7707346010871254305",
       "published_at": "2026-11-12T17:58:57+00:00",
       "description": "Ce matin avec les étudiant·es sur le dépôt des ripeurs/éboueurs à Grenoble pour discuter de la mobilisation des jeunes et de la nécessité pour les travailleur·euses de rejoindre la bagarre ! RDV MARDI 17/11 EN MANIFESTATION À 11H À LA GARE & EN ASSEMBLÉE GÉNÉRALE INTERPROFESSIONNELLE À 16H30 À LA BOURSE DU TRAVAIL",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1128,7 +1128,7 @@
       "url": "https://www.tiktok.com/@eldiario.es/video/7707306598942674198",
       "published_at": "2026-11-12T15:26:26+00:00",
       "description": "El líder de la gran patronal española, CEOE, Antonio Garamendi, ha mandado un “agradecimiento muy especial” a la Policía por su trabajo en la huelga general del 11N cuando ha sido preguntado por las duras cargas policiales registradas en ciudades como Madrid. “Parece que son los malos de la película, y son los que gracias a ellos nos defienden y nos dan la tranquilidad”, ha respondido el empresario vasco Unos minutos antes, Antonio Garamendi había denunciado la “violencia” de piquetes, “que no fueron informativos”, ha dicho, y de ciertos grupos en las manifestaciones en el contexto de la huelga. En general, la jornada se vivió sin incidentes violentos por parte de los millones de personas que salieron a protestar por la crisis de la vivienda y los bajos salarios en España. “No es la mejor imagen de España”, denunció el dirigente de CEOE, que criticó el impacto de estas incidencias “para el turismo y las inversiones”. #garamendi #policia #huelga #patronal",
-      "country": "OTHER",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

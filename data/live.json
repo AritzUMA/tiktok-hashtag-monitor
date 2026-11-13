@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T09:13:43.765773+00:00",
+  "generated_at": "2026-11-13T09:17:41.920996+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34453,
-    "published_24h": 247,
-    "published_48h": 953,
-    "discovered_24h": 667,
-    "discovered_48h": 1782
+    "published_24h": 245,
+    "published_48h": 950,
+    "discovered_24h": 664,
+    "discovered_48h": 1780
   },
   "analysis": {
     "embeddings_total": 34453,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 247
+    "qwen_pending_24h": 245
   },
   "mobilization": {
     "yes": 0,
@@ -21,13 +21,13 @@
   },
   "roles": {},
   "countries": {
-    "ES": 79,
+    "ES": 78,
     "FR": 26,
-    "OTHER": 96,
+    "OTHER": 95,
     "DE": 43,
-    "IT": 1,
+    "BE": 1,
     "MULTI": 1,
-    "BE": 1
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -4190,40 +4190,6 @@
       "published_at": "2026-11-12T09:18:06+00:00",
       "description": "La huelga general en España deja un balance dispar. Mientras CC.OO. y UGT hablan de éxito histórico por la crisis de la vivienda y la CEOE cifra el seguimiento en el 5%, las manifestaciones del 11N llenan las principales ciudades de España #HuelgaGeneral #España",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707211455908678934",
-      "username": "albamarinval",
-      "url": "https://www.tiktok.com/@albamarinval/video/7707211455908678934",
-      "published_at": "2026-11-12T09:16:54+00:00",
-      "description": "not me ☀️ #valencia #tiempovalencia #calor",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707210700652940576",
-      "username": "elche7tv",
-      "url": "https://www.tiktok.com/@elche7tv/video/7707210700652940576",
-      "published_at": "2026-11-12T09:13:54+00:00",
-      "description": "✊ Más de 8.000 personas secundan la huelga general en Elche para reclamar salarios dignos y un acceso más asequible a la vivienda. 🏠 La movilización también pone el foco en la subida de los precios y la defensa de los servicios públicos, con una marcha que ha recorrido las calles de la ciudad. 📢 Sindicatos y colectivos sociales piden medidas para mejorar el poder adquisitivo y garantizar el derecho a la vivienda. Una jornada de reivindicación que lleva a la calle las principales preocupaciones de trabajadores y familias · #Elche #HuelgaGeneral #11N #Vivienda #Salarios",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

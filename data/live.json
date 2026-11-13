@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T15:16:20.833602+00:00",
+  "generated_at": "2026-11-13T15:20:33.140145+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34655,
-    "published_24h": 226,
+    "total_unique_videos": 34656,
+    "published_24h": 227,
     "published_48h": 786,
-    "discovered_24h": 671,
-    "discovered_48h": 1655
+    "discovered_24h": 667,
+    "discovered_48h": 1652
   },
   "analysis": {
-    "embeddings_total": 34655,
+    "embeddings_total": 34656,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 226
+    "qwen_pending_24h": 227
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 98,
-    "ES": 49,
+    "OTHER": 99,
+    "DE": 48,
     "MULTI": 4,
     "FR": 26,
-    "DE": 48,
+    "ES": 49,
     "BE": 1
   },
   "links": {
@@ -534,6 +534,23 @@
       "published_at": "2026-11-13T11:00:08+00:00",
       "description": "Pour ce cinquième week-end de mobilisation contre la vie chère, les Gilets jaunes seront de nouveau dans la rue. Syndicats, étudiants et associations doivent aussi rejoindre les cortèges ce samedi 14 novembre. Lyon, Grenoble, Strasbourg, Paris… Plusieurs villes sont concernées par cette journée de mobilisation. On fait le point. #ebrainfo #tiktonews #manifestation #vèmeacte",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707454213508402454",
+      "username": "flashactufr1",
+      "url": "https://www.tiktok.com/@flashactufr1/video/7707454213508402454",
+      "published_at": "2026-11-13T11:00:00+00:00",
+      "description": "🚨🇫🇷 LYCÉES FERMÉS CE 13 NOVEMBRE : DES COURS À DISTANCE DANS PLUSIEURS VILLES ! 😳🏫 ⚠️ La mobilisation lycéenne continue et la situation reste tendue en Île-de-France. 🏫 En Seine-Saint-Denis (93), plusieurs établissements ont été concernés par des décisions de fermeture temporaire et de passage en cours à distance. 📍 Parmi les lycées cités dans les informations syndicales : Le Corbusier à Aubervilliers, Louise-Michel à Bobigny, Jacques-Brel et Denis-Papin à La Courneuve, Jacques-Feyder à Épinay-sur-Seine, ainsi que Flora-Tristan et Évariste-Galois à Noisy-le-Grand. 📚 Les élèves concernés doivent vérifier les consignes transmises par leur lycée : les modalités et la durée du distanciel peuvent varier. ⚠️ Des informations circulent également sur des établissements de l’Essonne (91), mais la liste complète des fermetures pour demain reste à confirmer. 🔥 La mobilisation va-t-elle continuer après les vacances de fin d’année ? 📢 Abonne-toi pour plus d’infos ! 💬 Dis-le en commentaire : ton lycée est-il fermé ou en distanciel demain ? #Lycee #Blocus #EducationNationale #SeineSaintDenis #France",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

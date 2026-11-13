@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T12:43:06.031430+00:00",
+  "generated_at": "2026-11-13T12:46:52.097878+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 34556,
-    "published_24h": 223,
-    "published_48h": 820,
-    "discovered_24h": 666,
-    "discovered_48h": 1687
+    "published_24h": 221,
+    "published_48h": 816,
+    "discovered_24h": 659,
+    "discovered_48h": 1686
   },
   "analysis": {
     "embeddings_total": 34556,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 223
+    "qwen_pending_24h": 221
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "OTHER": 90,
-    "ES": 60,
-    "FR": 25,
+    "ES": 59,
     "DE": 44,
-    "BE": 1,
-    "MULTI": 3
+    "FR": 24,
+    "MULTI": 3,
+    "BE": 1
   },
   "links": {
     "qr_videos": 0,
@@ -3781,40 +3781,6 @@
       "published_at": "2026-11-12T12:49:49+00:00",
       "description": "",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707265051769457953",
-      "username": "keno_b75",
-      "url": "https://www.tiktok.com/@keno_b75/video/7707265051769457953",
-      "published_at": "2026-11-12T12:44:47+00:00",
-      "description": "Agglomérer les colères et bloquer le pays jusqu'à la victoire ! Le 05 novembre, plus de 1,6 millions de personnes dans le pays et plus de 350.000 à Paris. La jeunesse est la flamme de la révolution ! Grèves, blocages, manifestations sauvages ! Multiplions les foyers de révoltes et de résistance ! #manifestation #5novembre  #OnBloqueTout #Macrondemission #Nunezdemission",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707264732377500950",
-      "username": "maarinademigueel",
-      "url": "https://www.tiktok.com/@maarinademigueel/video/7707264732377500950",
-      "published_at": "2026-11-12T12:43:34+00:00",
-      "description": "Otro día más!!! #fypp #negocio #valencia #emprendiendo",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

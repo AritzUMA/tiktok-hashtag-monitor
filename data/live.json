@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T00:53:44.168628+00:00",
+  "generated_at": "2026-11-13T00:58:37.775536+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 34362,
-    "published_24h": 284,
-    "published_48h": 1094,
+    "total_unique_videos": 34363,
+    "published_24h": 285,
+    "published_48h": 1092,
     "discovered_24h": 849,
-    "discovered_48h": 2006
+    "discovered_48h": 2007
   },
   "analysis": {
     "embeddings_total": 34362,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 284
+    "qwen_pending_24h": 285
   },
   "mobilization": {
     "yes": 0,
@@ -21,8 +21,8 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 104,
     "ES": 98,
+    "OTHER": 105,
     "DE": 49,
     "FR": 30,
     "MULTI": 2,
@@ -551,6 +551,23 @@
       "published_at": "2026-11-12T17:40:34+00:00",
       "description": "GenZ regelt✊#genzregeltstuttgart #genzregelt #161 #fyp #protest",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707341015509781792",
+      "username": "gm62709",
+      "url": "https://www.tiktok.com/@gm62709/video/7707341015509781792",
+      "published_at": "2026-11-12T17:39:33+00:00",
+      "description": "en grève #manifestation #31octobre #justice #social",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T23:31:19.729312+00:00",
+  "generated_at": "2026-11-14T23:34:30.131648+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35779,
-    "published_24h": 343,
-    "published_48h": 699,
-    "discovered_24h": 830,
-    "discovered_48h": 1443
+    "total_unique_videos": 35784,
+    "published_24h": 347,
+    "published_48h": 703,
+    "discovered_24h": 828,
+    "discovered_48h": 1447
   },
   "analysis": {
-    "embeddings_total": 35779,
+    "embeddings_total": 35784,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 343
+    "qwen_pending_24h": 347
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 81,
-    "OTHER": 130,
     "FR": 90,
+    "OTHER": 133,
+    "DE": 82,
     "ES": 38,
-    "IT": 3,
-    "MULTI": 1
+    "MULTI": 1,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@b.z.berlin/video/7708166797370854678",
       "published_at": "2026-11-14T23:04:03+00:00",
       "description": "Eskalation bei GenZ-Demo am Kudamm in Berlin: Rund 1200 Menschen demonstrierten vom Savignyplatz aus gegen Staat, Medien und „Reiche“. Dabei wurden Pyrotechnik gezündet und Parolen gegen die Polizei skandiert. Außerdem vielen propalästinensische Sprüche und Parolen gegen die Wehrpflicht und für Sozialismus. Es kam zu mehreren Festnahmen. Rund 700 Polizisten waren im Einsatz. #berlin #genz #demo #eskalation #polizei",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -766,12 +766,46 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708096159956471073",
+      "username": "krampuszge",
+      "url": "https://www.tiktok.com/@krampuszge/video/7708096159956471073",
+      "published_at": "2026-11-14T18:29:57+00:00",
+      "description": "🚨 Tödlicher Verkehrsunfall in Berlin: Bus überrollt Kind auf Fahrrad auf der Potsdamer Straße! Am Samstag, dem 14. November 2026, ereignete sich gegen 17 Uhr ein tragischer Unfall im Berliner Stadtteil Tiergarten. Eine Mutter und ihr Kind waren mit ihren Fahrrädern auf der Potsdamer Straße in Richtung Bülowstraße unterwegs, als das Kind aus bislang ungeklärter Ursache stürzte und anschließend von einem Bus überrollt wurde. Trotz des Einsatzes der Rettungskräfte verstarb das Kind noch an der Unfallstelle. Auch die Mutter wurde bei dem schweren Verkehrsunfall verletzt und musste medizinisch versorgt werden. Die Berliner Polizei sperrte den Unfallort weiträumig ab und errichtete einen Sichtschutz. Besonders auffällig: Der beteiligte Bus, bei dem es sich möglicherweise um ein Fahrzeug der Berliner Verkehrsbetriebe (BVG) handelt, befand sich beim Eintreffen der Einsatzkräfte nicht mehr an der Unfallstelle. Ob der Busfahrer den Zusammenstoß überhaupt bemerkt hat, ist bisher unklar. Die Polizei Berlin ermittelt zum genauen Unfallhergang, zur Ursache des Fahrradsturzes und zur Beteiligung des Busfahrers. Das Alter und Geschlecht des verstorbenen Kindes sind bislang nicht bekannt. Aktuelle Nachrichten aus Berlin, Eilmeldung zum tödlichen Busunfall auf der Potsdamer Straße, Polizeieinsatz in Berlin-Tiergarten, Verkehrsunfall nahe der Bülowstraße, Fahrradunfall mit Todesfolge und aktuelle Ermittlungen zum tragischen Unglück in der Hauptstadt. #berlin  #potsdamerstraße  #polizei  #unfall  #fahrrad",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708095886466780448",
       "username": "tiktokupdates44",
       "url": "https://www.tiktok.com/@tiktokupdates44/video/7708095886466780448",
       "published_at": "2026-11-14T18:28:51+00:00",
       "description": "Jetzt sind sie doch am Kudamm 🤯💥 GenZ Proteste laufen und vermmumte Personen ziehen über den Kudamm aktuell aufgeheizte Stimmung viel Pyrotechnik Böller Rauch die Polizei ist mit einem Grossaufgebot vor Ort und beschützt die Geschäfte meint ihr alles bleibt ruhig?💥  #Genz #Berlin #kudamm #demo #Nachrichten",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708095886852771094",
+      "username": "ledauphinelibere",
+      "url": "https://www.tiktok.com/@ledauphinelibere/video/7708095886852771094",
+      "published_at": "2026-11-14T18:28:29+00:00",
+      "description": "⚕️ Les \"street medics\" en première ligne dans les mobilisations. Depuis le début des manifestations, des \"medics\" prennent la place des secours et procurent les premiers soins aux blessés lorsque l'accès aux cortèges est difficile. 🎥 Maureen Dufournet #SinformerSurTikTok #StreetMedics",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1616,6 +1650,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708063955528224032",
+      "username": "5elaine5",
+      "url": "https://www.tiktok.com/@5elaine5/video/7708063955528224032",
+      "published_at": "2026-11-14T16:25:00+00:00",
+      "description": "#demoaugsburg🇩🇪#",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708062537534704918",
       "username": "bfmtv",
       "url": "https://www.tiktok.com/@bfmtv/video/7708062537534704918",
@@ -2182,6 +2233,23 @@
       "url": "https://www.tiktok.com/@le.maine.libre/video/7708049001362378006",
       "published_at": "2026-11-14T15:26:36+00:00",
       "description": "L’orchestre du Nouveau monde « version Sarthe » a lancé la journée de mobilisation pour la jeunesse et la vie chère, ce samedi 14 novembre 2026, place de la Boussinière. Quelque 200 personnes se sont rassemblées avant de défiler en direction de la zone Nord du Mans. #manifestationdu14novembre #colèresociale #lemans #sarthe",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708047353315462432",
+      "username": "lazy.or.crazy",
+      "url": "https://www.tiktok.com/@lazy.or.crazy/video/7708047353315462432",
+      "published_at": "2026-11-14T15:20:30+00:00",
+      "description": "Schleswig-Holstein steht auf / das Letzte Hemd Demo in #Kiel #Deutschland #schleswigholstein",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3163,11 +3231,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018800305736993",
-      "username": "actumorbihan",
-      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3180,11 +3248,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "video_id": "7708018800305736993",
+      "username": "actumorbihan",
+      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

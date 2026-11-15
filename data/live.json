@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T12:54:14.963763+00:00",
+  "generated_at": "2026-11-15T12:58:25.515421+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 36175,
-    "published_24h": 472,
-    "published_48h": 844,
-    "discovered_24h": 868,
-    "discovered_48h": 1612
+    "published_24h": 469,
+    "published_48h": 842,
+    "discovered_24h": 863,
+    "discovered_48h": 1611
   },
   "analysis": {
     "embeddings_total": 36175,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 472
+    "qwen_pending_24h": 469
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 151,
-    "DE": 142,
+    "FR": 113,
+    "OTHER": 150,
+    "MULTI": 7,
+    "DE": 141,
     "ES": 56,
-    "FR": 114,
-    "IT": 2,
-    "MULTI": 7
+    "IT": 2
   },
   "links": {
     "qr_videos": 0,
@@ -7617,23 +7617,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018807750528288",
-      "username": "atopos_journal",
-      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
-      "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7708018800305736993",
       "username": "actumorbihan",
       "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
@@ -7656,6 +7639,23 @@
       "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
       "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708018807750528288",
+      "username": "atopos_journal",
+      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
+      "published_at": "2026-11-14T13:29:44+00:00",
+      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7996,57 +7996,6 @@
       "url": "https://www.tiktok.com/@josly.ngoma/video/7708011768383065377",
       "published_at": "2026-11-14T13:02:28+00:00",
       "description": "Mobilisation lycéenne : La #Russie accusée d'avoir cherché à radicaliser le mouvement. #France",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708010257208855821",
-      "username": "mr.y0075",
-      "url": "https://www.tiktok.com/@mr.y0075/video/7708010257208855821",
-      "published_at": "2026-11-14T12:57:25+00:00",
-      "description": "Levy Played Against 3110 😯😵 #chess#tiktok #gothamchess",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708010409919384864",
-      "username": "vexorbit2",
-      "url": "https://www.tiktok.com/@vexorbit2/video/7708010409919384864",
-      "published_at": "2026-11-14T12:57:11+00:00",
-      "description": "#deutschland #meinungsfreiheit #muslim #migration #politik",
-      "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708009767372901665",
-      "username": "laprovence_",
-      "url": "https://www.tiktok.com/@laprovence_/video/7708009767372901665",
-      "published_at": "2026-11-14T12:54:41+00:00",
-      "description": "🔴 Pour l’heure le secteur est très calme. Sur le Vieux-Port, il n’y a aucun groupe de manifestants à l’horizon #info #actu #sinformersurktiktok #marseille",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

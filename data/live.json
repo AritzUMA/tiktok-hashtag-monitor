@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T01:39:08.059044+00:00",
+  "generated_at": "2026-11-15T01:42:00.798738+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35849,
+    "total_unique_videos": 35850,
     "published_24h": 376,
-    "published_48h": 741,
-    "discovered_24h": 838,
-    "discovered_48h": 1479
+    "published_48h": 742,
+    "discovered_24h": 839,
+    "discovered_48h": 1480
   },
   "analysis": {
-    "embeddings_total": 35849,
+    "embeddings_total": 35850,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 376
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 92,
-    "OTHER": 140,
     "ES": 43,
-    "DE": 95,
-    "MULTI": 2,
-    "IT": 4
+    "FR": 92,
+    "OTHER": 139,
+    "DE": 96,
+    "IT": 4,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -40,6 +40,23 @@
       "url": "https://www.tiktok.com/@rev.com.international/video/7708192069063429398",
       "published_at": "2026-11-15T00:42:18+00:00",
       "description": "Germany protests part 10",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708189588560416022",
+      "username": "rev.com.international",
+      "url": "https://www.tiktok.com/@rev.com.international/video/7708189588560416022",
+      "published_at": "2026-11-15T00:32:41+00:00",
+      "description": "Germany protest part 9",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4948,11 +4965,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4965,11 +4982,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5475,11 +5492,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707833305772690710",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
+      "video_id": "7707500601722014998",
+      "username": "trains_news",
+      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
+      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -5492,11 +5509,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707500601722014998",
-      "username": "trains_news",
-      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
+      "video_id": "7707833305772690710",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
+      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6398,23 +6415,6 @@
       "url": "https://www.tiktok.com/@jahselahtv2/video/7707837152217943327",
       "published_at": "2026-11-14T01:44:55+00:00",
       "description": "LONG LIVE SK MAN ‼️ #speakerknockerz #columbiasc ##flowstate#genz #raptok",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707835665643310357",
-      "username": "tpcanmike",
-      "url": "https://www.tiktok.com/@tpcanmike/video/7707835665643310357",
-      "published_at": "2026-11-14T01:39:09+00:00",
-      "description": "🇨🇦🚨 MONTREAL STUDENT PROTESTS: WHEN DOES PROTEST CROSS THE LINE? Thousands of Quebec students participated in a week of strikes, with a major demonstration organized in downtown Montreal on November 13. The protesters are demanding increased education funding, changes to student financial assistance, and government action on rising living costs. But here's the question Canadians should be asking: WHEN DOES PEACEFUL PROTEST TURN INTO LAWLESSNESS? Reports of masked protesters, fireworks and concerns about vandalism have raised questions about public safety. 🇨🇦 LET'S TALK ABOUT ACCOUNTABILITY! Canadians are already struggling with rising taxes, housing costs, groceries and government spending. Students have every right to question government decisions and demand better opportunities. But vandalism, intimidation and attacks on police officers are not acceptable forms of political expression. 💥 Breaking windows doesn't lower tuition. 💥 Throwing objects doesn't fix the economy. 💥 Damaging businesses doesn't help struggling students. FREE SPEECH IS A RIGHT. DESTROYING PROPERTY IS NOT. If protesters want meaningful changes, public debate and peaceful demonstrations are the way forward. We need responsible government spending, accessible education and accountability for anyone who crosses the line into violence. 🇨🇦 WHAT HAPPENED TO PEACEFUL PROTEST AND PERSONAL RESPONSIBILITY? 📚 Sources: CityNews Montreal, TVA Nouvelles, 98.5 Montréal — November 2026. #Montreal #Quebec #Canada #StudentProtests #Accountability     Copyright Disclaimer under Section 107 of the Copyright Act 1976: allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, and research. This page focuses on public awareness, and real discussions on Canadian, American & UK issues. @Turning Point Canada TPCAN @Mcoles.design @Turning Point Canada Official",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

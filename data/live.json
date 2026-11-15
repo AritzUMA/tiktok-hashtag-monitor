@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T10:31:32.407837+00:00",
+  "generated_at": "2026-11-15T10:35:16.592492+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36081,
-    "published_24h": 461,
+    "total_unique_videos": 36082,
+    "published_24h": 460,
     "published_48h": 832,
-    "discovered_24h": 844,
-    "discovered_48h": 1592
+    "discovered_24h": 841,
+    "discovered_48h": 1590
   },
   "analysis": {
-    "embeddings_total": 36081,
+    "embeddings_total": 36082,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 461
+    "qwen_pending_24h": 460
   },
   "mobilization": {
     "yes": 0,
@@ -23,9 +23,9 @@
   "countries": {
     "OTHER": 160,
     "FR": 109,
-    "ES": 54,
-    "DE": 130,
     "IT": 3,
+    "DE": 130,
+    "ES": 53,
     "MULTI": 5
   },
   "links": {
@@ -2489,6 +2489,23 @@
       "published_at": "2026-11-14T21:06:47+00:00",
       "description": "🇫🇷 Quelques extraits de la manifestation du 14 novembre 2026 à Paris, organisée par les Patriotes  de Florian Philippot  Une mobilisation sans violence et sans insultes, avec des revendications clairement exprimées. Le peuple d'en bas est descendu dans la rue aux côtés des patriotes ! Beaucoup réclament le Frexit, demandent que Zelensky rende  l'argent, réclament le départ d'Ursula von der Leyen et la destitution de Macron. Un slogan entendu dans la rue : « Macron, ta guerre, va la faire toi  Des citoyens venus faire entendre leur voix et exprimer leur mécontentement. 📹 Images : totalement libre TV #Paris #Manifestation #LesPatriotes #FlorianPhilippot #Frexit",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708135675899546902",
+      "username": "rtenews",
+      "url": "https://www.tiktok.com/@rtenews/video/7708135675899546902",
+      "published_at": "2026-11-14T21:03:17+00:00",
+      "description": "Thousands of people took to the streets of Dublin to call on the Government to take stronger action on climate policy. Protesters said they want climate action that also makes everyday life more affordable and called for lower energy bills, affordable public transport and a ban on liquefied natural gas terminals. 📲#climate #protest #dublin",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6563,11 +6580,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018800305736993",
-      "username": "actumorbihan",
-      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6580,11 +6597,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "video_id": "7708018800305736993",
+      "username": "actumorbihan",
+      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7826,40 +7843,6 @@
       "url": "https://www.tiktok.com/@radiojaune/video/7707973952559140129",
       "published_at": "2026-11-14T10:35:43+00:00",
       "description": "#tiktoklive #livehighlights",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707973763421277462",
-      "username": "plocalvlc",
-      "url": "https://www.tiktok.com/@plocalvlc/video/7707973763421277462",
-      "published_at": "2026-11-14T10:35:02+00:00",
-      "description": "🚨 138 km/h. No hablamos de una motocicleta, sino de un patinete eléctrico. La Policía Local de València ha retirado de la circulación dos patinetes eléctricos capaces de alcanzar los 138 km/h, más de cinco veces la velocidad máxima permitida para los vehículos de movilidad personal (VMP). Los agentes los detectaron durante un control preventivo y comprobaron que podían deslimitarse mediante un mando a distancia o una aplicación móvil. ⚠️ No son vehículos aptos para circular como patinetes por las vías públicas. Sus prestaciones y velocidades suponen un grave riesgo tanto para quienes los conducen como para peatones, ciclistas y el resto de usuarios de la vía. La Policía Local de València continúa realizando controles para detectar estos vehículos y evitar que circulen por nuestras calles. #PoliciaLocalValència #SeguridadVial #VMP #València",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707973049571626262",
-      "username": "dailyexpress",
-      "url": "https://www.tiktok.com/@dailyexpress/video/7707973049571626262",
-      "published_at": "2026-11-14T10:31:47+00:00",
-      "description": "“They still do that?” Greta Thunberg mocks climate protest despite being the one to start the movement in shocking podcast moment 😲",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

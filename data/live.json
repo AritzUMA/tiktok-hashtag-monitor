@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T01:27:27.796812+00:00",
+  "generated_at": "2026-11-15T01:31:22.421767+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35846,
-    "published_24h": 376,
+    "total_unique_videos": 35848,
+    "published_24h": 375,
     "published_48h": 741,
-    "discovered_24h": 842,
-    "discovered_48h": 1476
+    "discovered_24h": 841,
+    "discovered_48h": 1478
   },
   "analysis": {
-    "embeddings_total": 35846,
+    "embeddings_total": 35848,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 376
+    "qwen_pending_24h": 375
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 43,
-    "DE": 95,
-    "OTHER": 140,
+    "OTHER": 139,
     "FR": 92,
+    "DE": 95,
+    "ES": 43,
     "IT": 4,
     "MULTI": 2
   },
@@ -3877,6 +3877,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708018807750528288",
+      "username": "atopos_journal",
+      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
+      "published_at": "2026-11-14T13:29:44+00:00",
+      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708018800305736993",
       "username": "actumorbihan",
       "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
@@ -3899,23 +3916,6 @@
       "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
       "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708018807750528288",
-      "username": "atopos_journal",
-      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
-      "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4931,11 +4931,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4948,11 +4948,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5730,9 +5730,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937661251489046",
+      "video_id": "7707937663508172054",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",
@@ -5747,9 +5747,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937663508172054",
+      "video_id": "7707937661251489046",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",
@@ -6398,23 +6398,6 @@
       "url": "https://www.tiktok.com/@tpcanmike/video/7707835665643310357",
       "published_at": "2026-11-14T01:39:09+00:00",
       "description": "🇨🇦🚨 MONTREAL STUDENT PROTESTS: WHEN DOES PROTEST CROSS THE LINE? Thousands of Quebec students participated in a week of strikes, with a major demonstration organized in downtown Montreal on November 13. The protesters are demanding increased education funding, changes to student financial assistance, and government action on rising living costs. But here's the question Canadians should be asking: WHEN DOES PEACEFUL PROTEST TURN INTO LAWLESSNESS? Reports of masked protesters, fireworks and concerns about vandalism have raised questions about public safety. 🇨🇦 LET'S TALK ABOUT ACCOUNTABILITY! Canadians are already struggling with rising taxes, housing costs, groceries and government spending. Students have every right to question government decisions and demand better opportunities. But vandalism, intimidation and attacks on police officers are not acceptable forms of political expression. 💥 Breaking windows doesn't lower tuition. 💥 Throwing objects doesn't fix the economy. 💥 Damaging businesses doesn't help struggling students. FREE SPEECH IS A RIGHT. DESTROYING PROPERTY IS NOT. If protesters want meaningful changes, public debate and peaceful demonstrations are the way forward. We need responsible government spending, accessible education and accountability for anyone who crosses the line into violence. 🇨🇦 WHAT HAPPENED TO PEACEFUL PROTEST AND PERSONAL RESPONSIBILITY? 📚 Sources: CityNews Montreal, TVA Nouvelles, 98.5 Montréal — November 2026. #Montreal #Quebec #Canada #StudentProtests #Accountability     Copyright Disclaimer under Section 107 of the Copyright Act 1976: allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, and research. This page focuses on public awareness, and real discussions on Canadian, American & UK issues. @Turning Point Canada TPCAN @Mcoles.design @Turning Point Canada Official",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707833464829021472",
-      "username": "dj_konrad",
-      "url": "https://www.tiktok.com/@dj_konrad/video/7707833464829021472",
-      "published_at": "2026-11-14T01:30:44+00:00",
-      "description": "13.11.2026 Ulm Demonstration für Frieden, Freiheit und Selbstbestimmung !!! Disclaimer: Die Meinungen der Teilnehmer müssen nicht zwangsweise mit der Meinung des neutralen Berichterstatters übereinstimmen! #protest #ulm #demonstration #politik #demo",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

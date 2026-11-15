@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T21:19:39.210130+00:00",
+  "generated_at": "2026-11-15T21:23:18.131135+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36481,
-    "published_24h": 377,
-    "published_48h": 865,
-    "discovered_24h": 811,
-    "discovered_48h": 1606
+    "total_unique_videos": 36483,
+    "published_24h": 379,
+    "published_48h": 866,
+    "discovered_24h": 807,
+    "discovered_48h": 1608
   },
   "analysis": {
-    "embeddings_total": 36481,
+    "embeddings_total": 36483,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 377
+    "qwen_pending_24h": 379
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 55,
     "DE": 119,
-    "OTHER": 121,
+    "FR": 56,
+    "OTHER": 122,
     "ES": 74,
-    "MULTI": 7,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 7
   },
   "links": {
     "qr_videos": 0,
@@ -143,6 +143,23 @@
       "published_at": "2026-11-15T19:12:33+00:00",
       "description": "Wo hat Protest auf und wo fängt Gewalt an??🤫🫣 #protest#berlin#genz#fy#links",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708474822837243158",
+      "username": "ropimo2020",
+      "url": "https://www.tiktok.com/@ropimo2020/video/7708474822837243158",
+      "published_at": "2026-11-15T18:59:21+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -426,6 +443,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708445600768937248",
+      "username": "nexotve",
+      "url": "https://www.tiktok.com/@nexotve/video/7708445600768937248",
+      "published_at": "2026-11-15T17:05:55+00:00",
+      "description": "#psoe #pp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii🦋 #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708444936550583584",
       "username": "friedrichsberger",
       "url": "https://www.tiktok.com/@friedrichsberger/video/7708444936550583584",
@@ -516,7 +550,7 @@
       "url": "https://www.tiktok.com/@charly.photos/video/7708435887423622432",
       "published_at": "2026-11-15T16:28:14+00:00",
       "description": "« Départ sous les lacrymogènes » Cinquième samedi de mobilisation, contre la Vie Chère, le 14 novembre, à Dijon - Dès le départ, les manifestants qui voulaient se rendre, au centre ville - interdit - ont essuyé des tirs de grenade lacrymogènes #mobilisationcontrelaviechere #manifdu14novembre #augmenterlessalaires",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2551,11 +2585,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707683883826908438",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
+      "video_id": "7706044903192612118",
+      "username": "gtaviradarhq",
+      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2568,11 +2602,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706044903192612118",
-      "username": "gtaviradarhq",
-      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
+      "video_id": "7707683883826908438",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
+      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

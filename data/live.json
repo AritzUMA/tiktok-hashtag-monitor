@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T20:25:16.062692+00:00",
+  "generated_at": "2026-11-15T20:28:36.810706+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36454,
+    "total_unique_videos": 36455,
     "published_24h": 391,
-    "published_48h": 870,
-    "discovered_24h": 826,
-    "discovered_48h": 1602
+    "published_48h": 868,
+    "discovered_24h": 827,
+    "discovered_48h": 1603
   },
   "analysis": {
-    "embeddings_total": 36454,
+    "embeddings_total": 36455,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 391
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "FR": 60,
     "DE": 127,
-    "ES": 76,
+    "FR": 60,
     "OTHER": 120,
+    "ES": 76,
     "MULTI": 7,
     "IT": 1
   },
@@ -3571,11 +3571,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3588,11 +3588,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

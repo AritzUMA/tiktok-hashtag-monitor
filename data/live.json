@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T13:34:38.527002+00:00",
+  "generated_at": "2026-11-15T13:38:08.114173+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36198,
-    "published_24h": 451,
-    "published_48h": 846,
-    "discovered_24h": 875,
-    "discovered_48h": 1615
+    "total_unique_videos": 36202,
+    "published_24h": 453,
+    "published_48h": 850,
+    "discovered_24h": 877,
+    "discovered_48h": 1616
   },
   "analysis": {
-    "embeddings_total": 36198,
+    "embeddings_total": 36202,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 451
+    "qwen_pending_24h": 453
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 142,
-    "FR": 104,
+    "OTHER": 144,
+    "DE": 140,
+    "IT": 2,
+    "FR": 103,
     "ES": 57,
-    "DE": 139,
-    "MULTI": 7,
-    "IT": 2
+    "MULTI": 7
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7708387423994137888",
+      "username": "journalist47berlin1",
+      "url": "https://www.tiktok.com/@journalist47berlin1/video/7708387423994137888",
+      "published_at": "2026-11-15T13:20:11+00:00",
+      "description": "GenZ demo 14.11.26 Berlin Proteste #deutsch #deutschland #polizei #genz #berlin",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7708379766130363670",
       "username": "vox_valencia",
@@ -375,6 +392,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708344906225437974",
+      "username": "project_exodos",
+      "url": "https://www.tiktok.com/@project_exodos/video/7708344906225437974",
+      "published_at": "2026-11-15T10:35:17+00:00",
+      "description": "\"Es wird viel zu sehr auf den Rechtsextremismus geschaut\" | Demo-Teilnehmer #münchen #rechtsextremismus #linksextremismus #demonstration #demokratie",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707695210184084758",
       "username": "cuartomilenialpodcast",
       "url": "https://www.tiktok.com/@cuartomilenialpodcast/video/7707695210184084758",
@@ -466,6 +500,23 @@
       "published_at": "2026-11-15T10:19:36+00:00",
       "description": "#VALENCIA #ESPAÑA🇪🇦",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708339267067596065",
+      "username": "free.deutschland",
+      "url": "https://www.tiktok.com/@free.deutschland/video/7708339267067596065",
+      "published_at": "2026-11-15T10:13:17+00:00",
+      "description": "🐿️ Gen Z Regelt das ~ Stuttgart am 14.11.2026 #deutschland #stuttgart #genzregelt #genz #afd",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -970,11 +1021,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -987,11 +1038,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7673,23 +7724,6 @@
       "url": "https://www.tiktok.com/@lereporterindependant/video/7708021441920290081",
       "published_at": "2026-11-14T13:39:59+00:00",
       "description": "💢 PARIS : une foule nombreuse dans les rues ! 🔹 La mobilisation rassemble beaucoup de monde dans la capitale. ▪️ À Paris, les manifestants sont nombreux et le cortège prend de l’ampleur. La mobilisation est bien au rendez-vous ! julio_photographies pour Le reporter indépendant #Paris #Manifestation #Mobilisation #14Novembre #LeReporterIndépendant Accès à nos réseaux et publications 👇 https://linktr.ee/lereporterin.dependant",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708020824040656161",
-      "username": "el_planmediaofficiel38",
-      "url": "https://www.tiktok.com/@el_planmediaofficiel38/video/7708020824040656161",
-      "published_at": "2026-11-14T13:37:35+00:00",
-      "description": "#grenoble #elplanmedia #manifestation #sinformersurtiktok #france",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

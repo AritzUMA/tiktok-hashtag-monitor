@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T07:08:51.815186+00:00",
+  "generated_at": "2026-11-15T07:18:53.110750+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35993,
-    "published_24h": 447,
-    "published_48h": 824,
-    "discovered_24h": 865,
-    "discovered_48h": 1558
+    "total_unique_videos": 35998,
+    "published_24h": 449,
+    "published_48h": 826,
+    "discovered_24h": 863,
+    "discovered_48h": 1563
   },
   "analysis": {
-    "embeddings_total": 35993,
+    "embeddings_total": 35998,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 447
+    "qwen_pending_24h": 449
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 105,
-    "OTHER": 161,
     "DE": 118,
-    "ES": 54,
-    "MULTI": 5,
-    "IT": 4
+    "FR": 105,
+    "OTHER": 162,
+    "IT": 4,
+    "ES": 55,
+    "MULTI": 5
   },
   "links": {
     "qr_videos": 0,
@@ -330,6 +330,23 @@
       "published_at": "2026-11-15T02:48:26+00:00",
       "description": "Aujourd’hui 14 novembre a marqué la fin de la democratie en France, nous vivons dans une democratie déguisée ou on vous interdit de porter un masque, des lunettes de protection, ce balader sur paris est devenu un terrain miné, on LACHERA RIEN L’EQUIPE ! Rdv Mardi 17 Novembre pour la grève generale ! #14 #Paris #France #manifestation #greve",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708222926138379553",
+      "username": "mdemala_1",
+      "url": "https://www.tiktok.com/@mdemala_1/video/7708222926138379553",
+      "published_at": "2026-11-15T02:42:10+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -976,6 +993,23 @@
       "published_at": "2026-11-14T23:14:20+00:00",
       "description": "Die Kassen klingeln lassen und dann Abseilen und die Beute genießen.  Greta Thunberg lachte laut auf, als sie erfuhr, dass die Deutschen immer noch an den Klimademonstrationen von „Fridays for Future“ teilnehmen – einer Bewegung, die sie selbst ins Leben gerufen hatte. „Im Ernst? Machen die das immer noch?“",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708166880669814037",
+      "username": "jamunapandey06",
+      "url": "https://www.tiktok.com/@jamunapandey06/video/7708166880669814037",
+      "published_at": "2026-11-14T23:04:26+00:00",
+      "description": "😀😀😀😜😜😜#nepalitiktok #tiktok #foryou #valencia 😜😜😜😜",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7209,11 +7243,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707500601722014998",
-      "username": "trains_news",
-      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
+      "video_id": "7707833305772690710",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
+      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -7226,11 +7260,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707833305772690710",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
+      "video_id": "7707500601722014998",
+      "username": "trains_news",
+      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
+      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

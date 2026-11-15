@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T04:50:17.830928+00:00",
+  "generated_at": "2026-11-15T04:54:39.024511+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35918,
-    "published_24h": 412,
-    "published_48h": 784,
+    "total_unique_videos": 35920,
+    "published_24h": 414,
+    "published_48h": 786,
     "discovered_24h": 842,
-    "discovered_48h": 1497
+    "discovered_48h": 1498
   },
   "analysis": {
-    "embeddings_total": 35918,
+    "embeddings_total": 35920,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 412
+    "qwen_pending_24h": 414
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 102,
-    "OTHER": 152,
-    "ES": 46,
+    "OTHER": 153,
     "DE": 105,
+    "FR": 103,
     "MULTI": 3,
-    "IT": 4
+    "IT": 4,
+    "ES": 46
   },
   "links": {
     "qr_videos": 0,
@@ -75,6 +75,23 @@
       "published_at": "2026-11-15T02:36:51+00:00",
       "description": "Rejoignez-nous 🧡 #pursuitofhappiness #mobilisation #antifa #manifestation #france",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708221217030835487",
+      "username": "ceciliaregina.2",
+      "url": "https://www.tiktok.com/@ceciliaregina.2/video/7708221217030835487",
+      "published_at": "2026-11-15T02:35:18+00:00",
+      "description": "#school #students #college #university #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -551,6 +568,23 @@
       "published_at": "2026-11-14T22:30:32+00:00",
       "description": "",
       "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708156921571904790",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708156921571904790",
+      "published_at": "2026-11-14T22:25:42+00:00",
+      "description": "🚨🌍 17 NOVEMBRE 2026 : UN BLACK-OUT MONDIAL EST-IL VRAIMENT ANNONCÉ ? 😳⚡ ⚠️ Depuis plusieurs jours, des vidéos alarmantes circulent sur les réseaux sociaux et annoncent une coupure électrique mondiale ce mardi 17 novembre. 🌑 Plus d’électricité, plus d’Internet, des villes paralysées… Le scénario inquiète de nombreux internautes. 🇺🇸 Des exercices d’alerte et de préparation aux situations d’urgence sont bien organisés aux États-Unis. 🇫🇷 En France aussi, les autorités réalisent des exercices pour anticiper les crises. 🔎 Mais attention : aucune preuve crédible ne confirme qu’un black-out mondial est prévu le 17 novembre. Des exercices de sécurité ne signifient pas qu’une panne géante est annoncée. 🚨 Avant de partager une vidéo alarmante, vérifiez toujours les informations auprès des sources officielles. 📢 Abonne-toi pour plus d’infos ! 💬 Dis-le en commentaire : tu avais déjà entendu parler de ce prétendu black-out mondial ? #Blackout #17Novembre #blocus #Actualite #France",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4625,23 +4659,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
-      "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7708018800305736993",
       "username": "actumorbihan",
       "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
@@ -4664,6 +4681,23 @@
       "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
       "published_at": "2026-11-14T13:29:44+00:00",
       "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "published_at": "2026-11-14T13:29:44+00:00",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6257,11 +6291,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707833305772690710",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
+      "video_id": "7707500601722014998",
+      "username": "trains_news",
+      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
+      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6274,11 +6308,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707500601722014998",
-      "username": "trains_news",
-      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
+      "video_id": "7707833305772690710",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
+      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6529,9 +6563,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937663508172054",
+      "video_id": "7707937661251489046",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",
@@ -6546,9 +6580,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937661251489046",
+      "video_id": "7707937663508172054",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",

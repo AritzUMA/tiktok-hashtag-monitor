@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T03:53:25.544214+00:00",
+  "generated_at": "2026-11-15T03:56:56.988717+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35906,
-    "published_24h": 403,
-    "published_48h": 774,
-    "discovered_24h": 849,
-    "discovered_48h": 1502
+    "total_unique_videos": 35907,
+    "published_24h": 404,
+    "published_48h": 775,
+    "discovered_24h": 848,
+    "discovered_48h": 1503
   },
   "analysis": {
-    "embeddings_total": 35906,
+    "embeddings_total": 35907,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 403
+    "qwen_pending_24h": 404
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "DE": 102,
-    "FR": 99,
-    "OTHER": 148,
     "ES": 47,
+    "FR": 99,
+    "OTHER": 149,
+    "DE": 102,
     "IT": 4,
     "MULTI": 3
   },
@@ -2245,6 +2245,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708079371663314209",
+      "username": "louisiix6",
+      "url": "https://www.tiktok.com/@louisiix6/video/7708079371663314209",
+      "published_at": "2026-11-14T17:24:46+00:00",
+      "description": "Manifestation du 31 octobre 2026 Chaque voix compte, chaque regards a son importance, chaque mots a son poids, chaque présence contribue à cet espoir, l’espoir du changement. #fyp #pourtoi #manif #31october #revolution",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708079021661211926",
       "username": "the_leyo_show",
       "url": "https://www.tiktok.com/@the_leyo_show/video/7708079021661211926",
@@ -4438,11 +4455,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "video_id": "7708018800305736993",
+      "username": "actumorbihan",
+      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4455,11 +4472,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018800305736993",
-      "username": "actumorbihan",
-      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6342,9 +6359,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937663508172054",
+      "video_id": "7707937661251489046",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",
@@ -6359,9 +6376,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937661251489046",
+      "video_id": "7707937663508172054",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",

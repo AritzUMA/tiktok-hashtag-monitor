@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T16:19:28.365908+00:00",
+  "generated_at": "2026-11-15T16:22:23.185278+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 36287,
-    "published_24h": 409,
-    "published_48h": 852,
-    "discovered_24h": 875,
-    "discovered_48h": 1599
+    "published_24h": 408,
+    "published_48h": 849,
+    "discovered_24h": 870,
+    "discovered_48h": 1598
   },
   "analysis": {
     "embeddings_total": 36287,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 409
+    "qwen_pending_24h": 408
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 138,
-    "FR": 72,
-    "OTHER": 127,
     "ES": 62,
-    "IT": 3,
-    "MULTI": 7
+    "OTHER": 125,
+    "FR": 71,
+    "DE": 140,
+    "MULTI": 7,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@flowers.blooom0/video/7708418580710280480",
       "published_at": "2026-11-15T15:21:04+00:00",
       "description": "#demo #berlin #freepalestine🇵🇸 #🇵🇸🕊️🇱🇧 #🇵🇸✌️",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -159,7 +159,7 @@
       "url": "https://www.tiktok.com/@_erwachen/photo/7708398574286966048",
       "published_at": "2026-11-15T14:03:26+00:00",
       "description": "Heute demonstrieren junge Menschen erneut. In Düsseldorf und Wuppertal sind Aktionen angekündigt. Doch das könnte erst der Anfang sein. Für den 20. November kündigt die Initiative „Gen Z regelt“ weitere Proteste in Deutschland und Europa an. Allein für Berlin haben die Veranstalter 15.000 Teilnehmende angemeldet. Das ist eine Anmeldezahl, keine bestätigte Teilnehmerzahl. Worum geht es? – Mehr Investitionen in Schulen und Bildung – Mehr soziale Gerechtigkeit – Konsequenter Klimaschutz – Maßnahmen gegen steigende Lebenshaltungskosten – Widerstand gegen die Wehrpflicht Dabei ist wichtig: Nicht alle jungen Menschen werden von dieser Initiative vertreten. Die Bundesschüler*innenkonferenz hat sich von „Gen Z regelt“ abgegrenzt und plant am selben Tag gemeinsam mit Fridays for Future Berlin, dem Bundeselternrat und der GEW einen eigenen Bildungsprotest in Berlin. Die zentrale Frage lautet: Werden die Anliegen der jungen Generation endlich ernst genommen? ❓ Was müsste sich zuerst ändern: Schulen, Lebenshaltungskosten, Klimaschutz oder die Wehrpflicht? Schreib deine Meinung in die Kommentare. Teile den Beitrag, wenn du findest, dass junge Menschen gehört werden müssen. #GenZ #Jugendprotest #Bildung #Zukunft #Erwachen",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6960,23 +6960,6 @@
       "published_at": "2026-11-14T16:25:00+00:00",
       "description": "#demoaugsburg🇩🇪#",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708062537534704918",
-      "username": "bfmtv",
-      "url": "https://www.tiktok.com/@bfmtv/video/7708062537534704918",
-      "published_at": "2026-11-14T16:19:29+00:00",
-      "description": "Plusieurs mobilisations distinctes avaient lieu dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, plus de 60 cortèges ont défilé. #manifestations #paris #lyon #nantes",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

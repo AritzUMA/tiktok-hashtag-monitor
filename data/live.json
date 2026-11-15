@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T22:20:38.590329+00:00",
+  "generated_at": "2026-11-15T22:24:51.798680+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36517,
+    "total_unique_videos": 36521,
     "published_24h": 371,
     "published_48h": 861,
     "discovered_24h": 792,
-    "discovered_48h": 1617
+    "discovered_48h": 1620
   },
   "analysis": {
-    "embeddings_total": 36517,
+    "embeddings_total": 36521,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 371
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 55,
-    "MULTI": 6,
-    "ES": 74,
     "OTHER": 122,
     "DE": 113,
+    "ES": 73,
+    "FR": 56,
+    "MULTI": 6,
     "IT": 1
   },
   "links": {
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7708506727469042966",
+      "username": "tagesschau",
+      "url": "https://www.tiktok.com/@tagesschau/video/7708506727469042966",
+      "published_at": "2026-11-15T21:30:00+00:00",
+      "description": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen. #Prag #Massenprotest #Rundfunkreform #News #tagesschau",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7708508182477557014",
       "username": "mariangelfriash",
@@ -1145,7 +1162,7 @@
       "url": "https://www.tiktok.com/@melaniabattista/video/7708415966509649184",
       "published_at": "2026-11-15T15:10:58+00:00",
       "description": "🇫🇷 NICE | MOBILISATION CONTRE LA VIE CHÈRE ⠀ Nouvelle mobilisation à Nice contre la vie chère ce samedi. Le cortège s'est mis en marche vers 14 heures depuis la place Masséna. ⠀ Changement notable cette fois : pour la première fois, les manifestants ont rejoint le quartier du port par la rue Barla. Comme lors des précédents rassemblements, l'avenue Jean-Médecin est restée en dehors du parcours. ⠀ Le cortège a défilé dans le calme. Sur le plan des revendications, les manifestants ont fait savoir qu'ils ne reculeraient pas. ⠀ — — — ⠀ 🇮🇹 NIZZA | MOBILITAZIONE CONTRO IL CARO VITA ⠀ Nuova mobilitazione a Nizza contro il caro vita questo sabato. Il corteo si è messo in marcia verso le 14 da piazza Masséna. ⠀ La novità di questa volta: per la prima volta i manifestanti hanno raggiunto la zona del porto passando per rue Barla. Come nei cortei precedenti, l'avenue Jean-Médecin è rimasta fuori dal percorso. ⠀ Il corteo ha sfilato nella calma. Sul piano delle rivendicazioni, i manifestanti hanno annunciato che non faranno passi indietro. ⠀ #Nice #VieChère #Manifestation #CôteDAzur #Actualité",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1463,12 +1480,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708398004516048160",
-      "username": "sami.ahmadi694",
-      "url": "https://www.tiktok.com/@sami.ahmadi694/video/7708398004516048160",
+      "video_id": "7708398000766340374",
+      "username": "cotilleo6972",
+      "url": "https://www.tiktok.com/@cotilleo6972/video/7708398000766340374",
       "published_at": "2026-11-15T14:01:16+00:00",
-      "description": "Manifestation du 5 novembre à Lyon [partie 1/3] Aujourd'hui, je vous emmène à la rencontre des Lyonnais qui défilent dans les rues, déterminés à se faire entendre. Merci à tout.e.s d'avoir accepté.e.s de répondre à mes questions. #5novembre  #manifestation",
-      "country": "FR",
+      "description": "Según han indicado a EFE fuentes del servicio de emergencias de la Comunidad de Madrid, el SUMMA 112, el maquinista ha sido atendido por los servicios médicos en torno a las 3.48 horas de este domingo, tras salirse de la vía el tren que conducía.#ultimahora🚨",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1480,12 +1497,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708398000766340374",
-      "username": "cotilleo6972",
-      "url": "https://www.tiktok.com/@cotilleo6972/video/7708398000766340374",
+      "video_id": "7708398004516048160",
+      "username": "sami.ahmadi694",
+      "url": "https://www.tiktok.com/@sami.ahmadi694/video/7708398004516048160",
       "published_at": "2026-11-15T14:01:16+00:00",
-      "description": "Según han indicado a EFE fuentes del servicio de emergencias de la Comunidad de Madrid, el SUMMA 112, el maquinista ha sido atendido por los servicios médicos en torno a las 3.48 horas de este domingo, tras salirse de la vía el tren que conducía.#ultimahora🚨",
-      "country": "ES",
+      "description": "Manifestation du 5 novembre à Lyon [partie 1/3] Aujourd'hui, je vous emmène à la rencontre des Lyonnais qui défilent dans les rues, déterminés à se faire entendre. Merci à tout.e.s d'avoir accepté.e.s de répondre à mes questions. #5novembre  #manifestation",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2721,6 +2738,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708351856614886678",
+      "username": "jonasvonessen",
+      "url": "https://www.tiktok.com/@jonasvonessen/video/7708351856614886678",
+      "published_at": "2026-11-15T11:02:11+00:00",
+      "description": "En rapport visar att AI-utvecklingen går ännu snabbare än man tidigare trott.  Gå med i demonstrationen i Stockholm den 5 december!",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708351786226027809",
       "username": "refugees",
       "url": "https://www.tiktok.com/@refugees/video/7708351786226027809",
@@ -3656,11 +3690,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -3673,11 +3707,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "video_id": "7708252645034577174",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6297,40 +6331,6 @@
       "published_at": "2026-11-14T22:25:10+00:00",
       "description": "Ein Kind ist bei einem tragischen Unfall in Berlin-Tiergarten gestorben. Es war mit seiner Mutter auf dem Fahrrad unterwegs, stürzte an der Potsdamer Straße und wurde von einem Bus überrollt. Das Kind verstarb noch an der Unfallstelle; die Mutter wurde verletzt und medizinisch versorgt. Die Polizei ermittelt zum genauen Hergang. Unsere Gedanken sind bei der Familie. 🖤 #Berlin #Tiergarten #PotsdamerStraße #Unfall #BerlinNews",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708156415730404630",
-      "username": "sam.b900",
-      "url": "https://www.tiktok.com/@sam.b900/video/7708156415730404630",
-      "published_at": "2026-11-14T22:23:46+00:00",
-      "description": "#maquinista #constuction #almeria #fypdong #viral",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708156102747245846",
-      "username": "roig.arena",
-      "url": "https://www.tiktok.com/@roig.arena/video/7708156102747245846",
-      "published_at": "2026-11-14T22:22:34+00:00",
-      "description": "Miles de luces encendidas y todo el Roig Arena ‘Temblando’ al unísono. ✨📱  #RoigArena #HombresG #Temblando #Valencia",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

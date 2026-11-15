@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T01:12:33.518383+00:00",
+  "generated_at": "2026-11-15T01:15:59.458558+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35839,
+    "total_unique_videos": 35840,
     "published_24h": 372,
     "published_48h": 737,
-    "discovered_24h": 838,
-    "discovered_48h": 1474
+    "discovered_24h": 837,
+    "discovered_48h": 1473
   },
   "analysis": {
-    "embeddings_total": 35839,
+    "embeddings_total": 35840,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 372
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 92,
-    "DE": 93,
-    "OTHER": 139,
+    "OTHER": 137,
+    "DE": 94,
     "ES": 43,
-    "IT": 3,
-    "MULTI": 2
+    "FR": 92,
+    "MULTI": 2,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -856,7 +856,7 @@
       "url": "https://www.tiktok.com/@cgil.palermo/video/7708116037283188001",
       "published_at": "2026-11-14T19:47:02+00:00",
       "description": "#palermo📍🚩 #scioperogenerale🟥 #20novembre2026 ✊️",
-      "country": "OTHER",
+      "country": "IT",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3792,6 +3792,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708018807750528288",
+      "username": "atopos_journal",
+      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
+      "published_at": "2026-11-14T13:29:44+00:00",
+      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708018800305736993",
       "username": "actumorbihan",
       "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
@@ -3814,23 +3831,6 @@
       "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
       "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708018807750528288",
-      "username": "atopos_journal",
-      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
-      "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4154,7 +4154,7 @@
       "url": "https://www.tiktok.com/@vexorbit2/video/7708010409919384864",
       "published_at": "2026-11-14T12:57:11+00:00",
       "description": "#deutschland #meinungsfreiheit #muslim #migration #politik",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4846,11 +4846,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4863,11 +4863,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

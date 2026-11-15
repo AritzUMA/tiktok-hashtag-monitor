@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T17:47:11.213707+00:00",
+  "generated_at": "2026-11-15T17:50:21.905769+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36346,
+    "total_unique_videos": 36347,
     "published_24h": 398,
-    "published_48h": 859,
+    "published_48h": 858,
     "discovered_24h": 867,
     "discovered_48h": 1599
   },
   "analysis": {
-    "embeddings_total": 36346,
+    "embeddings_total": 36347,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 398
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "ES": 60,
-    "FR": 70,
+    "OTHER": 123,
     "DE": 137,
+    "ES": 59,
+    "FR": 70,
     "MULTI": 7,
-    "OTHER": 122,
     "IT": 2
   },
   "links": {
@@ -5934,6 +5934,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708113100372823318",
+      "username": "alternativodigital",
+      "url": "https://www.tiktok.com/@alternativodigital/video/7708113100372823318",
+      "published_at": "2026-11-14T19:35:41+00:00",
+      "description": "🚨 Tensión durante la huelga general del 11 de noviembre en Barcelona. Un grupo de manifestantes, varios de ellos encapuchados, intenta obligar a un quiosquero a cerrar su negocio mientras él se niega y defiende su derecho a trabajar. En las imágenes, una manifestante con una kufiya palestina increpa al trabajador y discute con él. \"Me están obligando a cerrar el negocio por la fuerza. Todos a cara cubierta, ninguno se saca el pasamontañas\", denuncia el quiosquero. Los Mossos d'Esquadra intervienen para controlar la situación y el trabajador puede continuar con su actividad. La huelga, convocada para exigir mejores salarios, vivienda asequible y condiciones laborales, ha provocado cortes de tráfico, protestas y enfrentamientos en varias ciudades españolas. 🇪🇸 📲 Síguenos para entender las noticias que están cambiando el mundo. 💬 ¿Qué opinas? 🔔 Y si quieres recibir las noticias directamente, únete a nuestro canal de Telegram o WhatsApp. #huelgageneral #españa #barcelona #palestina #catalunya",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708111919189724436",
       "username": "simplyy.jamieee",
       "url": "https://www.tiktok.com/@simplyy.jamieee/video/7708111919189724436",
@@ -6773,23 +6790,6 @@
       "published_at": "2026-11-14T17:51:11+00:00",
       "description": "Encore énormément de monde aujourd’hui dans les rues de Paris, pour la jeunesse et contre la vie chère. La mobilisation sociale continue.#14novembre #paris #manif #giletsjaune #lyceen",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708085704961608992",
-      "username": "levanteemv",
-      "url": "https://www.tiktok.com/@levanteemv/video/7708085704961608992",
-      "published_at": "2026-11-14T17:49:16+00:00",
-      "description": "El concierto de Nacho Vegas en La Pérgola de la Marina de València ha tenido este sábado un momento de reivindicación social. Poco antes de finalizar su actuación, el artista se ha apartado para ceder el micrófono a representantes del Sindicat de Llogateres y del colectivo Alerta Solidària, que han usado el altavoz para denunciar la violencia policial durante la huelga general por la vivienda celebrada el pasado 11 de noviembre. Los colectivos han querido visibilizar las cargas policiales y las detenciones registradas durante aquella jornada de movilización que se desarrolló por todas las comarcas valencianas.",
-      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

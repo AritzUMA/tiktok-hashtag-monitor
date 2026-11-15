@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T14:47:57.866492+00:00",
+  "generated_at": "2026-11-15T14:51:44.595661+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36240,
-    "published_24h": 442,
-    "published_48h": 855,
+    "total_unique_videos": 36243,
+    "published_24h": 443,
+    "published_48h": 856,
     "discovered_24h": 869,
     "discovered_48h": 1603
   },
   "analysis": {
-    "embeddings_total": 36240,
+    "embeddings_total": 36243,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 442
+    "qwen_pending_24h": 443
   },
   "mobilization": {
     "yes": 0,
@@ -22,11 +22,11 @@
   "roles": {},
   "countries": {
     "FR": 94,
+    "ES": 61,
     "DE": 145,
     "OTHER": 133,
-    "ES": 60,
-    "IT": 3,
-    "MULTI": 7
+    "MULTI": 7,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -40,6 +40,23 @@
       "url": "https://www.tiktok.com/@a3noticias/video/7708392805495803158",
       "published_at": "2026-11-15T13:41:04+00:00",
       "description": "🚅 Descarrila un tren de mercancías en Zarzalejo y obliga a cortar la línea entre Madrid y Ávila 👉 El maquinista ha sido trasladado al hospital con heridas leves 🎙️ Geme Gago  📲 Sigue toda la #actualidad en antena3noticias.com #Antena3Noticias #Noticias #News #NoticiasTikTok",
+      "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708390619017727265",
+      "username": "gppopular",
+      "url": "https://www.tiktok.com/@gppopular/video/7708390619017727265",
+      "published_at": "2026-11-15T13:32:33+00:00",
+      "description": "🛑 España no funciona.",
       "country": "ES",
       "country_method": "rules",
       "mobilization": null,
@@ -1055,6 +1072,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708332611952758048",
+      "username": "hirvingfleck",
+      "url": "https://www.tiktok.com/@hirvingfleck/video/7708332611952758048",
+      "published_at": "2026-11-15T09:47:32+00:00",
+      "description": "Rassemblement en cours devant le commissariat de police de Lons le Saunier en soutien aux camarades arrêtés lors du rassemblement contre la loi permis de tuer !  Stop à la répression !  #LFI  @Franceinsoumise",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708329797771955489",
       "username": "maripazbv7",
       "url": "https://www.tiktok.com/@maripazbv7/video/7708329797771955489",
@@ -1514,11 +1548,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -1531,11 +1565,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7521,23 +7555,6 @@
       "published_at": "2026-11-14T14:52:12+00:00",
       "description": "Actuellement enorme manif à lyon, 14 Novembre  #manifestation #manif #lyon #cgt #manifesting",
       "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708039498684173590",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7708039498684173590",
-      "published_at": "2026-11-14T14:49:44+00:00",
-      "description": "Gilets jaunes, organisations de jeunesse et syndicats appellent à un cinquième samedi de mobilisation contre la vie chère. A Besançon (Doubs), sur le parking Battant, lieu du rassemblement, l’ambiance est à la bonne humeur en ce début d'après-midi. La sono est à fond et les chants commencent à se faire entendre. #sinformersurtiktok #besancon #14novembre #doubs",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

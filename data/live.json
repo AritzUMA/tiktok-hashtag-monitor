@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T23:47:22.632452+00:00",
+  "generated_at": "2026-11-15T23:51:13.542860+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36564,
+    "total_unique_videos": 36565,
     "published_24h": 370,
-    "published_48h": 882,
-    "discovered_24h": 776,
-    "discovered_48h": 1605
+    "published_48h": 881,
+    "discovered_24h": 777,
+    "discovered_48h": 1606
   },
   "analysis": {
-    "embeddings_total": 36564,
+    "embeddings_total": 36565,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 370
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 131,
-    "IT": 1,
-    "FR": 56,
-    "DE": 110,
+    "OTHER": 132,
+    "DE": 109,
     "ES": 69,
+    "FR": 56,
+    "IT": 1,
     "MULTI": 3
   },
   "links": {
@@ -1792,6 +1792,23 @@
       "published_at": "2026-11-15T14:54:55+00:00",
       "description": "cr: bankmeister.berlin #berlin #genzregelt #genzregeltberlin #protest #acab",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708410269696822549",
+      "username": "lambsn2",
+      "url": "https://www.tiktok.com/@lambsn2/video/7708410269696822549",
+      "published_at": "2026-11-15T14:48:49+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4302,11 +4319,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "video_id": "7708252645034577174",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4319,11 +4336,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6297,23 +6314,6 @@
       "published_at": "2026-11-14T23:52:46+00:00",
       "description": "#valencia #fyp #parati #viral #back",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708178068317146400",
-      "username": "bankmeister_berlin",
-      "url": "https://www.tiktok.com/@bankmeister_berlin/video/7708178068317146400",
-      "published_at": "2026-11-14T23:47:46+00:00",
-      "description": "GenZ auf der Straße #genzregelt #berlin #demo",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

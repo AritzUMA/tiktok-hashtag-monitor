@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T22:52:33.358456+00:00",
+  "generated_at": "2026-11-15T22:55:46.822286+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36530,
-    "published_24h": 364,
-    "published_48h": 863,
-    "discovered_24h": 777,
-    "discovered_48h": 1609
+    "total_unique_videos": 36532,
+    "published_24h": 366,
+    "published_48h": 864,
+    "discovered_24h": 775,
+    "discovered_48h": 1611
   },
   "analysis": {
-    "embeddings_total": 36530,
+    "embeddings_total": 36532,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 364
+    "qwen_pending_24h": 366
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "DE": 112,
     "FR": 52,
-    "IT": 1,
+    "DE": 112,
+    "OTHER": 125,
     "ES": 71,
-    "OTHER": 123,
+    "IT": 1,
     "MULTI": 5
   },
   "links": {
@@ -74,6 +74,23 @@
       "url": "https://www.tiktok.com/@mariangelfriash/video/7708508182477557014",
       "published_at": "2026-11-15T21:08:50+00:00",
       "description": "Alquiler de pisos y habitaciones en la comunidad valenciana.  #alquilerespana #alquilervalencia #alquilarpiso",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708499778530856224",
+      "username": "interfac.idf",
+      "url": "https://www.tiktok.com/@interfac.idf/photo/7708499778530856224",
+      "published_at": "2026-11-15T20:36:10+00:00",
+      "description": "🔴 NOUVELLE JOURNÉE DE GRÈVE ET DE MANIFESTATION  Toutes et tous dans la rue le 17 novembre à l’appel de l’intersyndicale pour faire plier le gouvernement sur toutes nos revendications!  Le rendez vous du cortège de l’interfac sera bientôt publié.  Et rendez vous après la manifestation pour une assemblée générale interfac à 18h pour discuter des suites de la mobilisation!  Construisons la grève générale!",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2721,6 +2738,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708359188950437152",
+      "username": "l4ctuforyou",
+      "url": "https://www.tiktok.com/@l4ctuforyou/video/7708359188950437152",
+      "published_at": "2026-11-15T11:30:14+00:00",
+      "description": "🚨 MARDI : TOUT BLOQUÉ ? Mardi 17 novembre, les fonctionnaires sont appelés à la grève par la plupart de leurs syndicats : le point d'indice, base de leur salaire, est gelé pour la quatrième année de suite, et la réunion de vendredi à Matignon n'a débouché sur aucune annonce. Des syndicats de cheminots appellent aussi à la grève : les prévisions de trafic ne sont attendues que lundi, et en primaire, la mairie doit organiser un accueil minimum à partir de 25 % d'enseignants grévistes. Cette grève : tu la soutiens, ou elle te bloque ? Dis-le en commentaire 👇 Sources : Bulletin des Communes, C'est la grève, Mobility Center, Actu Alt Plus (13-14/11/2026) Illustrations générées — contenu IA #greve #17novembre #fonctionpublique #sncf #ecole #salaire #actu #france",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7707780140243111190",
       "username": "geeksu_anime",
       "url": "https://www.tiktok.com/@geeksu_anime/video/7707780140243111190",
@@ -2925,11 +2959,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706044903192612118",
-      "username": "gtaviradarhq",
-      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
+      "video_id": "7707683883826908438",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
+      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2942,11 +2976,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707683883826908438",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
+      "video_id": "7706044903192612118",
+      "username": "gtaviradarhq",
+      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4183,11 +4217,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4200,11 +4234,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

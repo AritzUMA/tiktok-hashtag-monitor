@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T07:37:34.582007+00:00",
+  "generated_at": "2026-11-15T07:40:52.721925+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36004,
-    "published_24h": 452,
-    "published_48h": 830,
-    "discovered_24h": 849,
-    "discovered_48h": 1569
+    "total_unique_videos": 36005,
+    "published_24h": 453,
+    "published_48h": 831,
+    "discovered_24h": 848,
+    "discovered_48h": 1570
   },
   "analysis": {
-    "embeddings_total": 36004,
+    "embeddings_total": 36005,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 452
+    "qwen_pending_24h": 453
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 120,
     "FR": 107,
-    "OTHER": 161,
     "ES": 55,
-    "MULTI": 5,
-    "IT": 4
+    "OTHER": 162,
+    "DE": 120,
+    "IT": 4,
+    "MULTI": 5
   },
   "links": {
     "qr_videos": 0,
@@ -6784,11 +6784,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6801,11 +6801,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7096,6 +7096,23 @@
       "published_at": "2026-11-14T10:03:20+00:00",
       "description": "Escucha la nueva 🎶 de @Diveana ay chamooooooo 💃 😁❤️ #diveana #valencia #españa #venezuela",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7707965585958636823",
+      "username": "ig.metall.muenster",
+      "url": "https://www.tiktok.com/@ig.metall.muenster/video/7707965585958636823",
+      "published_at": "2026-11-14T10:02:59+00:00",
+      "description": "Tarifrunde Metall und Elektro: Mit Lupe, Taschenlampe und Mikroskop gesucht – ein echtes Angebot der Arbeitgeber haben wir nicht gefunden. Was hättest du darin gefunden? #IGMetall #Tarifrunde #Warnstreik #MetallUndElektro",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T14:55:49.646857+00:00",
+  "generated_at": "2026-11-15T14:59:37.684259+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36245,
+    "total_unique_videos": 36248,
     "published_24h": 440,
     "published_48h": 857,
-    "discovered_24h": 871,
-    "discovered_48h": 1603
+    "discovered_24h": 874,
+    "discovered_48h": 1604
   },
   "analysis": {
-    "embeddings_total": 36245,
+    "embeddings_total": 36248,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 440
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 134,
+    "OTHER": 136,
+    "FR": 89,
+    "IT": 3,
     "DE": 145,
     "ES": 60,
-    "FR": 91,
-    "MULTI": 7,
-    "IT": 3
+    "MULTI": 7
   },
   "links": {
     "qr_videos": 0,
@@ -664,6 +664,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708349747949571360",
+      "username": "lebgdu77fr",
+      "url": "https://www.tiktok.com/@lebgdu77fr/photo/7708349747949571360",
+      "published_at": "2026-11-15T10:54:00+00:00",
+      "description": "grève mardi 17",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708347250186947872",
       "username": "freundeskreis.vid",
       "url": "https://www.tiktok.com/@freundeskreis.vid/video/7708347250186947872",
@@ -721,6 +738,23 @@
       "published_at": "2026-11-15T10:30:02+00:00",
       "description": "#CDU #politik #breakingnews #worldnews #deutschland",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708342448417688864",
+      "username": "zoptrafik",
+      "url": "https://www.tiktok.com/@zoptrafik/video/7708342448417688864",
+      "published_at": "2026-11-15T10:25:37+00:00",
+      "description": "Nancy : Lierre envahissant et mur dégradé : le juge impose la réfection et le retrait. #nancy #tribunal #justice #voisinage",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -7470,40 +7504,6 @@
       "published_at": "2026-11-14T15:11:05+00:00",
       "description": "Mi madre diciendo cosas de la Generación Z #parati #humor #madre #viral #genz",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708041737490533654",
-      "username": "lestrepublicain",
-      "url": "https://www.tiktok.com/@lestrepublicain/video/7708041737490533654",
-      "published_at": "2026-11-14T14:58:25+00:00",
-      "description": "Gilets jaunes, organisations de jeunesse et syndicats appellent à un cinquième samedi de mobilisation contre la vie chère. A Nancy (Meurthe-et-Moselle), le cortège s'est élancé en début d'après-midi. Près d'un millier de personnes défilent dans les rues. Un canon à eau a été utilisé. #sinformersurtiktok #social #police #nancy",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708041507286125857",
-      "username": "laprovence_",
-      "url": "https://www.tiktok.com/@laprovence_/video/7708041507286125857",
-      "published_at": "2026-11-14T14:57:51+00:00",
-      "description": "🔴 Mobilisation à Marseille : la tension monte rue Guibal entre la Belle-de-Mai et Saint-Charles #info #actu #sinformersurktiktok #marseille",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

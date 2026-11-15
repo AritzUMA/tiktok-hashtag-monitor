@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T06:38:04.050584+00:00",
+  "generated_at": "2026-11-15T06:41:05.448598+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35973,
-    "published_24h": 445,
-    "published_48h": 814,
-    "discovered_24h": 854,
-    "discovered_48h": 1544
+    "total_unique_videos": 35975,
+    "published_24h": 447,
+    "published_48h": 816,
+    "discovered_24h": 855,
+    "discovered_48h": 1545
   },
   "analysis": {
-    "embeddings_total": 35973,
+    "embeddings_total": 35975,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 445
+    "qwen_pending_24h": 447
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 163,
     "DE": 118,
-    "OTHER": 162,
-    "FR": 105,
+    "FR": 106,
     "ES": 52,
-    "IT": 4,
-    "MULTI": 4
+    "MULTI": 4,
+    "IT": 4
   },
   "links": {
     "qr_videos": 0,
@@ -1843,6 +1843,23 @@
       "published_at": "2026-11-14T20:09:49+00:00",
       "description": "Was denken die Menschen wirklich über die Proteste? 👀🎤 Ich habe auf der Straße nachgefragt und die Antworten... hört selbst rein 😎 Jetzt interessiert mich deine Meinung: Sind solche Proteste notwendig, wirkungslos oder gehen sie manchmal zu weit? Schreib es in die Kommentare! 👇 #Proteste #Straßenumfrage #fyp  #Deutschland #genz",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708121860310830358",
+      "username": "lemanbleutv",
+      "url": "https://www.tiktok.com/@lemanbleutv/video/7708121860310830358",
+      "published_at": "2026-11-14T20:09:41+00:00",
+      "description": "Des milliers de personnes ont manifesté samedi contre l’austérité à l’appel d’une large coalition qui regroupe des syndicats, des associations et les partis de gauche. En ligne de mire: les mesures d’économies budgétaires annoncées par les autorités. Selon les organisateurs, les manifestants étaient entre 6000 et 7000, et 3500, selon la police genevoise. Aucun débordement n’a été signalé. Parti des Charmilles sur la rive droite, le cortège a rejoint au son des tambours le siège de l’Hospice général (HG), à Rive en passant par le Pont du Mont-Blanc. La mobilisation s’est terminée avec un concert d’un orchestre symphonique composé d’une cinquantaine de musiciens. Les milieux culturels figuraient en bonne place dans cette manifestation. « Couper l’art, c’est couper dans le vivant », soulignaient de nombreuses pancartes. « Non, non aux coupes dans la culture à Genève », affichait une des banderoles de tête de cortège. Les secteurs de la santé, du social et de l’éducation étaient aussi largement présents dans le défilé. Tous répondaient à la coalition contre l’austérité, qui dénonce des attaques multiples contre la population. Lancé au début octobre par le Cartel intersyndical du personnel de l’Etat et du secteur subventionné et la CGAS, ce mouvement fustige les conséquences d’une répartition profondément inéquitable des richesses et des ressources financières du canton.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5050,6 +5067,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708025954181844257",
+      "username": "parisreportage",
+      "url": "https://www.tiktok.com/@parisreportage/video/7708025954181844257",
+      "published_at": "2026-11-14T13:57:31+00:00",
+      "description": "14/11/26. #paris #france #manifestation #rassemblement #revolution",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708025918651927841",
       "username": "steffannethe",
       "url": "https://www.tiktok.com/@steffannethe/video/7708025918651927841",
@@ -5339,11 +5373,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018807750528288",
-      "username": "atopos_journal",
-      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -5373,11 +5407,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "video_id": "7708018807750528288",
+      "username": "atopos_journal",
+      "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6444,11 +6478,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6461,11 +6495,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7277,9 +7311,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937663508172054",
+      "video_id": "7707937661251489046",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",
@@ -7294,9 +7328,9 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707937661251489046",
+      "video_id": "7707937663508172054",
       "username": "user9426169882361",
-      "url": "https://www.tiktok.com/@user9426169882361/video/7707937661251489046",
+      "url": "https://www.tiktok.com/@user9426169882361/video/7707937663508172054",
       "published_at": "2026-11-14T08:14:58+00:00",
       "description": "Krawalle in Frankfurt Wie konnte es so weit kommen",
       "country": "DE",

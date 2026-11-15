@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T16:11:57.451239+00:00",
+  "generated_at": "2026-11-15T16:15:40.651597+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36279,
-    "published_24h": 405,
-    "published_48h": 849,
-    "discovered_24h": 868,
-    "discovered_48h": 1604
+    "total_unique_videos": 36284,
+    "published_24h": 408,
+    "published_48h": 851,
+    "discovered_24h": 873,
+    "discovered_48h": 1600
   },
   "analysis": {
-    "embeddings_total": 36279,
+    "embeddings_total": 36284,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 405
+    "qwen_pending_24h": 408
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
+    "FR": 72,
+    "OTHER": 127,
     "DE": 138,
-    "OTHER": 123,
-    "FR": 73,
-    "ES": 61,
     "MULTI": 7,
+    "ES": 61,
     "IT": 3
   },
   "links": {
@@ -143,6 +143,23 @@
       "published_at": "2026-11-15T14:01:16+00:00",
       "description": "Según han indicado a EFE fuentes del servicio de emergencias de la Comunidad de Madrid, el SUMMA 112, el maquinista ha sido atendido por los servicios médicos en torno a las 3.48 horas de este domingo, tras salirse de la vía el tren que conducía.#ultimahora🚨",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708393204256623885",
+      "username": "conpelosysenales.es",
+      "url": "https://www.tiktok.com/@conpelosysenales.es/video/7708393204256623885",
+      "published_at": "2026-11-15T13:43:09+00:00",
+      "description": "Descarrila un tren de mercancías en Zarzalejo (Madrid) y se corta la línea Madrid-Ávila. El maquinista resultó herido leve, según elDiario.es. Vídeo: https://youtube.com/shorts/94aScofNA3c",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1497,6 +1514,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708252645034577174",
       "username": "actufranceexpress",
       "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
@@ -1514,12 +1548,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
-      "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
-      "country": "FR",
+      "video_id": "7708319772110359840",
+      "username": "didierlozach8",
+      "url": "https://www.tiktok.com/@didierlozach8/video/7708319772110359840",
+      "published_at": "2026-11-15T08:57:42+00:00",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1820,11 +1854,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -1837,11 +1871,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5407,6 +5441,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708106863396670772",
+      "username": "obba.okan.aye",
+      "url": "https://www.tiktok.com/@obba.okan.aye/video/7708106863396670772",
+      "published_at": "2026-11-14T19:11:31+00:00",
+      "description": "#maquinista #",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708106166097759509",
       "username": "_baixinho",
       "url": "https://www.tiktok.com/@_baixinho/video/7708106166097759509",
@@ -6784,6 +6835,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708065571241266465",
+      "username": "236_cgm",
+      "url": "https://www.tiktok.com/@236_cgm/video/7708065571241266465",
+      "published_at": "2026-11-14T16:31:13+00:00",
+      "description": "Un rassemblement automobile de passionnés, sans débordement, tous les samedis à 21h! 🏁🏎️ #rassemblement #automobile #rasso #69",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708065517034081569",
       "username": "irani.nationalist",
       "url": "https://www.tiktok.com/@irani.nationalist/video/7708065517034081569",
@@ -6892,23 +6960,6 @@
       "published_at": "2026-11-14T16:16:44+00:00",
       "description": "Mobilisation à #Chambéry : plusieurs dizaines de manifestants dans les rues, accompagnés d’une fanfare. #14novembre #inflation #éducation #manifestations",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708061330145627424",
-      "username": "agon7t",
-      "url": "https://www.tiktok.com/@agon7t/video/7708061330145627424",
-      "published_at": "2026-11-14T16:14:46+00:00",
-      "description": "Des militants d’extrême droite défilent toujours dans les rues de Lyon, malgré le couvre-feu et l’interdiction de rassemblement. Pourquoi tolérer encore les défilés du GUD et d’autres groupuscules racistes ? « AU-DESSUS DES LOIS » Toujours disponible sur toutes les plateformes !! BEAT & DA VISUEL @Nairu11  REC MIX MASTER 444jinsung #antiracisme #manif #rapfr #audessusdeslois",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

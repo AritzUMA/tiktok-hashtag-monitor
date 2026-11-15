@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T05:52:32.212430+00:00",
+  "generated_at": "2026-11-15T05:55:42.947997+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35952,
-    "published_24h": 432,
-    "published_48h": 806,
-    "discovered_24h": 848,
-    "discovered_48h": 1523
+    "total_unique_videos": 35956,
+    "published_24h": 436,
+    "published_48h": 808,
+    "discovered_24h": 851,
+    "discovered_48h": 1527
   },
   "analysis": {
-    "embeddings_total": 35952,
+    "embeddings_total": 35956,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 432
+    "qwen_pending_24h": 436
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 158,
-    "DE": 109,
-    "ES": 50,
+    "DE": 113,
     "FR": 107,
-    "MULTI": 4,
-    "IT": 4
+    "OTHER": 158,
+    "ES": 50,
+    "IT": 4,
+    "MULTI": 4
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,74 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7708263855599652126",
+      "username": "user7774425730284",
+      "url": "https://www.tiktok.com/@user7774425730284/video/7708263855599652126",
+      "published_at": "2026-11-15T05:20:52+00:00",
+      "description": "#Berlin #GenZRegelt #Demonstration #Protest #Deutschland",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708262603448962318",
+      "username": "user98109923427508",
+      "url": "https://www.tiktok.com/@user98109923427508/video/7708262603448962318",
+      "published_at": "2026-11-15T05:16:12+00:00",
+      "description": "#Berlin #GenZRegelt #Demonstration #Protest #Deutschland",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708260641236094221",
+      "username": "straben.radar",
+      "url": "https://www.tiktok.com/@straben.radar/video/7708260641236094221",
+      "published_at": "2026-11-15T05:08:33+00:00",
+      "description": "#Berlin #GenZRegelt #Demonstration #Protest #Deutschland",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708259929815108895",
+      "username": "markshahsrf",
+      "url": "https://www.tiktok.com/@markshahsrf/video/7708259929815108895",
+      "published_at": "2026-11-15T05:05:38+00:00",
+      "description": "#Berlin #GenZRegelt #Demonstration #Protest #Deutschland@",
+      "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7708238307725020468",
       "username": "anadoluagency",
@@ -5084,23 +5152,6 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
-      "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
       "video_id": "7708018800305736993",
       "username": "actumorbihan",
       "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
@@ -5123,6 +5174,23 @@
       "url": "https://www.tiktok.com/@atopos_journal/video/7708018807750528288",
       "published_at": "2026-11-14T13:29:44+00:00",
       "description": "Face aux arguments patronaux contre l'augmentation des salaires, Thomas Vacheron (dirigeant à la CGT) rétablit la vérité sur le SMIC, les cotisations sociales et le salaire socialisé. Une mise au point cash sur la répartition des richesses, les exonérations d'cotisations et la nécessité d'augmenter le pouvoir d'achat. #ThomasVacheron #CGT #Smic #Salaires #PouvoirDachat",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "published_at": "2026-11-14T13:29:44+00:00",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6189,11 +6257,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6206,11 +6274,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6733,11 +6801,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707833305772690710",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
+      "video_id": "7707500601722014998",
+      "username": "trains_news",
+      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
+      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -6750,11 +6818,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707500601722014998",
-      "username": "trains_news",
-      "url": "https://www.tiktok.com/@trains_news/video/7707500601722014998",
+      "video_id": "7707833305772690710",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7707833305772690710",
       "published_at": "2026-11-14T09:00:00+00:00",
-      "description": "Bordeaux–Toulouse en 1 h 05… mais pas avant 2032. Vous la prendrez ? 🚄 Le 5 novembre, SNCF Réseau a validé les deux grands marchés du chantier, avec les gares nouvelles d'Agen-Brax et de Montauban-Bressols. 327 km, environ 14 Md€, mise en service pas avant 2032 selon la presse spécialisée. L'article : lien dans la bio. #LGV #BordeauxToulouse #GPSO #TrainsNews",
+      "description": "🚨 70 000 POLICIERS MOBILISÉS : que va-t-il se passer ce samedi ? Manifestations du samedi 14 novembre 2026 : environ 70 000 policiers et gendarmes sont mobilisés en France. Entre 50 et 60 cortèges sont attendus, avec plusieurs mouvements qui pourraient converger à Paris. Voici les chiffres annoncés par le ministère de l'Intérieur et les enjeux de cette journée de mobilisation. #Manifestation #Police #GiletsJaunes #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T14:59:37.684259+00:00",
+  "generated_at": "2026-11-15T15:03:10.364261+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36248,
+    "total_unique_videos": 36250,
     "published_24h": 440,
-    "published_48h": 857,
-    "discovered_24h": 874,
+    "published_48h": 855,
+    "discovered_24h": 875,
     "discovered_48h": 1604
   },
   "analysis": {
-    "embeddings_total": 36248,
+    "embeddings_total": 36250,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 440
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 136,
-    "FR": 89,
-    "IT": 3,
     "DE": 145,
     "ES": 60,
-    "MULTI": 7
+    "FR": 89,
+    "OTHER": 136,
+    "MULTI": 7,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -1259,11 +1259,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "video_id": "7708252645034577174",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -1276,11 +1276,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

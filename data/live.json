@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T19:51:37.810175+00:00",
+  "generated_at": "2026-11-15T19:55:18.287724+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36429,
-    "published_24h": 393,
+    "total_unique_videos": 36431,
+    "published_24h": 391,
     "published_48h": 872,
     "discovered_24h": 846,
-    "discovered_48h": 1593
+    "discovered_48h": 1591
   },
   "analysis": {
-    "embeddings_total": 36429,
+    "embeddings_total": 36431,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 393
+    "qwen_pending_24h": 391
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
+    "ES": 74,
     "OTHER": 119,
-    "ES": 75,
-    "FR": 60,
+    "FR": 59,
     "DE": 131,
     "MULTI": 7,
     "IT": 1
@@ -3384,11 +3384,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -3401,11 +3401,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6671,40 +6671,6 @@
       "published_at": "2026-11-14T20:05:11+00:00",
       "description": "A giant balloon depicting Palestinian child Hind Rajab, who was killed by Israeli forces, flies above a COP31 climate march in Turkiye as demonstrators demand justice for Gaza's children.",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708118117062429985",
-      "username": "josevtegil",
-      "url": "https://www.tiktok.com/@josevtegil/video/7708118117062429985",
-      "published_at": "2026-11-14T19:55:07+00:00",
-      "description": "#fyp #valencia #gitano",
-      "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708117995251535111",
-      "username": "corazonrevolucionario",
-      "url": "https://www.tiktok.com/@corazonrevolucionario/video/7708117995251535111",
-      "published_at": "2026-11-14T19:54:48+00:00",
-      "description": "\"Tengo dos pasiones\" La canción de la revuelta en Francia \"Tengo dos pasiones La música, la revolución Vivan los bloqueos, vivan los sabotages Las ZAD (zona de auto defensa) y las manifestaciones salvajes\" #grève #GreveGenerale",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

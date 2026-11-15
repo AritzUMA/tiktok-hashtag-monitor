@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T08:51:38.634274+00:00",
+  "generated_at": "2026-11-15T08:55:05.894742+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36035,
+    "total_unique_videos": 36038,
     "published_24h": 459,
-    "published_48h": 844,
-    "discovered_24h": 840,
-    "discovered_48h": 1586
+    "published_48h": 843,
+    "discovered_24h": 841,
+    "discovered_48h": 1589
   },
   "analysis": {
-    "embeddings_total": 36035,
+    "embeddings_total": 36038,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 459
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 161,
-    "DE": 124,
+    "OTHER": 160,
+    "DE": 125,
     "FR": 109,
     "ES": 57,
-    "IT": 3,
-    "MULTI": 5
+    "MULTI": 5,
+    "IT": 3
   },
   "links": {
     "qr_videos": 0,
@@ -92,6 +92,23 @@
       "published_at": "2026-11-15T07:30:00+00:00",
       "description": "+++ EILMELDUNG +++ 🚨 Bei der „Gen Z regelt“-Demonstration in Berlin kam es zu Zwischenfällen. Rund 1.200 Menschen demonstrierten, 700 Polizisten waren im Einsatz und 22 Personen wurden vorläufig festgenommen. Was haltet ihr von den Protesten? #Berlin #GenZ #Eilmeldung #Nachrichten #Politik",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708294736783740192",
+      "username": "mia_zaid",
+      "url": "https://www.tiktok.com/@mia_zaid/video/7708294736783740192",
+      "published_at": "2026-11-15T07:20:41+00:00",
+      "description": "À Paris, l’acte V contre la vie chère a réuni 24 000 personnes selon l’Intérieur, jusqu’à 100 000 selon les organisateurs. Le cortège République–Nation s’est globalement déroulé dans le calme, avant une arrivée chaotique place de la Nation : cortège de tête coupé en deux, charges policières et tirs de grenades lacrymogènes.",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -193,7 +210,7 @@
       "url": "https://www.tiktok.com/@auendienstmitarbei/video/7708285610997452034",
       "published_at": "2026-11-15T06:45:21+00:00",
       "description": "‼️ BERLIN ESKALIERT SCHON WIEDER ‼️ 1 #fyp #breakingnews #berlin",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6036,11 +6053,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018800305736993",
-      "username": "actumorbihan",
-      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
+      "video_id": "7708018792932150561",
+      "username": "angersvillactu",
+      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
+      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -6053,11 +6070,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708018792932150561",
-      "username": "angersvillactu",
-      "url": "https://www.tiktok.com/@angersvillactu/video/7708018792932150561",
+      "video_id": "7708018800305736993",
+      "username": "actumorbihan",
+      "url": "https://www.tiktok.com/@actumorbihan/video/7708018800305736993",
       "published_at": "2026-11-14T13:29:44+00:00",
-      "description": "🪧🥁 Nouveau samedi de mobilisation contre la vie chère et pour de meilleures conditions d'apprentissage à Angers qui débute en fanfare. #Angers #manifestation #14octobre",
+      "description": "👉 Peu de monde en ce début de rassemblement (environ 150 personnes pour l'instant) lors de la mobilisation du 14 novembre 2026 à Vannes, mais un cercle s'est formé parmi les manifestants. #vannes #morbihan #CapCut",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -7141,11 +7158,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978503743900950",
+      "video_id": "7707978496752094486",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7158,11 +7175,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707978496752094486",
+      "video_id": "7707978503743900950",
       "username": "william.n391",
-      "url": "https://www.tiktok.com/@william.n391/video/7707978496752094486",
+      "url": "https://www.tiktok.com/@william.n391/video/7707978503743900950",
       "published_at": "2026-11-14T10:53:22+00:00",
-      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (3)",
+      "description": "Antifa in Köln Protest gegen einen Naziaufmarsch (2)",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -7810,23 +7827,6 @@
       "published_at": "2026-11-14T08:56:43+00:00",
       "description": "🔵 Sánchez no ha hecho ni una vivienda en Valencia en 8 años. 🗣️ @María José Catalá En @Radio Valencia  #29N #ElCambioNecesario #Valencia #PSOE #vivienda",
       "country": "ES",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7707947727866383649",
-      "username": "free.israel1272",
-      "url": "https://www.tiktok.com/@free.israel1272/video/7707947727866383649",
-      "published_at": "2026-11-14T08:54:03+00:00",
-      "description": "Greta thunberg laughing at the people who still attend her “Friday for future” protests against climate change  #gretathunberg #climatechange",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

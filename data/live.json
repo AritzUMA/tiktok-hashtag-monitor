@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-15T04:00:14.261433+00:00",
+  "generated_at": "2026-11-15T04:03:27.781103+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 35907,
-    "published_24h": 404,
-    "published_48h": 775,
-    "discovered_24h": 848,
-    "discovered_48h": 1502
+    "total_unique_videos": 35909,
+    "published_24h": 406,
+    "published_48h": 777,
+    "discovered_24h": 847,
+    "discovered_48h": 1501
   },
   "analysis": {
-    "embeddings_total": 35907,
+    "embeddings_total": 35909,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 404
+    "qwen_pending_24h": 406
   },
   "mobilization": {
     "yes": 0,
@@ -21,9 +21,9 @@
   },
   "roles": {},
   "countries": {
-    "FR": 99,
+    "OTHER": 151,
     "DE": 102,
-    "OTHER": 149,
+    "FR": 99,
     "ES": 47,
     "IT": 4,
     "MULTI": 3
@@ -1333,6 +1333,23 @@
       "published_at": "2026-11-14T19:37:40+00:00",
       "description": "La manifestation contre la vie chère a rassemblé entre 3.500 personnes selon les syndicats et 1.600 selon la préfecture ce samedi à Nice, dans une ambiance festive et bon enfant. Aucun incident n’a été recensé. la mobilisation était moins importante que la semaine passée où 5000 manifestants étaient réunis mais les revendications demeurent intactes.",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708111919189724436",
+      "username": "simplyy.jamieee",
+      "url": "https://www.tiktok.com/@simplyy.jamieee/video/7708111919189724436",
+      "published_at": "2026-11-14T19:31:11+00:00",
+      "description": "While everyone else is chasing career growth, Alex is happy to just maintain #millennialmanager #pov #genz #officehumor",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3372,6 +3389,23 @@
       "url": "https://www.tiktok.com/@lebgdu77fr/photo/7708050633965817120",
       "published_at": "2026-11-14T15:33:16+00:00",
       "description": "grève jeudi 17 novembre",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708050027477880086",
+      "username": "edyyxy",
+      "url": "https://www.tiktok.com/@edyyxy/video/7708050027477880086",
+      "published_at": "2026-11-14T15:30:58+00:00",
+      "description": "Gen eu când lucram la Mega #profi #genz #casier #pov #sketch",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

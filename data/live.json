@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16T06:11:41.803314+00:00",
+  "generated_at": "2026-11-16T06:14:58.400612+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36750,
+    "total_unique_videos": 36751,
     "published_24h": 401,
     "published_48h": 943,
     "discovered_24h": 786,
-    "discovered_48h": 1638
+    "discovered_48h": 1637
   },
   "analysis": {
-    "embeddings_total": 36750,
+    "embeddings_total": 36751,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 401
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "ES": 83,
-    "OTHER": 155,
     "FR": 61,
     "DE": 97,
+    "ES": 83,
+    "OTHER": 155,
     "MULTI": 4,
     "IT": 1
   },
@@ -307,12 +307,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -324,12 +324,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

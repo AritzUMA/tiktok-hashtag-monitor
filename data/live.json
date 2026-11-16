@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T08:58:37.065546+00:00",
+  "generated_at": "2026-11-16T09:02:09.744868+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 36829,
-    "published_24h": 397,
-    "published_48h": 961,
+    "published_24h": 395,
+    "published_48h": 956,
     "discovered_24h": 787,
-    "discovered_48h": 1631
+    "discovered_48h": 1630
   },
   "analysis": {
     "embeddings_total": 36829,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 397
+    "qwen_pending_24h": 395
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
+    "OTHER": 161,
+    "FR": 51,
+    "DE": 95,
     "ES": 83,
-    "FR": 53,
-    "DE": 94,
-    "OTHER": 162,
     "MULTI": 4,
     "IT": 1
   },
@@ -817,12 +817,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -834,12 +834,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1944,7 +1944,7 @@
       "url": "https://www.tiktok.com/@breakingnewsgermany3/video/7708487247691140385",
       "published_at": "2026-11-15T19:47:33+00:00",
       "description": "#Berlin #Unfall #trauer #Fahrrad",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6739,40 +6739,6 @@
       "published_at": "2026-11-15T09:04:51+00:00",
       "description": "",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
-      "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
-      "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
-      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

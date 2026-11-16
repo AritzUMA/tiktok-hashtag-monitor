@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T17:21:19.931622+00:00",
+  "generated_at": "2026-11-16T17:26:03.816761+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 37131,
-    "published_24h": 366,
-    "published_48h": 923,
-    "discovered_24h": 804,
-    "discovered_48h": 1664
+    "total_unique_videos": 37133,
+    "published_24h": 367,
+    "published_48h": 920,
+    "discovered_24h": 803,
+    "discovered_48h": 1663
   },
   "analysis": {
-    "embeddings_total": 37131,
+    "embeddings_total": 37133,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 366
+    "qwen_pending_24h": 367
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 63,
-    "DE": 99,
-    "FR": 47,
+    "MULTI": 4,
     "OTHER": 140,
+    "FR": 47,
+    "DE": 100,
     "IT": 13,
-    "MULTI": 4
+    "ES": 63
   },
   "links": {
     "qr_videos": 0,
@@ -34,6 +34,23 @@
     "whatsapp_videos": 0
   },
   "videos": [
+    {
+      "video_id": "7708812251230113057",
+      "username": "lfi_strasbourg",
+      "url": "https://www.tiktok.com/@lfi_strasbourg/video/7708812251230113057",
+      "published_at": "2026-11-16T16:48:42+00:00",
+      "description": "✅🚨🫵STRASBOURG. MARDI 17 NOVEMBRE : GRÈVE GÉNÉRALE ET MANIFESTATION ! Face à la répression du mouvement jeune et aux miettes du gouvernement, maintenons la pression !  📍14h à République.",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
     {
       "video_id": "7708812007385992470",
       "username": "france3hautsdefrance",
@@ -754,7 +771,7 @@
       "url": "https://www.tiktok.com/@germania1.0/video/7708749666254458144",
       "published_at": "2026-11-16T12:45:52+00:00",
       "description": "Nach Moslem-Protesten: SPD knickt bei Islamismus-Warnung ein Der Bremer Verfassungsschutz hatte mit einer Plakatkampagne vor der schleichenden Unterwanderung durch legalistischen Islamismus gewarnt – dargestellt als Wolf im Schafspelz mit dem Hinweis „Freundlich im Auftreten. Antidemokratisch im Kern.“ Die Aktion sollte auf Netzwerke wie die Muslimbruderschaft aufmerksam machen, die über Vereine und politische Kontakte Einfluss nehmen wollen. Moslemische Verbände, allen voran die Schura Bremen, liefen Sturm und forderten sofortigen Stopp sowie eine Entschuldigung. Nur zehn Tage nach dem Start zog SPD-Innensenatorin Eva Högl die Plakate wieder zurück. Das Ziel sei richtig gewesen, die Umsetzung jedoch nicht. Viele Muslime hätten sich getroffen gefühlt. Noch im Juni hatte Högl selbst vor der anhaltenden Gefahr durch Islamismus gewarnt. Nun verschwinden die öffentlichen Hinweise – die Gefahr bleibt. https://report24.news/nach-moslem-protesten-spd-knickt-bei-islamismus-warnung-ein/",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3333,12 +3350,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708565381740383510",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
+      "video_id": "7708561086773038358",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
-      "country": "OTHER",
+      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3350,12 +3367,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708561086773038358",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
+      "video_id": "7708565381740383510",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
-      "country": "FR",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3894,12 +3911,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3911,12 +3928,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

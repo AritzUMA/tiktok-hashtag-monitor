@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T03:25:31.916498+00:00",
+  "generated_at": "2026-11-16T03:33:23.249969+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36677,
-    "published_24h": 379,
+    "total_unique_videos": 36679,
+    "published_24h": 380,
     "published_48h": 906,
-    "discovered_24h": 780,
-    "discovered_48h": 1633
+    "discovered_24h": 779,
+    "discovered_48h": 1634
   },
   "analysis": {
-    "embeddings_total": 36677,
+    "embeddings_total": 36679,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 379
+    "qwen_pending_24h": 380
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 72,
-    "DE": 107,
     "FR": 59,
+    "ES": 73,
+    "DE": 107,
     "OTHER": 137,
-    "IT": 1,
-    "MULTI": 3
+    "MULTI": 3,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -296,6 +296,23 @@
       "published_at": "2026-11-15T22:06:14+00:00",
       "description": "Demonstrieren ja, randalieren nein! 👎🏾 #genz #proteste #deutschland #demos #fürdich",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708521763604270368",
+      "username": "ekaterina_super_super",
+      "url": "https://www.tiktok.com/@ekaterina_super_super/video/7708521763604270368",
+      "published_at": "2026-11-15T22:01:28+00:00",
+      "description": "NUEVO DESCARRILAMIENTO DE TREN ... POR FALTA DE INVERSIÓN EN LA INFRAESTRUCTURA. Un tren de mercancías ha descarrilado en la madrugada de este domingo en la vía que une Madrid y Ávila a la altura de la localidad madrileña de Zarzalejo y el maquinista que lo conducía ha resultado herido leve. #accidentetren #mercancías #tren #madrid #transporte",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

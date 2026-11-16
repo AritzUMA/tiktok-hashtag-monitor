@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T01:33:00.755502+00:00",
+  "generated_at": "2026-11-16T01:36:59.496216+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 36630,
-    "published_24h": 366,
+    "published_24h": 365,
     "published_48h": 888,
-    "discovered_24h": 782,
-    "discovered_48h": 1621
+    "discovered_24h": 781,
+    "discovered_48h": 1620
   },
   "analysis": {
     "embeddings_total": 36630,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 366
+    "qwen_pending_24h": 365
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "FR": 58,
-    "MULTI": 2,
-    "OTHER": 135,
+    "OTHER": 134,
     "ES": 66,
+    "FR": 58,
     "DE": 104,
+    "MULTI": 2,
     "IT": 1
   },
   "links": {
@@ -6228,23 +6228,6 @@
       "url": "https://www.tiktok.com/@sebastianromero129/video/7708208032970198293",
       "published_at": "2026-11-15T01:44:03+00:00",
       "description": "Me proyecte lo admito #music #sobrino #sebas #fokinvibra #genz",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708205579193339169",
-      "username": "salut_cest_brest",
-      "url": "https://www.tiktok.com/@salut_cest_brest/video/7708205579193339169",
-      "published_at": "2026-11-15T01:34:39+00:00",
-      "description": "#brest #finistere #manifestation #mobilisation #14novembre",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

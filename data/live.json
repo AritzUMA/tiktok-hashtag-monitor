@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T00:56:48.866571+00:00",
+  "generated_at": "2026-11-16T01:00:03.810424+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36607,
-    "published_24h": 365,
-    "published_48h": 885,
+    "total_unique_videos": 36610,
+    "published_24h": 364,
+    "published_48h": 883,
     "discovered_24h": 781,
     "discovered_48h": 1612
   },
   "analysis": {
-    "embeddings_total": 36607,
+    "embeddings_total": 36610,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 365
+    "qwen_pending_24h": 364
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 104,
     "OTHER": 135,
-    "FR": 58,
+    "FR": 57,
+    "DE": 104,
     "ES": 65,
-    "MULTI": 2,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 2
   },
   "links": {
     "qr_videos": 0,
@@ -210,6 +210,23 @@
       "url": "https://www.tiktok.com/@tagesschau/video/7708506727469042966",
       "published_at": "2026-11-15T21:30:00+00:00",
       "description": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen. #Prag #Massenprotest #Rundfunkreform #News #tagesschau",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708509716489588001",
+      "username": "pxrzclipz",
+      "url": "https://www.tiktok.com/@pxrzclipz/video/7708509716489588001",
+      "published_at": "2026-11-15T21:14:47+00:00",
+      "description": "Folgt für mehr Clips! @AZY @jstin #jstin #einbruch #protest #viral #fyp",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4880,11 +4897,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4897,11 +4914,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6194,40 +6211,6 @@
       "url": "https://www.tiktok.com/@balaustory/video/7708196745712291080",
       "published_at": "2026-11-15T01:00:28+00:00",
       "description": "Salam gen z… sarapan mana harini?",
-      "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708196246149778721",
-      "username": "camdiafr",
-      "url": "https://www.tiktok.com/@camdiafr/video/7708196246149778721",
-      "published_at": "2026-11-15T00:58:27+00:00",
-      "description": "FRANCE🇫🇷🚨| ce Samedi 14 Novembre à Paris, des écoles d’arts mobilisés dans la manifestation avec la création de plusieurs chars. #france #manifestation #paris #14Novembre #info",
-      "country": "FR",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708195983519255841",
-      "username": "actuterrain0",
-      "url": "https://www.tiktok.com/@actuterrain0/video/7708195983519255841",
-      "published_at": "2026-11-15T00:57:02+00:00",
-      "description": "Le retour de Marcus Thuram relance tout : avec de bonnes performances, les portes des Bleus restent ouvertes. Premier rassemblement du nouveau staff, ambiance au beau fixe ! #ÉquipeDeFrance #Bleus #MarcusThuram #FootballFrançais",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,

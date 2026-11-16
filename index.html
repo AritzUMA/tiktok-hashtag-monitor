@@ -462,17 +462,7 @@ canvas {
      *   ?view=all
      */
 
-    const ACTIVE_VIEW =
-        (
-            params.get(
-                "view"
-            )
-            || "mobilization"
-        ).toLowerCase()
-        === "all"
-        ? "all"
-        : "mobilization";
-
+    const ACTIVE_VIEW = "all";
 
     const originalFetch =
         window.fetch.bind(
@@ -994,135 +984,6 @@ canvas {
 
 
             // =================================================
-            // PESTAÑAS MOVILIZACIONES / TODO
-            // =================================================
-
-            const viewNav =
-                document.createElement(
-                    "div"
-                );
-
-
-            viewNav.className =
-                "view-tabs";
-
-
-            const mobilizationLink =
-                document.createElement(
-                    "a"
-                );
-
-
-            mobilizationLink.href =
-                buildHref(
-                    ACTIVE_COUNTRY,
-                    "mobilization"
-                );
-
-
-            mobilizationLink.textContent =
-                "MOVILIZACIONES";
-
-
-            if (
-                ACTIVE_VIEW
-                === "mobilization"
-            ) {
-
-                mobilizationLink.className =
-                    "active";
-
-            }
-
-
-            const allLink =
-                document.createElement(
-                    "a"
-                );
-
-
-            allLink.href =
-                buildHref(
-                    ACTIVE_COUNTRY,
-                    "all"
-                );
-
-
-            allLink.textContent =
-                "TODO";
-
-
-            if (
-                ACTIVE_VIEW
-                === "all"
-            ) {
-
-                allLink.className =
-                    "active";
-
-            }
-
-
-            viewNav.appendChild(
-                mobilizationLink
-            );
-
-
-            viewNav.appendChild(
-                allLink
-            );
-
-
-            countryNav.insertAdjacentElement(
-                "afterend",
-                viewNav
-            );
-
-
-            // =================================================
-            // NOTA
-            // =================================================
-
-            const note =
-                document.createElement(
-                    "div"
-                );
-
-
-            note.className =
-                "dashboard-view-note";
-
-
-            if (
-                ACTIVE_VIEW
-                === "mobilization"
-            ) {
-
-                note.textContent =
-                    "Vista filtrada de movilizaciones probables. "
-                    + "Se excluye ruido periodístico y de engagement "
-                    + "del ranking de hashtags. Los datos originales "
-                    + "permanecen disponibles en TODO.";
-
-            }
-
-            else {
-
-                note.textContent =
-                    "Vista completa sin filtro de relevancia. "
-                    + "Incluye todas las publicaciones y hashtags "
-                    + "recogidos por el monitor.";
-
-            }
-
-
-            viewNav.insertAdjacentElement(
-                "afterend",
-                note
-            );
-
-
-            // =================================================
             // TITLE
             // =================================================
 
@@ -1135,15 +996,7 @@ canvas {
                 || "GENERAL";
 
 
-            document.title =
-                "TikTok Hashtag Monitor - "
-                + countryLabel
-                + (
-                    ACTIVE_VIEW
-                    === "mobilization"
-                    ? " - Movilizaciones"
-                    : " - Todo"
-                );
+            document.title = "TikTok Hashtag Monitor - " + countryLabel;
 
         }
     );
@@ -2533,6 +2386,11 @@ function renderDates(
         document.getElementById(
             "dates"
         );
+
+    if (!tbody) {
+        return;
+    }
+
 
     tbody.innerHTML = "";
 

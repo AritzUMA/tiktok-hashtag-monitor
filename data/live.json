@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T01:07:24.801688+00:00",
+  "generated_at": "2026-11-16T01:11:22.006234+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36618,
-    "published_24h": 363,
+    "total_unique_videos": 36620,
+    "published_24h": 364,
     "published_48h": 885,
-    "discovered_24h": 787,
-    "discovered_48h": 1620
+    "discovered_24h": 782,
+    "discovered_48h": 1621
   },
   "analysis": {
-    "embeddings_total": 36618,
+    "embeddings_total": 36620,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 363
+    "qwen_pending_24h": 364
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 104,
-    "OTHER": 134,
     "FR": 57,
+    "DE": 105,
+    "OTHER": 134,
     "ES": 65,
-    "IT": 1,
-    "MULTI": 2
+    "MULTI": 2,
+    "IT": 1
   },
   "links": {
     "qr_videos": 0,
@@ -1435,6 +1435,23 @@
       "published_at": "2026-11-15T16:07:24+00:00",
       "description": "🚆 Un tren de mercancías ha descarrilado en la madrugada de este domingo en la vía que une Madrid y Ávila, a la altura de Zarzalejo. El maquinista ha resultado herido leve y ha sido trasladado al hospital Puerta de Hierro por dolores en la espalda. Su estado no reviste gravedad. #Zarzalejo #Madrid #Ávila #Tren #Emergencias",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708430501815618848",
+      "username": "adimadimalmanya1",
+      "url": "https://www.tiktok.com/@adimadimalmanya1/video/7708430501815618848",
+      "published_at": "2026-11-15T16:07:20+00:00",
+      "description": "🇩🇪 BERLİN’DE 8 YAŞINDAKİ KIZ ÇOCUĞUNUN ÖLÜMÜYLE SONUÇLANAN KORKUNÇ KAZA! Almanya’nın başkenti Berlin’in Tiergarten semtinde 14 Kasım Cumartesi günü meydana gelen kazada 8 yaşındaki bir kız çocuğu hayatını kaybetti. Küçük kız, annesiyle birlikte Potsdamer Straße üzerinde bisiklet sürüyordu. Anne ve kızı, Lützowstraße kavşağında trafik ışıklarında bekliyordu. Işık yeşile döndüğünde anne ve kızı bisikletleriyle hareket etti. Yanlarında bekleyen BVG otobüsü de aynı anda ilerlemeye başladı. Polisin ilk tespitlerine göre küçük kız bisikletinin kontrolünü kaybederek otobüsle çarpıştı. Otobüsün altında kalan 8 yaşındaki çocuk olay yerinde hayatını kaybetti. Annesi ise şok geçirdi. OTOBÜS ŞOFÖRÜ 10 DURAK BOYUNCA YOLUNA DEVAM ETTİ! 55 yaşındaki otobüs şoförü kazanın ardından yoluna devam etti. RTL’nin haberine göre otobüs yaklaşık 4 kilometre ilerledi. Polis, aracı Saarstraße üzerindeki Kaisereiche durağında durdurdu. Şoförün kazayı fark edip etmediği henüz bilinmiyor. Olayla ilgili soruşturma devam ediyor. Küçük kızın ölümüne neden olan kazanın kesin koşulları araştırılıyor. Allah’tan hayatını kaybeden küçük kıza rahmet, ailesine ve yakınlarına sabır diliyoruz. ❤️ #Almanya #Berlin #BVG #Avrupa #Gündem",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4540,11 +4557,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "video_id": "7708252645034577174",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4557,11 +4574,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4914,11 +4931,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -4931,11 +4948,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,

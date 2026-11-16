@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T08:39:44.225047+00:00",
+  "generated_at": "2026-11-16T08:43:32.677467+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36821,
-    "published_24h": 398,
-    "published_48h": 961,
-    "discovered_24h": 787,
-    "discovered_48h": 1634
+    "total_unique_videos": 36823,
+    "published_24h": 399,
+    "published_48h": 962,
+    "discovered_24h": 789,
+    "discovered_48h": 1635
   },
   "analysis": {
-    "embeddings_total": 36821,
+    "embeddings_total": 36823,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 398
+    "qwen_pending_24h": 399
   },
   "mobilization": {
     "yes": 0,
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 162,
-    "DE": 94,
-    "ES": 83,
     "FR": 54,
+    "OTHER": 163,
+    "ES": 83,
+    "DE": 94,
     "MULTI": 4,
     "IT": 1
   },
@@ -766,12 +766,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -783,12 +783,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3186,6 +3186,23 @@
       "published_at": "2026-11-15T16:14:20+00:00",
       "description": "Verlobungsfeier in Berlin eskaliert: Massenschlägerei mit 20 bis 30 Beteiligten – acht Verletzte! #Berlin #Wilhelmsruh #Pankow #Verlobungsfeier #Deutschland #Nachrichten #Blaulicht",
       "country": "DE",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708431784102432032",
+      "username": "dias.grgory",
+      "url": "https://www.tiktok.com/@dias.grgory/video/7708431784102432032",
+      "published_at": "2026-11-15T16:12:20+00:00",
+      "description": "📬 La mobilisation continue sur le terrain ! 🇫🇷 Aujourd’hui, nos militants se sont mobilisés et ont arpenté les communes de Lachapelle-Sous-Rougemont, Leval et Petitefontaine à l’occasion d’une distribution de tracts dans les boîtes aux lettres. Un engagement de terrain, au plus près des habitants de nos communes rurales. 👏 Un grand merci à tous nos militants pour leur disponibilité, leur énergie et leur investissement ! La mobilisation se poursuit ! Avec Marine Le Pen pour #larenaissance  #lachapellesousrougemont #leval #petitefontaine #rassemblementnational",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T14:57:30.272835+00:00",
+  "generated_at": "2026-11-16T15:01:01.100358+00:00",
   "window_hours": 24,
   "capture": {
     "total_unique_videos": 37049,
-    "published_24h": 379,
-    "published_48h": 956,
-    "discovered_24h": 804,
+    "published_24h": 378,
+    "published_48h": 953,
+    "discovered_24h": 801,
     "discovered_48h": 1675
   },
   "analysis": {
     "embeddings_total": 37049,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 379
+    "qwen_pending_24h": 378
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "FR": 50,
     "OTHER": 141,
     "ES": 73,
-    "DE": 102,
-    "MULTI": 4,
-    "IT": 9
+    "FR": 50,
+    "DE": 101,
+    "IT": 9,
+    "MULTI": 4
   },
   "links": {
     "qr_videos": 0,
@@ -2432,12 +2432,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708565381740383510",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
+      "video_id": "7708561086773038358",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
-      "country": "OTHER",
+      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2449,12 +2449,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708561086773038358",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
+      "video_id": "7708565381740383510",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
-      "country": "FR",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -6450,23 +6450,6 @@
       "published_at": "2026-11-15T15:01:56+00:00",
       "description": "",
       "country": "OTHER",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708413201116908832",
-      "username": "benji_schulze",
-      "url": "https://www.tiktok.com/@benji_schulze/video/7708413201116908832",
-      "published_at": "2026-11-15T15:00:12+00:00",
-      "description": "Es ist mit Abstand das schwierigste Video das ich je aufgenommen habe . Sie hat ja auch recht . Doch leider funktioniert die Realität nicht so . Bin auf eure Kommentare gespannt. #deutschland #genz #freiemeinung",
-      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

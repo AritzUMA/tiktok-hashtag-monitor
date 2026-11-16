@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T15:05:34.908962+00:00",
+  "generated_at": "2026-11-16T15:09:03.908435+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 37054,
-    "published_24h": 379,
-    "published_48h": 957,
-    "discovered_24h": 804,
-    "discovered_48h": 1677
+    "total_unique_videos": 37055,
+    "published_24h": 380,
+    "published_48h": 958,
+    "discovered_24h": 803,
+    "discovered_48h": 1671
   },
   "analysis": {
-    "embeddings_total": 37054,
+    "embeddings_total": 37055,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 379
+    "qwen_pending_24h": 380
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "ES": 73,
-    "DE": 100,
     "OTHER": 143,
+    "ES": 73,
+    "DE": 101,
+    "IT": 9,
     "FR": 50,
-    "MULTI": 4,
-    "IT": 9
+    "MULTI": 4
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@free.deutschland/video/7708770288564981024",
       "published_at": "2026-11-16T14:05:53+00:00",
       "description": "🐿️ Gen-Z Regelt ~Stuttgart #deutschland #afd #stuttgart #protest #generationz",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -211,6 +211,23 @@
       "published_at": "2026-11-16T13:10:34+00:00",
       "description": "🚒 Los bomberos forestales de Aragón se han concentrado este lunes ante la sede del PP en Zaragoza para denunciar el incumplimiento de los acuerdos alcanzados con el Gobierno autonómico y su intención, según los sindicatos, de renegociarlos a la baja. 📣 OSTA, CGT, CC. OO. y UGT reclaman mantener lo pactado en septiembre: eliminar la bolsa de horas, contratar al menos a 215 efectivos, aplicar una subida salarial del 10% y abonar 500 euros por la campaña excepcional de este verano. También denuncian jornadas de más de 20 horas y problemas para garantizar los descansos. 🤝 Este lunes, una representación del comité de huelga ha acudido a una reunión con el Departamento de Medio Ambiente. El miércoles habrá un nuevo intento de mediación en el SAMA y, si no se producen avances, los trabajadores han convocado una manifestación para el sábado. 💬 ¿Crees que el Gobierno de Aragón debería mantener íntegramente el acuerdo alcanzado con los bomberos forestales? 📷 Miguel Ángel Gracia",
       "country": "ES",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708754308082208033",
+      "username": "gilets_jaunes_coordo_nat",
+      "url": "https://www.tiktok.com/@gilets_jaunes_coordo_nat/video/7708754308082208033",
+      "published_at": "2026-11-16T13:03:35+00:00",
+      "description": "🦺 APPEL À LA GRÈVE DU 20 NOVEMBRE ! L'assemblée générale de Montpellier appelle toutes les assemblées générales, tous les syndicats et organisations politiques à suivre cette journée internationale de grève. Cette date peut être un point de départ pour faire converger les luttes de tous les pays, pousser encore plus loin l'échelle du mouvement, et durcir le rapport de force ! Parlez-en dans vos assemblées, mobilisez autour de vous et rejoignez la grève dans la rue ce vendredi 20 novembre ! Faites nous savoir dans les commentaires si votre ag soutien cet appel à la grève internationale ⬇️ #GiletsJaunes #ConvergenceDesLuttes",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1735,12 +1752,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677721395580192",
-      "username": "cgt.ville.de.lyon",
-      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
+      "video_id": "7708677764961799446",
+      "username": "lamiradacritica",
+      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
-      "country": "FR",
+      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1752,12 +1769,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677764961799446",
-      "username": "lamiradacritica",
-      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
+      "video_id": "7708677721395580192",
+      "username": "cgt.ville.de.lyon",
+      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
-      "country": "ES",
+      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5424,12 +5441,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708447255879044385",
-      "username": "blackshark_tiktok",
-      "url": "https://www.tiktok.com/@blackshark_tiktok/video/7708447255879044385",
+      "video_id": "7708447265945292065",
+      "username": "albaagdiazz",
+      "url": "https://www.tiktok.com/@albaagdiazz/video/7708447265945292065",
       "published_at": "2026-11-15T17:12:21+00:00",
-      "description": "",
-      "country": "OTHER",
+      "description": "#valencia #trabajo",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5441,12 +5458,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708447265945292065",
-      "username": "albaagdiazz",
-      "url": "https://www.tiktok.com/@albaagdiazz/video/7708447265945292065",
+      "video_id": "7708447255879044385",
+      "username": "blackshark_tiktok",
+      "url": "https://www.tiktok.com/@blackshark_tiktok/video/7708447255879044385",
       "published_at": "2026-11-15T17:12:21+00:00",
-      "description": "#valencia #trabajo",
-      "country": "ES",
+      "description": "",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

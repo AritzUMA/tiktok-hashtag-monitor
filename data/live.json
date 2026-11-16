@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16T03:37:10.270292+00:00",
+  "generated_at": "2026-11-16T03:41:12.103122+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36681,
+    "total_unique_videos": 36682,
     "published_24h": 381,
-    "published_48h": 908,
-    "discovered_24h": 781,
+    "published_48h": 909,
+    "discovered_24h": 782,
     "discovered_48h": 1634
   },
   "analysis": {
-    "embeddings_total": 36681,
+    "embeddings_total": 36682,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
     "qwen_pending_24h": 381
@@ -21,10 +21,10 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 139,
-    "ES": 73,
+    "OTHER": 138,
     "DE": 106,
-    "FR": 59,
+    "FR": 60,
+    "ES": 73,
     "MULTI": 3,
     "IT": 1
   },
@@ -550,7 +550,7 @@
       "url": "https://www.tiktok.com/@lfi_evreux2/video/7708508174055230752",
       "published_at": "2026-11-15T21:08:47+00:00",
       "description": "Mardi 17 Nov Grève Générale et Manif. RDV à 14h00 près du Bel Ebat à Evreux.  #manif #greve #Evreux #melenchon2027 #lfi @Jean-Luc Mélenchon  @LFI Vernon  @La France Insoumise de l'Eure",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3367,6 +3367,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708374429142748448",
+      "username": "loiclangullon6",
+      "url": "https://www.tiktok.com/@loiclangullon6/video/7708374429142748448",
+      "published_at": "2026-11-15T12:29:44+00:00",
+      "description": "",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708374069040680224",
       "username": "javon.fischer",
       "url": "https://www.tiktok.com/@javon.fischer/video/7708374069040680224",
@@ -5458,11 +5475,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307187382095136",
-      "username": "rote_clips",
-      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
+      "video_id": "7708307184831958280",
+      "username": "blinxnews",
+      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
+      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -5475,11 +5492,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708307184831958280",
-      "username": "blinxnews",
-      "url": "https://www.tiktok.com/@blinxnews/video/7708307184831958280",
+      "video_id": "7708307187382095136",
+      "username": "rote_clips",
+      "url": "https://www.tiktok.com/@rote_clips/video/7708307187382095136",
       "published_at": "2026-11-15T08:08:54+00:00",
-      "description": "مراهقون يشعلون برلين ويشتبكون مع شرطتها… ما الذي فجّر غضب Gen Z الألماني؟ #ألمانيا #GenZ #احتجاجات #احتجاجات_الشباب #الشرطة_الألمانية",
+      "description": "Jean Philippe Kindler über die Gen Z regelt Jugend Schülerproteste. Ist der Staat dein Freund? Geheimdienstreform und Abschaffung des IFG bei ZDF die Anstalt #links #genzregelt #gesellschaft #kritik #dieanstalt",
       "country": "DE",
       "country_method": "rules",
       "mobilization": null,
@@ -6484,23 +6501,6 @@
       "published_at": "2026-11-15T03:41:34+00:00",
       "description": "💢 Police intervene as thousands rally in Berlin amid wave of student protests across Europe 📹 Footage shows confrontations between protesters and police during rally over living costs, military spending and conscription concerns #berlin #europe #anadolu #anadoluagency",
       "country": "DE",
-      "country_method": "rules",
-      "mobilization": null,
-      "mobilization_confidence": null,
-      "role": null,
-      "qwen_country": null,
-      "qwen_country_confidence": null,
-      "has_qr": false,
-      "has_telegram": false,
-      "has_whatsapp": false
-    },
-    {
-      "video_id": "7708237896750353682",
-      "username": "almashhadmedia",
-      "url": "https://www.tiktok.com/@almashhadmedia/video/7708237896750353682",
-      "published_at": "2026-11-15T03:39:44+00:00",
-      "description": "احتجاجات شبابية تشعل التوتر في شوارع ألمانيا #اخبار_المشهد",
-      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

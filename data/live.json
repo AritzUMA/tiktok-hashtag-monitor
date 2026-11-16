@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T22:50:10.759107+00:00",
+  "generated_at": "2026-11-16T22:54:11.182701+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 37328,
-    "published_24h": 339,
+    "total_unique_videos": 37330,
+    "published_24h": 341,
     "published_48h": 874,
     "discovered_24h": 798,
-    "discovered_48h": 1576
+    "discovered_48h": 1577
   },
   "analysis": {
-    "embeddings_total": 37328,
+    "embeddings_total": 37329,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 339
+    "qwen_pending_24h": 341
   },
   "mobilization": {
     "yes": 0,
@@ -21,11 +21,11 @@
   },
   "roles": {},
   "countries": {
-    "DE": 89,
-    "OTHER": 123,
-    "IT": 18,
-    "ES": 52,
     "FR": 50,
+    "OTHER": 125,
+    "ES": 52,
+    "IT": 18,
+    "DE": 89,
     "MULTI": 7
   },
   "links": {
@@ -279,6 +279,23 @@
       "published_at": "2026-11-16T19:00:16+00:00",
       "description": "Demain, mardi 17 novembre, 17 stations de métro et de RER fermées à Paris dès 11 h 🚇 À la demande de la préfecture de police, pour la manifestation intersyndicale : départ place de la Nation à 14 h, arrivée place d'Italie, 40 000 à 80 000 personnes attendues. Fermées : Reuilly-Diderot, Quai de la Rapée, Gare d'Austerlitz, Saint-Marcel, Campo-Formio, et autour des Champs-Élysées, de la Concorde et de l'Assemblée nationale. Ligne 6 coupée entre Étoile et Kléber, ligne 10 entre Austerlitz et Jussieu, 6 accès fermés à Gare de Lyon. Nation et Place d'Italie restent ouvertes. Trains : RER A, B, C, E normaux ; 2 trains sur 3 sur une partie du RER D et sur les lignes J, N et R. Le détail des rues du cortège n'est pas encore publié. Tu passes par une de ces stations demain ? 👇 Sources : RATP et Transilien (16/11), BFMTV, franceinfo, sortiraparis, intersyndicale Île-de-France. Carte : BD TOPO IGN. 3D : illustration. #manif #greve17novembre #metro #ratp #paris #rer #greve #actu #info #vudenhaut",
       "country": "MULTI",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708843336630635808",
+      "username": "lereporterindependant",
+      "url": "https://www.tiktok.com/@lereporterindependant/video/7708843336630635808",
+      "published_at": "2026-11-16T18:49:20+00:00",
+      "description": "💢 PARIS : arrivée de la BRAV-M, caillassages et grenades de désencerclement ! 🔹 Samedi 14 novembre, les tensions se poursuivent dans une rue perpendiculaire au boulevard Diderot, où des unités de la BRAV-M arrivent en renfort des CRS déjà présents. ▪️ Plusieurs manifestants lancent des projectiles en direction des forces de l’ordre. En réponse, les policiers font usage de grenades de désencerclement pour tenter de disperser les groupes présents. ▪️ La séquence montre une nouvelle escalade des affrontements dans ce secteur. nathanscemama_filmmaker pour Le reporter indépendant #Paris #14Novembre #BRAVM #CRS #Manifestation   Accès à nos réseaux et publications 👇 https://linktr.ee/lereporterin.dependant",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1293,11 +1310,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708792972141202695",
-      "username": "guayanainfo",
-      "url": "https://www.tiktok.com/@guayanainfo/video/7708792972141202695",
+      "video_id": "7708792977719643414",
+      "username": "she.is.aisa",
+      "url": "https://www.tiktok.com/@she.is.aisa/video/7708792977719643414",
       "published_at": "2026-11-16T15:33:56+00:00",
-      "description": "@rafaeljramirezg Barricada puesta por la CVG para bloquear el paso de los manifestantes hacia el edificio de la corporación, en Puerto Ordaz, estado Bolívar, es reubicada por los trabajadores en la avenida Guayana. El paso por la avenida Guayana está cerrado. Trabajadores de la salud, educación y empresas básicas se concentran en el edificio del holding.",
+      "description": "#aisa #genz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -1310,11 +1327,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708792977719643414",
-      "username": "she.is.aisa",
-      "url": "https://www.tiktok.com/@she.is.aisa/video/7708792977719643414",
+      "video_id": "7708792972141202695",
+      "username": "guayanainfo",
+      "url": "https://www.tiktok.com/@guayanainfo/video/7708792972141202695",
       "published_at": "2026-11-16T15:33:56+00:00",
-      "description": "#aisa #genz",
+      "description": "@rafaeljramirezg Barricada puesta por la CVG para bloquear el paso de los manifestantes hacia el edificio de la corporación, en Puerto Ordaz, estado Bolívar, es reubicada por los trabajadores en la avenida Guayana. El paso por la avenida Guayana está cerrado. Trabajadores de la salud, educación y empresas básicas se concentran en el edificio del holding.",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3826,6 +3843,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708692535471918358",
+      "username": "ig.metall.muenster",
+      "url": "https://www.tiktok.com/@ig.metall.muenster/video/7708692535471918358",
+      "published_at": "2026-11-16T09:03:57+00:00",
+      "description": "Tarifrunde Metall und Elektro: Letztes Mal 7 %, jetzt 5 % für zwölf Monate – eine Forderung mit Augenmaß. Die Arbeitgeber bieten 1,3 % erst ab Juli 2028. Wie läuft es bei dir im Betrieb? #IGMetall #Tarifrunde #Warnstreik #5Prozent",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708692352956632353",
       "username": "lereporterindependant",
       "url": "https://www.tiktok.com/@lereporterindependant/video/7708692352956632353",
@@ -4166,12 +4200,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677721395580192",
-      "username": "cgt.ville.de.lyon",
-      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
+      "video_id": "7708677764961799446",
+      "username": "lamiradacritica",
+      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
-      "country": "FR",
+      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4183,12 +4217,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677764961799446",
-      "username": "lamiradacritica",
-      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
+      "video_id": "7708677721395580192",
+      "username": "cgt.ville.de.lyon",
+      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
-      "country": "ES",
+      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -4999,12 +5033,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708565381740383510",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
+      "video_id": "7708561086773038358",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
-      "country": "OTHER",
+      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5016,12 +5050,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708561086773038358",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708561086773038358",
+      "video_id": "7708565381740383510",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708565381740383510",
       "published_at": "2026-11-16T05:00:00+00:00",
-      "description": "🚨 LYCÉE FERMÉ : 3 000 ÉLÈVES PASSENT AUX COURS À DISTANCE ! Un lycée de 3 000 élèves fermé à Rennes après d'importantes dégradations. Les cours se déroulent à distance du 16 au 20 novembre. La mobilisation lycéenne provoque de nouvelles tensions dans plusieurs établissements français. Qu'en pensez-vous ? #Lycee #Blocage #EducationNationale #France #Actu",
-      "country": "FR",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : TRAINS, ÉCOLES… CE QUI VOUS ATTEND DEMAIN ! Grève nationale ce mardi 17 novembre 2026 ! Fonctionnaires, cheminots et personnels de plusieurs secteurs sont appelés à la mobilisation. Trains, écoles, administrations : quelles perturbations faut-il prévoir ? Vérifiez les informations locales avant de vous déplacer. #Greve17Novembre #GreveFrance #Transports #FonctionPublique #Actu",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5594,12 +5628,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -5611,12 +5645,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

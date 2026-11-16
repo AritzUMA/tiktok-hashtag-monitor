@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T10:46:04.650095+00:00",
+  "generated_at": "2026-11-16T10:49:42.919172+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36890,
-    "published_24h": 385,
-    "published_48h": 968,
-    "discovered_24h": 801,
-    "discovered_48h": 1640
+    "total_unique_videos": 36891,
+    "published_24h": 386,
+    "published_48h": 969,
+    "discovered_24h": 800,
+    "discovered_48h": 1638
   },
   "analysis": {
-    "embeddings_total": 36890,
+    "embeddings_total": 36891,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 385
+    "qwen_pending_24h": 386
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "DE": 95,
-    "FR": 48,
+    "DE": 96,
+    "IT": 1,
+    "OTHER": 156,
+    "FR": 49,
     "ES": 80,
-    "OTHER": 157,
-    "MULTI": 4,
-    "IT": 1
+    "MULTI": 4
   },
   "links": {
     "qr_videos": 0,
@@ -40,7 +40,7 @@
       "url": "https://www.tiktok.com/@ninon.ia/video/7708714352626371872",
       "published_at": "2026-11-16T10:28:48+00:00",
       "description": "IA et surveillance en France. Partenariat avec Amnesty 🙏🏻",
-      "country": "OTHER",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -125,7 +125,7 @@
       "url": "https://www.tiktok.com/@ehjc76/video/7708695622408244513",
       "published_at": "2026-11-16T09:16:11+00:00",
       "description": "#genzregelt #demonstration #protest #franfurt #fürdich",
-      "country": "OTHER",
+      "country": "DE",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -375,12 +375,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677721395580192",
-      "username": "cgt.ville.de.lyon",
-      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
+      "video_id": "7708677764961799446",
+      "username": "lamiradacritica",
+      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
-      "country": "FR",
+      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -392,12 +392,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708677764961799446",
-      "username": "lamiradacritica",
-      "url": "https://www.tiktok.com/@lamiradacritica/video/7708677764961799446",
+      "video_id": "7708677721395580192",
+      "username": "cgt.ville.de.lyon",
+      "url": "https://www.tiktok.com/@cgt.ville.de.lyon/video/7708677721395580192",
       "published_at": "2026-11-16T08:06:53+00:00",
-      "description": "Un tren de mercancías ha descarrilado en Zarzalejo (Madrid) tras un desprendimiento de tierra sobre las vías.  El maquinista ha resultado herido leve y el accidente mantiene interrumpida la circulación entre Madrid y Ávila.  #tren #circulación #Madrid",
-      "country": "ES",
+      "description": "La CGT Ville de Lyon est présente dans tous les services pour vous défendre !  Pour l’amélioration des conditions de travail et de rémunération, du 3 au 10 décembre votons CGT, un syndicat de lutte qui obtient des avancées✌️",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -919,6 +919,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708639295774526742",
+      "username": "cgtcsd63",
+      "url": "https://www.tiktok.com/@cgtcsd63/video/7708639295774526742",
+      "published_at": "2026-11-16T05:37:54+00:00",
+      "description": "#ServicePublic #PuyDeDôme #CGT #manifestation #clermontferrand",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708634980968123655",
       "username": "99lightingjember_",
       "url": "https://www.tiktok.com/@99lightingjember_/video/7708634980968123655",
@@ -1327,12 +1344,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555015480184086",
-      "username": "adryy.hr",
-      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
+      "video_id": "7708555041367526677",
+      "username": "eljose.bb",
+      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
-      "country": "ES",
+      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -1344,12 +1361,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708555041367526677",
-      "username": "eljose.bb",
-      "url": "https://www.tiktok.com/@eljose.bb/video/7708555041367526677",
+      "video_id": "7708555015480184086",
+      "username": "adryy.hr",
+      "url": "https://www.tiktok.com/@adryy.hr/video/7708555015480184086",
       "published_at": "2026-11-16T00:10:42+00:00",
-      "description": "¿Bb cuantos años me pones? 😬 #humor #millenial #genz",
-      "country": "OTHER",
+      "description": "HAGÁMOSLO POSIBLE🔙 #joyvalencia #valencia #ohvalencia #discotecavalencia #fyp",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,

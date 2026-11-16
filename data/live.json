@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T02:23:16.118366+00:00",
+  "generated_at": "2026-11-16T02:27:24.445563+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36651,
-    "published_24h": 373,
-    "published_48h": 895,
-    "discovered_24h": 782,
-    "discovered_48h": 1628
+    "total_unique_videos": 36658,
+    "published_24h": 375,
+    "published_48h": 897,
+    "discovered_24h": 787,
+    "discovered_48h": 1633
   },
   "analysis": {
-    "embeddings_total": 36651,
+    "embeddings_total": 36658,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 373
+    "qwen_pending_24h": 375
   },
   "mobilization": {
     "yes": 0,
@@ -21,12 +21,12 @@
   },
   "roles": {},
   "countries": {
-    "OTHER": 134,
-    "DE": 104,
+    "OTHER": 136,
     "ES": 71,
-    "MULTI": 3,
+    "DE": 104,
     "FR": 60,
-    "IT": 1
+    "IT": 1,
+    "MULTI": 3
   },
   "links": {
     "qr_videos": 0,
@@ -346,6 +346,23 @@
       "url": "https://www.tiktok.com/@tagesschau/video/7708506727469042966",
       "published_at": "2026-11-15T21:30:00+00:00",
       "description": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen. #Prag #Massenprotest #Rundfunkreform #News #tagesschau",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708510160209153302",
+      "username": "jefersondiaz1957",
+      "url": "https://www.tiktok.com/@jefersondiaz1957/video/7708510160209153302",
+      "published_at": "2026-11-15T21:16:29+00:00",
+      "description": "#cali #españa #colombia #valencia @lassotimba",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -2483,12 +2500,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708398000766340374",
-      "username": "cotilleo6972",
-      "url": "https://www.tiktok.com/@cotilleo6972/video/7708398000766340374",
+      "video_id": "7708398004516048160",
+      "username": "sami.ahmadi694",
+      "url": "https://www.tiktok.com/@sami.ahmadi694/video/7708398004516048160",
       "published_at": "2026-11-15T14:01:16+00:00",
-      "description": "Según han indicado a EFE fuentes del servicio de emergencias de la Comunidad de Madrid, el SUMMA 112, el maquinista ha sido atendido por los servicios médicos en torno a las 3.48 horas de este domingo, tras salirse de la vía el tren que conducía.#ultimahora🚨",
-      "country": "ES",
+      "description": "Manifestation du 5 novembre à Lyon [partie 1/3] Aujourd'hui, je vous emmène à la rencontre des Lyonnais qui défilent dans les rues, déterminés à se faire entendre. Merci à tout.e.s d'avoir accepté.e.s de répondre à mes questions. #5novembre  #manifestation",
+      "country": "FR",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -2500,12 +2517,12 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708398004516048160",
-      "username": "sami.ahmadi694",
-      "url": "https://www.tiktok.com/@sami.ahmadi694/video/7708398004516048160",
+      "video_id": "7708398000766340374",
+      "username": "cotilleo6972",
+      "url": "https://www.tiktok.com/@cotilleo6972/video/7708398000766340374",
       "published_at": "2026-11-15T14:01:16+00:00",
-      "description": "Manifestation du 5 novembre à Lyon [partie 1/3] Aujourd'hui, je vous emmène à la rencontre des Lyonnais qui défilent dans les rues, déterminés à se faire entendre. Merci à tout.e.s d'avoir accepté.e.s de répondre à mes questions. #5novembre  #manifestation",
-      "country": "FR",
+      "description": "Según han indicado a EFE fuentes del servicio de emergencias de la Comunidad de Madrid, el SUMMA 112, el maquinista ha sido atendido por los servicios médicos en torno a las 3.48 horas de este domingo, tras salirse de la vía el tren que conducía.#ultimahora🚨",
+      "country": "ES",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
@@ -3333,6 +3350,23 @@
       "has_whatsapp": false
     },
     {
+      "video_id": "7708368425533394209",
+      "username": "sarah_cudia",
+      "url": "https://www.tiktok.com/@sarah_cudia/video/7708368425533394209",
+      "published_at": "2026-11-15T12:06:26+00:00",
+      "description": "Non sappiamo se abbiamo visto tutta Valencia, ma sicuramente abbiamo mangiato e bevuto tutto 🇪🇸🥘🍷 #valencia #spain #spagna #visitvalencia #valència",
+      "country": "OTHER",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
       "video_id": "7708368312043982113",
       "username": "danut.sima",
       "url": "https://www.tiktok.com/@danut.sima/video/7708368312043982113",
@@ -3928,11 +3962,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7706044903192612118",
-      "username": "gtaviradarhq",
-      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
+      "video_id": "7707683883826908438",
+      "username": "marcandfriends",
+      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
+      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -3945,11 +3979,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7707683883826908438",
-      "username": "marcandfriends",
-      "url": "https://www.tiktok.com/@marcandfriends/video/7707683883826908438",
+      "video_id": "7706044903192612118",
+      "username": "gtaviradarhq",
+      "url": "https://www.tiktok.com/@gtaviradarhq/video/7706044903192612118",
       "published_at": "2026-11-15T11:00:00+00:00",
-      "description": "Stickern! Immer Stickern!  Lasst ein follow da für mehr solcher Clips! #politik #161 #polizei #fürdich #marcant #afd #viral #antifascist #demo #genz",
+      "description": "Grand Theft Auto VI : Images sous-marines des Leonida Keys 🤿 Rockstar a ouvert sa galerie de lancement le 5 novembre avec 39 nouvelles captures, et PC Gamer en a détaillé le contenu. 🌊 Parmi elles, des scènes sous-marines dans les Leonida Keys et des hommes armés sur un bateau des marais. 🔎 Aucun détail sur la plongée ou l'exploration n'est confirmé pour l'instant. #gta6 #gtavi #rockstar",
       "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
@@ -4829,11 +4863,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708259721760820502",
-      "username": "blocus_actu",
-      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
+      "video_id": "7708252645034577174",
+      "username": "actufranceexpress",
+      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
+      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,
@@ -4846,11 +4880,11 @@
       "has_whatsapp": false
     },
     {
-      "video_id": "7708252645034577174",
-      "username": "actufranceexpress",
-      "url": "https://www.tiktok.com/@actufranceexpress/video/7708252645034577174",
+      "video_id": "7708259721760820502",
+      "username": "blocus_actu",
+      "url": "https://www.tiktok.com/@blocus_actu/video/7708259721760820502",
       "published_at": "2026-11-15T09:00:00+00:00",
-      "description": "🚨 GRÈVE DU 17 NOVEMBRE : LES FONCTIONNAIRES PASSENT À L'ACTION ! Grève nationale du mardi 17 novembre 2026 : plusieurs syndicats appellent les fonctionnaires à manifester pour réclamer des augmentations de salaire et le dégel du point d'indice. La CFDT rejoint également la mobilisation après l'échec des discussions avec Sébastien Lecornu. Écoles, hôpitaux, administrations : quels services pourraient être perturbés ? #Greve17Novembre #FonctionPublique #Fonctionnaires #France #ActuFrance",
+      "description": "🚨 Manifestations en France : 219 interpellations et 10 policiers blessés ! Le bilan de l'acte V des manifestations du 14 novembre 2026 est tombé : 219 interpellations, 10 policiers légèrement blessés et des incidents dans plusieurs villes françaises. Un acte VI est déjà annoncé. La mobilisation va-t-elle continuer ? #Manifestation #France #ActeV #ActualiteFrance #ActeVI",
       "country": "FR",
       "country_method": "rules",
       "mobilization": null,

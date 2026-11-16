@@ -1,38 +1,6 @@
 {
   "FR": [
     {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {
-        "manifestation": 19,
-        "france": 17,
-        "paris": 15,
-        "mobilisation": 7,
-        "blocus": 7,
-        "fyp": 5,
-        "lfi": 4,
-        "police": 4,
-        "actualité": 4,
-        "17novembre": 4
-      }
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {
-        "manifestation": 19,
-        "france": 17,
-        "paris": 15,
-        "blocus": 7,
-        "mobilisation": 7,
-        "fyp": 5,
-        "lfi": 4,
-        "actualité": 4,
-        "police": 4,
-        "cgt": 4
-      }
-    },
-    {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
       "hashtags": {
@@ -3199,41 +3167,41 @@
         "cgt": 4,
         "actualite": 4
       }
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {
+        "manifestation": 13,
+        "blocus": 10,
+        "france": 8,
+        "paris": 6,
+        "fyp": 6,
+        "mobilisation": 5,
+        "sinformersurtiktok": 5,
+        "cgt": 4,
+        "actualite": 4,
+        "actu": 4
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {
+        "manifestation": 13,
+        "blocus": 10,
+        "france": 8,
+        "paris": 6,
+        "sinformersurtiktok": 6,
+        "fyp": 6,
+        "mobilisation": 5,
+        "actu": 4,
+        "cgt": 4,
+        "actualite": 4
+      }
     }
   ],
   "DE": [
-    {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {
-        "berlin": 60,
-        "deutschland": 35,
-        "genzregelt": 33,
-        "genz": 25,
-        "protest": 24,
-        "demonstration": 22,
-        "demo": 21,
-        "nachrichten": 11,
-        "politik": 8,
-        "polizei": 7
-      }
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {
-        "berlin": 60,
-        "deutschland": 35,
-        "genzregelt": 33,
-        "genz": 25,
-        "protest": 24,
-        "demonstration": 22,
-        "demo": 21,
-        "nachrichten": 11,
-        "politik": 8,
-        "polizei": 7
-      }
-    },
     {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
@@ -6401,41 +6369,41 @@
         "fürdich": 8,
         "germany": 7
       }
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {
+        "berlin": 49,
+        "protest": 29,
+        "deutschland": 28,
+        "demonstration": 24,
+        "politik": 20,
+        "genz": 15,
+        "genzregelt": 9,
+        "nachrichten": 9,
+        "fürdich": 8,
+        "germany": 7
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {
+        "berlin": 49,
+        "protest": 29,
+        "deutschland": 28,
+        "demonstration": 24,
+        "politik": 20,
+        "genz": 15,
+        "genzregelt": 9,
+        "nachrichten": 9,
+        "fürdich": 8,
+        "germany": 7
+      }
     }
   ],
   "ES": [
-    {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {
-        "valencia": 44,
-        "españa": 21,
-        "fyp": 9,
-        "tren": 9,
-        "madrid": 8,
-        "viral": 7,
-        "parati": 7,
-        "spain": 5,
-        "noticias": 3,
-        "ultimahora": 3
-      }
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {
-        "valencia": 44,
-        "españa": 21,
-        "tren": 9,
-        "fyp": 9,
-        "madrid": 8,
-        "parati": 7,
-        "viral": 7,
-        "spain": 5,
-        "polemica": 3,
-        "sucesos": 3
-      }
-    },
     {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
@@ -9603,31 +9571,41 @@
         "foryou": 3,
         "explore": 3
       }
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {
+        "valencia": 38,
+        "españa": 15,
+        "fyp": 9,
+        "tren": 8,
+        "madrid": 8,
+        "viral": 7,
+        "explore": 3,
+        "foryou": 3,
+        "accidente": 3,
+        "spain": 3
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {
+        "valencia": 38,
+        "españa": 15,
+        "fyp": 9,
+        "tren": 8,
+        "madrid": 8,
+        "viral": 7,
+        "explore": 3,
+        "foryou": 3,
+        "spain": 3,
+        "accidente": 3
+      }
     }
   ],
   "IT": [
-    {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {
-        "2026": 1,
-        "italie": 1,
-        "antifasciste": 1,
-        "14novembre": 1,
-        "parme": 1
-      }
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {
-        "italie": 1,
-        "2026": 1,
-        "parme": 1,
-        "antifasciste": 1,
-        "14novembre": 1
-      }
-    },
     {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
@@ -12561,19 +12539,41 @@
         "news": 1,
         "cronaca": 1
       }
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {
+        "sciopero": 4,
+        "anm": 2,
+        "francia": 1,
+        "student": 1,
+        "milano": 1,
+        "protest": 1,
+        "manifestation": 1,
+        "5dicembre": 1,
+        "dirittilavoratori": 1,
+        "capcut": 1
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {
+        "sciopero": 4,
+        "anm": 2,
+        "ilmattino": 1,
+        "napoli": 1,
+        "telea": 1,
+        "metropolitana": 1,
+        "scioperogenerale": 1,
+        "protestestudenti": 1,
+        "politica": 1,
+        "fanfaraerivoluzione": 1
+      }
     }
   ],
   "BE": [
-    {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {}
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {}
-    },
     {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
@@ -13563,41 +13563,19 @@
       "updated_at": "2026-11-16T17:35:12+01:00",
       "round_id": "20261116_173419",
       "hashtags": {}
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {}
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {}
     }
   ],
   "OTHER": [
-    {
-      "updated_at": "2026-11-16T03:41:59+01:00",
-      "round_id": "20261116_034137",
-      "hashtags": {
-        "genz": 15,
-        "fyp": 7,
-        "viral": 4,
-        "genzregelt": 3,
-        "demo": 3,
-        "161": 2,
-        "trend": 2,
-        "droite": 2,
-        "gauche": 2,
-        "wapres": 2
-      }
-    },
-    {
-      "updated_at": "2026-11-16T03:45:46+01:00",
-      "round_id": "20261116_034348",
-      "hashtags": {
-        "genz": 15,
-        "fyp": 7,
-        "viral": 4,
-        "genzregelt": 3,
-        "demo": 3,
-        "gibran": 2,
-        "hasyimdjoyohadikusumo": 2,
-        "wapres": 2,
-        "prabowo": 2,
-        "gauche": 2
-      }
-    },
     {
       "updated_at": "2026-11-16T03:50:01+01:00",
       "round_id": "20261116_034841",
@@ -16764,6 +16742,38 @@
         "prague": 3,
         "actu": 3,
         "perte": 3
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:39:16+01:00",
+      "round_id": "20261116_173833",
+      "hashtags": {
+        "fyp": 10,
+        "genz": 10,
+        "demo": 6,
+        "cgt": 5,
+        "protest": 5,
+        "greve": 4,
+        "perte": 3,
+        "news": 3,
+        "manifestation": 3,
+        "viral": 3
+      }
+    },
+    {
+      "updated_at": "2026-11-16T17:42:13+01:00",
+      "round_id": "20261116_174028",
+      "hashtags": {
+        "genz": 10,
+        "fyp": 10,
+        "demo": 6,
+        "protest": 5,
+        "cgt": 5,
+        "greve": 4,
+        "actu": 3,
+        "manifestation": 3,
+        "perte": 3,
+        "viral": 3
       }
     }
   ]

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T00:12:30.084584+00:00",
+  "generated_at": "2026-11-16T00:15:50.833839+00:00",
   "window_hours": 24,
   "capture": {
-    "total_unique_videos": 36592,
-    "published_24h": 368,
-    "published_48h": 882,
-    "discovered_24h": 790,
-    "discovered_48h": 1623
+    "total_unique_videos": 36594,
+    "published_24h": 369,
+    "published_48h": 883,
+    "discovered_24h": 789,
+    "discovered_48h": 1622
   },
   "analysis": {
-    "embeddings_total": 36592,
+    "embeddings_total": 36594,
     "audit_rows_total": 3028,
     "qwen_analysed_24h": 0,
-    "qwen_pending_24h": 368
+    "qwen_pending_24h": 369
   },
   "mobilization": {
     "yes": 0,
@@ -22,9 +22,9 @@
   "roles": {},
   "countries": {
     "FR": 56,
-    "DE": 108,
-    "OTHER": 132,
+    "OTHER": 133,
     "ES": 68,
+    "DE": 108,
     "MULTI": 3,
     "IT": 1
   },
@@ -908,6 +908,23 @@
       "published_at": "2026-11-15T17:45:27+00:00",
       "description": "#blocus #manifestation #droles",
       "country": "FR",
+      "country_method": "rules",
+      "mobilization": null,
+      "mobilization_confidence": null,
+      "role": null,
+      "qwen_country": null,
+      "qwen_country_confidence": null,
+      "has_qr": false,
+      "has_telegram": false,
+      "has_whatsapp": false
+    },
+    {
+      "video_id": "7708455318237252896",
+      "username": "tf1_marseille",
+      "url": "https://www.tiktok.com/@tf1_marseille/video/7708455318237252896",
+      "published_at": "2026-11-15T17:43:38+00:00",
+      "description": "🚬 Plus de 40 tonnes de tabac de contrebande saisies en l’espace d’une semaine seulement, c’est le bilan exceptionnel d’une vaste mobilisation des services de l’État. Des saisies opérées par les douanes qui traquent voitures, bateaux et camions à la recherche de marchandises non déclarées ou vendues hors circuit légal. #actu #tf1 #infos #le13htf1 #douanes",
+      "country": "OTHER",
       "country_method": "rules",
       "mobilization": null,
       "mobilization_confidence": null,
